@@ -1,0 +1,5183 @@
+locationCallback({
+  "PR0000527": {
+    "Id": "PR0000527",
+    "Name": "Lucky #726",
+    "Address": "45 Murchison Dr",
+    "City": "Millbrae",
+    "Zip": "94030",
+    "Lat": 37.596249,
+    "Long": -122.38632,
+    "LastDate": "2017-09-13",
+    "LastResult": 49,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2017-09-13",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2017-05-23",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "13. Food in good condition, safe and unadulterated",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2017-03-28",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "23. No insects, rodents, birds or animals present",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-12-22",
+        "Result": 0,
+        "Reason": "COMPLAINT-INITIAL"
+      },
+      {
+        "Date": "2016-01-20",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "13. Food in good condition, safe and unadulterated",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          },
+          {
+            "Description": "39. Thermometers provided and accurate",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-10-21",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Status": "CO"
+          },
+          {
+            "Description": "23. No insects, rodents, birds or animals present",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-09-02",
+        "Result": 0,
+        "Reason": "COMPLAINT-INITIAL"
+      }
+    ]
+  },
+  "PR0000941": {
+    "Id": "PR0000941",
+    "Name": "AVENUE LIQUOR",
+    "Address": "336 S NORFOLK ST",
+    "City": "SAN MATEO",
+    "Zip": "94401",
+    "Lat": 37.572442,
+    "Long": -122.310663,
+    "LastDate": "2016-06-20",
+    "LastResult": 49,
+    "LastViolations": 3,
+    "Inspections": [
+      {
+        "Date": "2016-06-20",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "15. Food obtained  from approved source",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "32. Food properly labeled \u0026 honestly presented",
+            "Status": "OU"
+          },
+          {
+            "Description": "C5 Impoundment",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-02-12",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      }
+    ]
+  },
+  "PR0001094": {
+    "Id": "PR0001094",
+    "Name": "CHANG PUAK\"WHITE ELEPHANT\"",
+    "Address": "146 HAZELWOOD DR",
+    "City": "SOUTH SAN FRANCISCO",
+    "Zip": "94080",
+    "Lat": 37.642027,
+    "Long": -122.42652,
+    "LastDate": "2017-10-27",
+    "LastResult": 49,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2017-10-27",
+        "Result": 49,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2017-10-18",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "13. Food in good condition, safe and unadulterated",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          },
+          {
+            "Description": "39. Thermometers provided and accurate",
+            "Status": "OU"
+          },
+          {
+            "Description": "40. Wiping cloths; properly used and stored",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2017-02-02",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "09. Proper cooling methods",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "21. Hot and cold water available",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          },
+          {
+            "Description": "39. Thermometers provided and accurate",
+            "Status": "OU"
+          },
+          {
+            "Description": "40. Wiping cloths; properly used and stored",
+            "Status": "OU"
+          },
+          {
+            "Description": "41. Plumbing; fixtures, back flow devices, drainage",
+            "Status": "OU"
+          },
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-12-19",
+        "Result": 0,
+        "Reason": "SURVEY/FIELD STUDY"
+      },
+      {
+        "Date": "2016-05-16",
+        "Result": 0,
+        "Reason": "NO ACTION"
+      },
+      {
+        "Date": "2015-05-05",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks refrigerators)",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "40. Wiping cloths; properly used and stored",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "41. Plumbing; fixtures back flow devices drainage",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-10-24",
+        "Result": 53,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food separated and protected",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food storage; food storage containers identified",
+            "Degree": 1,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-01-09",
+        "Result": 53,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Equipment, utensils and linens: storage and use",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food separated and protected",
+            "Degree": 1,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-08-30",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-08-15",
+        "Result": 54,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Demonstration of knowledge; food mgr certificate",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Floors, walls and ceilings: built, maintained, and",
+            "Status": "OU"
+          },
+          {
+            "Description": "Food in good condition, safe and unadulterated",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "Hands clean and properly washed; gloves used prope",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper eating, tasting, drinking or tobacco use",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-04-04",
+        "Result": 54,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Approved thawing methods used, frozen food",
+            "Status": "OU"
+          },
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Status": "OU"
+          },
+          {
+            "Description": "Floors, walls and ceilings: built, maintained, and",
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Status": "OU"
+          },
+          {
+            "Description": "Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "Hands clean and properly washed; gloves used prope",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper eating, tasting, drinking or tobacco use",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Wiping cloths: properly used and stored",
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0001175": {
+    "Id": "PR0001175",
+    "Name": "KETCH JOANNE \u0026 HARBOR BAR",
+    "Address": "17 JOHNSON PIER",
+    "City": "HALF MOON BAY",
+    "Zip": "94019",
+    "Lat": 37.503364,
+    "Long": -122.481907,
+    "LastDate": "2017-08-15",
+    "LastResult": 49,
+    "LastViolations": 3,
+    "Inspections": [
+      {
+        "Date": "2017-08-15",
+        "Result": 0,
+        "Reason": "PROGRAM STANDARDIZATION/AUDITING"
+      },
+      {
+        "Date": "2017-08-09",
+        "Result": 49,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2017-07-24",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "05. Hands clean and properly washed; proper glove use",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "30. Food storage; food storage containers identified",
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          },
+          {
+            "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
+            "Status": "OU"
+          },
+          {
+            "Description": "43. Toilet facilities: properly constructed, supplied, cleaned",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2017-04-26",
+        "Result": 0,
+        "Reason": "REPORT REVIEW"
+      },
+      {
+        "Date": "2017-02-16",
+        "Result": 0,
+        "Reason": "NO ACTION"
+      },
+      {
+        "Date": "2015-07-02",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "05. Hands clean and properly washed; proper glove use",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "19. Consumer advisory provided",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "21. Hot and cold water available",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "30. Food storage; food storage containers identified",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "39. Thermometers provided and accurate",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "44. Premises; personal/cleaning items; vermin proofing",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "47. Signs posted; last inspection report available",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-04-02",
+        "Result": 0,
+        "Reason": "LICENSE/PERMIT INVESTIGATION"
+      },
+      {
+        "Date": "2014-03-12",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2014-03-11",
+        "Result": 0,
+        "Reason": "CAMPY INTERVIEW"
+      },
+      {
+        "Date": "2013-11-06",
+        "Result": 0,
+        "Reason": "CAMPY FACILITY ASSESSMENT"
+      },
+      {
+        "Date": "2013-10-29",
+        "Result": 0,
+        "Reason": "CAMPY INTERVIEW"
+      },
+      {
+        "Date": "2013-04-17",
+        "Result": 0,
+        "Reason": "INVESTIGATION"
+      },
+      {
+        "Date": "2013-02-13",
+        "Result": 0,
+        "Reason": "COMPLAINT-INITIAL"
+      },
+      {
+        "Date": "2013-01-15",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0001256": {
+    "Id": "PR0001256",
+    "Name": "PLAZA GOURMET",
+    "Address": "929 EDGEWATER BLVD C",
+    "City": "FOSTER CITY",
+    "Zip": "94404",
+    "Lat": 37.545136,
+    "Long": -122.271865,
+    "LastDate": "2017-04-05",
+    "LastResult": 49,
+    "LastViolations": 1,
+    "Inspections": [
+      {
+        "Date": "2017-04-05",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-09-15",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 3,
+            "Status": "OU"
+          },
+          {
+            "Description": "Nonfood-contact surfaces clean",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Wiping cloths: properly used and stored",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-07-16",
+        "Result": 51,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Floors, walls and ceilings: built, maintained, and",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Nonfood-contact surfaces clean",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-03-26",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Floors, walls and ceilings: built, maintained, and",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Nonfood-contact surfaces clean",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0001300": {
+    "Id": "PR0001300",
+    "Name": "SHARI",
+    "Address": "2010 ROLLINGWOOD DR",
+    "City": "SAN BRUNO",
+    "Zip": "94066",
+    "Lat": 37.630384,
+    "Long": -122.437029,
+    "LastDate": "2017-06-27",
+    "LastResult": 49,
+    "LastViolations": 3,
+    "Inspections": [
+      {
+        "Date": "2017-06-27",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "14. Food contact surfaces: clean and sanitized",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-06-07",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "13. Food in good condition, safe and unadulterated",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "14. Food contact surfaces: clean and sanitized",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-06-17",
+        "Result": 0,
+        "Reason": "FOLLOWUP"
+      },
+      {
+        "Date": "2015-06-09",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Status": "CO"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "47. Signs posted; last inspection report available",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-06-02",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Status": "CO"
+          },
+          {
+            "Description": "13. Food in good condition, safe and unadulterated",
+            "Status": "CO"
+          },
+          {
+            "Description": "14. Food contact surfaces: clean and sanitized",
+            "Status": "CO"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "39. Thermometers provided and accurate",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "44. Premises; personal/cleaning items; vermin proofing",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "47. Signs posted; last inspection report available",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-05-15",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Floors, walls and ceilings: built, maintained, and",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-05-06",
+        "Result": 53,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Status": "CO"
+          },
+          {
+            "Description": "VOLUNTARY CONDEMNATION AND DESTRUCTION",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-05-31",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2013-05-17",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-05-10",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-05-07",
+        "Result": 0,
+        "Reason": "COMPLAINT-FOLLOW-UP",
+        "Violations": [
+          {
+            "Description": "Demonstration of knowledge; food mgr certificate",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Degree": 3,
+            "Status": "OU"
+          },
+          {
+            "Description": "Thermometers provided and accurate",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "VOLUNTARY CONDEMNATION AND DESTRUCTION",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Wiping cloths: properly used and stored",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-05-02",
+        "Result": 0,
+        "Reason": "REPORT REVIEW"
+      }
+    ]
+  },
+  "PR0001337": {
+    "Id": "PR0001337",
+    "Name": "El Chaparral Taqueria",
+    "Address": "223 Grand Ave",
+    "City": "South San Francisco",
+    "Zip": "94080",
+    "Lat": 37.65488794000004,
+    "Long": -122.40898739499994,
+    "LastDate": "2014-03-25",
+    "LastResult": 53,
+    "LastViolations": 8,
+    "Inspections": [
+      {
+        "Date": "2014-03-25",
+        "Result": 0,
+        "Reason": "OUT OF BUSINESS"
+      },
+      {
+        "Date": "2014-01-28",
+        "Result": 0,
+        "Reason": "LICENSE/PERMIT INVESTIGATION"
+      },
+      {
+        "Date": "2014-01-08",
+        "Result": 0,
+        "Reason": "LICENSE/PERMIT INVESTIGATION"
+      },
+      {
+        "Date": "2013-10-18",
+        "Result": 0,
+        "Reason": "CAMPY FACILITY ASSESSMENT"
+      },
+      {
+        "Date": "2013-10-16",
+        "Result": 0,
+        "Reason": "SURVEY/FIELD STUDY"
+      },
+      {
+        "Date": "2013-02-21",
+        "Result": 53,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Demonstration of knowledge; food mgr certificate",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Status": "OU"
+          },
+          {
+            "Description": "Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "Food storage; food storage containers identified",
+            "Status": "OU"
+          },
+          {
+            "Description": "Hands clean and properly washed; gloves used prope",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Signs posted; last inspection report available",
+            "Status": "OU"
+          },
+          {
+            "Description": "Wiping cloths: properly used and stored",
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0001418": {
+    "Id": "PR0001418",
+    "Name": "CHEF WANGS",
+    "Address": "1320 EL CAMINO REAL",
+    "City": "MILLBRAE",
+    "Zip": "94030",
+    "Lat": 37.60935,
+    "Long": -122.400402,
+    "LastDate": "2017-03-03",
+    "LastResult": 50,
+    "LastViolations": 12,
+    "Inspections": [
+      {
+        "Date": "2017-03-03",
+        "Result": 0,
+        "Reason": "PROGRAM STANDARDIZATION/AUDITING"
+      },
+      {
+        "Date": "2016-10-19",
+        "Result": 50,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "05. Hands clean and properly washed; proper glove use",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "14. Food contact surfaces: clean and sanitized",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "23. No insects, rodents, birds or animals present",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "30. Food storage; food storage containers identified",
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          },
+          {
+            "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
+            "Status": "OU"
+          },
+          {
+            "Description": "42. Garbage/refuse properly disposed; facilities maintained",
+            "Status": "OU"
+          },
+          {
+            "Description": "44. Premises; personal/cleaning items; vermin proofing",
+            "Status": "OU"
+          },
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-07-02",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01a. Demonstration of knowledge",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "13. Food in good condition, safe and unadulterated",
+            "Status": "CO"
+          },
+          {
+            "Description": "14. Food contact surfaces: clean and sanitized",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "23. No insects, rodents, birds or animals present",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "38. Adequate ventilation and lighting; designated areas, use",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "42. Garbage/refuse properly disposed; facilities maintained",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "44. Premises; personal/cleaning items; vermin proofing",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "48. Permit available",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-07-25",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-07-18",
+        "Result": 53,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Status": "CO"
+          },
+          {
+            "Description": "Floors, walls and ceilings: built, maintained, and",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 3,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food storage; food storage containers identified",
+            "Status": "CO"
+          },
+          {
+            "Description": "Proper eating, tasting, drinking or tobacco use",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Toilet facilities: properly constructed, supplied,",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Wiping cloths: properly used and stored",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-12-06",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Demonstration of knowledge; food mgr certificate",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Floors, walls and ceilings: built, maintained, and",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food storage; food storage containers identified",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Premises; personal/cleaning items; vermin-proofing",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Washing fruits and vegetables",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-05-08",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2013-05-01",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Equipment, utensils and linens: storage and use",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Floors, walls and ceilings: built, maintained, and",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food storage; food storage containers identified",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Premises; personal/cleaning items; vermin-proofing",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0001670": {
+    "Id": "PR0001670",
+    "Name": "BRITISH AIRWAYS LOUNGE",
+    "Address": "PIER A, INTL",
+    "City": "SFIA",
+    "Zip": "94128",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-10",
+    "LastResult": 49,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2017-10-10",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2016-05-05",
+        "Result": 0,
+        "Reason": "LICENSE/PERMIT INVESTIGATION"
+      },
+      {
+        "Date": "2014-05-28",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      }
+    ]
+  },
+  "PR0002110": {
+    "Id": "PR0002110",
+    "Name": "The Golden Glaze",
+    "Address": "1509 Main St A",
+    "City": "Redwood City",
+    "Zip": "94063",
+    "Lat": 37.479116643000054,
+    "Long": -122.223511756,
+    "LastDate": "2013-03-18",
+    "LastResult": 0,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2013-03-18",
+        "Result": 0,
+        "Reason": "CONSTRUCTION/EQUIPMENT INSPECTION"
+      },
+      {
+        "Date": "2013-01-10",
+        "Result": 0,
+        "Reason": "PLAN CHECK CONSULTATION"
+      }
+    ]
+  },
+  "PR0002228": {
+    "Id": "PR0002228",
+    "Name": "TAQUERIA LA CUMBRE",
+    "Address": "28 N B ST",
+    "City": "SAN MATEO",
+    "Zip": "94401",
+    "Lat": 37.567963,
+    "Long": -122.324867,
+    "LastDate": "2017-12-13",
+    "LastResult": 49,
+    "LastViolations": 5,
+    "Inspections": [
+      {
+        "Date": "2017-12-13",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          },
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "47. Signs posted; last inspection report available",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2017-11-30",
+        "Result": 0,
+        "Reason": "SURVEY/FIELD STUDY"
+      },
+      {
+        "Date": "2017-02-16",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "30. Food storage; food storage containers identified",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          },
+          {
+            "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
+            "Status": "OU"
+          },
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "47. Signs posted; last inspection report available",
+            "Status": "OU"
+          },
+          {
+            "Description": "48. Permit available",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-06-13",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "27. Food separated and protected",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-12-10",
+        "Result": 0,
+        "Reason": "COMPLAINT-INITIAL"
+      },
+      {
+        "Date": "2014-03-27",
+        "Result": 0,
+        "Reason": "CAMPY FACILITY ASSESSMENT"
+      },
+      {
+        "Date": "2014-03-26",
+        "Result": 0,
+        "Reason": "CAMPY INTERVIEW"
+      },
+      {
+        "Date": "2013-10-30",
+        "Result": 0,
+        "Reason": "CAMPY FACILITY ASSESSMENT"
+      },
+      {
+        "Date": "2013-03-26",
+        "Result": 51,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Adequate ventilation and lighting; designated area",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0002309": {
+    "Id": "PR0002309",
+    "Name": "7 MARES SEAFOOD RESTAURANT",
+    "Address": "2809 MIDDLEFIELD RD",
+    "City": "REDWOOD CITY",
+    "Zip": "94063",
+    "Lat": 37.475957,
+    "Long": -122.210308,
+    "LastDate": "2017-10-06",
+    "LastResult": 50,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2017-10-06",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2017-10-03",
+        "Result": 0,
+        "Reason": "COMPLAINT-INITIAL"
+      },
+      {
+        "Date": "2016-07-14",
+        "Result": 50,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2016-02-23",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "05. Hands clean and properly washed; proper glove use",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "41. Plumbing; fixtures, back flow devices, drainage",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-10-15",
+        "Result": 0,
+        "Reason": "EDUCATIONAL INSPECTION"
+      },
+      {
+        "Date": "2014-11-21",
+        "Result": 0,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2014-03-12",
+        "Result": 0,
+        "Reason": "CAMPY FACILITY ASSESSMENT"
+      },
+      {
+        "Date": "2014-03-10",
+        "Result": 0,
+        "Reason": "CAMPY INTERVIEW"
+      },
+      {
+        "Date": "2013-12-05",
+        "Result": 0,
+        "Reason": "CONSULTATION"
+      },
+      {
+        "Date": "2013-10-22",
+        "Result": 0,
+        "Reason": "CAMPY FACILITY ASSESSMENT"
+      },
+      {
+        "Date": "2013-09-24",
+        "Result": 0,
+        "Reason": "SURVEY/FIELD STUDY"
+      },
+      {
+        "Date": "2013-01-23",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      }
+    ]
+  },
+  "PR0002561": {
+    "Id": "PR0002561",
+    "Name": "JENNY CRAIG",
+    "Address": "811 EL CAMINO REAL",
+    "City": "MENLO PARK",
+    "Zip": "94025",
+    "Lat": 37.452045,
+    "Long": -122.180083,
+    "LastDate": "2017-11-01",
+    "LastResult": 49,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2017-11-01",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2016-04-19",
+        "Result": 0,
+        "Reason": "REPORT REVIEW"
+      },
+      {
+        "Date": "2015-11-17",
+        "Result": 0,
+        "Reason": "CONSULTATION"
+      },
+      {
+        "Date": "2015-08-11",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2015-02-18",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-12-16",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-01-22",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      }
+    ]
+  },
+  "PR0002804": {
+    "Id": "PR0002804",
+    "Name": "CHEVRON MART #91374",
+    "Address": "990 VETERANS BLVD",
+    "City": "REDWOOD CITY",
+    "Zip": "94063",
+    "Lat": 37.490001,
+    "Long": -122.227063,
+    "LastDate": "2017-07-05",
+    "LastResult": 49,
+    "LastViolations": 1,
+    "Inspections": [
+      {
+        "Date": "2017-07-05",
+        "Result": 0,
+        "Reason": "REPORT REVIEW"
+      },
+      {
+        "Date": "2017-07-03",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "21. Hot and cold water available",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-11-23",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "14. Food contact surfaces: clean and sanitized",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-01-20",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2014-01-09",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-01-15",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      }
+    ]
+  },
+  "PR0003001": {
+    "Id": "PR0003001",
+    "Name": "ORCHARD SUPPLY HARDWARE #540",
+    "Address": "2245 Gellert Blvd",
+    "City": "South San Francisco",
+    "Zip": "94080",
+    "Lat": 37.647994,
+    "Long": -122.453262,
+    "LastDate": "2016-02-25",
+    "LastResult": 51,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2016-02-25",
+        "Result": 0,
+        "Reason": "REPORT REVIEW"
+      },
+      {
+        "Date": "2014-11-21",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-11-22",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-02-12",
+        "Result": 53,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Hands clean and properly washed; gloves used prope",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Hot and cold water available",
+            "Degree": 1,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0003119": {
+    "Id": "PR0003119",
+    "Name": "GARFIELD CHARTER SCHOOL",
+    "Address": "3600 MIDDLEFIELD RD",
+    "City": "MENLO PARK",
+    "Zip": "94025",
+    "Lat": 37.470131,
+    "Long": -122.199482,
+    "LastDate": "2017-09-15",
+    "LastResult": 49,
+    "LastViolations": 1,
+    "Inspections": [
+      {
+        "Date": "2017-09-15",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2017-05-02",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2017-01-11",
+        "Result": 0,
+        "Reason": "COMPLAINT-FOLLOW-UP"
+      },
+      {
+        "Date": "2016-10-04",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2016-02-24",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2015-01-05",
+        "Result": 0,
+        "Reason": "NO ACTION"
+      },
+      {
+        "Date": "2014-04-30",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-11-26",
+        "Result": 51,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-04-17",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Degree": 3,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0026178": {
+    "Id": "PR0026178",
+    "Name": "CANYON GAS \u0026 PROPANE",
+    "Address": "590 CANYON RD",
+    "City": "REDWOOD CITY",
+    "Zip": "94062",
+    "Lat": 37.472452,
+    "Long": -122.260111,
+    "LastDate": "2017-03-23",
+    "LastResult": 49,
+    "LastViolations": 1,
+    "Inspections": [
+      {
+        "Date": "2017-03-23",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "43. Toilet facilities: properly constructed, supplied, cleaned",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-01-06",
+        "Result": 49,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2014-12-24",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-12-24",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2013-12-23",
+        "Result": 53,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Toilet facilities: properly constructed, supplied,",
+            "Degree": 1,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-04-17",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "Toilet facilities: properly constructed, supplied,",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-04-15",
+        "Result": 53,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Toilet facilities: properly constructed, supplied,",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0027726": {
+    "Id": "PR0027726",
+    "Name": "STARBUCKS COFFEE",
+    "Address": "1000  METRO CENTER BLVD #E",
+    "City": "FOSTER CITY",
+    "Zip": "94404",
+    "Lat": 37.560985,
+    "Long": -122.274246,
+    "LastDate": "2017-01-05",
+    "LastResult": 49,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2017-01-05",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2015-12-14",
+        "Result": 0,
+        "Reason": "EPIDEMIOLOGY INVESTIGATION"
+      },
+      {
+        "Date": "2014-04-07",
+        "Result": 0,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Warewashing facilities: installed, maintained, use",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-04-02",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2014-04-01",
+        "Result": 55,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 3,
+            "Status": "OU"
+          },
+          {
+            "Description": "Hot and cold water available",
+            "Degree": 3,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-02-05",
+        "Result": 53,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Floors, walls and ceilings: built, maintained, and",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Signs posted; last inspection report available",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0028536": {
+    "Id": "PR0028536",
+    "Name": "Caseys Cafe/Sample This",
+    "Address": "328 Main St",
+    "City": "Half Moon Bay",
+    "Zip": "94019",
+    "Lat": 37.46520514500003,
+    "Long": -122.42902352199997,
+    "LastDate": "2013-02-07",
+    "LastResult": 54,
+    "LastViolations": 8,
+    "Inspections": [
+      {
+        "Date": "2013-02-07",
+        "Result": 0,
+        "Reason": "LICENSE/PERMIT INVESTIGATION"
+      },
+      {
+        "Date": "2013-01-24",
+        "Result": 54,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Floors, walls and ceilings: built, maintained, and",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food in good condition, safe and unadulterated",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Hands clean and properly washed; gloves used prope",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "No rodents, insects, birds, or animals",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Sewage and wastewater properly disposed",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Wiping cloths: properly used and stored",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0031235": {
+    "Id": "PR0031235",
+    "Name": "CHEVRON STATION #9-6982",
+    "Address": "892 JOHN DALY BLVD",
+    "City": "DALY CITY",
+    "Zip": "94015",
+    "Lat": 37.701658,
+    "Long": -122.484177,
+    "LastDate": "2017-02-09",
+    "LastResult": 49,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2017-02-09",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2015-05-19",
+        "Result": 0,
+        "Reason": "REPORT WRITING"
+      },
+      {
+        "Date": "2015-05-07",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2014-05-22",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-07-26",
+        "Result": 0,
+        "Reason": "ROUTINE"
+      }
+    ]
+  },
+  "PR0033387": {
+    "Id": "PR0033387",
+    "Name": "AIRPORT SHELL",
+    "Address": "899 AIRPORT BLVD",
+    "City": "SOUTH SAN FRANCISCO",
+    "Zip": "94080",
+    "Lat": 37.660801,
+    "Long": -122.404385,
+    "LastDate": "2017-05-18",
+    "LastResult": 49,
+    "LastViolations": 1,
+    "Inspections": [
+      {
+        "Date": "2017-05-18",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-07-07",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2014-08-04",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-08-07",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Status": "OU"
+          },
+          {
+            "Description": "Warewashing facilities: installed, maintained, use",
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0037897": {
+    "Id": "PR0037897",
+    "Name": "LB GOLF",
+    "Address": "2401 E 3RD AVE",
+    "City": "FOSTER CITY",
+    "Zip": "94404",
+    "Lat": 37.570674,
+    "Long": -122.284394,
+    "LastDate": "2017-03-20",
+    "LastResult": 49,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2017-03-20",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2014-06-25",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-03-18",
+        "Result": 51,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Signs posted; last inspection report available",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0043070": {
+    "Id": "PR0043070",
+    "Name": "STARBUCKS COFFEE",
+    "Address": "80 HWY 1",
+    "City": "HALF MOON BAY",
+    "Zip": "94019",
+    "Lat": 37.46437459400005,
+    "Long": -122.43395901699995,
+    "LastDate": "2017-12-01",
+    "LastResult": 49,
+    "LastViolations": 2,
+    "Inspections": [
+      {
+        "Date": "2017-12-01",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-02-09",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          },
+          {
+            "Description": "41. Plumbing; fixtures, back flow devices, drainage",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-01-22",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-01-23",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-01-09",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      }
+    ]
+  },
+  "PR0043313": {
+    "Id": "PR0043313",
+    "Name": "Baja Fresh Mexican Grill #209",
+    "Address": "1031 E Hillsdale Blvd #B",
+    "City": "Foster City",
+    "Zip": "94404",
+    "Lat": 37.559691806000046,
+    "Long": -122.27065316799997,
+    "LastDate": "2013-03-26",
+    "LastResult": 0,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2013-03-26",
+        "Result": 0,
+        "Reason": "LICENSE/PERMIT INVESTIGATION"
+      }
+    ]
+  },
+  "PR0052304": {
+    "Id": "PR0052304",
+    "Name": "INTUIT",
+    "Address": "180 JEFFERSON DR",
+    "City": "MENLO PARK",
+    "Zip": "94025",
+    "Lat": 37.48157446000005,
+    "Long": -122.17079831999996,
+    "LastDate": "2015-07-24",
+    "LastResult": 52,
+    "LastViolations": 1,
+    "Inspections": [
+      {
+        "Date": "2015-07-24",
+        "Result": 0,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2014-06-26",
+        "Result": 52,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-05-29",
+        "Result": 53,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Demonstration of knowledge; food mgr certificate",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food in good condition, safe and unadulterated",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Hot and cold water available",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Nonfood-contact surfaces clean",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-01-29",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0052755": {
+    "Id": "PR0052755",
+    "Name": "AUNTIE EM",
+    "Address": "1127 EL CAMINO REAL",
+    "City": "SOUTH SAN FRANCISCO",
+    "Zip": "94080",
+    "Lat": 37.656654,
+    "Long": -122.436912,
+    "LastDate": "2017-09-26",
+    "LastResult": 49,
+    "LastViolations": 3,
+    "Inspections": [
+      {
+        "Date": "2017-09-26",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-01-19",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          },
+          {
+            "Description": "40. Wiping cloths; properly used and stored",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-04-16",
+        "Result": 53,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food separated and protected",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Warewashing facilities: installed, maintained, use",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Wiping cloths: properly used and stored",
+            "Degree": 1,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-04-04",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      }
+    ]
+  },
+  "PR0055842": {
+    "Id": "PR0055842",
+    "Name": "VALERIOS TROPICAL BAKESHOP",
+    "Address": "1420 SOUTHGATE AVE # 37",
+    "City": "DALY CITY",
+    "Zip": "94015",
+    "Lat": 37.675661,
+    "Long": -122.47902,
+    "LastDate": "2017-12-06",
+    "LastResult": 50,
+    "LastViolations": 9,
+    "Inspections": [
+      {
+        "Date": "2017-12-06",
+        "Result": 50,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "04. Proper eating, tasting, drinking or tobacco use",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "08. Time as a public health control; procedures \u0026 records",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "23. No insects, rodents, birds or animals present",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "30. Food storage; food storage containers identified",
+            "Status": "OU"
+          },
+          {
+            "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
+            "Status": "OU"
+          },
+          {
+            "Description": "40. Wiping cloths; properly used and stored",
+            "Status": "OU"
+          },
+          {
+            "Description": "47. Signs posted; last inspection report available",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2017-06-23",
+        "Result": 0,
+        "Reason": "CHARGEABLE REINSPECTION PER HOUR RATE"
+      },
+      {
+        "Date": "2017-05-25",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "30. Food storage; food storage containers identified",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-02-29",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-07-15",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-11-21",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2013-08-23",
+        "Result": 0,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Food storage; food storage containers identified",
+            "Degree": 2,
+            "Status": "CO"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0056201": {
+    "Id": "PR0056201",
+    "Name": "DISTRICT KITCHEN",
+    "Address": "360 BUTANO CUTOFF",
+    "City": "PESCADERO",
+    "Zip": "94060",
+    "Lat": 37.247209,
+    "Long": -122.362891,
+    "LastDate": "2017-08-28",
+    "LastResult": 49,
+    "LastViolations": 5,
+    "Inspections": [
+      {
+        "Date": "2017-08-28",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "21. Hot and cold water available",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "23. No insects, rodents, birds or animals present",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "30. Food storage; food storage containers identified",
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2017-03-07",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-09-20",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "21. Hot and cold water available",
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-05-12",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "21. Hot and cold water available",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-03-24",
+        "Result": 0,
+        "Reason": "REPORT REVIEW",
+        "Violations": [
+          {
+            "Description": "21. Hot and cold water available",
+            "Degree": 1,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-03-27",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-10-28",
+        "Result": 51,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Food storage; food storage containers identified",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-01-22",
+        "Result": 51,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Food storage; food storage containers identified",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-11-26",
+        "Result": 51,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Warewashing facilities: installed, maintained, use",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-06-04",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2013-04-19",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Hot and cold water available",
+            "Degree": 1,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0059695": {
+    "Id": "PR0059695",
+    "Name": "PACIFIC CAFE CSM CONCESSION",
+    "Address": "1700 W HILLSDALE BLVD",
+    "City": "SAN MATEO",
+    "Zip": "94402",
+    "Lat": 37.531674,
+    "Long": -122.33404,
+    "LastDate": "2017-02-15",
+    "LastResult": 49,
+    "LastViolations": 2,
+    "Inspections": [
+      {
+        "Date": "2017-02-15",
+        "Result": 0,
+        "Reason": "CORRESPONDENCE"
+      },
+      {
+        "Date": "2017-02-14",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-04-28",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2015-04-29",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2015-04-14",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2015-04-09",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "41. Plumbing; fixtures, back flow devices, drainage",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "48. Permit available",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-09-23",
+        "Result": 51,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Signs posted; last inspection report available",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-02-13",
+        "Result": 51,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Premises; personal/cleaning items; vermin-proofing",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-10-04",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-02-12",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2013-02-05",
+        "Result": 53,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0059857": {
+    "Id": "PR0059857",
+    "Name": "CVS Pharmacy #550",
+    "Address": "1324 SAN CARLOS AVE",
+    "City": "San Carlos",
+    "Zip": "94070",
+    "Lat": 37.50541,
+    "Long": -122.262717,
+    "LastDate": "2016-07-19",
+    "LastResult": 49,
+    "LastViolations": 1,
+    "Inspections": [
+      {
+        "Date": "2016-07-19",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-08-12",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2014-05-12",
+        "Result": 51,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Floors, walls and ceilings: built, maintained, and",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-01-30",
+        "Result": 0,
+        "Reason": "COMPLAINT-INITIAL",
+        "Violations": [
+          {
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0066372": {
+    "Id": "PR0066372",
+    "Name": "KOBE SAKE",
+    "Address": "312 EL CAMINO REAL",
+    "City": "SAN BRUNO",
+    "Zip": "94066",
+    "Lat": 37.620063,
+    "Long": -122.410447,
+    "LastDate": "2017-09-28",
+    "LastResult": 49,
+    "LastViolations": 4,
+    "Inspections": [
+      {
+        "Date": "2017-09-28",
+        "Result": 0,
+        "Reason": "LICENSE/PERMIT INVESTIGATION"
+      },
+      {
+        "Date": "2017-01-18",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "41. Plumbing; fixtures, back flow devices, drainage",
+            "Status": "OU"
+          },
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "48. Permit available",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-04-18",
+        "Result": 49,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2016-02-16",
+        "Result": 0,
+        "Reason": "NO ACTION"
+      },
+      {
+        "Date": "2016-01-06",
+        "Result": 0,
+        "Reason": "NO ACTION"
+      },
+      {
+        "Date": "2015-06-17",
+        "Result": 49,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2015-06-10",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "19. Consumer advisory provided",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "22. Sewage and wastewater properly disposed",
+            "Status": "CO"
+          },
+          {
+            "Description": "23. No insects, rodents, birds or animals present",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "26. Approved thawing methods in use",
+            "Status": "CO"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "29. Toxic substances properly identified, stored and used",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "39. Thermometers provided and accurate",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "41. Plumbing; fixtures, back flow devices, drainage",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "47. Signs posted; last inspection report available",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "48. Permit available",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-05-21",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Consumer advisory provided for raw or undercooked",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-04-24",
+        "Result": 0,
+        "Reason": "REPORT REVIEW"
+      },
+      {
+        "Date": "2013-11-22",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Consumer advisory provided for raw or undercooked",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food storage; food storage containers identified",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-02-21",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Demonstration of knowledge; food mgr certificate",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Floors, walls and ceilings: built, maintained, and",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "No rodents, insects, birds, or animals",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0067344": {
+    "Id": "PR0067344",
+    "Name": "BRITTS BEST CAKES \u0026 CONES",
+    "Address": "PO BOX 2210",
+    "City": "FAIRFIELD",
+    "Zip": "94533",
+    "Lat": 38.26557897500004,
+    "Long": -122.03117957199999,
+    "LastDate": "2015-05-30",
+    "LastResult": 49,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2015-05-30",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      }
+    ]
+  },
+  "PR0068073": {
+    "Id": "PR0068073",
+    "Name": "PIZZA MY HEART",
+    "Address": "235 PRIMROSE RD",
+    "City": "BURLINGAME",
+    "Zip": "94010",
+    "Lat": 37.577213,
+    "Long": -122.347384,
+    "LastDate": "2017-04-05",
+    "LastResult": 49,
+    "LastViolations": 3,
+    "Inspections": [
+      {
+        "Date": "2017-04-05",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "08. Time as a public health control; procedures \u0026 records",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "47. Signs posted; last inspection report available",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-02-18",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          },
+          {
+            "Description": "40. Wiping cloths; properly used and stored",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-05-08",
+        "Result": 0,
+        "Reason": "COMPLAINT-FOLLOW-UP"
+      },
+      {
+        "Date": "2015-05-05",
+        "Result": 0,
+        "Reason": "COMPLAINT-FOLLOW-UP",
+        "Violations": [
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Status": "CO"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks refrigerators)",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-05-01",
+        "Result": 0,
+        "Reason": "EPIDEMIOLOGY INVESTIGATION",
+        "Violations": [
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Status": "CO"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks refrigerators)",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-11-25",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2014-11-21",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-11-19",
+        "Result": 0,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Status": "CO"
+          },
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "CO"
+          }
+        ]
+      },
+      {
+        "Date": "2013-11-27",
+        "Result": 0,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Status": "OU"
+          },
+          {
+            "Description": "Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper eating, tasting, drinking or tobacco use",
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Status": "OU"
+          },
+          {
+            "Description": "Wiping cloths: properly used and stored",
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0070205": {
+    "Id": "PR0070205",
+    "Name": "GOLDEN WOK RESTAURANT",
+    "Address": "570 S NORFOLK ST",
+    "City": "SAN MATEO",
+    "Zip": "94401",
+    "Lat": 37.571004,
+    "Long": -122.309075,
+    "LastDate": "2017-11-30",
+    "LastResult": 55,
+    "LastViolations": 11,
+    "Inspections": [
+      {
+        "Date": "2017-11-30",
+        "Result": 55,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "05. Hands clean and properly washed; proper glove use",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "13. Food in good condition, safe and unadulterated",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "14. Food contact surfaces: clean and sanitized",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "23. No insects, rodents, birds or animals present",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "26. Approved thawing methods in use",
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "40. Wiping cloths; properly used and stored",
+            "Status": "OU"
+          },
+          {
+            "Description": "44. Premises; personal/cleaning items; vermin proofing",
+            "Status": "OU"
+          },
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2017-11-28",
+        "Result": 0,
+        "Reason": "REPORT REVIEW"
+      },
+      {
+        "Date": "2016-06-09",
+        "Result": 49,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2016-06-06",
+        "Result": 50,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "13. Food in good condition, safe and unadulterated",
+            "Status": "OU"
+          },
+          {
+            "Description": "14. Food contact surfaces: clean and sanitized",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "23. No insects, rodents, birds or animals present",
+            "Status": "OU"
+          },
+          {
+            "Description": "30. Food storage; food storage containers identified",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          },
+          {
+            "Description": "38. Adequate ventilation and lighting; designated areas, use",
+            "Status": "OU"
+          },
+          {
+            "Description": "42. Garbage/refuse properly disposed; facilities maintained",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-02-22",
+        "Result": 53,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food separated and protected",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Hands clean and properly washed; gloves used prope",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Wiping cloths: properly used and stored",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0071510": {
+    "Id": "PR0071510",
+    "Name": "KONA ICE PENINSULA",
+    "Address": "107 S LINDEN AVE",
+    "City": "SOUTH SAN FRANCISCO",
+    "Zip": "94080",
+    "Lat": 37.646324,
+    "Long": -122.413195,
+    "LastDate": "2016-01-28",
+    "LastResult": 49,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2016-01-28",
+        "Result": 0,
+        "Reason": "REPORT REVIEW"
+      },
+      {
+        "Date": "2015-03-25",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2014-10-05",
+        "Result": 0,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2014-05-31",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2014-05-10",
+        "Result": 0,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2014-04-23",
+        "Result": 0,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-10-06",
+        "Result": 0,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-09-05",
+        "Result": 0,
+        "Reason": "CONSULTATION"
+      },
+      {
+        "Date": "2013-06-01",
+        "Result": 0,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-05-11",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-05-04",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-02-21",
+        "Result": 0,
+        "Reason": "ROUTINE"
+      }
+    ]
+  },
+  "PR0071961": {
+    "Id": "PR0071961",
+    "Name": "FIVE GUYS",
+    "Address": "1150 S EL CAMINO REAL E # 220",
+    "City": "SAN BRUNO",
+    "Zip": "94066",
+    "Lat": 37.35219,
+    "Long": -122.000339,
+    "LastDate": "2017-09-21",
+    "LastResult": 49,
+    "LastViolations": 3,
+    "Inspections": [
+      {
+        "Date": "2017-09-21",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "22. Sewage and wastewater properly disposed",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-10-19",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-11-14",
+        "Result": 0,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Status": "CO"
+          }
+        ]
+      },
+      {
+        "Date": "2014-08-29",
+        "Result": 0,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2014-08-28",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "Sewage and wastewater properly disposed",
+            "Degree": 1,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-08-27",
+        "Result": 0,
+        "Reason": "INVESTIGATION",
+        "Violations": [
+          {
+            "Description": "Sewage and wastewater properly disposed",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-01-23",
+        "Result": 0,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-11-05",
+        "Result": 0,
+        "Reason": "COMPLAINT-INITIAL",
+        "Violations": [
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-04-23",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      }
+    ]
+  },
+  "PR0072401": {
+    "Id": "PR0072401",
+    "Name": "SOULNESE, LLC",
+    "Address": "660 E GISH RD",
+    "City": "SAN JOSE",
+    "Zip": "95112",
+    "Lat": 37.36967637300006,
+    "Long": -121.89701270399996,
+    "LastDate": "2015-04-08",
+    "LastResult": 49,
+    "LastViolations": 2,
+    "Inspections": [
+      {
+        "Date": "2015-04-08",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0073086": {
+    "Id": "PR0073086",
+    "Name": "TACO BELL",
+    "Address": "1701 E BAYSHORE RD",
+    "City": "EAST PALO ALTO",
+    "Zip": "94303",
+    "Lat": 37.458984,
+    "Long": -122.137559,
+    "LastDate": "2017-10-24",
+    "LastResult": 49,
+    "LastViolations": 4,
+    "Inspections": [
+      {
+        "Date": "2017-10-24",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "05. Hands clean and properly washed; proper glove use",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "21. Hot and cold water available",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          },
+          {
+            "Description": "38. Adequate ventilation and lighting; designated areas, use",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2017-06-23",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2016-02-17",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-04-14",
+        "Result": 0,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-01-22",
+        "Result": 0,
+        "Reason": "ROUTINE"
+      }
+    ]
+  },
+  "PR0073248": {
+    "Id": "PR0073248",
+    "Name": "Panda Dumpling",
+    "Address": "711 El Camino Real",
+    "City": "Redwood City",
+    "Zip": "94063",
+    "Lat": 37.48703983000007,
+    "Long": -122.23574401299999,
+    "LastDate": "2014-06-04",
+    "LastResult": 52,
+    "LastViolations": 3,
+    "Inspections": [
+      {
+        "Date": "2014-06-04",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Personal cleanliness and hair restraints",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-04-02",
+        "Result": 0,
+        "Reason": "REPORT REVIEW"
+      },
+      {
+        "Date": "2013-04-25",
+        "Result": 52,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2013-04-18",
+        "Result": 53,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Demonstration of knowledge; food mgr certificate",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food separated and protected",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Premises; personal/cleaning items; vermin-proofing",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Toilet facilities: properly constructed, supplied,",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Wiping cloths: properly used and stored",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0073581": {
+    "Id": "PR0073581",
+    "Name": "Bee Happy Honey",
+    "Address": "907 Granada #14",
+    "City": "Belmont",
+    "Zip": "94002",
+    "Lat": 37.52346681800003,
+    "Long": -122.27417643499996,
+    "LastDate": "2013-04-02",
+    "LastResult": 0,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2013-04-02",
+        "Result": 0,
+        "Reason": "CONSULTATION"
+      }
+    ]
+  },
+  "PR0073699": {
+    "Id": "PR0073699",
+    "Name": "Pacificakes Inc",
+    "Address": "1625 Palmetto Ave Ste D",
+    "City": "Pacifica",
+    "Zip": "94044",
+    "Lat": 37.636143848000074,
+    "Long": -122.49210518999996,
+    "LastDate": "2013-07-10",
+    "LastResult": 0,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2013-07-10",
+        "Result": 0,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2013-06-12",
+        "Result": 0,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Degree": 1,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0073743": {
+    "Id": "PR0073743",
+    "Name": "EL RANCHITO MAMATLA",
+    "Address": "326 SHAW RD",
+    "City": "SOUTH SAN FRANCISCO",
+    "Zip": "94080",
+    "Lat": 37.639288,
+    "Long": -122.406302,
+    "LastDate": "2017-02-24",
+    "LastResult": 49,
+    "LastViolations": 1,
+    "Inspections": [
+      {
+        "Date": "2017-02-24",
+        "Result": 0,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "44. Premises; personal/cleaning items; vermin proofing",
+            "Status": "OU"
+          },
+          {
+            "Description": "75. Compliance with safety requirements",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-02-19",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-03-05",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2014-02-27",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "No rodents, insects, birds, or animals",
+            "Degree": 1,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-02-24",
+        "Result": 0,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Hot and cold water available",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "No rodents, insects, birds, or animals",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Nonfood-contact surfaces clean",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Warewashing facilities: installed, maintained, use",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-08-07",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2013-08-06",
+        "Result": 0,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2013-02-13",
+        "Result": 0,
+        "Reason": "CONSULTATION"
+      }
+    ]
+  },
+  "PR0075363": {
+    "Id": "PR0075363",
+    "Name": "PAPA RAYS PIZZA",
+    "Address": "301 MIRIAM ST",
+    "City": "DALY CITY",
+    "Zip": "94014",
+    "Lat": 37.699329,
+    "Long": -122.464959,
+    "LastDate": "2017-10-05",
+    "LastResult": 49,
+    "LastViolations": 1,
+    "Inspections": [
+      {
+        "Date": "2017-10-05",
+        "Result": 49,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-01-04",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2015-03-31",
+        "Result": 0,
+        "Reason": "REPORT WRITING"
+      },
+      {
+        "Date": "2014-10-29",
+        "Result": 51,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2014-10-16",
+        "Result": 0,
+        "Reason": "CONSULTATION"
+      }
+    ]
+  },
+  "PR0076786": {
+    "Id": "PR0076786",
+    "Name": "HAPPY SICHUAN",
+    "Address": "1055 EL CAMINO REAL",
+    "City": "MILLBRAE",
+    "Zip": "94030",
+    "Lat": 37.606334,
+    "Long": -122.397464,
+    "LastDate": "2017-07-19",
+    "LastResult": 49,
+    "LastViolations": 11,
+    "Inspections": [
+      {
+        "Date": "2017-07-19",
+        "Result": 0,
+        "Reason": "NO ACTION"
+      },
+      {
+        "Date": "2016-10-05",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "14. Food contact surfaces: clean and sanitized",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "26. Approved thawing methods in use",
+            "Status": "OU"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          },
+          {
+            "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
+            "Status": "OU"
+          },
+          {
+            "Description": "38. Adequate ventilation and lighting; designated areas, use",
+            "Status": "OU"
+          },
+          {
+            "Description": "41. Plumbing; fixtures, back flow devices, drainage",
+            "Status": "OU"
+          },
+          {
+            "Description": "44. Premises; personal/cleaning items; vermin proofing",
+            "Status": "OU"
+          },
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-09-01",
+        "Result": 0,
+        "Reason": "NO ACTION"
+      },
+      {
+        "Date": "2014-07-02",
+        "Result": 52,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Demonstration of knowledge; food mgr certificate",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Status": "CO"
+          },
+          {
+            "Description": "Proper cooling methods",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Proper hot and cold holding temperatures",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "Wiping cloths: properly used and stored",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0076867": {
+    "Id": "PR0076867",
+    "Name": "IZAKAYA MAI",
+    "Address": "212 2ND AVE",
+    "City": "SAN MATEO",
+    "Zip": "94401",
+    "Lat": 37.566048,
+    "Long": -122.323579,
+    "LastDate": "2017-03-16",
+    "LastResult": 49,
+    "LastViolations": 4,
+    "Inspections": [
+      {
+        "Date": "2017-03-16",
+        "Result": 49,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "30. Food storage; food storage containers identified",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "41. Plumbing; fixtures, back flow devices, drainage",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "48. Permit available",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2017-02-24",
+        "Result": 49,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2016-06-14",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          },
+          {
+            "Description": "38. Adequate ventilation and lighting; designated areas, use",
+            "Status": "OU"
+          },
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-08-05",
+        "Result": 0,
+        "Reason": "PERMIT ISSUED/FINAL INSPECTION"
+      },
+      {
+        "Date": "2014-07-15",
+        "Result": 0,
+        "Reason": "INVESTIGATION"
+      }
+    ]
+  },
+  "PR0076911": {
+    "Id": "PR0076911",
+    "Name": "3 PIGS BBQ",
+    "Address": "1754 LAUREL ST",
+    "City": "SAN CARLOS",
+    "Zip": "94070",
+    "Lat": 37.493672,
+    "Long": -122.245841,
+    "LastDate": "2017-05-31",
+    "LastResult": 49,
+    "LastViolations": 3,
+    "Inspections": [
+      {
+        "Date": "2017-05-31",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          },
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-03-09",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2016-02-23",
+        "Result": 0,
+        "Reason": "COMPLAINT-INITIAL"
+      },
+      {
+        "Date": "2014-07-09",
+        "Result": 0,
+        "Reason": "PERMIT ISSUED/FINAL INSPECTION"
+      },
+      {
+        "Date": "2014-05-17",
+        "Result": 0,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Food storage; food storage containers identified",
+            "Degree": 2,
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0077145": {
+    "Id": "PR0077145",
+    "Name": "BEANS INTERNATIONAL MARKET",
+    "Address": "480 SAN MATEO AVE",
+    "City": "SAN BRUNO",
+    "Zip": "94066",
+    "Lat": 37.623956,
+    "Long": -122.411221,
+    "LastDate": "2017-06-21",
+    "LastResult": 49,
+    "LastViolations": 6,
+    "Inspections": [
+      {
+        "Date": "2017-06-21",
+        "Result": 0,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2017-06-20",
+        "Result": 0,
+        "Reason": "REPORT WRITING",
+        "Violations": [
+          {
+            "Description": "01a. Demonstration of knowledge",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "05. Hands clean and properly washed; proper glove use",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "14. Food contact surfaces: clean and sanitized",
+            "Status": "OU"
+          },
+          {
+            "Description": "21. Hot and cold water available",
+            "Status": "OU"
+          },
+          {
+            "Description": "23. No insects, rodents, birds or animals present",
+            "Status": "OU"
+          },
+          {
+            "Description": "24. Person in charge present and performs duties",
+            "Status": "OU"
+          },
+          {
+            "Description": "25. Personal cleanliness and hair restraints",
+            "Status": "OU"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          },
+          {
+            "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
+            "Status": "OU"
+          },
+          {
+            "Description": "38. Adequate ventilation and lighting; designated areas, use",
+            "Status": "OU"
+          },
+          {
+            "Description": "39. Thermometers provided and accurate",
+            "Status": "OU"
+          },
+          {
+            "Description": "40. Wiping cloths; properly used and stored",
+            "Status": "OU"
+          },
+          {
+            "Description": "43. Toilet facilities: properly constructed, supplied, cleaned",
+            "Status": "OU"
+          },
+          {
+            "Description": "44. Premises; personal/cleaning items; vermin proofing",
+            "Status": "OU"
+          },
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2017-04-26",
+        "Result": 0,
+        "Reason": "REPORT REVIEW"
+      },
+      {
+        "Date": "2015-10-14",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "21. Hot and cold water available",
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
+            "Status": "OU"
+          },
+          {
+            "Description": "43. Toilet facilities: properly constructed, supplied, cleaned",
+            "Status": "OU"
+          },
+          {
+            "Description": "44. Premises; personal/cleaning items; vermin proofing",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2014-07-30",
+        "Result": 0,
+        "Reason": "REPORT REVIEW"
+      },
+      {
+        "Date": "2014-07-16",
+        "Result": 54,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Demonstration of knowledge; food mgr certificate",
+            "Status": "OU"
+          },
+          {
+            "Description": "Equipment/Utensils - approved; installed; clean; g",
+            "Status": "OU"
+          },
+          {
+            "Description": "Food in good condition, safe and unadulterated",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "No rodents, insects, birds, or animals",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "Nonfood-contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "Permits Available",
+            "Status": "OU"
+          },
+          {
+            "Description": "Toilet facilities: properly constructed, supplied,",
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0077307": {
+    "Id": "PR0077307",
+    "Name": "OSHINAE",
+    "Address": "9 HILLCREST BLVD",
+    "City": "MILLBRAE",
+    "Zip": "94030",
+    "Lat": 37.602022,
+    "Long": -122.392021,
+    "LastDate": "2015-11-03",
+    "LastResult": 50,
+    "LastViolations": 9,
+    "Inspections": [
+      {
+        "Date": "2015-11-03",
+        "Result": 0,
+        "Reason": "CONSULTATION"
+      },
+      {
+        "Date": "2015-10-22",
+        "Result": 0,
+        "Reason": "LICENSE/PERMIT INVESTIGATION"
+      },
+      {
+        "Date": "2015-07-29",
+        "Result": 0,
+        "Reason": "COMPLAINT-INITIAL"
+      },
+      {
+        "Date": "2015-05-08",
+        "Result": 50,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid available for review",
+            "Degree": 2,
+            "Status": "V"
+          },
+          {
+            "Description": "19. Consumer advisory provided",
+            "Degree": 2,
+            "Status": "V"
+          },
+          {
+            "Description": "26. Approved thawing methods in use",
+            "Degree": 1,
+            "Status": "CO"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Degree": 1,
+            "Status": "V"
+          },
+          {
+            "Description": "30. Food storage; food storage containers identified",
+            "Degree": 2,
+            "Status": "V"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks refrigerators)",
+            "Degree": 2,
+            "Status": "V"
+          },
+          {
+            "Description": "38. Adequate ventilation and lighting; designated areas use",
+            "Degree": 2,
+            "Status": "V"
+          },
+          {
+            "Description": "40. Wiping cloths; properly used and stored",
+            "Degree": 2,
+            "Status": "V"
+          },
+          {
+            "Description": "45. Floors walls and ceiling: built maintained and clean",
+            "Degree": 2,
+            "Status": "V"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0079503": {
+    "Id": "PR0079503",
+    "Name": "WESTBOROUGH CAFE",
+    "Address": "2268 WESTBOROUGH BLVD STE 301",
+    "City": "SOUTH SAN FRANCISCO",
+    "Zip": "94080",
+    "Lat": 37.644104,
+    "Long": -122.45149,
+    "LastDate": "2016-10-25",
+    "LastResult": 49,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2016-10-25",
+        "Result": 0,
+        "Reason": "LICENSE/PERMIT INVESTIGATION"
+      },
+      {
+        "Date": "2016-10-06",
+        "Result": 0,
+        "Reason": "OUT OF BUSINESS"
+      },
+      {
+        "Date": "2015-06-03",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      }
+    ]
+  },
+  "PR0080295": {
+    "Id": "PR0080295",
+    "Name": "MISSION EDGE CAFE AND ROTISSERIE",
+    "Address": "5999 MISSION ST",
+    "City": "DALY CITY",
+    "Zip": "94014",
+    "Lat": 37.708042,
+    "Long": -122.454801,
+    "LastDate": "2016-11-09",
+    "LastResult": 55,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2016-11-09",
+        "Result": 55,
+        "Reason": "FOLLOWUP INSPECTION"
+      },
+      {
+        "Date": "2016-11-08",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "21. Hot and cold water available",
+            "Degree": 1,
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2015-10-13",
+        "Result": 0,
+        "Reason": "EDUCATIONAL INSPECTION"
+      }
+    ]
+  },
+  "PR0081799": {
+    "Id": "PR0081799",
+    "Name": "GRAND HARBOR",
+    "Address": "1492 OLD BAYSHORE HWY",
+    "City": "BURLINGAME",
+    "Zip": "94010",
+    "Lat": 37.597055,
+    "Long": -122.365755,
+    "LastDate": "2017-11-21",
+    "LastResult": 50,
+    "LastViolations": 10,
+    "Inspections": [
+      {
+        "Date": "2017-11-21",
+        "Result": 0,
+        "Reason": "PROGRAM STANDARDIZATION/AUDITING"
+      },
+      {
+        "Date": "2017-08-08",
+        "Result": 50,
+        "Reason": "FOLLOWUP INSPECTION",
+        "Violations": [
+          {
+            "Description": "09. Proper cooling methods",
+            "Status": "OU"
+          },
+          {
+            "Description": "14. Food contact surfaces: clean and sanitized",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "16. Compliance with shell stock tags, condition, display",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "18. Compliance with variance, specialized processes \u0026 HACCP Plan",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "23. No insects, rodents, birds or animals present",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "40. Wiping cloths; properly used and stored",
+            "Status": "OU"
+          },
+          {
+            "Description": "44. Premises; personal/cleaning items; vermin proofing",
+            "Status": "OU"
+          },
+          {
+            "Description": "47. Signs posted; last inspection report available",
+            "Status": "CV"
+          },
+          {
+            "Description": "48. Permit available",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2017-08-03",
+        "Result": 50,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "05. Hands clean and properly washed; proper glove use",
+            "Status": "OU"
+          },
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "14. Food contact surfaces: clean and sanitized",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "16. Compliance with shell stock tags, condition, display",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "18. Compliance with variance, specialized processes \u0026 HACCP Plan",
+            "Status": "OU"
+          },
+          {
+            "Description": "23. No insects, rodents, birds or animals present",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          },
+          {
+            "Description": "39. Thermometers provided and accurate",
+            "Status": "OU"
+          },
+          {
+            "Description": "40. Wiping cloths; properly used and stored",
+            "Status": "OU"
+          },
+          {
+            "Description": "42. Garbage/refuse properly disposed; facilities maintained",
+            "Status": "OU"
+          },
+          {
+            "Description": "44. Premises; personal/cleaning items; vermin proofing",
+            "Status": "OU"
+          },
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "47. Signs posted; last inspection report available",
+            "Status": "OU"
+          },
+          {
+            "Description": "48. Permit available",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-09-13",
+        "Result": 50,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "04. Proper eating, tasting, drinking or tobacco use",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "05. Hands clean and properly washed; proper glove use",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "14. Food contact surfaces: clean and sanitized",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "16. Compliance with shell stock tags, condition, display",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "18. Compliance with variance, specialized processes \u0026 HACCP Plan",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "21. Hot and cold water available",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "23. No insects, rodents, birds or animals present",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "26. Approved thawing methods in use",
+            "Status": "OU"
+          },
+          {
+            "Description": "27. Food separated and protected",
+            "Status": "OU"
+          },
+          {
+            "Description": "30. Food storage; food storage containers identified",
+            "Status": "OU"
+          },
+          {
+            "Description": "33. Nonfood contact surfaces clean",
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          },
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          },
+          {
+            "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
+            "Status": "OU"
+          },
+          {
+            "Description": "40. Wiping cloths; properly used and stored",
+            "Status": "OU"
+          },
+          {
+            "Description": "42. Garbage/refuse properly disposed; facilities maintained",
+            "Status": "OU"
+          },
+          {
+            "Description": "44. Premises; personal/cleaning items; vermin proofing",
+            "Status": "OU"
+          },
+          {
+            "Description": "47. Signs posted; last inspection report available",
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0082158": {
+    "Id": "PR0082158",
+    "Name": "EL DURANGO",
+    "Address": "3387 MIDDLEFIELD RD",
+    "City": "MENLO PARK",
+    "Zip": "94025",
+    "Lat": 37.470565,
+    "Long": -122.202179,
+    "LastDate": "2017-05-02",
+    "LastResult": 49,
+    "LastViolations": 1,
+    "Inspections": [
+      {
+        "Date": "2017-05-02",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-03-07",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0083012": {
+    "Id": "PR0083012",
+    "Name": "ADVANTAGE FOOD SAMPLING PROGRAM AT SAFEWAY #305",
+    "Address": "1071 EL CAMINO REAL",
+    "City": "REDWOOD CITY",
+    "Zip": "94063",
+    "Lat": 37.483549,
+    "Long": -122.231555,
+    "LastDate": "2017-05-15",
+    "LastResult": 49,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2017-05-15",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      }
+    ]
+  },
+  "PR0083463": {
+    "Id": "PR0083463",
+    "Name": "THE FIELD CLUB",
+    "Address": "742 POLHEMUS RD",
+    "City": "SAN MATEO",
+    "Zip": "94402",
+    "Lat": 37.520748,
+    "Long": -122.338913,
+    "LastDate": "2017-05-17",
+    "LastResult": 49,
+    "LastViolations": 3,
+    "Inspections": [
+      {
+        "Date": "2017-05-17",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "30. Food storage; food storage containers identified",
+            "Status": "OU"
+          },
+          {
+            "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0083706": {
+    "Id": "PR0083706",
+    "Name": "POKE RESTAURANT",
+    "Address": "108 PARK PL",
+    "City": "MILLBRAE",
+    "Zip": "94030",
+    "Lat": 37.613607,
+    "Long": -122.405283,
+    "LastDate": "2017-01-05",
+    "LastResult": 49,
+    "LastViolations": 6,
+    "Inspections": [
+      {
+        "Date": "2017-01-05",
+        "Result": 49,
+        "Reason": "ROUTINE",
+        "Violations": [
+          {
+            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "18. Compliance with variance, specialized processes \u0026 HACCP Plan",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "19. Consumer advisory provided",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "26. Approved thawing methods in use",
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0084886": {
+    "Id": "PR0084886",
+    "Name": "TAQUERIA LOS GARCIA",
+    "Address": "175 W 25TH AVE",
+    "City": "SAN MATEO",
+    "Zip": "94401",
+    "Lat": 37.543378,
+    "Long": -122.308738,
+    "LastDate": "2017-09-14",
+    "LastResult": 49,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2017-09-14",
+        "Result": 49,
+        "Reason": "FOLLOWUP INSPECTION"
+      }
+    ]
+  },
+  "PR0085164": {
+    "Id": "PR0085164",
+    "Name": "SAN MATEO COUNTY LIBRARIES - SAN CARLOS",
+    "Address": "610 ELM ST",
+    "City": "SAN CARLOS",
+    "Zip": "94070",
+    "Lat": 37.505014,
+    "Long": -122.262913,
+    "LastDate": "2017-12-15",
+    "LastResult": 0,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2017-12-15",
+        "Result": 0,
+        "Reason": "REPORT REVIEW"
+      },
+      {
+        "Date": "2017-07-25",
+        "Result": 0,
+        "Reason": "LICENSE/PERMIT INVESTIGATION"
+      },
+      {
+        "Date": "2017-07-20",
+        "Result": 0,
+        "Reason": "LICENSE/PERMIT INVESTIGATION"
+      }
+    ]
+  }
+}
+)

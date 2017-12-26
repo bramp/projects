@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      #map {
+        height: 100%;
+      }
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+      .control {
+        background-color: #fff;
+        border: 2px solid #fff;
+        border-radius: 3px;
+        box-shadow: 0 2px 6px rgba(0,0,0,.3);
+        margin-bottom: 22px;
+        text-align: center;
+
+        color: rgb(25,25,25);
+        font-family: Roboto,Arial,sans-serif;
+        font-size: 14px;
+        line-height: 30px;
+      }
+
+      .control button {
+        border: none;
+        text-decoration: none;
+        display: inline-block;
+        cursor: pointer;
+        display: block;
+
+        color: rgb(25,25,25);
+        font-family: Roboto,Arial,sans-serif;
+        font-size: 14px;
+        line-height: 30px;
+        font-weight: bold;
+
+        width: 100px;
+      }
+
+      .control button:hover {
+          background-color: rgb(235, 235, 235);
+      }
+
+      .control button.exclude {
+        opacity: 0.4;
+        font-weight: normal;
+      }
+
+      .control button img {
+        float:left;
+      }
+
+    </style>
+    <script src="js/bind.min.js"></script>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      'use strict';
+
+      const INDEX_FILES = 4;
+      const DATA_FILES = 100;
+      const ICON_PATH = 'https://maps.google.com/mapfiles/ms/icons/';
+
+      const RESULTS_CODE = [];
+      RESULTS_CODE[1] =  {icon:'green',  name: 'MEETS STANDARDS'};
+      RESULTS_CODE[49] = {icon:'green',  name: 'PASS (GREEN)'};
+      RESULTS_CODE[51] = {icon:'green',  name: 'EXCELLENT'};
+      RESULTS_CODE[52] = {icon:'green',  name: 'GOOD'};
+
+      RESULTS_CODE[50] = {icon:'yellow', name: 'CONDITIONAL PASS (YELLOW)'};
+      RESULTS_CODE[53] = {icon:'yellow', name: 'FAIR'};
+      RESULTS_CODE[80] = {icon:'yellow', name: 'VIOLATIONS CORRECTED'};
+      RESULTS_CODE[54] = {icon:'yellow', name: 'POOR'};
+
+      RESULTS_CODE[2] =  {icon:'red',    name: 'FAILED TO MEET STANDARDS'};
+      RESULTS_CODE[5] =  {icon:'red',    name: 'FAILED MCL - SELENIUM'};
+      RESULTS_CODE[10] = {icon:'red',    name: 'FAILED ACTION LEVEL SP ORGANIC'};
+      RESULTS_CODE[55] = {icon:'red',    name: 'CLOSED (RED)'};
+
+      RESULTS_CODE[0] =  {icon:'grey',   name: 'NOT APPLICABLE'};
+      RESULTS_CODE[35] = {icon:'grey',   name: 'NOT IN USE'};
+      RESULTS_CODE[99] = {icon:'grey',   name: 'MAJOR VIOLATION CORRECTED'};
+
+      const DEGREE_CODE = [];
+      DEGREE_CODE[0] = '';
+      DEGREE_CODE[1] = '(Major)';
+      DEGREE_CODE[2] = '(Minor)';
+      DEGREE_CODE[3] = '(Critical)';
+      DEGREE_CODE[6] = '(Legal Action)';
+      DEGREE_CODE[8] = '(Food Handler Certification)';
+
+      const VIOLATION_STATUS = Object.freeze({
+        'A':  'Concern',
+        'CO': '🔧', // 'CORRECTED ON SITE',
+        'CV': '🔧️', // 'VIOLATION CORRECTED',
+        'NA': 'N/A', // 'NOT APPLICABLE',
+        'IN': '✅️', // 'IN COMPLIANCE',
+        'NV': '✅️', // 'No Viol Observed',
+        'NO': '❓', // 'NOT OBSERVED',
+        'UD': '❓', // 'Undetermined',
+        'UN': '❓', // 'UNANSWERED',
+        'OU': '❗', // 'OUT OF COMPLIANCE',
+        'V':  '❗', // 'VIOLATION',
+      });
+
+      const MARKER_ZINDEX = Object.freeze({
+        'grey': 0,
+        'green': 1,
+        'yellow': 2,
+        'red': 3,
+      });
+
+      let data;
+      let map;
+      let infoWindow;
+      let currentMarker;
+
+      const markers = {}; // All the Map Markers.
+      const allLocations = {}; // List of all locations.
+      const scripts = {}; // JS scripts that have been loaded.
+
+      // javaHashCode returns the Java string hashcode for the given string.
+      // Adapated from https://stackoverflow.com/a/7616484/88646
+      function javaHashCode(s) {
+        let hash = 0;
+        for (let i = 0; i < s.length; i++) {
+          //let c = s.charCodeAt(i);
+          //hash = ((hash<<5)-hash)+c;
+          //hash = hash & hash; // Convert to 32bit integer
+          hash = 31*hash + s.charCodeAt(i);
+        }
+        return hash;
+      }
+
+      // lpad zero pads a number
+      function lpad(num, length) {
+        let str = num.toString();
+        while (str.length < length) {
+          str = "0" + str;
+        }
+        return str;
+      }
+
+      function preventDefault(e) {
+        e.preventDefault();
+      }
+
+      function ResultControl(controlDiv, map) {
+        controlDiv.innerHTML = '<div id="results" class="control" title="Click to filter by inspection result">' + 
+          'Last Result' +
+          '<button type="button" data-result="green"><img src="' + ICON_PATH + '/green.png">Good</button>' +
+          '<button type="button" data-result="yellow"><img src="' + ICON_PATH + '/yellow.png">Poor</button>' +
+          '<button type="button" data-result="red"><img src="' + ICON_PATH + '/red.png">Failed</button>' +
+          '<button type="button" data-result="grey"><img src="' + ICON_PATH + '/grey.png">N/A</button>' +
+        '</div>';
+
+        for (let i = 0; i < controlDiv.children.length; i++) {
+          const button = controlDiv.children[i];
+
+          // This prevents the button being focused (and putting a ugly blue box around it).
+          button.addEventListener('mousedown', preventDefault);
+
+          // Toggle the filtering
+          button.addEventListener('click', function(e) {
+            const result = e.target.dataset.result;
+            const i = data.excludeResult.indexOf(result);
+            if (i === -1) {
+              data.excludeResult.push(result)
+            } else {
+              data.excludeResult.splice(i, 1)
+            }
+          });
+        }
+      }
+
+      function YearControl(controlDiv, map) {
+        controlDiv.innerHTML = '<div id="years" class="control" title="Click to filter by last inspection date">' + 
+          'Last Inspection' +
+          '<button type="button" data-year="2017">2017</button>' +
+          '<button type="button" data-year="2016">2016</button>' +
+          '<button type="button" data-year="2015">2015</button>' +
+          '<button type="button" data-year="2014">2014</button>' +
+          '<button type="button" data-year="2013">2013</button>' +
+        '</div>';
+
+        for (let i = 0; i < controlDiv.children.length; i++) {
+          const button = controlDiv.children[i];
+
+          // This prevents the button being focused (and putting a ugly blue box around it).
+          button.addEventListener('mousedown', preventDefault);
+
+          // Toggle the filtering
+          button.addEventListener('click', function(e) {
+            const year = e.target.dataset.year;
+            const i = data.excludeYear.indexOf(year)
+            if (i === -1) {
+              data.excludeYear.push(year)
+            } else {
+              data.excludeYear.splice(i, 1)
+            }
+          });
+        }
+      }
+
+      // Should this location be filtered?
+      function filter(location) {
+        const year = location.LastDate.substring(0, 4);
+        if (data.excludeYear.indexOf(year) !== -1) {
+          return true;
+        }
+
+        const icon = RESULTS_CODE[location.LastResult].icon;
+        if (data.excludeResult.indexOf(icon) !== -1) {
+          return true;
+        }
+      }
+
+      function filterMarkers() {
+        infoWindow.close();
+
+        for (let id in markers) {
+          const marker = markers[id];
+          const show = !filter(marker.location);
+          if (marker.getVisible() != show) {
+            marker.setVisible(show);
+          }
+        }
+      }
+
+      function updateResults(results, old) {
+        const buttons = document.querySelectorAll('#results button');
+        for (let i = 0; i < buttons.length; i++) {
+          const button = buttons[i];
+          const result = button.dataset.result
+          button.className = (results.indexOf(result) === -1) ? '' : 'exclude';
+        }
+        filterMarkers();
+      }
+
+      function updateYears(years, old) {
+        const buttons = document.querySelectorAll('#years button');
+        for (let i = 0; i < buttons.length; i++) {
+          const button = buttons[i];
+          const year = button.dataset.year
+          button.className = (years.indexOf(year) === -1) ? '' : 'exclude';
+        }
+        filterMarkers();
+      }
+
+      function loadScript(filename) {
+        if (!(filename in scripts)) {
+          const script = document.createElement('script');
+          script.src = filename;
+          document.getElementsByTagName('head')[0].appendChild(script);
+          scripts[filename] = true;
+        }
+      }
+
+      function initMap() {
+        const sanMateo = new google.maps.LatLng(37.459143, -122.194339);
+
+        infoWindow = new google.maps.InfoWindow();
+        map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 10,
+          center: sanMateo,
+
+          zoomControl: true,
+          scaleControl: true,
+          fullscreenControl: true,
+          mapTypeControl: false,
+          streetViewControl: false,
+          rotateControl: false,
+        });
+
+        initMapControls();
+
+        // Main model data
+        data = Bind({
+          excludeYear: [],
+          excludeResult: [],
+        }, {
+          excludeYear: updateYears,
+          excludeResult: updateResults,
+        });
+
+        // Dynamically load the data.
+        for (let i = 0; i < INDEX_FILES; i++) {
+          loadScript('data/index-' + lpad(i, 1) + '.js');
+        }
+      }
+
+      function initMapControls() {
+        // Create controls
+        const resultControlDiv = document.createElement('div');
+        const yearControlDiv = document.createElement('div');
+
+        new ResultControl(resultControlDiv, map);
+        new YearControl(yearControlDiv, map);
+
+        map.controls[google.maps.ControlPosition.LEFT_CENTER].push(resultControlDiv);
+        map.controls[google.maps.ControlPosition.LEFT_CENTER].push(yearControlDiv);
+
+        // TODO Add copyright
+      }
+
+      // Displays info about this location in the Info Window.
+      function displayInfoWindow(location) {
+        let content = '<div id="content">'+
+            '<div id="siteNotice">Open San Mateo County - Restaurant Health Inspections</div>'+
+            '<h1 id="firstHeading" class="firstHeading">' + location.Name + ' - ' + RESULTS_CODE[location.LastResult].name + '</h1>'+
+            '<div id="bodyContent">'+
+            '<p><b>' + location.Address + ', ' + location.City + ', ' + location.Zip + '</b></p>';
+
+        content += '<table><tr><td></td><td></td><td></td></tr>';
+
+        for (let i = 0; i < location.Inspections.length; i++) {
+          const inspection = location.Inspections[i];
+          content += '<tr><td>' + inspection.Date + '</td><td>' + inspection.Reason + '</td><td>' + RESULTS_CODE[inspection.Result].name + '</td></tr>';
+
+          if (inspection.Violations) {
+            for (let j = 0; j < inspection.Violations.length; j++) {
+              const violation = inspection.Violations[j];
+
+              content += '<tr><td colspan=3>&nbsp;' + VIOLATION_STATUS[violation.Status]  + ' ' + (violation.Degree ? DEGREE_CODE[violation.Degree]: '') + ' ' + violation.Description + '</td></tr>'
+            }
+          }
+        }
+
+        content += '</table></div></div>';
+        infoWindow.setContent(content);
+        infoWindow.open(map, markers[location.Id]);
+      }
+
+      function markerClicked(marker) {
+        const location = this.location;
+        currentMarker = this;
+
+        if (!(location.Id in allLocations)) {
+          const hash = javaHashCode(location.Id) % DATA_FILES;
+          loadScript('data/data-' + lpad(hash, 2) + '.js');
+          return;
+        }
+
+        displayInfoWindow(allLocations[location.Id]);
+      }
+
+      window.locationCallback = function(locations) {
+        const currentMarkerId = currentMarker ? currentMarker.location.Id : null;
+
+        for (let id in locations) {
+          allLocations[id] = locations[id];
+
+          // Check if this is being viewed
+          if (currentMarkerId == id) {
+            displayInfoWindow(locations[id]);
+          }
+        }
+      }
+
+      // Loop through the locations array and place a marker for each
+      // set of coordinates.
+      window.locationIndexCallback = function(locations) {
+        for (let i = 0; i < locations.length; i++) {
+          const location = locations[i];
+          const icon = RESULTS_CODE[location.LastResult].icon;
+
+          const latLng = new google.maps.LatLng(location.Lat, location.Long);
+          const marker = new google.maps.Marker({
+            map: map,
+            position: latLng,
+            title: location.Name,
+            icon: ICON_PATH + icon + '.png',
+            location: location,
+            visible: !filter(location),
+            zIndex: MARKER_ZINDEX[icon],
+          });
+
+          markers[location.Id] = marker;
+          marker.addListener('click', markerClicked);
+        }
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC3i-PzXu5xCzROZZamsfKqHJ2COGagnwI&callback=initMap">
+    </script>
+  </body>
+</html>
