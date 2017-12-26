@@ -1,6 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <title>Unoffical San Mateo County Restaurant Health Inspection Results</title>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <style>
       #map {
         height: 100%;
@@ -57,8 +62,21 @@
 
     </style>
     <script src="js/bind.min.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136478-8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136478-8');
+    </script>
   </head>
   <body>
+    <!--[if lte IE 9]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+
     <div id="map"></div>
     <script>
       'use strict';
