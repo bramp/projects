@@ -30,11 +30,16 @@
         line-height: 30px;
       }
 
+      .sitenotice {
+        text-align: left;
+        padding-left: 8px;
+        padding-right: 8px;
+      }
+
       .control button {
         background-color: #fff;
         border: none;
         text-decoration: none;
-        display: inline-block;
         cursor: pointer;
         display: block;
 
@@ -169,7 +174,7 @@
         e.preventDefault();
       }
 
-      function ResultControl(controlDiv, map) {
+      function ResultControl(controlDiv) {
         controlDiv.innerHTML = '<div id="results" class="control" title="Click to filter by inspection result">' + 
           'Last Result' +
           '<button type="button" data-result="green"><img src="' + ICON_PATH + '/green.png">Good</button>' +
@@ -197,7 +202,7 @@
         }
       }
 
-      function YearControl(controlDiv, map) {
+      function YearControl(controlDiv) {
         controlDiv.innerHTML = '<div id="years" class="control" title="Click to filter by last inspection date">' + 
           'Last Inspection' +
           '<button type="button" data-year="2017">2017</button>' +
@@ -224,6 +229,15 @@
             }
           });
         }
+      }
+
+      function SiteNoticeControl(controlDiv) {
+        controlDiv.innerHTML = '<div class="control sitenotice">' +
+          '<b>' +
+          'Restaurant Health Inspection Results</b><br>' +
+          'using <a href="https://data.smcgov.org/Health-Human-Services/Restaurant-Health-Inspections/pjzf-pe8z">Open San Mateo County data</a><br>' +
+          'by <a href="https://bramp.net">Andrew Brampton</a> (2017)' +
+        '</div>';
       }
 
       // Should this location be filtered?
@@ -317,14 +331,15 @@
         // Create controls
         const resultControlDiv = document.createElement('div');
         const yearControlDiv = document.createElement('div');
+        const siteNoticeControlDiv = document.createElement('div');
 
-        new ResultControl(resultControlDiv, map);
-        new YearControl(yearControlDiv, map);
+        new ResultControl(resultControlDiv);
+        new YearControl(yearControlDiv);
+        new SiteNoticeControl(siteNoticeControlDiv);
 
-        map.controls[google.maps.ControlPosition.LEFT_CENTER].push(resultControlDiv);
-        map.controls[google.maps.ControlPosition.LEFT_CENTER].push(yearControlDiv);
-
-        // TODO Add copyright
+        map.controls[google.maps.ControlPosition.LEFT_TOP].push(siteNoticeControlDiv);
+        map.controls[google.maps.ControlPosition.LEFT_TOP].push(resultControlDiv);
+        map.controls[google.maps.ControlPosition.LEFT_TOP].push(yearControlDiv);
       }
 
       // Displays info about this location in the Info Window.
