@@ -66,13 +66,11 @@
 
     </style>
     <script src="js/bind.min.js"></script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136478-8"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'UA-136478-8');
     </script>
   </head>
@@ -141,6 +139,7 @@
       let map;
       let infoWindow;
       let currentMarker;
+      let indexLoaded = 0;
 
       const markers = {}; // All the Map Markers.
       const allLocations = {}; // List of all locations.
@@ -372,6 +371,11 @@
         const location = this.location;
         currentMarker = this;
 
+        gtag('event', 'view_item', {
+          'id': location.Id,
+          'name': location.Name,
+        });
+
         if (!(location.Id in allLocations)) {
           const hash = javaHashCode(location.Id) % DATA_FILES;
           loadScript('data/data-' + lpad(hash, 2) + '.js');
@@ -397,6 +401,8 @@
       // Loop through the locations array and place a marker for each
       // set of coordinates.
       window.locationIndexCallback = function(locations) {
+        indexLoaded++;
+
         for (let i = 0; i < locations.length; i++) {
           const location = locations[i];
           const icon = RESULTS_CODE[location.LastResult].icon;
@@ -414,6 +420,16 @@
 
           markers[location.Id] = marker;
           marker.addListener('click', markerClicked);
+        }
+
+        // Feature detects Navigation Timing API support.
+        if (window.performance && indexLoaded >= INDEX_FILES) {
+          // Sends the timing event to Google Analytics.
+          gtag('event', 'timing_complete', {
+            'name': 'load',
+            'value': Math.round(performance.now()), // number of milliseconds since page load
+            'event_category': 'index'
+          });
         }
       }
     </script>
