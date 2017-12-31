@@ -279,6 +279,7 @@ func main() {
 	f, err := os.Open(os.Args[1])
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "Failed to open input: %s\n", err)
+		os.Exit(1)
 	}
 
 	r := csv.NewReader(f)
@@ -286,6 +287,7 @@ func main() {
 	header, err := r.Read()
 	if err == io.EOF {
 		fmt.Fprintf(os.Stderr, "Failed to read header: %s\n", err)
+		os.Exit(1)
 	}
 
 	var rows, skipped, noLocation int
@@ -295,12 +297,13 @@ func main() {
 
 	for {
 		row, err := r.Read()
-		if err == io.EOF {
+		if err != nil {
+			if err != io.EOF {
+				fmt.Fprintf(os.Stderr, "Failed to read row: %s\n", err)
+			}
 			break
 		}
-		if err != nil {
-			fmt.Fprintf(os.Stderr, "Failed to read row: %s\n", err)
-		}
+
 		rows++
 
 		record := make(map[string]string)
