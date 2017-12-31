@@ -3086,7 +3086,8 @@ locationCallback({
           },
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
-            "Status": "CO"
+            "Degree": 2,
+            "Status": "OU"
           },
           {
             "Description": "33. Nonfood contact surfaces clean",

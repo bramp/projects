@@ -9,12 +9,12 @@ locationCallback({
     "Long": -122.384504,
     "LastDate": "2016-12-21",
     "LastResult": 49,
-    "LastViolations": 10,
+    "LastViolations": 6,
     "Inspections": [
       {
         "Date": "2016-12-21",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 0,
+        "Reason": "SURVEY/FIELD STUDY",
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",

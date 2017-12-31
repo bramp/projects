@@ -3603,7 +3603,7 @@ locationCallback({
       {
         "Date": "2015-08-04",
         "Result": 0,
-        "Reason": "CONSULTATION"
+        "Reason": "LICENSE/PERMIT INVESTIGATION"
       },
       {
         "Date": "2015-01-13",

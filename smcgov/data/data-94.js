@@ -4874,7 +4874,7 @@ locationCallback({
       },
       {
         "Date": "2017-04-24",
-        "Result": 55,
+        "Result": 49,
         "Reason": "ROUTINE",
         "Violations": [
           {

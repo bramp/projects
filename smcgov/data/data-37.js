@@ -5224,25 +5224,6 @@ locationCallback({
         ]
       }
     ]
-  },
-  "PR0085907": {
-    "Id": "PR0085907",
-    "Name": "FACEBOOK MPK28 - MICROKITCHENS",
-    "Address": "164 JEFFERSON DR LVL 1-3",
-    "City": "MENLO PARK",
-    "Zip": "94025",
-    "Lat": 37.482125,
-    "Long": -122.172274,
-    "LastDate": "2017-11-30",
-    "LastResult": 49,
-    "LastViolations": 0,
-    "Inspections": [
-      {
-        "Date": "2017-11-30",
-        "Result": 49,
-        "Reason": "ROUTINE"
-      }
-    ]
   }
 }
 )

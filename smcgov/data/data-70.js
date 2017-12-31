@@ -357,8 +357,8 @@ locationCallback({
       },
       {
         "Date": "2015-11-18",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 0,
+        "Reason": "REPORT WRITING"
       },
       {
         "Date": "2015-10-29",

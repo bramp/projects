@@ -2349,12 +2349,12 @@ locationCallback({
     "Lat": 37.598348,
     "Long": -122.366471,
     "LastDate": "2017-04-04",
-    "LastResult": 55,
+    "LastResult": 49,
     "LastViolations": 2,
     "Inspections": [
       {
         "Date": "2017-04-04",
-        "Result": 55,
+        "Result": 49,
         "Reason": "ROUTINE",
         "Violations": [
           {

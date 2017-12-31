@@ -2074,11 +2074,13 @@ locationCallback({
           },
           {
             "Description": "11. Proper reheating procedures for hot holding",
-            "Status": "CO"
+            "Degree": 1,
+            "Status": "OU"
           },
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
-            "Status": "CO"
+            "Degree": 1,
+            "Status": "OU"
           },
           {
             "Description": "26. Approved thawing methods in use",

@@ -1096,8 +1096,8 @@ locationCallback({
       },
       {
         "Date": "2016-02-17",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 0,
+        "Reason": "JOINT ACTIVITY"
       },
       {
         "Date": "2015-05-03",

@@ -4254,7 +4254,7 @@ locationCallback({
       {
         "Date": "2015-11-23",
         "Result": 0,
-        "Reason": "REPORT REVIEW"
+        "Reason": "ROUTINE"
       }
     ]
   },

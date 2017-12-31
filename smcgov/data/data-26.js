@@ -3169,8 +3169,8 @@ locationCallback({
       },
       {
         "Date": "2016-05-24",
-        "Result": 0,
-        "Reason": "JOINT ACTIVITY",
+        "Result": 49,
+        "Reason": "ROUTINE",
         "Violations": [
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
@@ -4233,8 +4233,8 @@ locationCallback({
       },
       {
         "Date": "2017-09-21",
-        "Result": 50,
-        "Reason": "ROUTINE",
+        "Result": 0,
+        "Reason": "LICENSE/PERMIT INVESTIGATION",
         "Violations": [
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",

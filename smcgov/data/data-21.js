@@ -3268,8 +3268,8 @@ locationCallback({
       },
       {
         "Date": "2016-02-18",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 0,
+        "Reason": "REPORT REVIEW",
         "Violations": [
           {
             "Description": "47. Signs posted; last inspection report available",

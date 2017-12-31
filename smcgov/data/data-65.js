@@ -5103,6 +5103,35 @@ locationCallback({
       }
     ]
   },
+  "PR0080883": {
+    "Id": "PR0080883",
+    "Name": "GENENTECH INC B35",
+    "Address": "1475 GRANDVIEW DR",
+    "City": "SOUTH SAN FRANCISCO",
+    "Zip": "94080",
+    "Lat": 37.654944,
+    "Long": -122.38349,
+    "LastDate": "2016-12-29",
+    "LastResult": 49,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2016-12-29",
+        "Result": 0,
+        "Reason": "REPORT WRITING"
+      },
+      {
+        "Date": "2016-02-03",
+        "Result": 49,
+        "Reason": "ROUTINE"
+      },
+      {
+        "Date": "2015-11-02",
+        "Result": 0,
+        "Reason": "EDUCATIONAL INSPECTION"
+      }
+    ]
+  },
   "PR0081080": {
     "Id": "PR0081080",
     "Name": "INDIA BEACH RESTAURANT",

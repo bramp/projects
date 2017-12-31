@@ -1191,8 +1191,8 @@ locationCallback({
       },
       {
         "Date": "2016-10-19",
-        "Result": 0,
-        "Reason": "COMPLAINT-INITIAL",
+        "Result": 49,
+        "Reason": "ROUTINE",
         "Violations": [
           {
             "Description": "07. Proper hot and cold holding temperatures",

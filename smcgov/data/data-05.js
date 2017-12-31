@@ -3918,8 +3918,8 @@ locationCallback({
       },
       {
         "Date": "2015-11-24",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 0,
+        "Reason": "EDUCATIONAL INSPECTION",
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",

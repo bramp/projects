@@ -4545,13 +4545,13 @@ locationCallback({
     "Lat": 0,
     "Long": 0,
     "LastDate": "2017-07-03",
-    "LastResult": 0,
+    "LastResult": 49,
     "LastViolations": 13,
     "Inspections": [
       {
         "Date": "2017-07-03",
-        "Result": 0,
-        "Reason": "JOINT ACTIVITY",
+        "Result": 49,
+        "Reason": "ROUTINE",
         "Violations": [
           {
             "Description": "05. Hands clean and properly washed; proper glove use",

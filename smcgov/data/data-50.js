@@ -4656,8 +4656,8 @@ locationCallback({
       },
       {
         "Date": "2016-02-24",
-        "Result": 0,
-        "Reason": "JOINT ACTIVITY",
+        "Result": 49,
+        "Reason": "ROUTINE",
         "Violations": [
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",

@@ -2702,8 +2702,8 @@ locationCallback({
       },
       {
         "Date": "2016-11-29",
-        "Result": 0,
-        "Reason": "REPORT WRITING",
+        "Result": 55,
+        "Reason": "ROUTINE",
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
