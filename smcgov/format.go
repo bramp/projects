@@ -234,7 +234,7 @@ func writeData(locationsMap map[string]*Location) error {
 // writeIndex writes out the index js files. It deletes data from the locationMap
 // as it goes, so don't try and use locationMap afterwards.
 func writeIndex(locationsMap map[string]*Location) error {
-	// Convert the map into an array, and sort north-south
+	// Convert the map into an array, filter, and sort.
 	var locations = make([]*Location, 0, len(locationsMap))
 
 	for _, location := range locationsMap {
@@ -244,10 +244,17 @@ func writeIndex(locationsMap map[string]*Location) error {
 		location.Zip = ""
 		location.Inspections = nil
 
+		if location.Lat == 0 && location.Long == 0 {
+			// Skip rows we don't do anything useful.
+			continue
+		}
+
 		locations = append(locations, location)
 	}
 	sort.Slice(locations, func(i, j int) bool {
-		return locations[i].Long < locations[j].Long
+		// Sort South-to-North, so the markers are drawn bottom up, making sure
+		// they overlap correctly.
+		return locations[i].Lat > locations[j].Lat
 	})
 
 	for i := 0; i < indexFiles; i++ {
