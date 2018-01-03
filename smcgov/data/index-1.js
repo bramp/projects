@@ -1,21 +1,21 @@
 locationIndexCallback([
   {
-    "Id": "PR0049766",
-    "Name": "Scoopful Ice Cream",
+    "Id": "PR0056759",
+    "Name": "Ichiban Kan",
     "Lat": 37.636297101000025,
     "Long": -122.42086190999999,
-    "LastDate": "2014-08-29",
-    "LastResult": 52,
-    "LastViolations": 1
+    "LastDate": "2014-01-23",
+    "LastResult": 51,
+    "LastViolations": 0
   },
   {
-    "Id": "PR0049394",
-    "Name": "The Great Steak \u0026 Potato Company",
+    "Id": "PR0063209",
+    "Name": "San Bruno Farmers Market",
     "Lat": 37.636297101000025,
     "Long": -122.42086190999999,
-    "LastDate": "2014-07-22",
+    "LastDate": "2013-05-24",
     "LastResult": 0,
-    "LastViolations": 1
+    "LastViolations": 0
   },
   {
     "Id": "PR0000540",
@@ -36,21 +36,21 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
-    "Id": "PR0073722",
-    "Name": "Pacificakes",
-    "Lat": 37.636143848000074,
-    "Long": -122.49210518999996,
-    "LastDate": "2014-07-07",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0073699",
     "Name": "Pacificakes Inc",
     "Lat": 37.636143848000074,
     "Long": -122.49210518999996,
     "LastDate": "2013-07-10",
     "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0073722",
+    "Name": "Pacificakes",
+    "Lat": 37.636143848000074,
+    "Long": -122.49210518999996,
+    "LastDate": "2014-07-07",
+    "LastResult": 51,
     "LastViolations": 0
   },
   {
@@ -72,15 +72,6 @@ locationIndexCallback([
     "LastViolations": 5
   },
   {
-    "Id": "PR0077477",
-    "Name": "RS MEATBALLS",
-    "Lat": 37.636071,
-    "Long": -122.405982,
-    "LastDate": "2017-02-15",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0050573",
     "Name": "ESPOSTOS CATERING",
     "Lat": 37.636071,
@@ -88,6 +79,15 @@ locationIndexCallback([
     "LastDate": "2017-11-07",
     "LastResult": 49,
     "LastViolations": 6
+  },
+  {
+    "Id": "PR0077477",
+    "Name": "RS MEATBALLS",
+    "Lat": 37.636071,
+    "Long": -122.405982,
+    "LastDate": "2017-02-15",
+    "LastResult": 0,
+    "LastViolations": 0
   },
   {
     "Id": "PR0071054",
@@ -117,6 +117,60 @@ locationIndexCallback([
     "LastViolations": 1
   },
   {
+    "Id": "PR0001635",
+    "Name": "MRS FIELDS COOKIES",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2017-04-26",
+    "LastResult": 49,
+    "LastViolations": 8
+  },
+  {
+    "Id": "PR0047459",
+    "Name": "ORANGE TREE",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2017-02-24",
+    "LastResult": 49,
+    "LastViolations": 4
+  },
+  {
+    "Id": "PR0048556",
+    "Name": "BARNES \u0026 NOBLE CAFE",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2017-10-26",
+    "LastResult": 49,
+    "LastViolations": 3
+  },
+  {
+    "Id": "PR0049004",
+    "Name": "PANDA EXPRESS",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2017-03-15",
+    "LastResult": 49,
+    "LastViolations": 3
+  },
+  {
+    "Id": "PR0049059",
+    "Name": "SURF CITY SQUEEZE",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2017-11-01",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0049129",
+    "Name": "SARKU JAPAN",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2016-12-05",
+    "LastResult": 49,
+    "LastViolations": 7
+  },
+  {
     "Id": "PR0049299",
     "Name": "SAIGON CUISINE",
     "Lat": 37.635638,
@@ -124,6 +178,33 @@ locationIndexCallback([
     "LastDate": "2017-07-26",
     "LastResult": 49,
     "LastViolations": 5
+  },
+  {
+    "Id": "PR0049393",
+    "Name": "AUNTIE ANNES PRETZELS",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2017-01-05",
+    "LastResult": 49,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0049762",
+    "Name": "ANDERSEN BAKERY INC",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2017-10-31",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0049884",
+    "Name": "BJS RESTAURANTS \u0026 BREWHOUSE",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2016-12-05",
+    "LastResult": 49,
+    "LastViolations": 4
   },
   {
     "Id": "PR0052696",
@@ -135,15 +216,6 @@ locationIndexCallback([
     "LastViolations": 4
   },
   {
-    "Id": "PR0070057",
-    "Name": "BK 15431",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2016-12-05",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
     "Id": "PR0058649",
     "Name": "HOOTERS",
     "Lat": 37.635638,
@@ -151,24 +223,6 @@ locationIndexCallback([
     "LastDate": "2017-08-02",
     "LastResult": 49,
     "LastViolations": 3
-  },
-  {
-    "Id": "PR0080525",
-    "Name": "ORANGE JULIUS DAIRY QUEEN",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2017-03-02",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
-    "Id": "PR0049762",
-    "Name": "ANDERSEN BAKERY INC",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2017-10-31",
-    "LastResult": 49,
-    "LastViolations": 0
   },
   {
     "Id": "PR0064113",
@@ -189,105 +243,6 @@ locationIndexCallback([
     "LastViolations": 6
   },
   {
-    "Id": "PR0077415",
-    "Name": "SUBWAY #61679",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2017-05-02",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
-    "Id": "PR0082830",
-    "Name": "GAMA RIDE INC",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2017-10-26",
-    "LastResult": 49,
-    "LastViolations": 2
-  },
-  {
-    "Id": "PR0047459",
-    "Name": "ORANGE TREE",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2017-02-24",
-    "LastResult": 49,
-    "LastViolations": 4
-  },
-  {
-    "Id": "PR0083664",
-    "Name": "PITA GYROS",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2017-07-06",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0049393",
-    "Name": "AUNTIE ANNES PRETZELS",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2017-01-05",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0079735",
-    "Name": "CHARLEYS PHILLY STEAKS",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2016-09-06",
-    "LastResult": 0,
-    "LastViolations": 2
-  },
-  {
-    "Id": "PR0049129",
-    "Name": "SARKU JAPAN",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2016-12-05",
-    "LastResult": 49,
-    "LastViolations": 7
-  },
-  {
-    "Id": "PR0079112",
-    "Name": "CHIPOTLE MEXICAN GRILL #2412",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2017-11-21",
-    "LastResult": 49,
-    "LastViolations": 4
-  },
-  {
-    "Id": "PR0080546",
-    "Name": "CURRY EXPRESS",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2017-11-21",
-    "LastResult": 49,
-    "LastViolations": 2
-  },
-  {
-    "Id": "PR0083722",
-    "Name": "MILKCOW",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2017-09-21",
-    "LastResult": 50,
-    "LastViolations": 5
-  },
-  {
-    "Id": "PR0049004",
-    "Name": "PANDA EXPRESS",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2017-03-15",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
     "Id": "PR0069867",
     "Name": "COLDSTONE CREAMERY",
     "Lat": 37.635638,
@@ -297,22 +252,13 @@ locationIndexCallback([
     "LastViolations": 6
   },
   {
-    "Id": "PR0049059",
-    "Name": "SURF CITY SQUEEZE",
+    "Id": "PR0070057",
+    "Name": "BK 15431",
     "Lat": 37.635638,
     "Long": -122.420505,
-    "LastDate": "2017-11-01",
+    "LastDate": "2016-12-05",
     "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0001635",
-    "Name": "MRS FIELDS COOKIES",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2017-04-26",
-    "LastResult": 49,
-    "LastViolations": 8
+    "LastViolations": 1
   },
   {
     "Id": "PR0071071",
@@ -324,15 +270,6 @@ locationIndexCallback([
     "LastViolations": 7
   },
   {
-    "Id": "PR0048556",
-    "Name": "BARNES \u0026 NOBLE CAFE",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2017-10-26",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
     "Id": "PR0074526",
     "Name": "CHARLOTTE RUSSE INC",
     "Lat": 37.635638,
@@ -342,15 +279,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0049884",
-    "Name": "BJS RESTAURANTS \u0026 BREWHOUSE",
-    "Lat": 37.635638,
-    "Long": -122.420505,
-    "LastDate": "2016-12-05",
-    "LastResult": 49,
-    "LastViolations": 4
-  },
-  {
     "Id": "PR0076112",
     "Name": "QUICKLY TANFORAN",
     "Lat": 37.635638,
@@ -358,6 +286,78 @@ locationIndexCallback([
     "LastDate": "2016-08-04",
     "LastResult": 49,
     "LastViolations": 9
+  },
+  {
+    "Id": "PR0077415",
+    "Name": "SUBWAY #61679",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2017-05-02",
+    "LastResult": 49,
+    "LastViolations": 3
+  },
+  {
+    "Id": "PR0079112",
+    "Name": "CHIPOTLE MEXICAN GRILL #2412",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2017-11-21",
+    "LastResult": 49,
+    "LastViolations": 4
+  },
+  {
+    "Id": "PR0079735",
+    "Name": "CHARLEYS PHILLY STEAKS",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2016-09-06",
+    "LastResult": 0,
+    "LastViolations": 2
+  },
+  {
+    "Id": "PR0080525",
+    "Name": "ORANGE JULIUS DAIRY QUEEN",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2017-03-02",
+    "LastResult": 49,
+    "LastViolations": 3
+  },
+  {
+    "Id": "PR0080546",
+    "Name": "CURRY EXPRESS",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2017-11-21",
+    "LastResult": 49,
+    "LastViolations": 2
+  },
+  {
+    "Id": "PR0082830",
+    "Name": "GAMA RIDE INC",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2017-10-26",
+    "LastResult": 49,
+    "LastViolations": 2
+  },
+  {
+    "Id": "PR0083664",
+    "Name": "PITA GYROS",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2017-07-06",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0083722",
+    "Name": "MILKCOW",
+    "Lat": 37.635638,
+    "Long": -122.420505,
+    "LastDate": "2017-09-21",
+    "LastResult": 50,
+    "LastViolations": 5
   },
   {
     "Id": "PR0073677",
@@ -405,21 +405,21 @@ locationIndexCallback([
     "LastViolations": 1
   },
   {
-    "Id": "PR0082106",
-    "Name": "CHICHA RRONI",
-    "Lat": 37.635391,
-    "Long": -122.49018,
-    "LastDate": "2017-02-09",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0059456",
     "Name": "SONNYS RISTORANTE PIZZERIA",
     "Lat": 37.635391,
     "Long": -122.49018,
     "LastDate": "2016-01-14",
     "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0082106",
+    "Name": "CHICHA RRONI",
+    "Lat": 37.635391,
+    "Long": -122.49018,
+    "LastDate": "2017-02-09",
+    "LastResult": 0,
     "LastViolations": 0
   },
   {
@@ -513,15 +513,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0025826",
-    "Name": "CAFETERIA",
-    "Lat": 37.63340597300004,
-    "Long": -122.397956438,
-    "LastDate": "2015-06-12",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
     "Id": "PR0001147",
     "Name": "ARAMARK CORP",
     "Lat": 37.63340597300004,
@@ -529,6 +520,15 @@ locationIndexCallback([
     "LastDate": "2015-06-12",
     "LastResult": 49,
     "LastViolations": 2
+  },
+  {
+    "Id": "PR0025826",
+    "Name": "CAFETERIA",
+    "Lat": 37.63340597300004,
+    "Long": -122.397956438,
+    "LastDate": "2015-06-12",
+    "LastResult": 49,
+    "LastViolations": 1
   },
   {
     "Id": "PR0070062",
@@ -540,15 +540,6 @@ locationIndexCallback([
     "LastViolations": 5
   },
   {
-    "Id": "PR0001342",
-    "Name": "OCEANA MARKET",
-    "Lat": 37.63255,
-    "Long": -122.487997,
-    "LastDate": "2017-05-15",
-    "LastResult": 49,
-    "LastViolations": 6
-  },
-  {
     "Id": "PR0000536",
     "Name": "GO SUSHI",
     "Lat": 37.63255,
@@ -556,6 +547,15 @@ locationIndexCallback([
     "LastDate": "2017-05-15",
     "LastResult": 49,
     "LastViolations": 0
+  },
+  {
+    "Id": "PR0001342",
+    "Name": "OCEANA MARKET",
+    "Lat": 37.63255,
+    "Long": -122.487997,
+    "LastDate": "2017-05-15",
+    "LastResult": 49,
+    "LastViolations": 6
   },
   {
     "Id": "PR0065686",
@@ -567,15 +567,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0076624",
-    "Name": "JEFF FOOD TEA WORLD",
-    "Lat": 37.632549,
-    "Long": -122.488699,
-    "LastDate": "2016-11-30",
-    "LastResult": 49,
-    "LastViolations": 2
-  },
-  {
     "Id": "PR0074118",
     "Name": "DINOSAURS SANDWICHES",
     "Lat": 37.632549,
@@ -583,6 +574,15 @@ locationIndexCallback([
     "LastDate": "2016-11-30",
     "LastResult": 49,
     "LastViolations": 6
+  },
+  {
+    "Id": "PR0076624",
+    "Name": "JEFF FOOD TEA WORLD",
+    "Lat": 37.632549,
+    "Long": -122.488699,
+    "LastDate": "2016-11-30",
+    "LastResult": 49,
+    "LastViolations": 2
   },
   {
     "Id": "PR0000785",
@@ -612,15 +612,6 @@ locationIndexCallback([
     "LastViolations": 4
   },
   {
-    "Id": "PR0070216",
-    "Name": "SKYLINE COLLEGE BOOKSTORE-BLDG 6",
-    "Lat": 37.632023,
-    "Long": -122.464214,
-    "LastDate": "2017-05-11",
-    "LastResult": 49,
-    "LastViolations": 4
-  },
-  {
     "Id": "PR0027259",
     "Name": "PACIFIC DINING- SKYLINE",
     "Lat": 37.632023,
@@ -628,6 +619,15 @@ locationIndexCallback([
     "LastDate": "2017-05-11",
     "LastResult": 49,
     "LastViolations": 8
+  },
+  {
+    "Id": "PR0070216",
+    "Name": "SKYLINE COLLEGE BOOKSTORE-BLDG 6",
+    "Lat": 37.632023,
+    "Long": -122.464214,
+    "LastDate": "2017-05-11",
+    "LastResult": 49,
+    "LastViolations": 4
   },
   {
     "Id": "PR0000912",
@@ -855,21 +855,21 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
-    "Id": "PR0083813",
-    "Name": "REVEL CATERING AND EVENTS",
-    "Lat": 37.629923,
-    "Long": -122.411571,
-    "LastDate": "2017-08-29",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
     "Id": "PR0027128",
     "Name": "AIR CULINAIRE WORLDWIDE, LLC",
     "Lat": 37.629923,
     "Long": -122.411571,
     "LastDate": "2016-03-16",
     "LastResult": 51,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0083813",
+    "Name": "REVEL CATERING AND EVENTS",
+    "Lat": 37.629923,
+    "Long": -122.411571,
+    "LastDate": "2017-08-29",
+    "LastResult": 49,
     "LastViolations": 1
   },
   {
@@ -1062,15 +1062,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0082911",
-    "Name": "COCOS MK AT 1000",
-    "Lat": 37.628822,
-    "Long": -122.425967,
-    "LastDate": "2017-03-02",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0082908",
     "Name": "ANDYS MK AT 1000",
     "Lat": 37.628822,
@@ -1078,6 +1069,15 @@ locationIndexCallback([
     "LastDate": "2017-03-02",
     "LastResult": 49,
     "LastViolations": 1
+  },
+  {
+    "Id": "PR0082911",
+    "Name": "COCOS MK AT 1000",
+    "Lat": 37.628822,
+    "Long": -122.425967,
+    "LastDate": "2017-03-02",
+    "LastResult": 49,
+    "LastViolations": 0
   },
   {
     "Id": "PR0063642",
@@ -1098,15 +1098,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0085843",
-    "Name": "HASHES AND BREWS",
-    "Lat": 37.628506,
-    "Long": -122.425966,
-    "LastDate": "2017-12-05",
-    "LastResult": 49,
-    "LastViolations": 6
-  },
-  {
     "Id": "PR0039746",
     "Name": "PASTA POMODORO",
     "Lat": 37.628506,
@@ -1114,6 +1105,15 @@ locationIndexCallback([
     "LastDate": "2017-07-24",
     "LastResult": 50,
     "LastViolations": 10
+  },
+  {
+    "Id": "PR0085843",
+    "Name": "HASHES AND BREWS",
+    "Lat": 37.628506,
+    "Long": -122.425966,
+    "LastDate": "2017-12-05",
+    "LastResult": 49,
+    "LastViolations": 6
   },
   {
     "Id": "PR0080683",
@@ -1143,13 +1143,13 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0077441",
-    "Name": "YOUTUBE MK 2-2",
+    "Id": "PR0002481",
+    "Name": "YOU TUBE",
     "Lat": 37.62816,
     "Long": -122.425758,
     "LastDate": "2017-03-02",
     "LastResult": 49,
-    "LastViolations": 0
+    "LastViolations": 1
   },
   {
     "Id": "PR0077437",
@@ -1159,15 +1159,6 @@ locationIndexCallback([
     "LastDate": "2017-03-02",
     "LastResult": 49,
     "LastViolations": 0
-  },
-  {
-    "Id": "PR0002481",
-    "Name": "YOU TUBE",
-    "Lat": 37.62816,
-    "Long": -122.425758,
-    "LastDate": "2017-03-02",
-    "LastResult": 49,
-    "LastViolations": 1
   },
   {
     "Id": "PR0077438",
@@ -1190,6 +1181,15 @@ locationIndexCallback([
   {
     "Id": "PR0077440",
     "Name": "YOUTUBE MK2-1",
+    "Lat": 37.62816,
+    "Long": -122.425758,
+    "LastDate": "2017-03-02",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0077441",
+    "Name": "YOUTUBE MK 2-2",
     "Lat": 37.62816,
     "Long": -122.425758,
     "LastDate": "2017-03-02",
@@ -1242,17 +1242,8 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0079600",
-    "Name": "YOUTUBE MK 1",
-    "Lat": 37.627991,
-    "Long": -122.425475,
-    "LastDate": "2017-03-02",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0079601",
-    "Name": "BARISTA BAR",
+    "Id": "PR0079594",
+    "Name": "YOUTUBE MK 6",
     "Lat": 37.627991,
     "Long": -122.425475,
     "LastDate": "2017-03-02",
@@ -1262,24 +1253,6 @@ locationIndexCallback([
   {
     "Id": "PR0079595",
     "Name": "YOUTUBE MK 5",
-    "Lat": 37.627991,
-    "Long": -122.425475,
-    "LastDate": "2017-03-02",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0079599",
-    "Name": "YOUTUBE MK 2",
-    "Lat": 37.627991,
-    "Long": -122.425475,
-    "LastDate": "2017-03-02",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0079594",
-    "Name": "YOUTUBE MK 6",
     "Lat": 37.627991,
     "Long": -122.425475,
     "LastDate": "2017-03-02",
@@ -1298,6 +1271,33 @@ locationIndexCallback([
   {
     "Id": "PR0079598",
     "Name": "YOUTUBE MK 3",
+    "Lat": 37.627991,
+    "Long": -122.425475,
+    "LastDate": "2017-03-02",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0079599",
+    "Name": "YOUTUBE MK 2",
+    "Lat": 37.627991,
+    "Long": -122.425475,
+    "LastDate": "2017-03-02",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0079600",
+    "Name": "YOUTUBE MK 1",
+    "Lat": 37.627991,
+    "Long": -122.425475,
+    "LastDate": "2017-03-02",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0079601",
+    "Name": "BARISTA BAR",
     "Lat": 37.627991,
     "Long": -122.425475,
     "LastDate": "2017-03-02",
@@ -1449,15 +1449,6 @@ locationIndexCallback([
     "LastViolations": 4
   },
   {
-    "Id": "PR0076437",
-    "Name": "JK KITCHEN",
-    "Lat": 37.62703511800004,
-    "Long": -122.41132739099999,
-    "LastDate": "2015-04-16",
-    "LastResult": 52,
-    "LastViolations": 3
-  },
-  {
     "Id": "PR0001354",
     "Name": "Hong Woo Chinese Restaurant",
     "Lat": 37.62703511800004,
@@ -1465,6 +1456,15 @@ locationIndexCallback([
     "LastDate": "2014-03-06",
     "LastResult": 0,
     "LastViolations": 0
+  },
+  {
+    "Id": "PR0076437",
+    "Name": "JK KITCHEN",
+    "Lat": 37.62703511800004,
+    "Long": -122.41132739099999,
+    "LastDate": "2015-04-16",
+    "LastResult": 52,
+    "LastViolations": 3
   },
   {
     "Id": "PR0077293",
@@ -1476,15 +1476,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0084424",
-    "Name": "KURONEKO BAKERY",
-    "Lat": 37.62694,
-    "Long": -122.411273,
-    "LastDate": "2017-09-17",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
     "Id": "PR0076089",
     "Name": "SWEET \u0026 NATURAL",
     "Lat": 37.62694,
@@ -1492,6 +1483,15 @@ locationIndexCallback([
     "LastDate": "2017-09-17",
     "LastResult": 49,
     "LastViolations": 0
+  },
+  {
+    "Id": "PR0084424",
+    "Name": "KURONEKO BAKERY",
+    "Lat": 37.62694,
+    "Long": -122.411273,
+    "LastDate": "2017-09-17",
+    "LastResult": 49,
+    "LastViolations": 1
   },
   {
     "Id": "PR0078006",
@@ -1530,15 +1530,6 @@ locationIndexCallback([
     "LastViolations": 3
   },
   {
-    "Id": "PR0038421",
-    "Name": "CAFE GRILLADES",
-    "Lat": 37.626749,
-    "Long": -122.424917,
-    "LastDate": "2017-12-05",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
     "Id": "PR0002461",
     "Name": "SUNNYS SUSHI",
     "Lat": 37.626749,
@@ -1546,15 +1537,6 @@ locationIndexCallback([
     "LastDate": "2017-11-29",
     "LastResult": 49,
     "LastViolations": 3
-  },
-  {
-    "Id": "PR0085196",
-    "Name": "GNC",
-    "Lat": 37.626749,
-    "Long": -122.424917,
-    "LastDate": "2017-07-24",
-    "LastResult": 49,
-    "LastViolations": 1
   },
   {
     "Id": "PR0029417",
@@ -1566,39 +1548,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0082614",
-    "Name": "GNC #811",
-    "Lat": 37.626749,
-    "Long": -122.424917,
-    "LastDate": "2017-06-29",
-    "LastResult": 49,
-    "LastViolations": 2
-  },
-  {
     "Id": "PR0033021",
     "Name": "JAMBA JUICE",
     "Lat": 37.626749,
     "Long": -122.424917,
     "LastDate": "2015-05-21",
     "LastResult": 52,
-    "LastViolations": 5
-  },
-  {
-    "Id": "PR0057020",
-    "Name": "BIG MOUTH RESTAURANT",
-    "Lat": 37.626749,
-    "Long": -122.424917,
-    "LastDate": "2017-05-30",
-    "LastResult": 49,
-    "LastViolations": 6
-  },
-  {
-    "Id": "PR0082291",
-    "Name": "NUEVE",
-    "Lat": 37.626749,
-    "Long": -122.424917,
-    "LastDate": "2017-11-29",
-    "LastResult": 49,
     "LastViolations": 5
   },
   {
@@ -1611,6 +1566,42 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
+    "Id": "PR0038421",
+    "Name": "CAFE GRILLADES",
+    "Lat": 37.626749,
+    "Long": -122.424917,
+    "LastDate": "2017-12-05",
+    "LastResult": 49,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0049163",
+    "Name": "EXTREME PIZZA",
+    "Lat": 37.626749,
+    "Long": -122.424917,
+    "LastDate": "2017-11-02",
+    "LastResult": 49,
+    "LastViolations": 2
+  },
+  {
+    "Id": "PR0057020",
+    "Name": "BIG MOUTH RESTAURANT",
+    "Lat": 37.626749,
+    "Long": -122.424917,
+    "LastDate": "2017-05-30",
+    "LastResult": 49,
+    "LastViolations": 6
+  },
+  {
+    "Id": "PR0059445",
+    "Name": "WEIGHT WATCHERS NORTH AMERICA INC",
+    "Lat": 37.626749,
+    "Long": -122.424917,
+    "LastDate": "2017-06-23",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
     "Id": "PR0081165",
     "Name": "JAMBA JUICE #154",
     "Lat": 37.626749,
@@ -1620,20 +1611,20 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0083572",
-    "Name": "BAYHILL VIETNAMESE BISTRO",
+    "Id": "PR0082291",
+    "Name": "NUEVE",
     "Lat": 37.626749,
     "Long": -122.424917,
-    "LastDate": "2017-11-10",
+    "LastDate": "2017-11-29",
     "LastResult": 49,
-    "LastViolations": 0
+    "LastViolations": 5
   },
   {
-    "Id": "PR0049163",
-    "Name": "EXTREME PIZZA",
+    "Id": "PR0082614",
+    "Name": "GNC #811",
     "Lat": 37.626749,
     "Long": -122.424917,
-    "LastDate": "2017-11-02",
+    "LastDate": "2017-06-29",
     "LastResult": 49,
     "LastViolations": 2
   },
@@ -1647,13 +1638,22 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0059445",
-    "Name": "WEIGHT WATCHERS NORTH AMERICA INC",
+    "Id": "PR0083572",
+    "Name": "BAYHILL VIETNAMESE BISTRO",
     "Lat": 37.626749,
     "Long": -122.424917,
-    "LastDate": "2017-06-23",
+    "LastDate": "2017-11-10",
     "LastResult": 49,
     "LastViolations": 0
+  },
+  {
+    "Id": "PR0085196",
+    "Name": "GNC",
+    "Lat": 37.626749,
+    "Long": -122.424917,
+    "LastDate": "2017-07-24",
+    "LastResult": 49,
+    "LastViolations": 1
   },
   {
     "Id": "PR0029943",
@@ -1665,15 +1665,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0051673",
-    "Name": "Quiznos #10813",
-    "Lat": 37.62663930600007,
-    "Long": -122.42485341099996,
-    "LastDate": "2014-04-22",
-    "LastResult": 51,
-    "LastViolations": 2
-  },
-  {
     "Id": "PR0027813",
     "Name": "Taco Bell #18327",
     "Lat": 37.62663930600007,
@@ -1681,6 +1672,15 @@ locationIndexCallback([
     "LastDate": "2013-03-22",
     "LastResult": 51,
     "LastViolations": 0
+  },
+  {
+    "Id": "PR0051673",
+    "Name": "Quiznos #10813",
+    "Lat": 37.62663930600007,
+    "Long": -122.42485341099996,
+    "LastDate": "2014-04-22",
+    "LastResult": 51,
+    "LastViolations": 2
   },
   {
     "Id": "PR0000734",
@@ -1719,15 +1719,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0048518",
-    "Name": "PEETS COFFEE @ MOLLIE STONES",
-    "Lat": 37.626489,
-    "Long": -122.426178,
-    "LastDate": "2017-01-04",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0028308",
     "Name": "MOLLIE STONES MARKET",
     "Lat": 37.626489,
@@ -1746,13 +1737,13 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
-    "Id": "PR0081582",
-    "Name": "LOS PRIMOS PRODUCE AND MARKET",
-    "Lat": 37.626444,
-    "Long": -122.411262,
-    "LastDate": "2017-09-05",
+    "Id": "PR0048518",
+    "Name": "PEETS COFFEE @ MOLLIE STONES",
+    "Lat": 37.626489,
+    "Long": -122.426178,
+    "LastDate": "2017-01-04",
     "LastResult": 49,
-    "LastViolations": 5
+    "LastViolations": 0
   },
   {
     "Id": "PR0065461",
@@ -1762,6 +1753,15 @@ locationIndexCallback([
     "LastDate": "2017-06-09",
     "LastResult": 49,
     "LastViolations": 2
+  },
+  {
+    "Id": "PR0081582",
+    "Name": "LOS PRIMOS PRODUCE AND MARKET",
+    "Lat": 37.626444,
+    "Long": -122.411262,
+    "LastDate": "2017-09-05",
+    "LastResult": 49,
+    "LastViolations": 5
   },
   {
     "Id": "PR0023031",
@@ -1944,15 +1944,6 @@ locationIndexCallback([
     "LastViolations": 7
   },
   {
-    "Id": "PR0067818",
-    "Name": "SIDE BY SIDE GOURMET",
-    "Lat": 37.624847084000066,
-    "Long": -122.42680970299995,
-    "LastDate": "2015-06-11",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0048509",
     "Name": "L \u0026 L HAWAIIAN \u0026 BBQ",
     "Lat": 37.624847084000066,
@@ -1962,12 +1953,12 @@ locationIndexCallback([
     "LastViolations": 8
   },
   {
-    "Id": "PR0084260",
-    "Name": "HON LIN RESTAURANT INC",
-    "Lat": 37.6247,
-    "Long": -122.411219,
-    "LastDate": "2017-08-02",
-    "LastResult": 0,
+    "Id": "PR0067818",
+    "Name": "SIDE BY SIDE GOURMET",
+    "Lat": 37.624847084000066,
+    "Long": -122.42680970299995,
+    "LastDate": "2015-06-11",
+    "LastResult": 51,
     "LastViolations": 0
   },
   {
@@ -1978,6 +1969,15 @@ locationIndexCallback([
     "LastDate": "2017-01-17",
     "LastResult": 49,
     "LastViolations": 1
+  },
+  {
+    "Id": "PR0084260",
+    "Name": "HON LIN RESTAURANT INC",
+    "Lat": 37.6247,
+    "Long": -122.411219,
+    "LastDate": "2017-08-02",
+    "LastResult": 0,
+    "LastViolations": 0
   },
   {
     "Id": "PR0048539",
@@ -2160,15 +2160,6 @@ locationIndexCallback([
     "LastViolations": 3
   },
   {
-    "Id": "PR0084378",
-    "Name": "RAMADA",
-    "Lat": 37.623282,
-    "Long": -122.412798,
-    "LastDate": "2017-05-03",
-    "LastResult": 49,
-    "LastViolations": 9
-  },
-  {
     "Id": "PR0047494",
     "Name": "RAMADA LIMITED",
     "Lat": 37.623282,
@@ -2176,6 +2167,15 @@ locationIndexCallback([
     "LastDate": "2017-02-07",
     "LastResult": 51,
     "LastViolations": 0
+  },
+  {
+    "Id": "PR0084378",
+    "Name": "RAMADA",
+    "Lat": 37.623282,
+    "Long": -122.412798,
+    "LastDate": "2017-05-03",
+    "LastResult": 49,
+    "LastViolations": 9
   },
   {
     "Id": "PR0042610",
@@ -2241,20 +2241,20 @@ locationIndexCallback([
     "LastViolations": 4
   },
   {
-    "Id": "PR0083087",
-    "Name": "BUDDHAS JOY",
-    "Lat": 37.62254,
-    "Long": -122.411243,
-    "LastDate": "2017-11-13",
-    "LastResult": 49,
-    "LastViolations": 2
-  },
-  {
     "Id": "PR0076368",
     "Name": "CANDY TALK",
     "Lat": 37.62254,
     "Long": -122.411243,
     "LastDate": "2015-08-03",
+    "LastResult": 49,
+    "LastViolations": 2
+  },
+  {
+    "Id": "PR0083087",
+    "Name": "BUDDHAS JOY",
+    "Lat": 37.62254,
+    "Long": -122.411243,
+    "LastDate": "2017-11-13",
     "LastResult": 49,
     "LastViolations": 2
   },
@@ -2277,6 +2277,114 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
+    "Id": "PR0001668",
+    "Name": "DELTA SKY CLUB (INTERNATIONAL)",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-02-15",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0001669",
+    "Name": "JAPAN AIR LINES SAKURA LOUNGE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-09-26",
+    "LastResult": 49,
+    "LastViolations": 3
+  },
+  {
+    "Id": "PR0001670",
+    "Name": "BRITISH AIRWAYS LOUNGE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-10",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0001671",
+    "Name": "Mabuhay Lounge",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-05-30",
+    "LastResult": 52,
+    "LastViolations": 2
+  },
+  {
+    "Id": "PR0001672",
+    "Name": "CHINA AIRLINES DYNASTY LOUNGE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-11-01",
+    "LastResult": 49,
+    "LastViolations": 3
+  },
+  {
+    "Id": "PR0002512",
+    "Name": "The Board Room",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-05-27",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0002774",
+    "Name": "UNITED RED CARPET CLUB #2",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2016-05-05",
+    "LastResult": 52,
+    "LastViolations": 2
+  },
+  {
+    "Id": "PR0002775",
+    "Name": "UNITED AIRLINES FIRST CLASS",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2016-03-02",
+    "LastResult": 52,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0025374",
+    "Name": "Red Carpet Club",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-06-27",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0027325",
+    "Name": "GO BISTRO",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-12-12",
+    "LastResult": 49,
+    "LastViolations": 3
+  },
+  {
+    "Id": "PR0028452",
+    "Name": "SILVER KRIS LOUNGE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-03",
+    "LastResult": 49,
+    "LastViolations": 3
+  },
+  {
+    "Id": "PR0029197",
+    "Name": "PERRYS TO GO",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-18",
+    "LastResult": 49,
+    "LastViolations": 2
+  },
+  {
     "Id": "PR0029941",
     "Name": "Peets Coffee #3",
     "Lat": 37.62250947100006,
@@ -2286,211 +2394,40 @@ locationIndexCallback([
     "LastViolations": 3
   },
   {
-    "Id": "PR0044292",
-    "Name": "Tazza D'Oro",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2013-06-18",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0039028",
-    "Name": "EMPORIO RULLI",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2016-10-06",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0053549",
-    "Name": "AMOURA",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-10-25",
-    "LastResult": 49,
-    "LastViolations": 5
-  },
-  {
-    "Id": "PR0052596",
-    "Name": "Soup And Salad Station",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2013-04-18",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0064871",
-    "Name": "WAKABA",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-11-30",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0038995",
-    "Name": "Pacific Gateway Gift \u0026 News",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2013-12-20",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0037595",
-    "Name": "EMPORIO RULLI ARRIVALS INC",
+    "Id": "PR0035095",
+    "Name": "FIREWOOD CAFE  INTL",
     "Lat": 37.62250947100006,
     "Long": -122.39519978799996,
     "LastDate": "2016-09-06",
     "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0064644",
-    "Name": "HUDSON NEWS/ DISCOVER S F #772",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-11-09",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0048244",
-    "Name": "EMPORIO RULLI",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-10-12",
-    "LastResult": 49,
-    "LastViolations": 5
-  },
-  {
-    "Id": "PR0051188",
-    "Name": "ANDALE",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-11-08",
-    "LastResult": 49,
-    "LastViolations": 9
-  },
-  {
-    "Id": "PR0047919",
-    "Name": "Sankaku",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-04-22",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0036205",
-    "Name": "EBISU JAPANESE SUSHI",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2016-01-20",
-    "LastResult": 49,
-    "LastViolations": 4
-  },
-  {
-    "Id": "PR0037596",
-    "Name": "Eva Airways",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-05-16",
-    "LastResult": 53,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0047932",
-    "Name": "Max The Greek",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-04-22",
-    "LastResult": 51,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0067343",
-    "Name": "AMOURA SFO EMPLOYEE CAFE",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2015-11-10",
-    "LastResult": 49,
     "LastViolations": 2
   },
   {
-    "Id": "PR0067415",
-    "Name": "CATHAY PACIFIC AIRWAYS-EXECUTIVE LOUNGE",
+    "Id": "PR0035119",
+    "Name": "FIREWOOD GRILL SERIES #2",
     "Lat": 37.62250947100006,
     "Long": -122.39519978799996,
-    "LastDate": "2017-09-20",
-    "LastResult": 49,
-    "LastViolations": 4
+    "LastDate": "2017-09-26",
+    "LastResult": 50,
+    "LastViolations": 11
   },
   {
-    "Id": "PR0072903",
-    "Name": "Delta Sky Club (Domestic)",
+    "Id": "PR0035135",
+    "Name": "TOMOKAZU",
     "Lat": 37.62250947100006,
     "Long": -122.39519978799996,
-    "LastDate": "2014-05-13",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0039527",
-    "Name": "DUTY FREE SHOPPERS GROUP L P",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-10-19",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0049022",
-    "Name": "CITY BY THE BAY",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-11-29",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0047902",
-    "Name": "MAXS EATZ \u0026 FRESH BAKERY",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-11-29",
-    "LastResult": 49,
-    "LastViolations": 5
-  },
-  {
-    "Id": "PR0047968",
-    "Name": "Subway #33496",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-09-04",
-    "LastResult": 51,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0047933",
-    "Name": "SF SOUP CO",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-12-05",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
-    "Id": "PR0036195",
-    "Name": "ANDALE RESTAURANT \u0026 BAR",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2016-07-27",
+    "LastDate": "2017-09-27",
     "LastResult": 49,
     "LastViolations": 8
+  },
+  {
+    "Id": "PR0035139",
+    "Name": "LORIS DINER",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2015-10-13",
+    "LastResult": 49,
+    "LastViolations": 2
   },
   {
     "Id": "PR0035140",
@@ -2502,83 +2439,20 @@ locationIndexCallback([
     "LastViolations": 1
   },
   {
-    "Id": "PR0047931",
-    "Name": "BUENA VISTA CAFE",
+    "Id": "PR0035378",
+    "Name": "BURGER JOINT",
     "Lat": 37.62250947100006,
     "Long": -122.39519978799996,
-    "LastDate": "2017-01-10",
+    "LastDate": "2016-12-21",
     "LastResult": 49,
     "LastViolations": 4
   },
   {
-    "Id": "PR0064931",
-    "Name": "LARK CREEK GRILL",
+    "Id": "PR0036174",
+    "Name": "PEETS COFFEE #1",
     "Lat": 37.62250947100006,
     "Long": -122.39519978799996,
-    "LastDate": "2017-10-11",
-    "LastResult": 49,
-    "LastViolations": 7
-  },
-  {
-    "Id": "PR0038998",
-    "Name": "Embarcadero Treats",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2013-12-26",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0036216",
-    "Name": "Cafe Del Mundo",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2013-12-26",
-    "LastResult": 53,
-    "LastViolations": 5
-  },
-  {
-    "Id": "PR0061027",
-    "Name": "Bay Reader Store",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-05-27",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0001668",
-    "Name": "DELTA SKY CLUB (INTERNATIONAL)",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-02-15",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0038996",
-    "Name": "Pacific Gateway Gift \u0026 News",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2013-12-26",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0047974",
-    "Name": "LORIS DINER",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2016-11-03",
-    "LastResult": 49,
-    "LastViolations": 5
-  },
-  {
-    "Id": "PR0065157",
-    "Name": "BURGER JOINT",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-10-11",
+    "LastDate": "2016-02-03",
     "LastResult": 49,
     "LastViolations": 0
   },
@@ -2592,6 +2466,24 @@ locationIndexCallback([
     "LastViolations": 5
   },
   {
+    "Id": "PR0036195",
+    "Name": "ANDALE RESTAURANT \u0026 BAR",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2016-07-27",
+    "LastResult": 49,
+    "LastViolations": 8
+  },
+  {
+    "Id": "PR0036205",
+    "Name": "EBISU JAPANESE SUSHI",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2016-01-20",
+    "LastResult": 49,
+    "LastViolations": 4
+  },
+  {
     "Id": "PR0036214",
     "Name": "FUNG LUM EXPRESS LLC",
     "Lat": 37.62250947100006,
@@ -2599,69 +2491,6 @@ locationIndexCallback([
     "LastDate": "2017-01-04",
     "LastResult": 49,
     "LastViolations": 1
-  },
-  {
-    "Id": "PR0072653",
-    "Name": "S F UNCORKD",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-01-10",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
-    "Id": "PR0049017",
-    "Name": "Ktvu",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2013-04-18",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0065389",
-    "Name": "STARBUCKS",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-06-22",
-    "LastResult": 49,
-    "LastViolations": 5
-  },
-  {
-    "Id": "PR0054342",
-    "Name": "GHIRALDELLI KIOSK-FRONTAL",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-10-12",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0036998",
-    "Name": "DELI UP CAFE",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-09-19",
-    "LastResult": 52,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0048854",
-    "Name": "CALIFORNIA LIFESTYLE",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2015-05-27",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0048033",
-    "Name": "YANKEE PIER",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-11-08",
-    "LastResult": 49,
-    "LastViolations": 8
   },
   {
     "Id": "PR0036215",
@@ -2673,12 +2502,219 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
+    "Id": "PR0036216",
+    "Name": "Cafe Del Mundo",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2013-12-26",
+    "LastResult": 53,
+    "LastViolations": 5
+  },
+  {
+    "Id": "PR0036321",
+    "Name": "FIREWOOD GRILL SERIES #1",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2016-10-06",
+    "LastResult": 51,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0036332",
+    "Name": "Cafe Del Mundo/Il Fornaio",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-05-28",
+    "LastResult": 53,
+    "LastViolations": 2
+  },
+  {
+    "Id": "PR0036998",
+    "Name": "DELI UP CAFE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-09-19",
+    "LastResult": 52,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0037412",
+    "Name": "HARBOR VILLAGE RESTAURANT",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-01-05",
+    "LastResult": 49,
+    "LastViolations": 12
+  },
+  {
+    "Id": "PR0037595",
+    "Name": "EMPORIO RULLI ARRIVALS INC",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2016-09-06",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0037596",
+    "Name": "Eva Airways",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-05-16",
+    "LastResult": 53,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0037702",
+    "Name": "VIRGIN  ATLANTIC AIRWAYS",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-10",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0038419",
+    "Name": "GORDON BIERSCH BREWING COMPANY",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-09-19",
+    "LastResult": 49,
+    "LastViolations": 10
+  },
+  {
     "Id": "PR0038448",
     "Name": "Paradies Shops / Cnbc News",
     "Lat": 37.62250947100006,
     "Long": -122.39519978799996,
     "LastDate": "2014-05-29",
     "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0038994",
+    "Name": "Pacific Gateway News",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-03-18",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0038995",
+    "Name": "Pacific Gateway Gift \u0026 News",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2013-12-20",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0038996",
+    "Name": "Pacific Gateway Gift \u0026 News",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2013-12-26",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0038997",
+    "Name": "Pacific Gateway Gift \u0026 News",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2013-12-26",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0038998",
+    "Name": "Embarcadero Treats",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2013-12-26",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0039028",
+    "Name": "EMPORIO RULLI",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2016-10-06",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0039527",
+    "Name": "DUTY FREE SHOPPERS GROUP L P",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-19",
+    "LastResult": 49,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0039530",
+    "Name": "Dfs Wine",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-05-16",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0039531",
+    "Name": "Duty Free Shoppers Group L P",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-05-16",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0039764",
+    "Name": "SIMPLY GOURMET",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-12-12",
+    "LastResult": 49,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0044292",
+    "Name": "Tazza D'Oro",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2013-06-18",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0046853",
+    "Name": "DFS DUTY FREE GALLERIA",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-02-09",
+    "LastResult": 49,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0047902",
+    "Name": "MAXS EATZ \u0026 FRESH BAKERY",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-11-29",
+    "LastResult": 49,
+    "LastViolations": 5
+  },
+  {
+    "Id": "PR0047919",
+    "Name": "Sankaku",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-04-22",
+    "LastResult": 51,
     "LastViolations": 0
   },
   {
@@ -2691,22 +2727,229 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
-    "Id": "PR0064496",
-    "Name": "ANDALE MEXICAN RESTAURANT",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-10-04",
-    "LastResult": 49,
-    "LastViolations": 7
-  },
-  {
-    "Id": "PR0071337",
+    "Id": "PR0047928",
     "Name": "Kleins Deli",
     "Lat": 37.62250947100006,
     "Long": -122.39519978799996,
-    "LastDate": "2014-04-18",
-    "LastResult": 53,
+    "LastDate": "2014-05-28",
+    "LastResult": 52,
     "LastViolations": 2
+  },
+  {
+    "Id": "PR0047931",
+    "Name": "BUENA VISTA CAFE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-01-10",
+    "LastResult": 49,
+    "LastViolations": 4
+  },
+  {
+    "Id": "PR0047932",
+    "Name": "Max The Greek",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-04-22",
+    "LastResult": 51,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0047933",
+    "Name": "SF SOUP CO",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-12-05",
+    "LastResult": 49,
+    "LastViolations": 3
+  },
+  {
+    "Id": "PR0047968",
+    "Name": "Subway #33496",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-09-04",
+    "LastResult": 51,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0047974",
+    "Name": "LORIS DINER",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2016-11-03",
+    "LastResult": 49,
+    "LastViolations": 5
+  },
+  {
+    "Id": "PR0048033",
+    "Name": "YANKEE PIER",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-11-08",
+    "LastResult": 49,
+    "LastViolations": 8
+  },
+  {
+    "Id": "PR0048035",
+    "Name": "Willow Creek Grille",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-04-22",
+    "LastResult": 53,
+    "LastViolations": 3
+  },
+  {
+    "Id": "PR0048143",
+    "Name": "ANDRE BOUDIN BAKERIES INC",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-11-08",
+    "LastResult": 49,
+    "LastViolations": 3
+  },
+  {
+    "Id": "PR0048244",
+    "Name": "EMPORIO RULLI",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-12",
+    "LastResult": 49,
+    "LastViolations": 5
+  },
+  {
+    "Id": "PR0048854",
+    "Name": "CALIFORNIA LIFESTYLE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2015-05-27",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0049017",
+    "Name": "Ktvu",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2013-04-18",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0049020",
+    "Name": "GUAVA \u0026 JAVA",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2015-10-22",
+    "LastResult": 49,
+    "LastViolations": 2
+  },
+  {
+    "Id": "PR0049022",
+    "Name": "CITY BY THE BAY",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-11-29",
+    "LastResult": 49,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0049024",
+    "Name": "JUST DESSERTS-INTERUM",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2015-07-01",
+    "LastResult": 51,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0049101",
+    "Name": "Just Desserts",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-04-22",
+    "LastResult": 51,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0049988",
+    "Name": "PERRYS",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-24",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0049993",
+    "Name": "Anchor Steam Brewing",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-05-28",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0051188",
+    "Name": "ANDALE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-11-08",
+    "LastResult": 49,
+    "LastViolations": 9
+  },
+  {
+    "Id": "PR0052596",
+    "Name": "Soup And Salad Station",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2013-04-18",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0053549",
+    "Name": "AMOURA",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-25",
+    "LastResult": 49,
+    "LastViolations": 5
+  },
+  {
+    "Id": "PR0054081",
+    "Name": "SFO News Express B",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2013-12-18",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0054341",
+    "Name": "GHIRALDELLI CANDY STORE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-12",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0054342",
+    "Name": "GHIRALDELLI KIOSK-FRONTAL",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-12",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0056048",
+    "Name": "STARBUCKS COFFEE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-06-22",
+    "LastResult": 49,
+    "LastViolations": 1
   },
   {
     "Id": "PR0056344",
@@ -2718,12 +2961,201 @@ locationIndexCallback([
     "LastViolations": 6
   },
   {
-    "Id": "PR0049993",
-    "Name": "Anchor Steam Brewing",
+    "Id": "PR0061027",
+    "Name": "Bay Reader Store",
     "Lat": 37.62250947100006,
     "Long": -122.39519978799996,
-    "LastDate": "2014-05-28",
+    "LastDate": "2014-05-27",
     "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0063775",
+    "Name": "SEES CANDY KIOSK",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2016-03-11",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0064496",
+    "Name": "ANDALE MEXICAN RESTAURANT",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-04",
+    "LastResult": 49,
+    "LastViolations": 7
+  },
+  {
+    "Id": "PR0064644",
+    "Name": "HUDSON NEWS/ DISCOVER S F #772",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-11-09",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0064646",
+    "Name": "HUDSON NEWS #774",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-11-09",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0064842",
+    "Name": "NAPA FARMS MARKET",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-01-04",
+    "LastResult": 49,
+    "LastViolations": 5
+  },
+  {
+    "Id": "PR0064844",
+    "Name": "VINO VOLO",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2016-04-14",
+    "LastResult": 49,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0064871",
+    "Name": "WAKABA",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-11-30",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0064931",
+    "Name": "LARK CREEK GRILL",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-11",
+    "LastResult": 49,
+    "LastViolations": 7
+  },
+  {
+    "Id": "PR0064951",
+    "Name": "THE PLANT CAFE PINKBERRY",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-11-02",
+    "LastResult": 49,
+    "LastViolations": 4
+  },
+  {
+    "Id": "PR0065157",
+    "Name": "BURGER JOINT",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-11",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0065161",
+    "Name": "Sunset News",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2013-12-17",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0065163",
+    "Name": "PEETS COFFEE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-11-07",
+    "LastResult": 49,
+    "LastViolations": 4
+  },
+  {
+    "Id": "PR0065164",
+    "Name": "PEETS COFFEE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-11-02",
+    "LastResult": 49,
+    "LastViolations": 8
+  },
+  {
+    "Id": "PR0065224",
+    "Name": "CAT CORA LOUNGE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-10-04",
+    "LastResult": 49,
+    "LastViolations": 8
+  },
+  {
+    "Id": "PR0065389",
+    "Name": "STARBUCKS",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-06-22",
+    "LastResult": 49,
+    "LastViolations": 5
+  },
+  {
+    "Id": "PR0065452",
+    "Name": "NATALIE CANDY JAR",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-11-07",
+    "LastResult": 49,
+    "LastViolations": 2
+  },
+  {
+    "Id": "PR0067343",
+    "Name": "AMOURA SFO EMPLOYEE CAFE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2015-11-10",
+    "LastResult": 49,
+    "LastViolations": 2
+  },
+  {
+    "Id": "PR0067353",
+    "Name": "EMIRATES AIRPORT LOUNGE AT SFO",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-09-26",
+    "LastResult": 49,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0067415",
+    "Name": "CATHAY PACIFIC AIRWAYS-EXECUTIVE LOUNGE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-09-20",
+    "LastResult": 49,
+    "LastViolations": 4
+  },
+  {
+    "Id": "PR0068029",
+    "Name": "News Express",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2015-01-05",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0068171",
+    "Name": "INDULGE",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2015-10-16",
+    "LastResult": 49,
     "LastViolations": 0
   },
   {
@@ -2736,40 +3168,58 @@ locationIndexCallback([
     "LastViolations": 4
   },
   {
-    "Id": "PR0046853",
-    "Name": "DFS DUTY FREE GALLERIA",
+    "Id": "PR0071337",
+    "Name": "Kleins Deli",
     "Lat": 37.62250947100006,
     "Long": -122.39519978799996,
-    "LastDate": "2017-02-09",
-    "LastResult": 49,
-    "LastViolations": 1
+    "LastDate": "2014-04-18",
+    "LastResult": 53,
+    "LastViolations": 2
   },
   {
-    "Id": "PR0065164",
-    "Name": "PEETS COFFEE",
+    "Id": "PR0071743",
+    "Name": "FRAICHE KIOSK",
     "Lat": 37.62250947100006,
     "Long": -122.39519978799996,
-    "LastDate": "2017-11-02",
-    "LastResult": 49,
-    "LastViolations": 8
-  },
-  {
-    "Id": "PR0038419",
-    "Name": "GORDON BIERSCH BREWING COMPANY",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-09-19",
-    "LastResult": 49,
-    "LastViolations": 10
-  },
-  {
-    "Id": "PR0001670",
-    "Name": "BRITISH AIRWAYS LOUNGE",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-10-10",
+    "LastDate": "2017-06-27",
     "LastResult": 49,
     "LastViolations": 0
+  },
+  {
+    "Id": "PR0072653",
+    "Name": "S F UNCORKD",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-01-10",
+    "LastResult": 49,
+    "LastViolations": 3
+  },
+  {
+    "Id": "PR0072892",
+    "Name": "THREE TWINS SFO",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-11-09",
+    "LastResult": 49,
+    "LastViolations": 2
+  },
+  {
+    "Id": "PR0072903",
+    "Name": "Delta Sky Club (Domestic)",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2014-05-13",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0073052",
+    "Name": "STARBUCKS/ SF TRAVEL NEWS",
+    "Lat": 37.62250947100006,
+    "Long": -122.39519978799996,
+    "LastDate": "2017-07-03",
+    "LastResult": 49,
+    "LastViolations": 7
   },
   {
     "Id": "PR0075672",
@@ -2790,429 +3240,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0035139",
-    "Name": "LORIS DINER",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2015-10-13",
-    "LastResult": 49,
-    "LastViolations": 2
-  },
-  {
-    "Id": "PR0064842",
-    "Name": "NAPA FARMS MARKET",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-01-04",
-    "LastResult": 49,
-    "LastViolations": 5
-  },
-  {
-    "Id": "PR0049101",
-    "Name": "Just Desserts",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-04-22",
-    "LastResult": 51,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0073052",
-    "Name": "STARBUCKS/ SF TRAVEL NEWS",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-07-03",
-    "LastResult": 49,
-    "LastViolations": 7
-  },
-  {
-    "Id": "PR0035095",
-    "Name": "FIREWOOD CAFE  INTL",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2016-09-06",
-    "LastResult": 49,
-    "LastViolations": 2
-  },
-  {
-    "Id": "PR0065163",
-    "Name": "PEETS COFFEE",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-11-07",
-    "LastResult": 49,
-    "LastViolations": 4
-  },
-  {
-    "Id": "PR0068171",
-    "Name": "INDULGE",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2015-10-16",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0048143",
-    "Name": "ANDRE BOUDIN BAKERIES INC",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-11-08",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
-    "Id": "PR0039764",
-    "Name": "SIMPLY GOURMET",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-12-12",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0067353",
-    "Name": "EMIRATES AIRPORT LOUNGE AT SFO",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-09-26",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0002774",
-    "Name": "UNITED RED CARPET CLUB #2",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2016-05-05",
-    "LastResult": 52,
-    "LastViolations": 2
-  },
-  {
-    "Id": "PR0064951",
-    "Name": "THE PLANT CAFE PINKBERRY",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-11-02",
-    "LastResult": 49,
-    "LastViolations": 4
-  },
-  {
-    "Id": "PR0028452",
-    "Name": "SILVER KRIS LOUNGE",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-10-03",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
-    "Id": "PR0002775",
-    "Name": "UNITED AIRLINES FIRST CLASS",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2016-03-02",
-    "LastResult": 52,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0037702",
-    "Name": "VIRGIN  ATLANTIC AIRWAYS",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-10-10",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0035135",
-    "Name": "TOMOKAZU",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-09-27",
-    "LastResult": 49,
-    "LastViolations": 8
-  },
-  {
-    "Id": "PR0063775",
-    "Name": "SEES CANDY KIOSK",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2016-03-11",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0002512",
-    "Name": "The Board Room",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-05-27",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0049988",
-    "Name": "PERRYS",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-10-24",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0036332",
-    "Name": "Cafe Del Mundo/Il Fornaio",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-05-28",
-    "LastResult": 53,
-    "LastViolations": 2
-  },
-  {
-    "Id": "PR0039531",
-    "Name": "Duty Free Shoppers Group L P",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-05-16",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0029197",
-    "Name": "PERRYS TO GO",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-10-18",
-    "LastResult": 49,
-    "LastViolations": 2
-  },
-  {
-    "Id": "PR0064646",
-    "Name": "HUDSON NEWS #774",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-11-09",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0065224",
-    "Name": "CAT CORA LOUNGE",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-10-04",
-    "LastResult": 49,
-    "LastViolations": 8
-  },
-  {
-    "Id": "PR0001671",
-    "Name": "Mabuhay Lounge",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-05-30",
-    "LastResult": 52,
-    "LastViolations": 2
-  },
-  {
-    "Id": "PR0049024",
-    "Name": "JUST DESSERTS-INTERUM",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2015-07-01",
-    "LastResult": 51,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0039530",
-    "Name": "Dfs Wine",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-05-16",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0036321",
-    "Name": "FIREWOOD GRILL SERIES #1",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2016-10-06",
-    "LastResult": 51,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0035378",
-    "Name": "BURGER JOINT",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2016-12-21",
-    "LastResult": 49,
-    "LastViolations": 4
-  },
-  {
-    "Id": "PR0065452",
-    "Name": "NATALIE CANDY JAR",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-11-07",
-    "LastResult": 49,
-    "LastViolations": 2
-  },
-  {
-    "Id": "PR0047928",
-    "Name": "Kleins Deli",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-05-28",
-    "LastResult": 52,
-    "LastViolations": 2
-  },
-  {
-    "Id": "PR0038994",
-    "Name": "Pacific Gateway News",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-03-18",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0035119",
-    "Name": "FIREWOOD GRILL SERIES #2",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-09-26",
-    "LastResult": 50,
-    "LastViolations": 11
-  },
-  {
-    "Id": "PR0054081",
-    "Name": "SFO News Express B",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2013-12-18",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0037412",
-    "Name": "HARBOR VILLAGE RESTAURANT",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-01-05",
-    "LastResult": 49,
-    "LastViolations": 12
-  },
-  {
-    "Id": "PR0056048",
-    "Name": "STARBUCKS COFFEE",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-06-22",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0001672",
-    "Name": "CHINA AIRLINES DYNASTY LOUNGE",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-11-01",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
-    "Id": "PR0027325",
-    "Name": "GO BISTRO",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-12-12",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
-    "Id": "PR0065161",
-    "Name": "Sunset News",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2013-12-17",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0001669",
-    "Name": "JAPAN AIR LINES SAKURA LOUNGE",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-09-26",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
-    "Id": "PR0025374",
-    "Name": "Red Carpet Club",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-06-27",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0072892",
-    "Name": "THREE TWINS SFO",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-11-09",
-    "LastResult": 49,
-    "LastViolations": 2
-  },
-  {
-    "Id": "PR0049020",
-    "Name": "GUAVA \u0026 JAVA",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2015-10-22",
-    "LastResult": 49,
-    "LastViolations": 2
-  },
-  {
-    "Id": "PR0064844",
-    "Name": "VINO VOLO",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2016-04-14",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0068029",
-    "Name": "News Express",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2015-01-05",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0038997",
-    "Name": "Pacific Gateway Gift \u0026 News",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2013-12-26",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0071743",
-    "Name": "FRAICHE KIOSK",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-06-27",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0076652",
     "Name": "UNITED CLUB",
     "Lat": 37.62250947100006,
@@ -3220,33 +3247,6 @@ locationIndexCallback([
     "LastDate": "2016-03-10",
     "LastResult": 49,
     "LastViolations": 2
-  },
-  {
-    "Id": "PR0048035",
-    "Name": "Willow Creek Grille",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2014-04-22",
-    "LastResult": 53,
-    "LastViolations": 3
-  },
-  {
-    "Id": "PR0054341",
-    "Name": "GHIRALDELLI CANDY STORE",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2017-10-12",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0036174",
-    "Name": "PEETS COFFEE #1",
-    "Lat": 37.62250947100006,
-    "Long": -122.39519978799996,
-    "LastDate": "2016-02-03",
-    "LastResult": 49,
-    "LastViolations": 0
   },
   {
     "Id": "PR0000770",
@@ -3303,15 +3303,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0077144",
-    "Name": "HUDSON NEWS",
-    "Lat": 37.62157964000005,
-    "Long": -122.39953610299995,
-    "LastDate": "2015-04-16",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0075673",
     "Name": "KLEINS DELI",
     "Lat": 37.62157964000005,
@@ -3321,29 +3312,11 @@ locationIndexCallback([
     "LastViolations": 1
   },
   {
-    "Id": "PR0046588",
-    "Name": "Safeway 0304",
-    "Lat": 37.62145798000006,
-    "Long": -122.48581922199998,
-    "LastDate": "2015-03-24",
-    "LastResult": 49,
-    "LastViolations": 5
-  },
-  {
-    "Id": "PR0079067",
-    "Name": "Pacificans Care",
-    "Lat": 37.62145798000006,
-    "Long": -122.48581922199998,
-    "LastDate": "2014-12-11",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0046200",
-    "Name": "Safeway 3008",
-    "Lat": 37.62145798000006,
-    "Long": -122.48581922199998,
-    "LastDate": "2017-07-06",
+    "Id": "PR0077144",
+    "Name": "HUDSON NEWS",
+    "Lat": 37.62157964000005,
+    "Long": -122.39953610299995,
+    "LastDate": "2015-04-16",
     "LastResult": 49,
     "LastViolations": 0
   },
@@ -3357,12 +3330,39 @@ locationIndexCallback([
     "LastViolations": 3
   },
   {
+    "Id": "PR0046200",
+    "Name": "Safeway 3008",
+    "Lat": 37.62145798000006,
+    "Long": -122.48581922199998,
+    "LastDate": "2017-07-06",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0046588",
+    "Name": "Safeway 0304",
+    "Lat": 37.62145798000006,
+    "Long": -122.48581922199998,
+    "LastDate": "2015-03-24",
+    "LastResult": 49,
+    "LastViolations": 5
+  },
+  {
     "Id": "PR0076231",
     "Name": "Farmers Market At Visa",
     "Lat": 37.62145798000006,
     "Long": -122.48581922199998,
     "LastDate": "2014-11-21",
     "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0079067",
+    "Name": "Pacificans Care",
+    "Lat": 37.62145798000006,
+    "Long": -122.48581922199998,
+    "LastDate": "2014-12-11",
+    "LastResult": 0,
     "LastViolations": 0
   },
   {
@@ -3744,15 +3744,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0084834",
-    "Name": "YI YUAN SEZCHUAN RESTAURANT",
-    "Lat": 37.614325,
-    "Long": -122.405547,
-    "LastDate": "2017-10-10",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0071683",
     "Name": "YI YUAN",
     "Lat": 37.614325,
@@ -3760,6 +3751,15 @@ locationIndexCallback([
     "LastDate": "2017-04-20",
     "LastResult": 55,
     "LastViolations": 1
+  },
+  {
+    "Id": "PR0084834",
+    "Name": "YI YUAN SEZCHUAN RESTAURANT",
+    "Lat": 37.614325,
+    "Long": -122.405547,
+    "LastDate": "2017-10-10",
+    "LastResult": 0,
+    "LastViolations": 0
   },
   {
     "Id": "PR0033655",
@@ -3789,24 +3789,6 @@ locationIndexCallback([
     "LastViolations": 4
   },
   {
-    "Id": "PR0082791",
-    "Name": "DEISY CATERING",
-    "Lat": 37.613791,
-    "Long": -122.063551,
-    "LastDate": "2017-02-24",
-    "LastResult": 0,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0073740",
-    "Name": "D \u0026 K INC",
-    "Lat": 37.613791,
-    "Long": -122.063551,
-    "LastDate": "2017-03-15",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0001851",
     "Name": "UNITED CATERING DBA MINI CATERING",
     "Lat": 37.613791,
@@ -3825,11 +3807,11 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0080064",
-    "Name": "MANTRAAH",
+    "Id": "PR0073740",
+    "Name": "D \u0026 K INC",
     "Lat": 37.613791,
     "Long": -122.063551,
-    "LastDate": "2017-04-05",
+    "LastDate": "2017-03-15",
     "LastResult": 49,
     "LastViolations": 0
   },
@@ -3850,6 +3832,24 @@ locationIndexCallback([
     "LastDate": "2017-08-16",
     "LastResult": 0,
     "LastViolations": 0
+  },
+  {
+    "Id": "PR0080064",
+    "Name": "MANTRAAH",
+    "Lat": 37.613791,
+    "Long": -122.063551,
+    "LastDate": "2017-04-05",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0082791",
+    "Name": "DEISY CATERING",
+    "Lat": 37.613791,
+    "Long": -122.063551,
+    "LastDate": "2017-02-24",
+    "LastResult": 0,
+    "LastViolations": 1
   },
   {
     "Id": "PR0073713",
@@ -3879,15 +3879,6 @@ locationIndexCallback([
     "LastViolations": 4
   },
   {
-    "Id": "PR0061235",
-    "Name": "FABRIQUE DELICES",
-    "Lat": 37.61375270700006,
-    "Long": -122.06280992499995,
-    "LastDate": "2015-06-11",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0026591",
     "Name": "Guerreros Taqueria",
     "Lat": 37.61375270700006,
@@ -3895,6 +3886,15 @@ locationIndexCallback([
     "LastDate": "2013-04-16",
     "LastResult": 52,
     "LastViolations": 1
+  },
+  {
+    "Id": "PR0061235",
+    "Name": "FABRIQUE DELICES",
+    "Lat": 37.61375270700006,
+    "Long": -122.06280992499995,
+    "LastDate": "2015-06-11",
+    "LastResult": 0,
+    "LastViolations": 0
   },
   {
     "Id": "PR0003106",
@@ -4158,15 +4158,6 @@ locationIndexCallback([
     "LastViolations": 3
   },
   {
-    "Id": "PR0081934",
-    "Name": "LA QUINTA INN AND SUITES AIRPORT",
-    "Lat": 37.609972,
-    "Long": -122.401012,
-    "LastDate": "2017-10-27",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
     "Id": "PR0073790",
     "Name": "BASHAMICHI STEAK AND SEAFOOD JAPANESE BISTRO",
     "Lat": 37.609972,
@@ -4174,6 +4165,15 @@ locationIndexCallback([
     "LastDate": "2017-02-15",
     "LastResult": 49,
     "LastViolations": 4
+  },
+  {
+    "Id": "PR0081934",
+    "Name": "LA QUINTA INN AND SUITES AIRPORT",
+    "Lat": 37.609972,
+    "Long": -122.401012,
+    "LastDate": "2017-10-27",
+    "LastResult": 49,
+    "LastViolations": 3
   },
   {
     "Id": "PR0033733",
@@ -4248,15 +4248,6 @@ locationIndexCallback([
     "LastViolations": 6
   },
   {
-    "Id": "PR0080656",
-    "Name": "MOONRAKER MOBILE LLC",
-    "Lat": 37.609614,
-    "Long": -122.496652,
-    "LastDate": "2017-07-05",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0069788",
     "Name": "MOONRAKER",
     "Lat": 37.609614,
@@ -4264,6 +4255,15 @@ locationIndexCallback([
     "LastDate": "2017-05-11",
     "LastResult": 49,
     "LastViolations": 4
+  },
+  {
+    "Id": "PR0080656",
+    "Name": "MOONRAKER MOBILE LLC",
+    "Lat": 37.609614,
+    "Long": -122.496652,
+    "LastDate": "2017-07-05",
+    "LastResult": 49,
+    "LastViolations": 0
   },
   {
     "Id": "PR0075137",
@@ -4410,11 +4410,11 @@ locationIndexCallback([
     "LastViolations": 8
   },
   {
-    "Id": "PR0084523",
-    "Name": "UMU LLC",
+    "Id": "PR0001870",
+    "Name": "MIRIAM CATERING",
     "Lat": 37.60641,
     "Long": -122.060946,
-    "LastDate": "2017-12-07",
+    "LastDate": "2016-02-25",
     "LastResult": 0,
     "LastViolations": 0
   },
@@ -4425,6 +4425,24 @@ locationIndexCallback([
     "Long": -122.060946,
     "LastDate": "2017-03-14",
     "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0082690",
+    "Name": "RODERICKS BBQ",
+    "Lat": 37.60641,
+    "Long": -122.060946,
+    "LastDate": "2017-02-28",
+    "LastResult": 0,
+    "LastViolations": 2
+  },
+  {
+    "Id": "PR0084523",
+    "Name": "UMU LLC",
+    "Lat": 37.60641,
+    "Long": -122.060946,
+    "LastDate": "2017-12-07",
+    "LastResult": 0,
     "LastViolations": 0
   },
   {
@@ -4444,24 +4462,6 @@ locationIndexCallback([
     "LastDate": "2017-10-28",
     "LastResult": 49,
     "LastViolations": 0
-  },
-  {
-    "Id": "PR0001870",
-    "Name": "MIRIAM CATERING",
-    "Lat": 37.60641,
-    "Long": -122.060946,
-    "LastDate": "2016-02-25",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0082690",
-    "Name": "RODERICKS BBQ",
-    "Lat": 37.60641,
-    "Long": -122.060946,
-    "LastDate": "2017-02-28",
-    "LastResult": 0,
-    "LastViolations": 2
   },
   {
     "Id": "PR0003095",
@@ -4608,6 +4608,15 @@ locationIndexCallback([
     "LastViolations": 7
   },
   {
+    "Id": "PR0053554",
+    "Name": "NUBI YOGURT",
+    "Lat": 37.604945,
+    "Long": -122.397112,
+    "LastDate": "2017-10-17",
+    "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
     "Id": "PR0053693",
     "Name": "SUBWAY IN MILLBRAE, INC",
     "Lat": 37.604945,
@@ -4622,15 +4631,6 @@ locationIndexCallback([
     "Lat": 37.604945,
     "Long": -122.397112,
     "LastDate": "2016-11-22",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0053554",
-    "Name": "NUBI YOGURT",
-    "Lat": 37.604945,
-    "Long": -122.397112,
-    "LastDate": "2017-10-17",
     "LastResult": 49,
     "LastViolations": 0
   },
@@ -4725,20 +4725,20 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
-    "Id": "PR0066873",
-    "Name": "ROTARY CLUB OF MILLBRAE/ INTERACT CLUB OF MILLS HIGH",
-    "Lat": 37.603806,
-    "Long": -122.378528,
-    "LastDate": "2016-03-26",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0066872",
     "Name": "ROTARY CLUB OF MILLBRAE/ INTERACT CLUB OF MILLS HIGH",
     "Lat": 37.603806,
     "Long": -122.378528,
     "LastDate": "2015-10-20",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0066873",
+    "Name": "ROTARY CLUB OF MILLBRAE/ INTERACT CLUB OF MILLS HIGH",
+    "Lat": 37.603806,
+    "Long": -122.378528,
+    "LastDate": "2016-03-26",
     "LastResult": 0,
     "LastViolations": 0
   },
@@ -4941,15 +4941,6 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
-    "Id": "PR0082363",
-    "Name": "TERRAPIN OPERATOR SFO LLC",
-    "Lat": 37.602124,
-    "Long": -122.371218,
-    "LastDate": "2016-08-04",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
     "Id": "PR0081712",
     "Name": "HAMPTON INN \u0026 SUITES",
     "Lat": 37.602124,
@@ -4957,6 +4948,15 @@ locationIndexCallback([
     "LastDate": "2017-06-23",
     "LastResult": 49,
     "LastViolations": 0
+  },
+  {
+    "Id": "PR0082363",
+    "Name": "TERRAPIN OPERATOR SFO LLC",
+    "Lat": 37.602124,
+    "Long": -122.371218,
+    "LastDate": "2016-08-04",
+    "LastResult": 49,
+    "LastViolations": 3
   },
   {
     "Id": "PR0001296",
@@ -5157,15 +5157,6 @@ locationIndexCallback([
     "LastViolations": 10
   },
   {
-    "Id": "PR0077895",
-    "Name": "ELEPHANT BAR RESTAURANT #208",
-    "Lat": 37.601655,
-    "Long": -122.370184,
-    "LastDate": "2017-12-07",
-    "LastResult": 50,
-    "LastViolations": 11
-  },
-  {
     "Id": "PR0002156",
     "Name": "MARRIOTT HOTEL SF AIRPORT",
     "Lat": 37.601655,
@@ -5173,6 +5164,15 @@ locationIndexCallback([
     "LastDate": "2017-06-07",
     "LastResult": 49,
     "LastViolations": 8
+  },
+  {
+    "Id": "PR0077895",
+    "Name": "ELEPHANT BAR RESTAURANT #208",
+    "Lat": 37.601655,
+    "Long": -122.370184,
+    "LastDate": "2017-12-07",
+    "LastResult": 50,
+    "LastViolations": 11
   },
   {
     "Id": "PR0002717",
@@ -5544,15 +5544,6 @@ locationIndexCallback([
     "LastViolations": 9
   },
   {
-    "Id": "PR0085806",
-    "Name": "TACO MOTO",
-    "Lat": 37.600234,
-    "Long": -122.381602,
-    "LastDate": "2017-11-29",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0073066",
     "Name": "TORTILLA MEXICAN GRILL",
     "Lat": 37.600234,
@@ -5560,6 +5551,15 @@ locationIndexCallback([
     "LastDate": "2017-11-21",
     "LastResult": 49,
     "LastViolations": 10
+  },
+  {
+    "Id": "PR0085806",
+    "Name": "TACO MOTO",
+    "Lat": 37.600234,
+    "Long": -122.381602,
+    "LastDate": "2017-11-29",
+    "LastResult": 0,
+    "LastViolations": 0
   },
   {
     "Id": "PR0047218",
@@ -5670,15 +5670,6 @@ locationIndexCallback([
     "LastViolations": 4
   },
   {
-    "Id": "PR0083265",
-    "Name": "MOMS TOFU HOUSE",
-    "Lat": 37.599783,
-    "Long": -122.389081,
-    "LastDate": "2017-12-08",
-    "LastResult": 49,
-    "LastViolations": 6
-  },
-  {
     "Id": "PR0064391",
     "Name": "SUN MARKET",
     "Lat": 37.599783,
@@ -5686,6 +5677,15 @@ locationIndexCallback([
     "LastDate": "2017-10-23",
     "LastResult": 49,
     "LastViolations": 5
+  },
+  {
+    "Id": "PR0083265",
+    "Name": "MOMS TOFU HOUSE",
+    "Lat": 37.599783,
+    "Long": -122.389081,
+    "LastDate": "2017-12-08",
+    "LastResult": 49,
+    "LastViolations": 6
   },
   {
     "Id": "PR0083821",
@@ -6237,20 +6237,20 @@ locationIndexCallback([
     "LastViolations": 8
   },
   {
-    "Id": "PR0085881",
-    "Name": "RAMEN SARYO HACHI",
-    "Lat": 37.596004,
-    "Long": -122.385137,
-    "LastDate": "2017-11-09",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0084830",
     "Name": "RAMEN HACHI",
     "Lat": 37.596004,
     "Long": -122.385137,
     "LastDate": "2017-09-25",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0085881",
+    "Name": "RAMEN SARYO HACHI",
+    "Lat": 37.596004,
+    "Long": -122.385137,
+    "LastDate": "2017-11-09",
     "LastResult": 0,
     "LastViolations": 0
   },
@@ -6363,20 +6363,20 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
-    "Id": "PR0075926",
-    "Name": "Five As Cafe",
-    "Lat": 37.595675467000035,
-    "Long": -122.38511479499999,
-    "LastDate": "2014-07-15",
-    "LastResult": 53,
-    "LastViolations": 7
-  },
-  {
     "Id": "PR0001587",
     "Name": "Five A Cafe",
     "Lat": 37.595675467000035,
     "Long": -122.38511479499999,
     "LastDate": "2013-10-24",
+    "LastResult": 53,
+    "LastViolations": 7
+  },
+  {
+    "Id": "PR0075926",
+    "Name": "Five As Cafe",
+    "Lat": 37.595675467000035,
+    "Long": -122.38511479499999,
+    "LastDate": "2014-07-15",
     "LastResult": 53,
     "LastViolations": 7
   },
@@ -6435,8 +6435,17 @@ locationIndexCallback([
     "LastViolations": 3
   },
   {
-    "Id": "PR0080825",
-    "Name": "STUDIO OF GOOD LIVING",
+    "Id": "PR0050403",
+    "Name": "PEDRO POINT CREATIVE",
+    "Lat": 37.59534,
+    "Long": -122.509346,
+    "LastDate": "2017-04-19",
+    "LastResult": 49,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0067077",
+    "Name": "LE KITCHEN",
     "Lat": 37.59534,
     "Long": -122.509346,
     "LastDate": "2017-04-28",
@@ -6453,20 +6462,11 @@ locationIndexCallback([
     "LastViolations": 1
   },
   {
-    "Id": "PR0067077",
-    "Name": "LE KITCHEN",
+    "Id": "PR0080825",
+    "Name": "STUDIO OF GOOD LIVING",
     "Lat": 37.59534,
     "Long": -122.509346,
     "LastDate": "2017-04-28",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0050403",
-    "Name": "PEDRO POINT CREATIVE",
-    "Lat": 37.59534,
-    "Long": -122.509346,
-    "LastDate": "2017-04-19",
     "LastResult": 49,
     "LastViolations": 1
   },
@@ -6480,6 +6480,15 @@ locationIndexCallback([
     "LastViolations": 3
   },
   {
+    "Id": "PR0058969",
+    "Name": "Coastal Cupcakes",
+    "Lat": 37.59528047800006,
+    "Long": -122.50933641299997,
+    "LastDate": "2014-06-30",
+    "LastResult": 52,
+    "LastViolations": 0
+  },
+  {
     "Id": "PR0061919",
     "Name": "Frittle Factory",
     "Lat": 37.59528047800006,
@@ -6487,6 +6496,24 @@ locationIndexCallback([
     "LastDate": "2013-06-12",
     "LastResult": 0,
     "LastViolations": 1
+  },
+  {
+    "Id": "PR0067680",
+    "Name": "Sweet \u0026 Natural",
+    "Lat": 37.59528047800006,
+    "Long": -122.50933641299997,
+    "LastDate": "2013-01-22",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0067997",
+    "Name": "Patisserie Carmen",
+    "Lat": 37.59528047800006,
+    "Long": -122.50933641299997,
+    "LastDate": "2013-10-17",
+    "LastResult": 0,
+    "LastViolations": 0
   },
   {
     "Id": "PR0072048",
@@ -6498,11 +6525,11 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0078109",
-    "Name": "Black Sheep Bake Sale",
+    "Id": "PR0073533",
+    "Name": "Sugalova Bakery",
     "Lat": 37.59528047800006,
     "Long": -122.50933641299997,
-    "LastDate": "2014-12-03",
+    "LastDate": "2013-11-27",
     "LastResult": 0,
     "LastViolations": 0
   },
@@ -6516,29 +6543,11 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0076331",
-    "Name": "The Loose Leaf",
+    "Id": "PR0075054",
+    "Name": "Aubergine World Cuisine",
     "Lat": 37.59528047800006,
     "Long": -122.50933641299997,
-    "LastDate": "2014-06-07",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0073533",
-    "Name": "Sugalova Bakery",
-    "Lat": 37.59528047800006,
-    "Long": -122.50933641299997,
-    "LastDate": "2013-11-27",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0067680",
-    "Name": "Sweet \u0026 Natural",
-    "Lat": 37.59528047800006,
-    "Long": -122.50933641299997,
-    "LastDate": "2013-01-22",
+    "LastDate": "2013-10-10",
     "LastResult": 0,
     "LastViolations": 0
   },
@@ -6552,20 +6561,20 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
-    "Id": "PR0058969",
-    "Name": "Coastal Cupcakes",
+    "Id": "PR0076331",
+    "Name": "The Loose Leaf",
     "Lat": 37.59528047800006,
     "Long": -122.50933641299997,
-    "LastDate": "2014-06-30",
-    "LastResult": 52,
+    "LastDate": "2014-06-07",
+    "LastResult": 0,
     "LastViolations": 0
   },
   {
-    "Id": "PR0067997",
-    "Name": "Patisserie Carmen",
+    "Id": "PR0078109",
+    "Name": "Black Sheep Bake Sale",
     "Lat": 37.59528047800006,
     "Long": -122.50933641299997,
-    "LastDate": "2013-10-17",
+    "LastDate": "2014-12-03",
     "LastResult": 0,
     "LastViolations": 0
   },
@@ -6579,15 +6588,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0075054",
-    "Name": "Aubergine World Cuisine",
-    "Lat": 37.59528047800006,
-    "Long": -122.50933641299997,
-    "LastDate": "2013-10-10",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0038414",
     "Name": "BAY WATCH RESTAURANT",
     "Lat": 37.595275,
@@ -6597,15 +6597,6 @@ locationIndexCallback([
     "LastViolations": 1
   },
   {
-    "Id": "PR0070239",
-    "Name": "LUNARDIS FOODS MARKET #8",
-    "Lat": 37.595211,
-    "Long": -122.384184,
-    "LastDate": "2017-09-12",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
     "Id": "PR0059783",
     "Name": "KIKKA SUSHI",
     "Lat": 37.595211,
@@ -6613,6 +6604,15 @@ locationIndexCallback([
     "LastDate": "2017-09-12",
     "LastResult": 49,
     "LastViolations": 0
+  },
+  {
+    "Id": "PR0070239",
+    "Name": "LUNARDIS FOODS MARKET #8",
+    "Lat": 37.595211,
+    "Long": -122.384184,
+    "LastDate": "2017-09-12",
+    "LastResult": 49,
+    "LastViolations": 3
   },
   {
     "Id": "PR0000245",
@@ -6930,8 +6930,8 @@ locationIndexCallback([
     "LastViolations": 4
   },
   {
-    "Id": "PR0049357",
-    "Name": "Simply Perfect",
+    "Id": "PR0035756",
+    "Name": "Bash Catering",
     "Lat": 37.59353592300005,
     "Long": -122.37138638599998,
     "LastDate": "2013-02-06",
@@ -6939,8 +6939,8 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0035756",
-    "Name": "Bash Catering",
+    "Id": "PR0049357",
+    "Name": "Simply Perfect",
     "Lat": 37.59353592300005,
     "Long": -122.37138638599998,
     "LastDate": "2013-02-06",
@@ -7569,15 +7569,6 @@ locationIndexCallback([
     "LastViolations": 3
   },
   {
-    "Id": "PR0079776",
-    "Name": "YANGON",
-    "Lat": 37.587081,
-    "Long": -122.363956,
-    "LastDate": "2017-05-11",
-    "LastResult": 49,
-    "LastViolations": 7
-  },
-  {
     "Id": "PR0076079",
     "Name": "SAHAARA MEDITERRANEAN",
     "Lat": 37.587081,
@@ -7585,6 +7576,15 @@ locationIndexCallback([
     "LastDate": "2016-11-17",
     "LastResult": 50,
     "LastViolations": 6
+  },
+  {
+    "Id": "PR0079776",
+    "Name": "YANGON",
+    "Lat": 37.587081,
+    "Long": -122.363956,
+    "LastDate": "2017-05-11",
+    "LastResult": 49,
+    "LastViolations": 7
   },
   {
     "Id": "PR0000178",
@@ -7695,13 +7695,13 @@ locationIndexCallback([
     "LastViolations": 3
   },
   {
-    "Id": "PR0085223",
-    "Name": "BROADWAY IZAKAYA",
+    "Id": "PR0000185",
+    "Name": "AJI- YOSHIYA",
     "Lat": 37.586274,
     "Long": -122.364589,
-    "LastDate": "2017-09-11",
-    "LastResult": 0,
-    "LastViolations": 0
+    "LastDate": "2017-07-06",
+    "LastResult": 53,
+    "LastViolations": 4
   },
   {
     "Id": "PR0084363",
@@ -7713,13 +7713,13 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0000185",
-    "Name": "AJI- YOSHIYA",
+    "Id": "PR0085223",
+    "Name": "BROADWAY IZAKAYA",
     "Lat": 37.586274,
     "Long": -122.364589,
-    "LastDate": "2017-07-06",
-    "LastResult": 53,
-    "LastViolations": 4
+    "LastDate": "2017-09-11",
+    "LastResult": 0,
+    "LastViolations": 0
   },
   {
     "Id": "PR0077375",
@@ -8397,13 +8397,13 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
-    "Id": "PR0074161",
-    "Name": "Burlingame Aquatic Club Inc",
+    "Id": "PR0066367",
+    "Name": "Burlingame High School Parent Group-Taste Of The Town",
     "Lat": 37.58210330000003,
     "Long": -122.34680649999996,
-    "LastDate": "2014-10-25",
+    "LastDate": "2013-04-16",
     "LastResult": 0,
-    "LastViolations": 1
+    "LastViolations": 0
   },
   {
     "Id": "PR0068538",
@@ -8415,13 +8415,13 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
-    "Id": "PR0066367",
-    "Name": "Burlingame High School Parent Group-Taste Of The Town",
+    "Id": "PR0074161",
+    "Name": "Burlingame Aquatic Club Inc",
     "Lat": 37.58210330000003,
     "Long": -122.34680649999996,
-    "LastDate": "2013-04-16",
+    "LastDate": "2014-10-25",
     "LastResult": 0,
-    "LastViolations": 0
+    "LastViolations": 1
   },
   {
     "Id": "PR0081750",
@@ -9036,15 +9036,6 @@ locationIndexCallback([
     "LastViolations": 7
   },
   {
-    "Id": "PR0066412",
-    "Name": "Mario Perelli-Minetti Winery",
-    "Lat": 37.57928970200004,
-    "Long": -122.36111756399998,
-    "LastDate": "2013-04-14",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0025635",
     "Name": "BURLINGAME BOBBY SOCKS",
     "Lat": 37.57928970200004,
@@ -9060,6 +9051,15 @@ locationIndexCallback([
     "Long": -122.36111756399998,
     "LastDate": "2017-03-16",
     "LastResult": 49,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0066412",
+    "Name": "Mario Perelli-Minetti Winery",
+    "Lat": 37.57928970200004,
+    "Long": -122.36111756399998,
+    "LastDate": "2013-04-14",
+    "LastResult": 0,
     "LastViolations": 0
   },
   {
@@ -9198,15 +9198,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0066789",
-    "Name": "BAY AREA BAGELS",
-    "Lat": 37.578773,
-    "Long": -122.345696,
-    "LastDate": "2017-06-25",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
     "Id": "PR0000835",
     "Name": "BAY AREA BAGELS",
     "Lat": 37.578773,
@@ -9214,6 +9205,15 @@ locationIndexCallback([
     "LastDate": "2017-03-07",
     "LastResult": 50,
     "LastViolations": 6
+  },
+  {
+    "Id": "PR0066789",
+    "Name": "BAY AREA BAGELS",
+    "Lat": 37.578773,
+    "Long": -122.345696,
+    "LastDate": "2017-06-25",
+    "LastResult": 49,
+    "LastViolations": 3
   },
   {
     "Id": "PR0082891",
@@ -9234,15 +9234,6 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
-    "Id": "PR0084436",
-    "Name": "FARM AND VINE",
-    "Lat": 37.578717,
-    "Long": -122.345636,
-    "LastDate": "2017-10-06",
-    "LastResult": 50,
-    "LastViolations": 7
-  },
-  {
     "Id": "PR0046237",
     "Name": "ZAMBRA",
     "Lat": 37.578717,
@@ -9250,6 +9241,15 @@ locationIndexCallback([
     "LastDate": "2015-10-27",
     "LastResult": 52,
     "LastViolations": 4
+  },
+  {
+    "Id": "PR0084436",
+    "Name": "FARM AND VINE",
+    "Lat": 37.578717,
+    "Long": -122.345636,
+    "LastDate": "2017-10-06",
+    "LastResult": 50,
+    "LastViolations": 7
   },
   {
     "Id": "PR0046239",
@@ -9306,6 +9306,15 @@ locationIndexCallback([
     "LastViolations": 3
   },
   {
+    "Id": "PR0077368",
+    "Name": "OYSTER BOY FISH HOUSE",
+    "Lat": 37.578465,
+    "Long": -122.343945,
+    "LastDate": "2017-09-28",
+    "LastResult": 55,
+    "LastViolations": 0
+  },
+  {
     "Id": "PR0085697",
     "Name": "PARK AND HOWARD BISTRO",
     "Lat": 37.578465,
@@ -9315,12 +9324,12 @@ locationIndexCallback([
     "LastViolations": 5
   },
   {
-    "Id": "PR0077368",
-    "Name": "OYSTER BOY FISH HOUSE",
-    "Lat": 37.578465,
-    "Long": -122.343945,
-    "LastDate": "2017-09-28",
-    "LastResult": 55,
+    "Id": "PR0063678",
+    "Name": "Burlingame Produce",
+    "Lat": 37.57845255400008,
+    "Long": -122.34529872599995,
+    "LastDate": "2013-01-29",
+    "LastResult": 0,
     "LastViolations": 0
   },
   {
@@ -9331,15 +9340,6 @@ locationIndexCallback([
     "LastDate": "2014-03-04",
     "LastResult": 53,
     "LastViolations": 7
-  },
-  {
-    "Id": "PR0063678",
-    "Name": "Burlingame Produce",
-    "Lat": 37.57845255400008,
-    "Long": -122.34529872599995,
-    "LastDate": "2013-01-29",
-    "LastResult": 0,
-    "LastViolations": 0
   },
   {
     "Id": "PR0000155",
@@ -9423,15 +9423,6 @@ locationIndexCallback([
     "LastViolations": 1
   },
   {
-    "Id": "PR0085515",
-    "Name": "MINAKO, LLC",
-    "Lat": 37.578344,
-    "Long": -122.33753,
-    "LastDate": "2017-09-25",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
     "Id": "PR0029296",
     "Name": "YAMO YAMO SUSHI",
     "Lat": 37.578344,
@@ -9439,6 +9430,15 @@ locationIndexCallback([
     "LastDate": "2017-08-03",
     "LastResult": 49,
     "LastViolations": 5
+  },
+  {
+    "Id": "PR0085515",
+    "Name": "MINAKO, LLC",
+    "Lat": 37.578344,
+    "Long": -122.33753,
+    "LastDate": "2017-09-25",
+    "LastResult": 49,
+    "LastViolations": 1
   },
   {
     "Id": "PR0029026",
@@ -9738,15 +9738,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0077747",
-    "Name": "RASA",
-    "Lat": 37.57735364900003,
-    "Long": -122.34585640499995,
-    "LastDate": "2017-05-23",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
     "Id": "PR0002068",
     "Name": "Roti Indian Bistro",
     "Lat": 37.57735364900003,
@@ -9754,6 +9745,15 @@ locationIndexCallback([
     "LastDate": "2013-11-27",
     "LastResult": 0,
     "LastViolations": 0
+  },
+  {
+    "Id": "PR0077747",
+    "Name": "RASA",
+    "Lat": 37.57735364900003,
+    "Long": -122.34585640499995,
+    "LastDate": "2017-05-23",
+    "LastResult": 49,
+    "LastViolations": 3
   },
   {
     "Id": "PR0071460",
@@ -9972,15 +9972,6 @@ locationIndexCallback([
     "LastViolations": 1
   },
   {
-    "Id": "PR0081748",
-    "Name": "IKES LOVE AND SANDWHICHES",
-    "Lat": 37.576564,
-    "Long": -122.346659,
-    "LastDate": "2017-12-11",
-    "LastResult": 49,
-    "LastViolations": 4
-  },
-  {
     "Id": "PR0068525",
     "Name": "WHICH WICH SUPERIOR SANDWICHES",
     "Lat": 37.576564,
@@ -9988,6 +9979,15 @@ locationIndexCallback([
     "LastDate": "2015-10-22",
     "LastResult": 49,
     "LastViolations": 2
+  },
+  {
+    "Id": "PR0081748",
+    "Name": "IKES LOVE AND SANDWHICHES",
+    "Lat": 37.576564,
+    "Long": -122.346659,
+    "LastDate": "2017-12-11",
+    "LastResult": 49,
+    "LastViolations": 4
   },
   {
     "Id": "PR0073666",
@@ -10053,15 +10053,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0082977",
-    "Name": "ADVANTAGE FOOD SAMPLING PROGRAM AT SAFEWAY #1547",
-    "Lat": 37.575894,
-    "Long": -122.347585,
-    "LastDate": "2017-05-31",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0050428",
     "Name": "SAFEWAY STORE #1547",
     "Lat": 37.575894,
@@ -10078,6 +10069,15 @@ locationIndexCallback([
     "LastDate": "2017-05-31",
     "LastResult": 49,
     "LastViolations": 5
+  },
+  {
+    "Id": "PR0082977",
+    "Name": "ADVANTAGE FOOD SAMPLING PROGRAM AT SAFEWAY #1547",
+    "Lat": 37.575894,
+    "Long": -122.347585,
+    "LastDate": "2017-05-31",
+    "LastResult": 0,
+    "LastViolations": 0
   },
   {
     "Id": "PR0002946",
@@ -10314,6 +10314,15 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
+    "Id": "PR0001601",
+    "Name": "Century Cafe",
+    "Lat": 37.57200747200005,
+    "Long": -122.324145913,
+    "LastDate": "2013-05-28",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
     "Id": "PR0002184",
     "Name": "231 Ellsworth",
     "Lat": 37.57200747200005,
@@ -10330,15 +10339,6 @@ locationIndexCallback([
     "LastDate": "2016-06-06",
     "LastResult": 49,
     "LastViolations": 3
-  },
-  {
-    "Id": "PR0001601",
-    "Name": "Century Cafe",
-    "Lat": 37.57200747200005,
-    "Long": -122.324145913,
-    "LastDate": "2013-05-28",
-    "LastResult": 0,
-    "LastViolations": 0
   },
   {
     "Id": "PR0046242",
@@ -10521,24 +10521,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0056190",
-    "Name": "Fresh \u0026 Easy Neighborhood Market",
-    "Lat": 37.56983798300007,
-    "Long": -122.51552847299996,
-    "LastDate": "2013-09-16",
-    "LastResult": 51,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0070142",
-    "Name": "THE POINT PIZZA \u0026 PASTA",
-    "Lat": 37.56983798300007,
-    "Long": -122.51552847299996,
-    "LastDate": "2016-06-20",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0001154",
     "Name": "Taco Bell #2877",
     "Lat": 37.56983798300007,
@@ -10557,11 +10539,29 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
+    "Id": "PR0056190",
+    "Name": "Fresh \u0026 Easy Neighborhood Market",
+    "Lat": 37.56983798300007,
+    "Long": -122.51552847299996,
+    "LastDate": "2013-09-16",
+    "LastResult": 51,
+    "LastViolations": 1
+  },
+  {
     "Id": "PR0068627",
     "Name": "Boston Bill Cheese Steaks",
     "Lat": 37.56983798300007,
     "Long": -122.51552847299996,
     "LastDate": "2013-01-02",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0070142",
+    "Name": "THE POINT PIZZA \u0026 PASTA",
+    "Lat": 37.56983798300007,
+    "Long": -122.51552847299996,
+    "LastDate": "2016-06-20",
     "LastResult": 0,
     "LastViolations": 0
   },
@@ -10647,15 +10647,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0083710",
-    "Name": "EL RINCONSITO CATRACHO CORPORATION",
-    "Lat": 37.569265,
-    "Long": -122.326303,
-    "LastDate": "2017-11-29",
-    "LastResult": 49,
-    "LastViolations": 3
-  },
-  {
     "Id": "PR0001574",
     "Name": "LOS PRIMOS",
     "Lat": 37.569265,
@@ -10672,6 +10663,15 @@ locationIndexCallback([
     "LastDate": "2016-09-29",
     "LastResult": 49,
     "LastViolations": 6
+  },
+  {
+    "Id": "PR0083710",
+    "Name": "EL RINCONSITO CATRACHO CORPORATION",
+    "Lat": 37.569265,
+    "Long": -122.326303,
+    "LastDate": "2017-11-29",
+    "LastResult": 49,
+    "LastViolations": 3
   },
   {
     "Id": "PR0070137",
@@ -10836,21 +10836,21 @@ locationIndexCallback([
     "LastViolations": 7
   },
   {
-    "Id": "PR0073661",
-    "Name": "Guckenheimer-Gilead Lakeside Cafe",
-    "Lat": 37.56817015900003,
-    "Long": -122.28336345199995,
-    "LastDate": "2013-05-07",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0050196",
     "Name": "Gilead Cafeteria",
     "Lat": 37.56817015900003,
     "Long": -122.28336345199995,
     "LastDate": "2013-02-11",
     "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0073661",
+    "Name": "Guckenheimer-Gilead Lakeside Cafe",
+    "Lat": 37.56817015900003,
+    "Long": -122.28336345199995,
+    "LastDate": "2013-05-07",
+    "LastResult": 51,
     "LastViolations": 0
   },
   {
@@ -10863,6 +10863,15 @@ locationIndexCallback([
     "LastViolations": 6
   },
   {
+    "Id": "PR0066849",
+    "Name": "KAMAKSHIS KITCHEN, LLC",
+    "Lat": 37.568094,
+    "Long": -122.311412,
+    "LastDate": "2017-12-07",
+    "LastResult": 49,
+    "LastViolations": 2
+  },
+  {
     "Id": "PR0076181",
     "Name": "ROCKOS ICE CREAM TACOS",
     "Lat": 37.568094,
@@ -10872,17 +10881,35 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0083818",
-    "Name": "PEPREKA",
+    "Id": "PR0080083",
+    "Name": "DUM",
     "Lat": 37.568094,
     "Long": -122.311412,
-    "LastDate": "2017-12-07",
-    "LastResult": 0,
+    "LastDate": "2017-02-14",
+    "LastResult": 49,
     "LastViolations": 0
   },
   {
     "Id": "PR0081187",
     "Name": "UMAMI MANAGEMENT",
+    "Lat": 37.568094,
+    "Long": -122.311412,
+    "LastDate": "2017-12-07",
+    "LastResult": 49,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0081413",
+    "Name": "BREAKING BREAD INC",
+    "Lat": 37.568094,
+    "Long": -122.311412,
+    "LastDate": "2016-03-08",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0081601",
+    "Name": "SPICE LADLE INC",
     "Lat": 37.568094,
     "Long": -122.311412,
     "LastDate": "2017-12-07",
@@ -10899,40 +10926,13 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0081601",
-    "Name": "SPICE LADLE INC",
+    "Id": "PR0083818",
+    "Name": "PEPREKA",
     "Lat": 37.568094,
     "Long": -122.311412,
     "LastDate": "2017-12-07",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0080083",
-    "Name": "DUM",
-    "Lat": 37.568094,
-    "Long": -122.311412,
-    "LastDate": "2017-02-14",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0081413",
-    "Name": "BREAKING BREAD INC",
-    "Lat": 37.568094,
-    "Long": -122.311412,
-    "LastDate": "2016-03-08",
     "LastResult": 0,
     "LastViolations": 0
-  },
-  {
-    "Id": "PR0066849",
-    "Name": "KAMAKSHIS KITCHEN, LLC",
-    "Lat": 37.568094,
-    "Long": -122.311412,
-    "LastDate": "2017-12-07",
-    "LastResult": 49,
-    "LastViolations": 2
   },
   {
     "Id": "PR0002869",
@@ -10944,15 +10944,6 @@ locationIndexCallback([
     "LastViolations": 6
   },
   {
-    "Id": "PR0075274",
-    "Name": "J And J Catering Co",
-    "Lat": 37.56805536100006,
-    "Long": -122.31141227699999,
-    "LastDate": "2014-06-17",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0074008",
     "Name": "Kamakshi'S Kitchen",
     "Lat": 37.56805536100006,
@@ -10962,38 +10953,11 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0074485",
-    "Name": "Yummiest Treats",
+    "Id": "PR0074122",
+    "Name": "Healthy Delight Llc",
     "Lat": 37.56805536100006,
     "Long": -122.31141227699999,
-    "LastDate": "2014-06-07",
-    "LastResult": 51,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0076651",
-    "Name": "Tibby Kitchen Llc",
-    "Lat": 37.56805536100006,
-    "Long": -122.31141227699999,
-    "LastDate": "2014-07-14",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0079462",
-    "Name": "MANNA BLAST",
-    "Lat": 37.56805536100006,
-    "Long": -122.31141227699999,
-    "LastDate": "2015-05-11",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0077402",
-    "Name": "Crumbs And Smore",
-    "Lat": 37.56805536100006,
-    "Long": -122.31141227699999,
-    "LastDate": "2014-09-11",
+    "LastDate": "2014-05-15",
     "LastResult": 0,
     "LastViolations": 0
   },
@@ -11007,6 +10971,42 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
+    "Id": "PR0074485",
+    "Name": "Yummiest Treats",
+    "Lat": 37.56805536100006,
+    "Long": -122.31141227699999,
+    "LastDate": "2014-06-07",
+    "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0075274",
+    "Name": "J And J Catering Co",
+    "Lat": 37.56805536100006,
+    "Long": -122.31141227699999,
+    "LastDate": "2014-06-17",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0076651",
+    "Name": "Tibby Kitchen Llc",
+    "Lat": 37.56805536100006,
+    "Long": -122.31141227699999,
+    "LastDate": "2014-07-14",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0077402",
+    "Name": "Crumbs And Smore",
+    "Lat": 37.56805536100006,
+    "Long": -122.31141227699999,
+    "LastDate": "2014-09-11",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
     "Id": "PR0078862",
     "Name": "CALORICIOUS",
     "Lat": 37.56805536100006,
@@ -11016,11 +11016,11 @@ locationIndexCallback([
     "LastViolations": 5
   },
   {
-    "Id": "PR0074122",
-    "Name": "Healthy Delight Llc",
+    "Id": "PR0079462",
+    "Name": "MANNA BLAST",
     "Lat": 37.56805536100006,
     "Long": -122.31141227699999,
-    "LastDate": "2014-05-15",
+    "LastDate": "2015-05-11",
     "LastResult": 0,
     "LastViolations": 0
   },
@@ -11079,21 +11079,21 @@ locationIndexCallback([
     "LastViolations": 3
   },
   {
-    "Id": "PR0074125",
-    "Name": "Claudias Pastes And Empanadas",
-    "Lat": 37.56758018800008,
-    "Long": -122.31934828199996,
-    "LastDate": "2014-09-27",
-    "LastResult": 52,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0072458",
     "Name": "Empanada House \u0026 Bakery",
     "Lat": 37.56758018800008,
     "Long": -122.31934828199996,
     "LastDate": "2013-05-07",
     "LastResult": 51,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0074125",
+    "Name": "Claudias Pastes And Empanadas",
+    "Lat": 37.56758018800008,
+    "Long": -122.31934828199996,
+    "LastDate": "2014-09-27",
+    "LastResult": 52,
     "LastViolations": 0
   },
   {
@@ -11142,15 +11142,6 @@ locationIndexCallback([
     "LastViolations": 6
   },
   {
-    "Id": "PR0075025",
-    "Name": "BANGKOK PATIO",
-    "Lat": 37.567453,
-    "Long": -122.3196,
-    "LastDate": "2017-02-09",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
     "Id": "PR0057148",
     "Name": "LITTLE CAESARS",
     "Lat": 37.567453,
@@ -11158,6 +11149,15 @@ locationIndexCallback([
     "LastDate": "2017-02-08",
     "LastResult": 49,
     "LastViolations": 2
+  },
+  {
+    "Id": "PR0075025",
+    "Name": "BANGKOK PATIO",
+    "Lat": 37.567453,
+    "Long": -122.3196,
+    "LastDate": "2017-02-09",
+    "LastResult": 49,
+    "LastViolations": 1
   },
   {
     "Id": "PR0061730",
@@ -11412,15 +11412,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0081465",
-    "Name": "GUCKENHEIMER AT GILEAD",
-    "Lat": 37.56693,
-    "Long": -122.282987,
-    "LastDate": "2017-06-28",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0001456",
     "Name": "JACK IN THE BOX #495",
     "Lat": 37.56693,
@@ -11428,6 +11419,15 @@ locationIndexCallback([
     "LastDate": "2016-01-13",
     "LastResult": 49,
     "LastViolations": 6
+  },
+  {
+    "Id": "PR0081465",
+    "Name": "GUCKENHEIMER AT GILEAD",
+    "Lat": 37.56693,
+    "Long": -122.282987,
+    "LastDate": "2017-06-28",
+    "LastResult": 49,
+    "LastViolations": 0
   },
   {
     "Id": "PR0065915",
@@ -11466,20 +11466,20 @@ locationIndexCallback([
     "LastViolations": 4
   },
   {
-    "Id": "PR0084615",
-    "Name": "OLD TOWN RAMEN",
-    "Lat": 37.566838,
-    "Long": -122.323851,
-    "LastDate": "2017-05-18",
-    "LastResult": 49,
-    "LastViolations": 10
-  },
-  {
     "Id": "PR0065423",
     "Name": "CHA CHA CHA CUBA",
     "Lat": 37.566838,
     "Long": -122.323851,
     "LastDate": "2017-03-30",
+    "LastResult": 49,
+    "LastViolations": 10
+  },
+  {
+    "Id": "PR0084615",
+    "Name": "OLD TOWN RAMEN",
+    "Lat": 37.566838,
+    "Long": -122.323851,
+    "LastDate": "2017-05-18",
     "LastResult": 49,
     "LastViolations": 10
   },
@@ -11655,15 +11655,6 @@ locationIndexCallback([
     "LastViolations": 1
   },
   {
-    "Id": "PR0075027",
-    "Name": "Bambu",
-    "Lat": 37.56664990100006,
-    "Long": -122.32361034899998,
-    "LastDate": "2014-04-02",
-    "LastResult": 52,
-    "LastViolations": 3
-  },
-  {
     "Id": "PR0072629",
     "Name": "Happy Noodles",
     "Lat": 37.56664990100006,
@@ -11671,6 +11662,15 @@ locationIndexCallback([
     "LastDate": "2013-03-19",
     "LastResult": 51,
     "LastViolations": 2
+  },
+  {
+    "Id": "PR0075027",
+    "Name": "Bambu",
+    "Lat": 37.56664990100006,
+    "Long": -122.32361034899998,
+    "LastDate": "2014-04-02",
+    "LastResult": 52,
+    "LastViolations": 3
   },
   {
     "Id": "PR0046162",
@@ -11772,21 +11772,21 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0073663",
-    "Name": "Guckenheimer-Gilead Tides Cafe",
-    "Lat": 37.56643243600007,
-    "Long": -122.28293553199995,
-    "LastDate": "2013-05-07",
-    "LastResult": 51,
-    "LastViolations": 3
-  },
-  {
     "Id": "PR0028585",
     "Name": "Tides Cafe",
     "Lat": 37.56643243600007,
     "Long": -122.28293553199995,
     "LastDate": "2013-02-25",
     "LastResult": 52,
+    "LastViolations": 3
+  },
+  {
+    "Id": "PR0073663",
+    "Name": "Guckenheimer-Gilead Tides Cafe",
+    "Lat": 37.56643243600007,
+    "Long": -122.28293553199995,
+    "LastDate": "2013-05-07",
+    "LastResult": 51,
     "LastViolations": 3
   },
   {
@@ -12042,15 +12042,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0085782",
-    "Name": "ROAM ARTISAN BURGERS",
-    "Lat": 37.565927,
-    "Long": -122.322839,
-    "LastDate": "2017-11-21",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
     "Id": "PR0074370",
     "Name": "LOS DOS AMIGOS",
     "Lat": 37.565927,
@@ -12058,6 +12049,15 @@ locationIndexCallback([
     "LastDate": "2016-06-23",
     "LastResult": 49,
     "LastViolations": 0
+  },
+  {
+    "Id": "PR0085782",
+    "Name": "ROAM ARTISAN BURGERS",
+    "Lat": 37.565927,
+    "Long": -122.322839,
+    "LastDate": "2017-11-21",
+    "LastResult": 49,
+    "LastViolations": 1
   },
   {
     "Id": "PR0081706",
@@ -12096,15 +12096,6 @@ locationIndexCallback([
     "LastViolations": 3
   },
   {
-    "Id": "PR0056418",
-    "Name": "SAN MATEO LIQUORS",
-    "Lat": 37.565864,
-    "Long": -122.322772,
-    "LastDate": "2017-03-17",
-    "LastResult": 49,
-    "LastViolations": 2
-  },
-  {
     "Id": "PR0000833",
     "Name": "LAS AMERICAS RESTAURANT",
     "Lat": 37.565864,
@@ -12112,6 +12103,15 @@ locationIndexCallback([
     "LastDate": "2017-02-08",
     "LastResult": 49,
     "LastViolations": 0
+  },
+  {
+    "Id": "PR0056418",
+    "Name": "SAN MATEO LIQUORS",
+    "Lat": 37.565864,
+    "Long": -122.322772,
+    "LastDate": "2017-03-17",
+    "LastResult": 49,
+    "LastViolations": 2
   },
   {
     "Id": "PR0075809",
@@ -12222,13 +12222,13 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
-    "Id": "PR0079751",
-    "Name": "MILLS HEALTH CENTER",
+    "Id": "PR0003144",
+    "Name": "CELEBRITY CAFE",
     "Lat": 37.565593,
     "Long": -122.325314,
-    "LastDate": "2017-02-24",
+    "LastDate": "2017-02-17",
     "LastResult": 49,
-    "LastViolations": 0
+    "LastViolations": 5
   },
   {
     "Id": "PR0003204",
@@ -12240,13 +12240,13 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0003144",
-    "Name": "CELEBRITY CAFE",
+    "Id": "PR0079751",
+    "Name": "MILLS HEALTH CENTER",
     "Lat": 37.565593,
     "Long": -122.325314,
-    "LastDate": "2017-02-17",
+    "LastDate": "2017-02-24",
     "LastResult": 49,
-    "LastViolations": 5
+    "LastViolations": 0
   },
   {
     "Id": "PR0003142",
@@ -12303,20 +12303,20 @@ locationIndexCallback([
     "LastViolations": 2
   },
   {
-    "Id": "PR0085485",
-    "Name": "AVOCADO TOAST",
-    "Lat": 37.565351,
-    "Long": -122.322637,
-    "LastDate": "2017-11-28",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
     "Id": "PR0002581",
     "Name": "SUBWAY",
     "Lat": 37.565351,
     "Long": -122.322637,
     "LastDate": "2017-04-05",
+    "LastResult": 49,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0085485",
+    "Name": "AVOCADO TOAST",
+    "Lat": 37.565351,
+    "Long": -122.322637,
+    "LastDate": "2017-11-28",
     "LastResult": 49,
     "LastViolations": 1
   },
@@ -12348,15 +12348,6 @@ locationIndexCallback([
     "LastViolations": 1
   },
   {
-    "Id": "PR0002939",
-    "Name": "LITTLE SHEEP MONGOLIAN HOT POT",
-    "Lat": 37.565303,
-    "Long": -122.323513,
-    "LastDate": "2017-12-13",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
     "Id": "PR0002506",
     "Name": "LITTLE CHINA KITCHEN",
     "Lat": 37.565303,
@@ -12364,6 +12355,15 @@ locationIndexCallback([
     "LastDate": "2017-09-19",
     "LastResult": 49,
     "LastViolations": 7
+  },
+  {
+    "Id": "PR0002939",
+    "Name": "LITTLE SHEEP MONGOLIAN HOT POT",
+    "Lat": 37.565303,
+    "Long": -122.323513,
+    "LastDate": "2017-12-13",
+    "LastResult": 49,
+    "LastViolations": 1
   },
   {
     "Id": "PR0026584",
@@ -12582,15 +12582,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0079708",
-    "Name": "BEST OF BURMA",
-    "Lat": 37.564634,
-    "Long": -122.323642,
-    "LastDate": "2017-11-09",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0073313",
     "Name": "VESPUCCI",
     "Lat": 37.564634,
@@ -12598,6 +12589,15 @@ locationIndexCallback([
     "LastDate": "2016-06-30",
     "LastResult": 49,
     "LastViolations": 1
+  },
+  {
+    "Id": "PR0079708",
+    "Name": "BEST OF BURMA",
+    "Lat": 37.564634,
+    "Long": -122.323642,
+    "LastDate": "2017-11-09",
+    "LastResult": 49,
+    "LastViolations": 0
   },
   {
     "Id": "PR0049906",
@@ -12789,15 +12789,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0081177",
-    "Name": "CHINESE HERBS CORPORATION",
-    "Lat": 37.564226,
-    "Long": -122.322323,
-    "LastDate": "2016-01-28",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0062666",
     "Name": "YU-RAKU",
     "Lat": 37.564226,
@@ -12805,6 +12796,15 @@ locationIndexCallback([
     "LastDate": "2017-03-21",
     "LastResult": 49,
     "LastViolations": 5
+  },
+  {
+    "Id": "PR0081177",
+    "Name": "CHINESE HERBS CORPORATION",
+    "Lat": 37.564226,
+    "Long": -122.322323,
+    "LastDate": "2016-01-28",
+    "LastResult": 49,
+    "LastViolations": 0
   },
   {
     "Id": "PR0002176",
@@ -12870,15 +12870,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0083503",
-    "Name": "AKIZU SUSHI BAR \u0026 GRILL",
-    "Lat": 37.564094,
-    "Long": -122.250055,
-    "LastDate": "2017-01-04",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
     "Id": "PR0081860",
     "Name": "AKISU SUSHI BAR AND GRILL",
     "Lat": 37.564094,
@@ -12893,6 +12884,15 @@ locationIndexCallback([
     "Lat": 37.564094,
     "Long": -122.250055,
     "LastDate": "2017-05-31",
+    "LastResult": 49,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0083503",
+    "Name": "AKIZU SUSHI BAR \u0026 GRILL",
+    "Lat": 37.564094,
+    "Long": -122.250055,
+    "LastDate": "2017-01-04",
     "LastResult": 49,
     "LastViolations": 1
   },
@@ -12951,15 +12951,6 @@ locationIndexCallback([
     "LastViolations": 6
   },
   {
-    "Id": "PR0076893",
-    "Name": "Honeyberry",
-    "Lat": 37.56396491500004,
-    "Long": -122.32279581399996,
-    "LastDate": "2014-06-03",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0072997",
     "Name": "Honey Berry",
     "Lat": 37.56396491500004,
@@ -12967,6 +12958,15 @@ locationIndexCallback([
     "LastDate": "2014-05-28",
     "LastResult": 52,
     "LastViolations": 4
+  },
+  {
+    "Id": "PR0076893",
+    "Name": "Honeyberry",
+    "Lat": 37.56396491500004,
+    "Long": -122.32279581399996,
+    "LastDate": "2014-06-03",
+    "LastResult": 0,
+    "LastViolations": 0
   },
   {
     "Id": "PR0033720",
@@ -13104,6 +13104,15 @@ locationIndexCallback([
     "LastViolations": 1
   },
   {
+    "Id": "PR0001549",
+    "Name": "PORTERHOUSESTEAKUS",
+    "Lat": 37.563836,
+    "Long": -122.324795,
+    "LastDate": "2017-08-11",
+    "LastResult": 49,
+    "LastViolations": 2
+  },
+  {
     "Id": "PR0074944",
     "Name": "SHARE TEA",
     "Lat": 37.563836,
@@ -13120,15 +13129,6 @@ locationIndexCallback([
     "LastDate": "2016-12-19",
     "LastResult": 49,
     "LastViolations": 5
-  },
-  {
-    "Id": "PR0001549",
-    "Name": "PORTERHOUSESTEAKUS",
-    "Lat": 37.563836,
-    "Long": -122.324795,
-    "LastDate": "2017-08-11",
-    "LastResult": 49,
-    "LastViolations": 2
   },
   {
     "Id": "PR0064802",
