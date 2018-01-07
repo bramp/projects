@@ -87,26 +87,6 @@
       const ICON_PATH = 'https://maps.google.com/mapfiles/ms/icons/';
 
       const RESULTS_CODE = [];
-      /*
-      RESULTS_CODE[1] =  {icon:'green',  name: 'MEETS STANDARDS'};
-      RESULTS_CODE[49] = {icon:'green',  name: 'PASS (GREEN)'};
-      RESULTS_CODE[51] = {icon:'green',  name: 'EXCELLENT'};
-      RESULTS_CODE[52] = {icon:'green',  name: 'GOOD'};
-
-      RESULTS_CODE[50] = {icon:'yellow', name: 'CONDITIONAL PASS (YELLOW)'};
-      RESULTS_CODE[53] = {icon:'yellow', name: 'FAIR'};
-      RESULTS_CODE[80] = {icon:'yellow', name: 'VIOLATIONS CORRECTED'};
-      RESULTS_CODE[54] = {icon:'yellow', name: 'POOR'};
-
-      RESULTS_CODE[2] =  {icon:'red',    name: 'FAILED TO MEET STANDARDS'};
-      RESULTS_CODE[5] =  {icon:'red',    name: 'FAILED MCL - SELENIUM'};
-      RESULTS_CODE[10] = {icon:'red',    name: 'FAILED ACTION LEVEL SP ORGANIC'};
-      RESULTS_CODE[55] = {icon:'red',    name: 'CLOSED (RED)'};
-
-      RESULTS_CODE[0] =  {icon:'grey',   name: 'NOT APPLICABLE'};
-      RESULTS_CODE[35] = {icon:'grey',   name: 'NOT IN USE'};
-      RESULTS_CODE[99] = {icon:'grey',   name: 'MAJOR VIOLATION CORRECTED'};
-      */
       RESULTS_CODE[0] =  {icon:'grey',  name: 'NOT APPLICABLE'};
       RESULTS_CODE[1] = {icon:'green',  name: 'PASS (GREEN)'};
       RESULTS_CODE[2] = {icon:'yellow', name: 'CONDITIONAL PASS (YELLOW)'};
@@ -122,25 +102,18 @@
 
       const DEGREE_CODE = [];
       DEGREE_CODE[0] = '';
-      DEGREE_CODE[1] = '(Major)';
-      DEGREE_CODE[2] = '(Minor)';
+      DEGREE_CODE[1] = '(Minor)';
+      DEGREE_CODE[2] = '(Major)';
       DEGREE_CODE[3] = '(Critical)';
-      DEGREE_CODE[6] = '(Legal Action)';
-      DEGREE_CODE[8] = '(Food Handler Certification)';
 
-      const VIOLATION_STATUS = Object.freeze({
-        'A':  'Concern',
-        'CO': '🔧', // 'CORRECTED ON SITE',
-        'CV': '🔧️', // 'VIOLATION CORRECTED',
-        'NA': 'N/A', // 'NOT APPLICABLE',
-        'IN': '✅️', // 'IN COMPLIANCE',
-        'NV': '✅️', // 'No Viol Observed',
-        'NO': '❓', // 'NOT OBSERVED',
-        'UD': '❓', // 'Undetermined',
-        'UN': '❓', // 'UNANSWERED',
-        'OU': '❗', // 'OUT OF COMPLIANCE',
-        'V':  '❗', // 'VIOLATION',
-      });
+      const VIOLATION_STATUS = [];
+      VIOLATION_STATUS[0] = 'N/A';
+      VIOLATION_STATUS[1] = '✅️'; // InCompliance
+      VIOLATION_STATUS[2] = '🔧️'; // Corrected
+      VIOLATION_STATUS[3] = '❗'; // OutOfCompliance
+      VIOLATION_STATUS[4] = '❓'; // NotObserved
+      VIOLATION_STATUS[5] = '❓'; // Unanswered
+      VIOLATION_STATUS[6] = '❓'; // Undetermined
 
       const MARKER_ZINDEX = Object.freeze({
         'grey': 0,
