@@ -87,6 +87,7 @@
       const ICON_PATH = 'https://maps.google.com/mapfiles/ms/icons/';
 
       const RESULTS_CODE = [];
+      /*
       RESULTS_CODE[1] =  {icon:'green',  name: 'MEETS STANDARDS'};
       RESULTS_CODE[49] = {icon:'green',  name: 'PASS (GREEN)'};
       RESULTS_CODE[51] = {icon:'green',  name: 'EXCELLENT'};
@@ -105,6 +106,19 @@
       RESULTS_CODE[0] =  {icon:'grey',   name: 'NOT APPLICABLE'};
       RESULTS_CODE[35] = {icon:'grey',   name: 'NOT IN USE'};
       RESULTS_CODE[99] = {icon:'grey',   name: 'MAJOR VIOLATION CORRECTED'};
+      */
+      RESULTS_CODE[0] =  {icon:'grey',  name: 'NOT APPLICABLE'};
+      RESULTS_CODE[1] = {icon:'green',  name: 'PASS (GREEN)'};
+      RESULTS_CODE[2] = {icon:'yellow', name: 'CONDITIONAL PASS (YELLOW)'};
+      RESULTS_CODE[3] = {icon:'red',    name: 'CLOSED (RED)'};
+
+      const REASON_CODE = [];
+      REASON_CODE[0] = 'OTHER';
+      REASON_CODE[1] = 'INITIAL';
+      REASON_CODE[2] = 'ROUTINE';
+      REASON_CODE[3] = 'FOLLOWUP';
+      REASON_CODE[4] = 'COMPLAINT';
+      REASON_CODE[5] = 'INVESTIGATION';
 
       const DEGREE_CODE = [];
       DEGREE_CODE[0] = '';
@@ -351,13 +365,16 @@
 
         for (let i = 0; i < location.Inspections.length; i++) {
           const inspection = location.Inspections[i];
-          content += '<tr><td>' + inspection.Date + '</td><td>' + inspection.Reason + '</td><td>' + RESULTS_CODE[inspection.Result].name + '</td></tr>';
+          const reason = inspection.Reason == 0 ? inspection.ReasonOther : REASON_CODE[inspection.Reason];
+
+          content += '<tr><td>' + inspection.Date + '</td><td>' + reason + '</td><td>' + RESULTS_CODE[inspection.Result].name + '</td></tr>';
 
           if (inspection.Violations) {
             for (let j = 0; j < inspection.Violations.length; j++) {
               const violation = inspection.Violations[j];
+              const degree = violation.Degree ? ' ' + DEGREE_CODE[violation.Degree]: ''
 
-              content += '<tr><td colspan=3>&nbsp;' + VIOLATION_STATUS[violation.Status]  + ' ' + (violation.Degree ? DEGREE_CODE[violation.Degree]: '') + ' ' + violation.Description + '</td></tr>'
+              content += '<tr><td colspan=3>&nbsp;' + VIOLATION_STATUS[violation.Status]  + degree + ' ' + violation.Description + '</td></tr>'
             }
           }
         }

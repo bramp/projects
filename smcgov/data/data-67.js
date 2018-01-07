@@ -8,13 +8,14 @@ locationCallback({
     "Lat": 37.578091452000024,
     "Long": -122.34850045199994,
     "LastDate": "2013-01-30",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2,
     "Inspections": [
       {
         "Date": "2013-01-30",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
@@ -39,13 +40,13 @@ locationCallback({
     "Lat": 37.630152,
     "Long": -122.436498,
     "LastDate": "2017-06-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2,
     "Inspections": [
       {
         "Date": "2017-06-27",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "42. Garbage/refuse properly disposed; facilities maintained",
@@ -59,8 +60,8 @@ locationCallback({
       },
       {
         "Date": "2016-06-07",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "42. Garbage/refuse properly disposed; facilities maintained",
@@ -74,8 +75,8 @@ locationCallback({
       },
       {
         "Date": "2015-05-20",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
@@ -96,13 +97,14 @@ locationCallback({
       },
       {
         "Date": "2014-04-04",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2013-03-28",
         "Result": 0,
-        "Reason": "ROUTINE"
+        "Reason": 2
       }
     ]
   },
@@ -115,13 +117,14 @@ locationCallback({
     "Lat": 37.60122616900003,
     "Long": -122.39078782599995,
     "LastDate": "2013-06-07",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3,
     "Inspections": [
       {
         "Date": "2013-06-07",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
@@ -143,12 +146,13 @@ locationCallback({
       {
         "Date": "2013-05-31",
         "Result": 0,
-        "Reason": "LICENSE/PERMIT INVESTIGATION"
+        "Reason": 5
       },
       {
         "Date": "2013-03-27",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
@@ -173,13 +177,13 @@ locationCallback({
     "Lat": 37.530648,
     "Long": -122.288398,
     "LastDate": "2016-07-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 9,
     "Inspections": [
       {
         "Date": "2016-07-28",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
@@ -223,22 +227,25 @@ locationCallback({
       {
         "Date": "2015-10-15",
         "Result": 0,
-        "Reason": "EDUCATIONAL INSPECTION"
+        "Reason": 0,
+        "ReasonOther": "EDUCATIONAL INSPECTION"
       },
       {
         "Date": "2015-10-14",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2015-01-06",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2014-02-04",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Food contact surfaces: clean and sanitized",
@@ -249,8 +256,9 @@ locationCallback({
       },
       {
         "Date": "2013-08-16",
-        "Result": 52,
-        "Reason": "COMPLAINT GENERATED ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 4,
         "Violations": [
           {
             "Description": "Food storage; food storage containers identified",
@@ -265,7 +273,13 @@ locationCallback({
       {
         "Date": "2013-04-04",
         "Result": 0,
-        "Reason": "COMPLAINT-INITIAL",
+        "Reason": 4
+      },
+      {
+        "Date": "2013-04-04",
+        "Result": 1,
+        "Score": 70,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
@@ -293,23 +307,33 @@ locationCallback({
     "Lat": 37.643889,
     "Long": -122.453352,
     "LastDate": "2017-08-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2017-08-16",
-        "Result": 49,
-        "Reason": "FOLLOWUP INSPECTION"
+        "Result": 1,
+        "Reason": 3
       },
       {
         "Date": "2017-08-09",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 0,
+        "Reason": 4
+      },
+      {
+        "Date": "2017-08-09",
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2016-10-18",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 0,
+        "Reason": 4
+      },
+      {
+        "Date": "2016-10-18",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
@@ -320,7 +344,14 @@ locationCallback({
       {
         "Date": "2014-03-25",
         "Result": 0,
-        "Reason": "REPORT REVIEW",
+        "Reason": 0,
+        "ReasonOther": "REPORT REVIEW"
+      },
+      {
+        "Date": "2014-03-25",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
@@ -342,12 +373,13 @@ locationCallback({
       {
         "Date": "2014-03-21",
         "Result": 0,
-        "Reason": "COMPLAINT-INITIAL"
+        "Reason": 4
       },
       {
         "Date": "2013-12-12",
-        "Result": 53,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 70,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
@@ -378,8 +410,9 @@ locationCallback({
       },
       {
         "Date": "2013-05-14",
-        "Result": 51,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
@@ -402,28 +435,35 @@ locationCallback({
     "Lat": 37.479551,
     "Long": -122.215614,
     "LastDate": "2017-08-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7,
     "Inspections": [
       {
         "Date": "2017-08-10",
         "Result": 0,
-        "Reason": "REPORT WRITING"
+        "Reason": 0,
+        "ReasonOther": "REPORT WRITING"
       },
       {
         "Date": "2017-08-08",
         "Result": 0,
-        "Reason": "COMPLAINT-INITIAL"
+        "Reason": 4
       },
       {
         "Date": "2017-08-07",
         "Result": 0,
-        "Reason": "COMPLAINT-INITIAL"
+        "Reason": 4
       },
       {
         "Date": "2017-07-14",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 0,
+        "Reason": 0,
+        "ReasonOther": "IN-SERVICE TRAINING-TRAINER"
+      },
+      {
+        "Date": "2017-07-14",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
@@ -460,12 +500,13 @@ locationCallback({
       {
         "Date": "2015-10-15",
         "Result": 0,
-        "Reason": "EDUCATIONAL INSPECTION"
+        "Reason": 0,
+        "ReasonOther": "EDUCATIONAL INSPECTION"
       },
       {
         "Date": "2015-06-23",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "07. Proper hot and cold holding temperatures",
@@ -481,8 +522,9 @@ locationCallback({
       },
       {
         "Date": "2014-06-04",
-        "Result": 51,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Food contact surfaces: clean and sanitized",
@@ -498,8 +540,9 @@ locationCallback({
       },
       {
         "Date": "2013-04-26",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
@@ -508,114 +551,6 @@ locationCallback({
           },
           {
             "Description": "Food separated and protected",
-            "Degree": 2,
-            "Status": "OU"
-          }
-        ]
-      }
-    ]
-  },
-  "PR0001314": {
-    "Id": "PR0001314",
-    "Name": "Save Mart Supermarkets",
-    "Address": "250 Fairmont",
-    "City": "Pacifica",
-    "Zip": "94044",
-    "Lat": 37.62145798000006,
-    "Long": -122.48581922199998,
-    "LastDate": "2014-12-05",
-    "LastResult": 52,
-    "LastViolations": 3,
-    "Inspections": [
-      {
-        "Date": "2014-12-05",
-        "Result": 0,
-        "Reason": "ROUTINE",
-        "Violations": [
-          {
-            "Description": "07. Proper hot and cold holding temperatures",
-            "Status": "OU"
-          },
-          {
-            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
-          }
-        ]
-      },
-      {
-        "Date": "2014-04-16",
-        "Result": 0,
-        "Reason": "CONSUMER RECALL SURVEY"
-      },
-      {
-        "Date": "2014-02-03",
-        "Result": 0,
-        "Reason": "CAMPY INTERVIEW"
-      },
-      {
-        "Date": "2013-10-21",
-        "Result": 0,
-        "Reason": "CAMPY INTERVIEW"
-      },
-      {
-        "Date": "2013-07-30",
-        "Result": 0,
-        "Reason": "ROUTINE",
-        "Violations": [
-          {
-            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "Equipment/Utensils - approved; installed; clean; g",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "Floors, walls and ceilings: built, maintained, and",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "Food in good condition, safe and unadulterated",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "Food separated and protected",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "Sewage and wastewater properly disposed",
-            "Degree": 2,
-            "Status": "OU"
-          }
-        ]
-      },
-      {
-        "Date": "2013-03-21",
-        "Result": 0,
-        "Reason": "REPORT REVIEW"
-      },
-      {
-        "Date": "2013-02-13",
-        "Result": 52,
-        "Reason": "ROUTINE",
-        "Violations": [
-          {
-            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "Demonstration of knowledge; food mgr certificate",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
             "Status": "OU"
           }
@@ -632,28 +567,34 @@ locationCallback({
     "Lat": 37.469951,
     "Long": -122.433832,
     "LastDate": "2017-10-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2017-10-12",
         "Result": 0,
-        "Reason": "COMPLAINT-INITIAL"
+        "Reason": 4
       },
       {
         "Date": "2017-09-08",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2016-07-12",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 0,
+        "Reason": 4,
+        "Name": "MCDONALDS"
+      },
+      {
+        "Date": "2016-07-12",
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2016-03-01",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "05. Hands clean and properly washed; proper glove use",
@@ -677,8 +618,9 @@ locationCallback({
       },
       {
         "Date": "2014-12-17",
-        "Result": 51,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Nonfood-contact surfaces clean",
@@ -689,8 +631,9 @@ locationCallback({
       },
       {
         "Date": "2014-04-22",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
@@ -711,8 +654,9 @@ locationCallback({
       },
       {
         "Date": "2013-10-08",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Food separated and protected",
@@ -728,8 +672,9 @@ locationCallback({
       },
       {
         "Date": "2013-01-30",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
@@ -761,13 +706,13 @@ locationCallback({
     "Lat": 37.514494,
     "Long": -122.268997,
     "LastDate": "2016-09-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3,
     "Inspections": [
       {
         "Date": "2016-09-12",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
@@ -786,13 +731,15 @@ locationCallback({
       },
       {
         "Date": "2014-06-03",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2013-02-11",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       }
     ]
   },
@@ -805,13 +752,13 @@ locationCallback({
     "Lat": 37.648099,
     "Long": -122.429274,
     "LastDate": "2017-08-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1,
     "Inspections": [
       {
         "Date": "2017-08-10",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "33. Nonfood contact surfaces clean",
@@ -821,8 +768,13 @@ locationCallback({
       },
       {
         "Date": "2016-08-01",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 0,
+        "Reason": 4
+      },
+      {
+        "Date": "2016-08-01",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
@@ -837,18 +789,21 @@ locationCallback({
       },
       {
         "Date": "2014-07-01",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2013-08-06",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2013-02-26",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       }
     ]
   },
@@ -861,13 +816,14 @@ locationCallback({
     "Lat": 37.62634964700004,
     "Long": -122.41131872999995,
     "LastDate": "2014-05-15",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 4,
     "Inspections": [
       {
         "Date": "2014-05-15",
-        "Result": 53,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 70,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
@@ -891,7 +847,8 @@ locationCallback({
       {
         "Date": "2013-02-26",
         "Result": 0,
-        "Reason": "CONSUMER RECALL ACTION TAKEN",
+        "Reason": 0,
+        "ReasonOther": "CONSUMER RECALL ACTION TAKEN",
         "Violations": [
           {
             "Description": "Food in good condition, safe and unadulterated",
@@ -912,7 +869,7 @@ locationCallback({
       {
         "Date": "2013-02-08",
         "Result": 0,
-        "Reason": "COMPLAINT-INITIAL",
+        "Reason": 4,
         "Violations": [
           {
             "Description": "Premises; personal/cleaning items; vermin-proofing",
@@ -922,8 +879,9 @@ locationCallback({
       },
       {
         "Date": "2013-01-31",
-        "Result": 53,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 70,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
@@ -960,7 +918,8 @@ locationCallback({
       {
         "Date": "2013-01-30",
         "Result": 0,
-        "Reason": "REPORT REVIEW"
+        "Reason": 0,
+        "ReasonOther": "REPORT REVIEW"
       }
     ]
   },
@@ -973,18 +932,20 @@ locationCallback({
     "Lat": 37.55488319800003,
     "Long": -122.30672962199998,
     "LastDate": "2014-05-15",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2014-05-15",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2013-04-11",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       }
     ]
   },
@@ -997,13 +958,13 @@ locationCallback({
     "Lat": 37.635322,
     "Long": -122.411453,
     "LastDate": "2017-08-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7,
     "Inspections": [
       {
         "Date": "2017-08-08",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
@@ -1040,8 +1001,8 @@ locationCallback({
       },
       {
         "Date": "2016-02-11",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "01a. Demonstration of knowledge",
@@ -1087,8 +1048,8 @@ locationCallback({
       },
       {
         "Date": "2015-08-04",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "26. Approved thawing methods in use",
@@ -1106,8 +1067,8 @@ locationCallback({
       },
       {
         "Date": "2015-06-30",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
@@ -1146,12 +1107,14 @@ locationCallback({
       {
         "Date": "2014-03-20",
         "Result": 0,
-        "Reason": "CAMPY FACILITY ASSESSMENT"
+        "Reason": 0,
+        "ReasonOther": "CAMPY FACILITY ASSESSMENT"
       },
       {
         "Date": "2014-03-18",
         "Result": 0,
-        "Reason": "CAMPY INTERVIEW",
+        "Reason": 0,
+        "ReasonOther": "CAMPY INTERVIEW",
         "Violations": [
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
@@ -1163,12 +1126,14 @@ locationCallback({
       {
         "Date": "2013-11-25",
         "Result": 0,
-        "Reason": "IN-SERVICE TRAINING-TRAINER"
+        "Reason": 0,
+        "ReasonOther": "IN-SERVICE TRAINING-TRAINER"
       },
       {
         "Date": "2013-11-15",
         "Result": 0,
-        "Reason": "CAMPY INTERVIEW",
+        "Reason": 0,
+        "ReasonOther": "CAMPY INTERVIEW",
         "Violations": [
           {
             "Description": "Hands clean and properly washed; gloves used prope",
@@ -1183,8 +1148,9 @@ locationCallback({
       },
       {
         "Date": "2013-06-28",
-        "Result": 53,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 70,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
@@ -1224,130 +1190,6 @@ locationCallback({
       }
     ]
   },
-  "PR0029080": {
-    "Id": "PR0029080",
-    "Name": "UNA MAS MEXICAN GRILL",
-    "Address": "224 REDWOOD SHORES PKWY",
-    "City": "REDWOOD CITY",
-    "Zip": "94065",
-    "Lat": 37.521528,
-    "Long": -122.252739,
-    "LastDate": "2017-10-31",
-    "LastResult": 49,
-    "LastViolations": 8,
-    "Inspections": [
-      {
-        "Date": "2017-10-31",
-        "Result": 49,
-        "Reason": "FOLLOWUP INSPECTION",
-        "Violations": [
-          {
-            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
-            "Degree": 2,
-            "Status": "CO"
-          },
-          {
-            "Description": "07. Proper hot and cold holding temperatures",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "33. Nonfood contact surfaces clean",
-            "Status": "OU"
-          },
-          {
-            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Degree": 2,
-            "Status": "CO"
-          },
-          {
-            "Description": "38. Adequate ventilation and lighting; designated areas, use",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "39. Thermometers provided and accurate",
-            "Degree": 2,
-            "Status": "CO"
-          },
-          {
-            "Description": "41. Plumbing; fixtures, back flow devices, drainage",
-            "Degree": 2,
-            "Status": "OU"
-          }
-        ]
-      },
-      {
-        "Date": "2017-08-16",
-        "Result": 0,
-        "Reason": "SURVEY/FIELD STUDY"
-      },
-      {
-        "Date": "2017-08-15",
-        "Result": 0,
-        "Reason": "CONSULTATION"
-      },
-      {
-        "Date": "2017-02-03",
-        "Result": 0,
-        "Reason": "PROGRAM STANDARDIZATION/AUDITING"
-      },
-      {
-        "Date": "2017-02-01",
-        "Result": 49,
-        "Reason": "ROUTINE",
-        "Violations": [
-          {
-            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
-            "Degree": 2,
-            "Status": "OU"
-          }
-        ]
-      },
-      {
-        "Date": "2014-01-31",
-        "Result": 0,
-        "Reason": "ROUTINE"
-      },
-      {
-        "Date": "2013-06-28",
-        "Result": 53,
-        "Reason": "ROUTINE",
-        "Violations": [
-          {
-            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "Demonstration of knowledge; food mgr certificate",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "Food contact surfaces: clean and sanitized",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "Hot and cold water available",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "Permits Available",
-            "Degree": 2,
-            "Status": "OU"
-          }
-        ]
-      }
-    ]
-  },
   "PR0033896": {
     "Id": "PR0033896",
     "Name": "GARDEN VILLAGE ELEMENTARY SCHOOL",
@@ -1357,33 +1199,35 @@ locationCallback({
     "Lat": 37.694388,
     "Long": -122.477443,
     "LastDate": "2017-05-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2017-05-09",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2016-03-18",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2015-10-14",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2014-11-10",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2014-04-21",
-        "Result": 51,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Food separated and protected",
@@ -1393,13 +1237,15 @@ locationCallback({
       },
       {
         "Date": "2013-10-07",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2013-02-14",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       }
     ]
   },
@@ -1412,13 +1258,13 @@ locationCallback({
     "Lat": 37.66027,
     "Long": -122.477278,
     "LastDate": "2016-03-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2,
     "Inspections": [
       {
         "Date": "2016-03-14",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "07. Proper hot and cold holding temperatures",
@@ -1434,8 +1280,8 @@ locationCallback({
       },
       {
         "Date": "2015-03-02",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
@@ -1456,8 +1302,9 @@ locationCallback({
       },
       {
         "Date": "2014-11-18",
-        "Result": 51,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
@@ -1468,8 +1315,9 @@ locationCallback({
       },
       {
         "Date": "2013-12-26",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
@@ -1485,8 +1333,9 @@ locationCallback({
       },
       {
         "Date": "2013-02-25",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Warewashing facilities: installed, maintained, use",
@@ -1506,13 +1355,13 @@ locationCallback({
     "Lat": 37.448929,
     "Long": -122.185475,
     "LastDate": "2016-11-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1,
     "Inspections": [
       {
         "Date": "2016-11-08",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "18. Compliance with variance, specialized processes \u0026 HACCP Plan",
@@ -1523,28 +1372,42 @@ locationCallback({
       },
       {
         "Date": "2016-01-06",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 0,
+        "Reason": 0,
+        "ReasonOther": "REPORT REVIEW"
+      },
+      {
+        "Date": "2016-01-06",
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2015-10-14",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2015-07-07",
         "Result": 0,
-        "Reason": "REPORT WRITING"
+        "Reason": 0,
+        "ReasonOther": "REPORT WRITING"
+      },
+      {
+        "Date": "2015-07-07",
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2014-06-24",
-        "Result": 51,
-        "Reason": "FOLLOWUP INSPECTION"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 3
       },
       {
         "Date": "2014-05-15",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Consumer advisory provided for raw or undercooked",
@@ -1571,236 +1434,14 @@ locationCallback({
       {
         "Date": "2013-10-10",
         "Result": 0,
-        "Reason": "OFFICE ACTIVITY"
+        "Reason": 0,
+        "ReasonOther": "OFFICE ACTIVITY"
       },
       {
         "Date": "2013-01-22",
-        "Result": 51,
-        "Reason": "ROUTINE"
-      }
-    ]
-  },
-  "PR0040041": {
-    "Id": "PR0040041",
-    "Name": "MI RANCHO SUPERMARKET",
-    "Address": "137 ROOSEVELT",
-    "City": "REDWOOD CITY",
-    "Zip": "94061",
-    "Lat": 37.478769,
-    "Long": -122.225986,
-    "LastDate": "2017-11-27",
-    "LastResult": 49,
-    "LastViolations": 3,
-    "Inspections": [
-      {
-        "Date": "2017-11-27",
-        "Result": 49,
-        "Reason": "ROUTINE",
-        "Violations": [
-          {
-            "Description": "07. Proper hot and cold holding temperatures",
-            "Status": "OU"
-          },
-          {
-            "Description": "13. Food in good condition, safe and unadulterated",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
-          }
-        ]
-      },
-      {
-        "Date": "2017-06-20",
-        "Result": 49,
-        "Reason": "ROUTINE",
-        "Violations": [
-          {
-            "Description": "07. Proper hot and cold holding temperatures",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
-          }
-        ]
-      },
-      {
-        "Date": "2017-03-14",
-        "Result": 0,
-        "Reason": "COMPLAINT-INITIAL"
-      },
-      {
-        "Date": "2016-11-08",
-        "Result": 49,
-        "Reason": "ROUTINE",
-        "Violations": [
-          {
-            "Description": "11. Proper reheating procedures for hot holding",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "13. Food in good condition, safe and unadulterated",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "21. Hot and cold water available",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
-            "Status": "OU"
-          },
-          {
-            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
-          },
-          {
-            "Description": "39. Thermometers provided and accurate",
-            "Status": "OU"
-          },
-          {
-            "Description": "40. Wiping cloths; properly used and stored",
-            "Status": "OU"
-          },
-          {
-            "Description": "41. Plumbing; fixtures, back flow devices, drainage",
-            "Status": "OU"
-          },
-          {
-            "Description": "43. Toilet facilities: properly constructed, supplied, cleaned",
-            "Status": "OU"
-          }
-        ]
-      },
-      {
-        "Date": "2015-09-22",
-        "Result": 49,
-        "Reason": "FOLLOWUP INSPECTION",
-        "Violations": [
-          {
-            "Description": "07. Proper hot and cold holding temperatures",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "21. Hot and cold water available",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Degree": 2,
-            "Status": "OU"
-          }
-        ]
-      },
-      {
-        "Date": "2015-03-24",
-        "Result": 49,
-        "Reason": "FOLLOWUP INSPECTION"
-      },
-      {
-        "Date": "2014-07-29",
-        "Result": 0,
-        "Reason": "EPIDEMIOLOGY INVESTIGATION"
-      },
-      {
-        "Date": "2014-06-05",
-        "Result": 0,
-        "Reason": "COMPLAINT-INITIAL"
-      },
-      {
-        "Date": "2014-05-05",
-        "Result": 0,
-        "Reason": "ROUTINE",
-        "Violations": [
-          {
-            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "Food contact surfaces: clean and sanitized",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "Hands clean and properly washed; gloves used prope",
-            "Degree": 2,
-            "Status": "OU"
-          }
-        ]
-      },
-      {
-        "Date": "2014-03-18",
-        "Result": 0,
-        "Reason": "CAMPY INTERVIEW"
-      },
-      {
-        "Date": "2013-10-21",
-        "Result": 0,
-        "Reason": "CAMPY FACILITY ASSESSMENT",
-        "Violations": [
-          {
-            "Description": "Equipment/Utensils - approved; installed; clean; g",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "Food contact surfaces: clean and sanitized",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "Hands clean and properly washed; gloves used prope",
-            "Degree": 2,
-            "Status": "OU"
-          }
-        ]
-      },
-      {
-        "Date": "2013-03-14",
-        "Result": 0,
-        "Reason": "FOLLOWUP INSPECTION"
-      },
-      {
-        "Date": "2013-03-13",
-        "Result": 53,
-        "Reason": "ROUTINE",
-        "Violations": [
-          {
-            "Description": "Food contact surfaces: clean and sanitized",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "Personal cleanliness and hair restraints",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "Proper hot and cold holding temperatures",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "Wiping cloths: properly used and stored",
-            "Degree": 2,
-            "Status": "OU"
-          }
-        ]
-      },
-      {
-        "Date": "2013-02-26",
-        "Result": 0,
-        "Reason": "REPORT REVIEW"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       }
     ]
   },
@@ -1810,36 +1451,39 @@ locationCallback({
     "Address": "1901 JUNIPERO SERRA #C",
     "City": "DALY CITY",
     "Zip": "94015",
-    "Lat": 0,
-    "Long": 0,
+    "Lat": 37.66709597200003,
+    "Long": -122.46013961499995,
     "LastDate": "2015-10-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2015-10-28",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2015-10-13",
         "Result": 0,
-        "Reason": "EDUCATIONAL INSPECTION"
+        "Reason": 0,
+        "ReasonOther": "EDUCATIONAL INSPECTION"
       },
       {
         "Date": "2015-05-05",
         "Result": 0,
-        "Reason": "COMPLAINT-INITIAL"
+        "Reason": 4
       },
       {
         "Date": "2014-07-16",
-        "Result": 52,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2
       },
       {
         "Date": "2014-01-03",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Plumbing; proper backflow devices",
@@ -1864,13 +1508,13 @@ locationCallback({
     "Lat": 37.639777,
     "Long": -122.403792,
     "LastDate": "2016-09-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2,
     "Inspections": [
       {
         "Date": "2016-09-12",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
@@ -1885,17 +1529,20 @@ locationCallback({
       {
         "Date": "2014-02-26",
         "Result": 0,
-        "Reason": "CAMPY INTERVIEW"
+        "Reason": 0,
+        "ReasonOther": "CAMPY INTERVIEW"
       },
       {
         "Date": "2013-10-24",
         "Result": 0,
-        "Reason": "CAMPY INTERVIEW"
+        "Reason": 0,
+        "ReasonOther": "CAMPY INTERVIEW"
       },
       {
         "Date": "2013-04-03",
-        "Result": 53,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 70,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Approved thawing methods used, frozen food",
@@ -1931,33 +1578,37 @@ locationCallback({
     "Lat": 37.562339,
     "Long": -122.270468,
     "LastDate": "2016-11-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2016-11-22",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2014-09-22",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2014-06-19",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2013-03-04",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2013-02-26",
-        "Result": 53,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 70,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
@@ -1987,18 +1638,19 @@ locationCallback({
     "Lat": 37.636297101000025,
     "Long": -122.42086190999999,
     "LastDate": "2014-09-16",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2014-09-16",
         "Result": 0,
-        "Reason": "ROUTINE"
+        "Reason": 2
       },
       {
         "Date": "2013-08-16",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       }
     ]
   },
@@ -2017,12 +1669,12 @@ locationCallback({
       {
         "Date": "2014-05-16",
         "Result": 0,
-        "Reason": "ROUTINE"
+        "Reason": 2
       },
       {
         "Date": "2013-07-26",
         "Result": 0,
-        "Reason": "ROUTINE"
+        "Reason": 2
       }
     ]
   },
@@ -2035,18 +1687,19 @@ locationCallback({
     "Lat": 37.62432143600006,
     "Long": -122.41127377299995,
     "LastDate": "2013-11-05",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2013-11-05",
         "Result": 0,
-        "Reason": "ROUTINE"
+        "Reason": 2
       },
       {
         "Date": "2013-08-01",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       }
     ]
   },
@@ -2059,23 +1712,24 @@ locationCallback({
     "Lat": 37.545178,
     "Long": -122.303118,
     "LastDate": "2017-06-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2017-06-14",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2016-12-01",
         "Result": 0,
-        "Reason": "LICENSE/PERMIT INVESTIGATION"
+        "Reason": 5
       },
       {
         "Date": "2014-06-25",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
@@ -2086,8 +1740,9 @@ locationCallback({
       },
       {
         "Date": "2013-01-24",
-        "Result": 51,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Nonfood-contact surfaces clean",
@@ -2118,7 +1773,8 @@ locationCallback({
       {
         "Date": "2015-11-12",
         "Result": 0,
-        "Reason": "REPORT REVIEW"
+        "Reason": 0,
+        "ReasonOther": "REPORT REVIEW"
       }
     ]
   },
@@ -2137,7 +1793,8 @@ locationCallback({
       {
         "Date": "2015-05-27",
         "Result": 0,
-        "Reason": "REPORT WRITING"
+        "Reason": 0,
+        "ReasonOther": "REPORT WRITING"
       }
     ]
   },
@@ -2156,53 +1813,46 @@ locationCallback({
       {
         "Date": "2014-10-04",
         "Result": 0,
-        "Reason": "ROUTINE"
+        "Reason": 2
       },
       {
         "Date": "2013-10-05",
         "Result": 0,
-        "Reason": "ROUTINE"
+        "Reason": 2
       }
     ]
   },
-  "PR0064766": {
-    "Id": "PR0064766",
-    "Name": "COW PALACE",
-    "Address": "2600 GENEVA AVE",
-    "City": "DALY CITY",
-    "Zip": "94014",
-    "Lat": 37.707203915000036,
-    "Long": -122.416247022,
-    "LastDate": "2015-06-24",
-    "LastResult": 52,
-    "LastViolations": 1,
+  "PR0065125": {
+    "Id": "PR0065125",
+    "Name": "Lincoln School Dads Club",
+    "Address": "850 Burlingame Ave",
+    "City": "Burlingame",
+    "Zip": "94010",
+    "Lat": 37.58216116300008,
+    "Long": -122.34196558699995,
+    "LastDate": "2014-02-08",
+    "LastResult": 0,
+    "LastViolations": 2,
     "Inspections": [
       {
-        "Date": "2015-06-24",
+        "Date": "2014-02-08",
         "Result": 0,
-        "Reason": "REPORT WRITING"
-      },
-      {
-        "Date": "2015-06-18",
-        "Result": 0,
-        "Reason": "REPORT REVIEW"
-      },
-      {
-        "Date": "2015-06-17",
-        "Result": 0,
-        "Reason": "CONSULTATION"
-      },
-      {
-        "Date": "2013-11-08",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Reason": 2,
         "Violations": [
           {
-            "Description": "Proper hot and cold holding temperatures",
-            "Degree": 1,
+            "Description": "Adequate handwashing facilities supplied \u0026 accessi",
+            "Status": "OU"
+          },
+          {
+            "Description": "Food Storage and Preparation",
             "Status": "OU"
           }
         ]
+      },
+      {
+        "Date": "2013-03-23",
+        "Result": 0,
+        "Reason": 2
       }
     ]
   },
@@ -2215,13 +1865,13 @@ locationCallback({
     "Lat": 37.645457,
     "Long": -122.425791,
     "LastDate": "2016-02-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3,
     "Inspections": [
       {
         "Date": "2016-02-16",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
@@ -2240,8 +1890,9 @@ locationCallback({
       },
       {
         "Date": "2015-01-15",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "33. Nonfood contact surfaces clean",
@@ -2257,8 +1908,9 @@ locationCallback({
       },
       {
         "Date": "2014-01-30",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
@@ -2269,8 +1921,9 @@ locationCallback({
       },
       {
         "Date": "2013-01-30",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Sewage and wastewater properly disposed",
@@ -2290,13 +1943,14 @@ locationCallback({
     "Lat": 37.511862921000045,
     "Long": -122.33321332099996,
     "LastDate": "2013-08-24",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2013-08-24",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       }
     ]
   },
@@ -2315,12 +1969,12 @@ locationCallback({
       {
         "Date": "2014-10-05",
         "Result": 0,
-        "Reason": "ROUTINE"
+        "Reason": 2
       },
       {
         "Date": "2013-10-06",
         "Result": 0,
-        "Reason": "ROUTINE"
+        "Reason": 2
       }
     ]
   },
@@ -2333,13 +1987,13 @@ locationCallback({
     "Lat": 37.511985,
     "Long": -122.294263,
     "LastDate": "2017-11-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3,
     "Inspections": [
       {
         "Date": "2017-11-28",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
@@ -2357,8 +2011,8 @@ locationCallback({
       },
       {
         "Date": "2016-12-19",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "01a. Demonstration of knowledge",
@@ -2404,18 +2058,18 @@ locationCallback({
       },
       {
         "Date": "2016-08-03",
-        "Result": 49,
-        "Reason": "CHARGEABLE REINSPECTION PER HOUR RATE"
+        "Result": 1,
+        "Reason": 3
       },
       {
         "Date": "2016-07-28",
-        "Result": 49,
-        "Reason": "CHARGEABLE REINSPECTION PER HOUR RATE"
+        "Result": 1,
+        "Reason": 3
       },
       {
         "Date": "2016-07-26",
-        "Result": 55,
-        "Reason": "ROUTINE",
+        "Result": 3,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "01a. Demonstration of knowledge",
@@ -2495,8 +2149,14 @@ locationCallback({
       },
       {
         "Date": "2016-03-11",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 0,
+        "Reason": 0,
+        "ReasonOther": "EDUCATIONAL INSPECTION"
+      },
+      {
+        "Date": "2016-03-11",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
@@ -2511,17 +2171,18 @@ locationCallback({
       {
         "Date": "2015-09-09",
         "Result": 0,
-        "Reason": "EPIDEMIOLOGY INVESTIGATION"
+        "Reason": 5
       },
       {
         "Date": "2014-07-09",
         "Result": 0,
-        "Reason": "FOLLOWUP INSPECTION"
+        "Reason": 3
       },
       {
         "Date": "2014-05-13",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Compliance with shell stock tags, condition, displ",
@@ -2542,8 +2203,9 @@ locationCallback({
       },
       {
         "Date": "2013-02-28",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
@@ -2578,13 +2240,13 @@ locationCallback({
     "Lat": 37.635638,
     "Long": -122.420505,
     "LastDate": "2016-12-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1,
     "Inspections": [
       {
         "Date": "2016-12-05",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "08. Time as a public health control; procedures \u0026 records",
@@ -2596,17 +2258,24 @@ locationCallback({
       {
         "Date": "2016-04-29",
         "Result": 0,
-        "Reason": "REPORT WRITING"
+        "Reason": 0,
+        "ReasonOther": "REPORT WRITING"
+      },
+      {
+        "Date": "2016-04-29",
+        "Result": 1,
+        "Reason": 3
       },
       {
         "Date": "2014-11-20",
         "Result": 0,
-        "Reason": "ROUTINE"
+        "Reason": 2
       },
       {
         "Date": "2014-04-14",
-        "Result": 51,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Equipment, utensils and linens: storage and use",
@@ -2617,17 +2286,19 @@ locationCallback({
       {
         "Date": "2014-01-09",
         "Result": 0,
-        "Reason": "COMPLAINT-INITIAL"
+        "Reason": 4
       },
       {
         "Date": "2013-08-16",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2013-01-10",
-        "Result": 51,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Equipment, utensils and linens: storage and use",
@@ -2652,13 +2323,14 @@ locationCallback({
     "Lat": 37.47142631400004,
     "Long": -122.20353464599998,
     "LastDate": "2013-03-22",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2013-03-22",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       }
     ]
   },
@@ -2671,13 +2343,14 @@ locationCallback({
     "Lat": 37.589854382000055,
     "Long": -122.34138672899996,
     "LastDate": "2013-08-26",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3,
     "Inspections": [
       {
         "Date": "2013-08-26",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
@@ -2695,8 +2368,9 @@ locationCallback({
       },
       {
         "Date": "2013-02-27",
-        "Result": 53,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 70,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
@@ -2720,33 +2394,38 @@ locationCallback({
     "Lat": 37.48224207800007,
     "Long": -122.15032812499999,
     "LastDate": "2014-11-24",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2014-11-24",
         "Result": 0,
-        "Reason": "OFFICE ACTIVITY"
+        "Reason": 0,
+        "ReasonOther": "OFFICE ACTIVITY"
       },
       {
         "Date": "2014-11-18",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2014-11-17",
         "Result": 0,
-        "Reason": "REPORT REVIEW"
+        "Reason": 0,
+        "ReasonOther": "REPORT REVIEW"
       },
       {
         "Date": "2014-06-25",
-        "Result": 52,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2
       },
       {
         "Date": "2013-12-11",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Food separated and protected",
@@ -2771,18 +2450,24 @@ locationCallback({
     "Lat": 37.490019,
     "Long": -122.226139,
     "LastDate": "2017-09-27",
-    "LastResult": 49,
-    "LastViolations": 2,
+    "LastResult": 1,
+    "LastViolations": 10,
     "Inspections": [
       {
         "Date": "2017-09-27",
         "Result": 0,
-        "Reason": "REPORT REVIEW"
+        "Reason": 0,
+        "ReasonOther": "REPORT REVIEW"
       },
       {
         "Date": "2017-09-26",
         "Result": 0,
-        "Reason": "COMPLAINT-INITIAL",
+        "Reason": 4
+      },
+      {
+        "Date": "2017-09-26",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "18. Compliance with variance, specialized processes \u0026 HACCP Plan",
@@ -2831,12 +2516,23 @@ locationCallback({
       {
         "Date": "2017-05-30",
         "Result": 0,
-        "Reason": "SURVEY/FIELD STUDY"
+        "Reason": 5
+      },
+      {
+        "Date": "2017-05-30",
+        "Result": 0,
+        "Reason": 0,
+        "ReasonOther": "SURVEY/FIELD STUDY"
       },
       {
         "Date": "2016-08-15",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 0,
+        "Reason": 4
+      },
+      {
+        "Date": "2016-08-15",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "07. Proper hot and cold holding temperatures",
@@ -2852,12 +2548,18 @@ locationCallback({
       {
         "Date": "2015-08-26",
         "Result": 0,
-        "Reason": "INVESTIGATION"
+        "Reason": 5
       },
       {
         "Date": "2015-07-21",
         "Result": 0,
-        "Reason": "EDUCATIONAL INSPECTION",
+        "Reason": 0,
+        "ReasonOther": "EDUCATIONAL INSPECTION"
+      },
+      {
+        "Date": "2015-07-21",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "07. Proper hot and cold holding temperatures",
@@ -2884,12 +2586,18 @@ locationCallback({
       {
         "Date": "2014-11-03",
         "Result": 0,
-        "Reason": "COMPLAINT-INITIAL"
+        "Reason": 4
       },
       {
         "Date": "2014-08-29",
-        "Result": 53,
-        "Reason": "COMPLAINT GENERATED ROUTINE",
+        "Result": 0,
+        "Reason": 2
+      },
+      {
+        "Date": "2014-08-29",
+        "Result": 1,
+        "Score": 70,
+        "Reason": 4,
         "Violations": [
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
@@ -2915,18 +2623,51 @@ locationCallback({
       },
       {
         "Date": "2013-12-17",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2013-03-04",
-        "Result": 51,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
             "Status": "OU"
+          }
+        ]
+      }
+    ]
+  },
+  "PR0072415": {
+    "Id": "PR0072415",
+    "Name": "ALL SOULS PARISH",
+    "Address": "315 WALNUT AVE",
+    "City": "SOUTH SAN FRANCISCO",
+    "Zip": "94080",
+    "Lat": 37.656773,
+    "Long": -122.414067,
+    "LastDate": "2015-10-10",
+    "LastResult": 0,
+    "LastViolations": 0,
+    "Inspections": [
+      {
+        "Date": "2015-10-10",
+        "Result": 0,
+        "Reason": 2
+      },
+      {
+        "Date": "2014-09-06",
+        "Result": 0,
+        "Reason": 2,
+        "Violations": [
+          {
+            "Description": "Food contact surfaces: clean and sanitized",
+            "Degree": 1,
+            "Status": "CO"
           }
         ]
       }
@@ -2941,13 +2682,13 @@ locationCallback({
     "Lat": 37.476119,
     "Long": -122.134229,
     "LastDate": "2017-11-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3,
     "Inspections": [
       {
         "Date": "2017-11-21",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "30. Food storage; food storage containers identified",
@@ -2966,32 +2707,35 @@ locationCallback({
       {
         "Date": "2017-10-31",
         "Result": 0,
-        "Reason": "COMPLAINT-INITIAL"
+        "Reason": 4
       },
       {
         "Date": "2017-06-23",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2016-06-20",
         "Result": 0,
-        "Reason": "PROGRAM STANDARDIZATION/AUDITING"
+        "Reason": 0,
+        "ReasonOther": "PROGRAM STANDARDIZATION/AUDITING"
       },
       {
         "Date": "2015-01-13",
         "Result": 0,
-        "Reason": "REPORT REVIEW"
+        "Reason": 0,
+        "ReasonOther": "REPORT REVIEW"
       },
       {
         "Date": "2014-11-04",
         "Result": 0,
-        "Reason": "COMPLAINT GENERATED ROUTINE"
+        "Reason": 4
       },
       {
         "Date": "2013-05-16",
         "Result": 0,
-        "Reason": "PLAN CHECK CONSULTATION"
+        "Reason": 0,
+        "ReasonOther": "PLAN CHECK CONSULTATION"
       }
     ]
   },
@@ -3010,12 +2754,13 @@ locationCallback({
       {
         "Date": "2015-03-16",
         "Result": 0,
-        "Reason": "REPORT WRITING"
+        "Reason": 0,
+        "ReasonOther": "REPORT WRITING"
       },
       {
         "Date": "2013-04-23",
         "Result": 0,
-        "Reason": "ROUTINE"
+        "Reason": 2
       }
     ]
   },
@@ -3034,12 +2779,17 @@ locationCallback({
       {
         "Date": "2013-12-20",
         "Result": 0,
-        "Reason": "LICENSE/PERMIT INVESTIGATION"
+        "Reason": 5
       },
       {
         "Date": "2013-08-15",
         "Result": 0,
-        "Reason": "ROUTINE",
+        "Reason": 5
+      },
+      {
+        "Date": "2013-08-15",
+        "Result": 0,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
@@ -3053,132 +2803,6 @@ locationCallback({
       }
     ]
   },
-  "PR0074981": {
-    "Id": "PR0074981",
-    "Name": "SHAKING CRAB",
-    "Address": "25 SOUTHGATE AVE",
-    "City": "DALY CITY",
-    "Zip": "94015",
-    "Lat": 37.698175,
-    "Long": -122.481133,
-    "LastDate": "2017-10-03",
-    "LastResult": 49,
-    "LastViolations": 0,
-    "Inspections": [
-      {
-        "Date": "2017-10-03",
-        "Result": 49,
-        "Reason": "FOLLOWUP INSPECTION"
-      },
-      {
-        "Date": "2017-09-28",
-        "Result": 55,
-        "Reason": "ROUTINE",
-        "Violations": [
-          {
-            "Description": "04. Proper eating, tasting, drinking or tobacco use",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "05. Hands clean and properly washed; proper glove use",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "16. Compliance with shell stock tags, condition, display",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "23. No insects, rodents, birds or animals present",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "26. Approved thawing methods in use",
-            "Status": "OU"
-          },
-          {
-            "Description": "40. Wiping cloths; properly used and stored",
-            "Status": "OU"
-          }
-        ]
-      },
-      {
-        "Date": "2017-07-19",
-        "Result": 49,
-        "Reason": "FOLLOWUP INSPECTION"
-      },
-      {
-        "Date": "2016-01-07",
-        "Result": 0,
-        "Reason": "LICENSE/PERMIT INVESTIGATION",
-        "Violations": [
-          {
-            "Description": "26. Approved thawing methods in use",
-            "Status": "OU"
-          },
-          {
-            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
-          }
-        ]
-      },
-      {
-        "Date": "2015-10-13",
-        "Result": 0,
-        "Reason": "EDUCATIONAL INSPECTION"
-      },
-      {
-        "Date": "2015-04-06",
-        "Result": 49,
-        "Reason": "ROUTINE",
-        "Violations": [
-          {
-            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "07. Proper hot and cold holding temperatures",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "17. Compliance with Gulf Oyster Regulations",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "30. Food storage; food storage containers identified",
-            "Degree": 2,
-            "Status": "CO"
-          }
-        ]
-      },
-      {
-        "Date": "2014-05-23",
-        "Result": 52,
-        "Reason": "ROUTINE"
-      },
-      {
-        "Date": "2013-11-01",
-        "Result": 0,
-        "Reason": "ROUTINE"
-      },
-      {
-        "Date": "2013-10-18",
-        "Result": 0,
-        "Reason": "CONSULTATION"
-      }
-    ]
-  },
   "PR0075872": {
     "Id": "PR0075872",
     "Name": "Dinnerbundle",
@@ -3188,18 +2812,19 @@ locationCallback({
     "Lat": 37.66531962300007,
     "Long": -122.40727765999998,
     "LastDate": "2014-10-10",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2014-10-10",
         "Result": 0,
-        "Reason": "ROUTINE"
+        "Reason": 2
       },
       {
         "Date": "2014-04-01",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       }
     ]
   },
@@ -3212,33 +2837,41 @@ locationCallback({
     "Lat": 37.499193,
     "Long": -122.242584,
     "LastDate": "2017-07-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2017-07-06",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2016-03-21",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Reason": 2
       },
       {
         "Date": "2014-11-12",
         "Result": 0,
-        "Reason": "LICENSE/PERMIT INVESTIGATION"
+        "Reason": 5
       },
       {
         "Date": "2014-10-18",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2014-04-11",
         "Result": 0,
-        "Reason": "PERMIT ISSUED/FINAL INSPECTION"
+        "Reason": 0,
+        "ReasonOther": "PERMIT ISSUED/FINAL INSPECTION"
+      },
+      {
+        "Date": "2014-04-11",
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       }
     ]
   },
@@ -3251,33 +2884,38 @@ locationCallback({
     "Lat": 37.62145798000006,
     "Long": -122.48581922199998,
     "LastDate": "2014-11-21",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2014-11-21",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2014-09-12",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2014-06-20",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       },
       {
         "Date": "2014-06-13",
-        "Result": 51,
-        "Reason": "LICENSE/PERMIT INVESTIGATION"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 5
       },
       {
         "Date": "2014-05-02",
-        "Result": 51,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Score": 100,
+        "Reason": 2
       }
     ]
   },
@@ -3296,12 +2934,13 @@ locationCallback({
       {
         "Date": "2015-05-03",
         "Result": 0,
-        "Reason": "REPORT WRITING"
+        "Reason": 0,
+        "ReasonOther": "REPORT WRITING"
       },
       {
         "Date": "2014-05-04",
         "Result": 0,
-        "Reason": "ROUTINE"
+        "Reason": 2
       }
     ]
   },
@@ -3314,13 +2953,13 @@ locationCallback({
     "Lat": 37.56756,
     "Long": -122.319448,
     "LastDate": "2017-04-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1,
     "Inspections": [
       {
         "Date": "2017-04-06",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "07. Proper hot and cold holding temperatures",
@@ -3332,7 +2971,13 @@ locationCallback({
       {
         "Date": "2016-02-26",
         "Result": 0,
-        "Reason": "EDUCATIONAL INSPECTION",
+        "Reason": 0,
+        "ReasonOther": "EDUCATIONAL INSPECTION"
+      },
+      {
+        "Date": "2016-02-26",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "07. Proper hot and cold holding temperatures",
@@ -3344,12 +2989,13 @@ locationCallback({
       {
         "Date": "2015-10-07",
         "Result": 0,
-        "Reason": "COMPLAINT-INITIAL"
+        "Reason": 4
       },
       {
         "Date": "2014-12-19",
-        "Result": 52,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Score": 85,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
@@ -3376,7 +3022,79 @@ locationCallback({
       {
         "Date": "2014-07-02",
         "Result": 0,
-        "Reason": "LICENSE/PERMIT INVESTIGATION"
+        "Reason": 5
+      }
+    ]
+  },
+  "PR0080885": {
+    "Id": "PR0080885",
+    "Name": "GENENTECH INC B35",
+    "Address": "350 DNA WY",
+    "City": "SOUTH SAN FRANCISCO",
+    "Zip": "94080",
+    "Lat": 37.655383,
+    "Long": -122.384177,
+    "LastDate": "2017-03-28",
+    "LastResult": 1,
+    "LastViolations": 5,
+    "Inspections": [
+      {
+        "Date": "2017-03-28",
+        "Result": 0,
+        "Reason": 0,
+        "ReasonOther": "PROGRAM STANDARDIZATION/AUDITING"
+      },
+      {
+        "Date": "2017-02-16",
+        "Result": 1,
+        "Reason": 2,
+        "Violations": [
+          {
+            "Description": "06. Adequate hand washing facilities:  supplied and accessible",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "07. Proper hot and cold holding temperatures",
+            "Degree": 1,
+            "Status": "OU"
+          },
+          {
+            "Description": "09. Proper cooling methods",
+            "Degree": 2,
+            "Status": "OU"
+          },
+          {
+            "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
+            "Status": "OU"
+          },
+          {
+            "Description": "39. Thermometers provided and accurate",
+            "Status": "OU"
+          }
+        ]
+      },
+      {
+        "Date": "2016-12-29",
+        "Result": 0,
+        "Reason": 0,
+        "ReasonOther": "REPORT WRITING"
+      },
+      {
+        "Date": "2016-02-03",
+        "Result": 0,
+        "Reason": 2
+      },
+      {
+        "Date": "2016-02-03",
+        "Result": 1,
+        "Reason": 2
+      },
+      {
+        "Date": "2015-11-02",
+        "Result": 0,
+        "Reason": 0,
+        "ReasonOther": "EDUCATIONAL INSPECTION"
       }
     ]
   },
@@ -3395,7 +3113,8 @@ locationCallback({
       {
         "Date": "2015-07-28",
         "Result": 0,
-        "Reason": "REPORT WRITING"
+        "Reason": 0,
+        "ReasonOther": "REPORT WRITING"
       }
     ]
   },
@@ -3408,18 +3127,18 @@ locationCallback({
     "Lat": 37.601142,
     "Long": -122.392104,
     "LastDate": "2017-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2017-10-03",
-        "Result": 49,
-        "Reason": "FOLLOWUP INSPECTION"
+        "Result": 1,
+        "Reason": 3
       },
       {
         "Date": "2017-09-26",
-        "Result": 50,
-        "Reason": "ROUTINE",
+        "Result": 2,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "01a. Demonstration of knowledge",
@@ -3492,8 +3211,8 @@ locationCallback({
       },
       {
         "Date": "2016-11-09",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
@@ -3530,13 +3249,13 @@ locationCallback({
     "Lat": 37.544064,
     "Long": -122.306265,
     "LastDate": "2017-10-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2,
     "Inspections": [
       {
         "Date": "2017-10-20",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "21. Hot and cold water available",
@@ -3551,8 +3270,8 @@ locationCallback({
       },
       {
         "Date": "2016-08-03",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Reason": 2
       }
     ]
   },
@@ -3565,13 +3284,13 @@ locationCallback({
     "Lat": 0,
     "Long": 0,
     "LastDate": "2015-11-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1,
     "Inspections": [
       {
         "Date": "2015-11-14",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "86. Handwashing Facilities: supplied and accessible*",
@@ -3591,13 +3310,13 @@ locationCallback({
     "Lat": 0,
     "Long": 0,
     "LastDate": "2017-10-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5,
     "Inspections": [
       {
         "Date": "2017-10-24",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "07. Proper hot and cold holding temperatures",
@@ -3626,8 +3345,8 @@ locationCallback({
       },
       {
         "Date": "2016-02-10",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
@@ -3667,7 +3386,8 @@ locationCallback({
       {
         "Date": "2016-01-13",
         "Result": 0,
-        "Reason": "REPORT REVIEW"
+        "Reason": 0,
+        "ReasonOther": "REPORT REVIEW"
       }
     ]
   },
@@ -3680,13 +3400,13 @@ locationCallback({
     "Lat": 37.601407,
     "Long": -122.370053,
     "LastDate": "2016-11-03",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 5,
     "Inspections": [
       {
         "Date": "2016-11-03",
-        "Result": 50,
-        "Reason": "ROUTINE",
+        "Result": 2,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
@@ -3725,13 +3445,13 @@ locationCallback({
     "Lat": 37.464753,
     "Long": -122.441245,
     "LastDate": "2017-07-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0,
     "Inspections": [
       {
         "Date": "2017-07-27",
-        "Result": 49,
-        "Reason": "ROUTINE"
+        "Result": 1,
+        "Reason": 2
       }
     ]
   },
@@ -3744,18 +3464,19 @@ locationCallback({
     "Lat": 37.502965,
     "Long": -122.481994,
     "LastDate": "2017-11-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1,
     "Inspections": [
       {
         "Date": "2017-11-21",
         "Result": 0,
-        "Reason": "PROGRAM STANDARDIZATION/AUDITING"
+        "Reason": 0,
+        "ReasonOther": "PROGRAM STANDARDIZATION/AUDITING"
       },
       {
         "Date": "2017-08-15",
-        "Result": 49,
-        "Reason": "FOLLOWUP INSPECTION",
+        "Result": 1,
+        "Reason": 3,
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
@@ -3766,8 +3487,8 @@ locationCallback({
       },
       {
         "Date": "2017-08-09",
-        "Result": 50,
-        "Reason": "ROUTINE",
+        "Result": 2,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
@@ -3812,12 +3533,14 @@ locationCallback({
       {
         "Date": "2017-05-02",
         "Result": 0,
-        "Reason": "REPORT REVIEW"
+        "Reason": 0,
+        "ReasonOther": "REPORT REVIEW"
       },
       {
         "Date": "2017-02-16",
         "Result": 0,
-        "Reason": "NO ACTION"
+        "Reason": 0,
+        "ReasonOther": "NO ACTION"
       }
     ]
   },
@@ -3830,13 +3553,13 @@ locationCallback({
     "Lat": 37.544724,
     "Long": -122.271743,
     "LastDate": "2017-06-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1,
     "Inspections": [
       {
         "Date": "2017-06-06",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
@@ -3846,8 +3569,8 @@ locationCallback({
       },
       {
         "Date": "2017-03-28",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "41. Plumbing; fixtures, back flow devices, drainage",
@@ -3855,67 +3578,6 @@ locationCallback({
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
-          }
-        ]
-      }
-    ]
-  },
-  "PR0084782": {
-    "Id": "PR0084782",
-    "Name": "CRYSTAL SPRINGS GOLF COURSE",
-    "Address": "6650 GOLF COURSE DR",
-    "City": "BURLINGAME",
-    "Zip": "94010",
-    "Lat": 37.560897,
-    "Long": -122.384504,
-    "LastDate": "2017-08-31",
-    "LastResult": 49,
-    "LastViolations": 3,
-    "Inspections": [
-      {
-        "Date": "2017-08-31",
-        "Result": 0,
-        "Reason": "JOINT ACTIVITY",
-        "Violations": [
-          {
-            "Description": "21. Hot and cold water available",
-            "Degree": 1,
-            "Status": "OU"
-          },
-          {
-            "Description": "22. Sewage and wastewater properly disposed",
-            "Degree": 1,
-            "Status": "OU"
-          }
-        ]
-      },
-      {
-        "Date": "2017-08-16",
-        "Result": 0,
-        "Reason": "CONSULTATION"
-      },
-      {
-        "Date": "2017-06-13",
-        "Result": 0,
-        "Reason": "CONSULTATION"
-      },
-      {
-        "Date": "2017-06-12",
-        "Result": 49,
-        "Reason": "ROUTINE",
-        "Violations": [
-          {
-            "Description": "01b. Food safety certification and food handler cards: valid, available for review",
-            "Degree": 2,
-            "Status": "OU"
-          },
-          {
-            "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
-          },
-          {
-            "Description": "40. Wiping cloths; properly used and stored",
             "Status": "OU"
           }
         ]
@@ -3931,13 +3593,13 @@ locationCallback({
     "Lat": 0,
     "Long": 0,
     "LastDate": "2017-10-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3,
     "Inspections": [
       {
         "Date": "2017-10-25",
-        "Result": 49,
-        "Reason": "FOLLOWUP INSPECTION",
+        "Result": 1,
+        "Reason": 3,
         "Violations": [
           {
             "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
@@ -3958,8 +3620,8 @@ locationCallback({
       },
       {
         "Date": "2017-10-19",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
@@ -4006,7 +3668,8 @@ locationCallback({
       {
         "Date": "2017-07-06",
         "Result": 0,
-        "Reason": "CONSULTATION"
+        "Reason": 0,
+        "ReasonOther": "CONSULTATION"
       }
     ]
   },
@@ -4019,13 +3682,13 @@ locationCallback({
     "Lat": 37.601178,
     "Long": -122.392148,
     "LastDate": "2017-11-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3,
     "Inspections": [
       {
         "Date": "2017-11-28",
-        "Result": 49,
-        "Reason": "ROUTINE",
+        "Result": 1,
+        "Reason": 2,
         "Violations": [
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",

@@ -1,11 +1,47 @@
 locationIndexCallback([
   {
+    "Id": "PR0031885",
+    "Name": "PAMPLEMOUSSE",
+    "Lat": 37.48638,
+    "Long": -122.231353,
+    "LastDate": "2017-07-07",
+    "LastResult": 1,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0072651",
+    "Name": "Fusion Food Concepts Inc",
+    "Lat": 37.486373714000024,
+    "Long": -122.23085870499995,
+    "LastDate": "2013-04-18",
+    "LastResult": 1,
+    "LastViolations": 8
+  },
+  {
+    "Id": "PR0065537",
+    "Name": "New Kapadokia",
+    "Lat": 37.48636908900005,
+    "Long": -122.23095313699997,
+    "LastDate": "2014-03-26",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0082140",
+    "Name": "SAKANA SUSHI",
+    "Lat": 37.486366,
+    "Long": -122.231891,
+    "LastDate": "2016-03-07",
+    "LastResult": 1,
+    "LastViolations": 3
+  },
+  {
     "Id": "PR0084867",
     "Name": "OLD TOWN SUSHI",
     "Lat": 37.486366,
     "Long": -122.231891,
     "LastDate": "2017-11-08",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 4
   },
   {
@@ -14,7 +50,7 @@ locationIndexCallback([
     "Lat": 37.486362,
     "Long": -122.231729,
     "LastDate": "2017-05-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -23,7 +59,7 @@ locationIndexCallback([
     "Lat": 37.486362,
     "Long": -122.231746,
     "LastDate": "2017-06-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -32,7 +68,7 @@ locationIndexCallback([
     "Lat": 37.486361,
     "Long": -122.23502,
     "LastDate": "2015-10-26",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 6
   },
   {
@@ -41,7 +77,7 @@ locationIndexCallback([
     "Lat": 37.48635758200004,
     "Long": -122.22633369399995,
     "LastDate": "2015-07-14",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -59,7 +95,7 @@ locationIndexCallback([
     "Lat": 37.486289,
     "Long": -122.233386,
     "LastDate": "2017-04-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -68,7 +104,7 @@ locationIndexCallback([
     "Lat": 37.486282,
     "Long": -122.233491,
     "LastDate": "2016-02-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -77,7 +113,7 @@ locationIndexCallback([
     "Lat": 37.48628,
     "Long": -122.233518,
     "LastDate": "2017-06-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -86,7 +122,7 @@ locationIndexCallback([
     "Lat": 37.486265,
     "Long": -122.233749,
     "LastDate": "2017-05-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -95,7 +131,7 @@ locationIndexCallback([
     "Lat": 37.486259,
     "Long": -122.233837,
     "LastDate": "2017-06-23",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -113,7 +149,7 @@ locationIndexCallback([
     "Lat": 37.486258486000054,
     "Long": -122.23371060199997,
     "LastDate": "2014-06-11",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -131,7 +167,7 @@ locationIndexCallback([
     "Lat": 37.486237,
     "Long": -122.234165,
     "LastDate": "2016-11-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -140,7 +176,7 @@ locationIndexCallback([
     "Lat": 37.486232,
     "Long": -122.230087,
     "LastDate": "2017-04-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -149,7 +185,7 @@ locationIndexCallback([
     "Lat": 37.48623,
     "Long": -122.234268,
     "LastDate": "2017-01-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -158,8 +194,8 @@ locationIndexCallback([
     "Lat": 37.486227,
     "Long": -122.234322,
     "LastDate": "2017-01-09",
-    "LastResult": 49,
-    "LastViolations": 2
+    "LastResult": 1,
+    "LastViolations": 4
   },
   {
     "Id": "PR0081929",
@@ -167,8 +203,8 @@ locationIndexCallback([
     "Lat": 37.486226,
     "Long": -122.234327,
     "LastDate": "2017-09-26",
-    "LastResult": 49,
-    "LastViolations": 5
+    "LastResult": 1,
+    "LastViolations": 7
   },
   {
     "Id": "PR0024775",
@@ -176,7 +212,7 @@ locationIndexCallback([
     "Lat": 37.486222,
     "Long": -122.234388,
     "LastDate": "2017-01-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -185,7 +221,7 @@ locationIndexCallback([
     "Lat": 37.486217,
     "Long": -122.234462,
     "LastDate": "2017-04-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -194,7 +230,7 @@ locationIndexCallback([
     "Lat": 37.486217,
     "Long": -122.234462,
     "LastDate": "2017-03-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -203,16 +239,16 @@ locationIndexCallback([
     "Lat": 37.486216,
     "Long": -122.226285,
     "LastDate": "2017-03-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0073059",
+    "Id": "PR0079637",
     "Name": "IKES LAIR OF REDWOOD CITY",
     "Lat": 37.486212,
     "Long": -122.234541,
     "LastDate": "2017-07-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -221,7 +257,7 @@ locationIndexCallback([
     "Lat": 37.486197,
     "Long": -122.23477,
     "LastDate": "2017-10-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 15
   },
   {
@@ -230,7 +266,7 @@ locationIndexCallback([
     "Lat": 37.48616339500006,
     "Long": -122.23004724599997,
     "LastDate": "2013-05-03",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -239,7 +275,7 @@ locationIndexCallback([
     "Lat": 37.48616339500006,
     "Long": -122.23004724599997,
     "LastDate": "2015-07-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -248,7 +284,7 @@ locationIndexCallback([
     "Lat": 37.48616284600007,
     "Long": -122.23433744399995,
     "LastDate": "2015-03-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -275,7 +311,7 @@ locationIndexCallback([
     "Lat": 37.486085,
     "Long": -122.229132,
     "LastDate": "2017-03-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -284,7 +320,7 @@ locationIndexCallback([
     "Lat": 37.48606181800005,
     "Long": -122.22907704299996,
     "LastDate": "2015-01-12",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -293,7 +329,7 @@ locationIndexCallback([
     "Lat": 37.486054,
     "Long": -122.22913,
     "LastDate": "2017-06-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -302,7 +338,7 @@ locationIndexCallback([
     "Lat": 37.48598,
     "Long": -122.185413,
     "LastDate": "2017-12-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -311,7 +347,7 @@ locationIndexCallback([
     "Lat": 37.48598,
     "Long": -122.185413,
     "LastDate": "2017-12-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -320,11 +356,11 @@ locationIndexCallback([
     "Lat": 37.48598,
     "Long": -122.185413,
     "LastDate": "2017-02-23",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0071340",
+    "Id": "PR0071341",
     "Name": "Computers For Everyone",
     "Lat": 37.48596828600006,
     "Long": -122.18163508899994,
@@ -338,7 +374,7 @@ locationIndexCallback([
     "Lat": 37.485954,
     "Long": -122.226264,
     "LastDate": "2016-02-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -347,7 +383,7 @@ locationIndexCallback([
     "Lat": 37.48591164900006,
     "Long": -122.23097738999996,
     "LastDate": "2014-05-27",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -356,7 +392,7 @@ locationIndexCallback([
     "Lat": 37.485892,
     "Long": -122.229119,
     "LastDate": "2017-10-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -365,7 +401,7 @@ locationIndexCallback([
     "Lat": 37.48584942600007,
     "Long": -122.23102117699995,
     "LastDate": "2014-05-01",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -374,8 +410,8 @@ locationIndexCallback([
     "Lat": 37.485848,
     "Long": -122.234448,
     "LastDate": "2016-12-08",
-    "LastResult": 50,
-    "LastViolations": 11
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0071453",
@@ -383,11 +419,11 @@ locationIndexCallback([
     "Lat": 37.485805,
     "Long": -122.229112,
     "LastDate": "2017-10-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
-    "Id": "PR0073986",
+    "Id": "PR0073982",
     "Name": "Sequoia High School Ptsa",
     "Lat": 37.48579757300007,
     "Long": -122.23770095399999,
@@ -401,17 +437,8 @@ locationIndexCallback([
     "Lat": 37.485796,
     "Long": -122.229112,
     "LastDate": "2017-10-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
-  },
-  {
-    "Id": "PR0052600",
-    "Name": "Century 20 Plex",
-    "Lat": 37.485763005000024,
-    "Long": -122.229064602,
-    "LastDate": "2014-12-30",
-    "LastResult": 51,
-    "LastViolations": 1
   },
   {
     "Id": "PR0080767",
@@ -419,7 +446,7 @@ locationIndexCallback([
     "Lat": 37.485751,
     "Long": -122.229108,
     "LastDate": "2016-02-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -432,12 +459,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0052601",
+    "Id": "PR0049100",
     "Name": "Century Redwood Downtown 20",
     "Lat": 37.485736,
     "Long": -122.229107,
     "LastDate": "2017-09-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -446,7 +473,7 @@ locationIndexCallback([
     "Lat": 37.485729,
     "Long": -122.228118,
     "LastDate": "2016-07-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -455,7 +482,7 @@ locationIndexCallback([
     "Lat": 37.485676,
     "Long": -122.226242,
     "LastDate": "2016-04-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -464,7 +491,7 @@ locationIndexCallback([
     "Lat": 37.485662,
     "Long": -122.226241,
     "LastDate": "2017-07-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 20
   },
   {
@@ -473,7 +500,7 @@ locationIndexCallback([
     "Lat": 37.485639,
     "Long": -122.238782,
     "LastDate": "2017-06-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -482,7 +509,7 @@ locationIndexCallback([
     "Lat": 37.485565,
     "Long": -122.229093,
     "LastDate": "2016-01-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -491,7 +518,7 @@ locationIndexCallback([
     "Lat": 37.485533701000065,
     "Long": -122.22619541999995,
     "LastDate": "2014-07-14",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -500,8 +527,8 @@ locationIndexCallback([
     "Lat": 37.485522,
     "Long": -122.226229,
     "LastDate": "2016-10-06",
-    "LastResult": 49,
-    "LastViolations": 5
+    "LastResult": 1,
+    "LastViolations": 6
   },
   {
     "Id": "PR0084105",
@@ -509,16 +536,16 @@ locationIndexCallback([
     "Lat": 37.485521,
     "Long": -122.226229,
     "LastDate": "2017-06-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0078978",
+    "Id": "PR0077994",
     "Name": "GREEN LEAF ASIAN BISTRO",
     "Lat": 37.485501,
     "Long": -122.229091,
     "LastDate": "2017-08-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 8
   },
   {
@@ -527,7 +554,7 @@ locationIndexCallback([
     "Lat": 37.485469,
     "Long": -122.229091,
     "LastDate": "2017-05-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -536,7 +563,7 @@ locationIndexCallback([
     "Lat": 37.485412,
     "Long": -122.22622,
     "LastDate": "2016-02-04",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 3
   },
   {
@@ -545,7 +572,7 @@ locationIndexCallback([
     "Lat": 37.485396,
     "Long": -122.229105,
     "LastDate": "2017-08-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 12
   },
   {
@@ -554,7 +581,7 @@ locationIndexCallback([
     "Lat": 37.485313,
     "Long": -122.229107,
     "LastDate": "2016-02-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -572,7 +599,7 @@ locationIndexCallback([
     "Lat": 37.485288,
     "Long": -122.229059,
     "LastDate": "2017-06-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -585,22 +612,22 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0042757",
-    "Name": "SEQUOIA HIGH SCHOOL EXPRESSWAY",
-    "Lat": 37.485236,
-    "Long": -122.238506,
-    "LastDate": "2017-09-05",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0059674",
     "Name": "NEW SPECTATOR GYMNASIUM",
     "Lat": 37.485236,
     "Long": -122.238506,
     "LastDate": "2016-11-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
+  },
+  {
+    "Id": "PR0082680",
+    "Name": "SEQUOIA HIGH SCHOOL EXPRESSWAY",
+    "Lat": 37.485236,
+    "Long": -122.238506,
+    "LastDate": "2017-09-05",
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0053776",
@@ -608,7 +635,7 @@ locationIndexCallback([
     "Lat": 37.48514768600006,
     "Long": -122.20211503499996,
     "LastDate": "2015-02-20",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -617,7 +644,7 @@ locationIndexCallback([
     "Lat": 37.4851,
     "Long": -122.212567,
     "LastDate": "2017-06-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -626,7 +653,7 @@ locationIndexCallback([
     "Lat": 37.485093,
     "Long": -122.212522,
     "LastDate": "2015-11-05",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -662,7 +689,7 @@ locationIndexCallback([
     "Lat": 37.48489,
     "Long": -122.22618,
     "LastDate": "2017-11-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 12
   },
   {
@@ -671,7 +698,7 @@ locationIndexCallback([
     "Lat": 37.484878,
     "Long": -122.233352,
     "LastDate": "2017-11-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -680,7 +707,7 @@ locationIndexCallback([
     "Lat": 37.484815,
     "Long": -122.226175,
     "LastDate": "2017-11-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -689,7 +716,7 @@ locationIndexCallback([
     "Lat": 37.48473286500007,
     "Long": -122.22613550199998,
     "LastDate": "2015-07-14",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -698,8 +725,8 @@ locationIndexCallback([
     "Lat": 37.48473286500007,
     "Long": -122.22613550199998,
     "LastDate": "2013-04-04",
-    "LastResult": 0,
-    "LastViolations": 0
+    "LastResult": 1,
+    "LastViolations": 7
   },
   {
     "Id": "PR0050592",
@@ -707,7 +734,7 @@ locationIndexCallback([
     "Lat": 37.484721,
     "Long": -122.228205,
     "LastDate": "2017-03-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -716,7 +743,7 @@ locationIndexCallback([
     "Lat": 37.484716,
     "Long": -122.226167,
     "LastDate": "2017-04-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -725,7 +752,7 @@ locationIndexCallback([
     "Lat": 37.484702,
     "Long": -122.233135,
     "LastDate": "2017-07-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -788,7 +815,7 @@ locationIndexCallback([
     "Lat": 37.484662,
     "Long": -122.219968,
     "LastDate": "2015-12-08",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -797,7 +824,7 @@ locationIndexCallback([
     "Lat": 37.484662,
     "Long": -122.219968,
     "LastDate": "2016-02-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -806,7 +833,7 @@ locationIndexCallback([
     "Lat": 37.484645,
     "Long": -122.233062,
     "LastDate": "2016-12-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -815,7 +842,7 @@ locationIndexCallback([
     "Lat": 37.48463,
     "Long": -122.233041,
     "LastDate": "2017-04-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -824,7 +851,7 @@ locationIndexCallback([
     "Lat": 37.484595,
     "Long": -122.220016,
     "LastDate": "2017-02-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -833,8 +860,8 @@ locationIndexCallback([
     "Lat": 37.484595,
     "Long": -122.220016,
     "LastDate": "2017-03-02",
-    "LastResult": 49,
-    "LastViolations": 2
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0073332",
@@ -851,7 +878,7 @@ locationIndexCallback([
     "Lat": 37.484595,
     "Long": -122.220016,
     "LastDate": "2017-03-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -860,7 +887,7 @@ locationIndexCallback([
     "Lat": 37.484595,
     "Long": -122.220016,
     "LastDate": "2017-02-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -869,17 +896,17 @@ locationIndexCallback([
     "Lat": 37.484549,
     "Long": -122.232937,
     "LastDate": "2016-01-13",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0063032",
+    "Id": "PR0063033",
     "Name": "Lions Club Of San Carlos",
     "Lat": 37.48453352000007,
     "Long": -122.28054163999997,
     "LastDate": "2014-05-17",
     "LastResult": 0,
-    "LastViolations": 1
+    "LastViolations": 0
   },
   {
     "Id": "PR0064208",
@@ -887,7 +914,7 @@ locationIndexCallback([
     "Lat": 37.48448536300003,
     "Long": -122.23279431599997,
     "LastDate": "2014-12-08",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -896,7 +923,7 @@ locationIndexCallback([
     "Lat": 37.484443,
     "Long": -122.232794,
     "LastDate": "2017-03-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -905,7 +932,7 @@ locationIndexCallback([
     "Lat": 37.484435,
     "Long": -122.232784,
     "LastDate": "2017-07-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -914,7 +941,7 @@ locationIndexCallback([
     "Lat": 37.48443176300003,
     "Long": -122.23272157299999,
     "LastDate": "2015-01-12",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -941,7 +968,7 @@ locationIndexCallback([
     "Lat": 37.484407,
     "Long": -122.232747,
     "LastDate": "2017-01-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -950,7 +977,7 @@ locationIndexCallback([
     "Lat": 37.484339,
     "Long": -122.23265,
     "LastDate": "2016-11-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -959,7 +986,7 @@ locationIndexCallback([
     "Lat": 37.484227013000066,
     "Long": -122.17421253099997,
     "LastDate": "2014-06-20",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -968,7 +995,7 @@ locationIndexCallback([
     "Lat": 37.484223,
     "Long": -122.227206,
     "LastDate": "2017-03-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -977,7 +1004,7 @@ locationIndexCallback([
     "Lat": 37.484137,
     "Long": -122.226562,
     "LastDate": "2016-07-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -986,7 +1013,7 @@ locationIndexCallback([
     "Lat": 37.48413,
     "Long": -122.232358,
     "LastDate": "2016-04-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -1004,7 +1031,7 @@ locationIndexCallback([
     "Lat": 37.484083,
     "Long": -122.232293,
     "LastDate": "2017-04-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -1013,7 +1040,7 @@ locationIndexCallback([
     "Lat": 37.48406,
     "Long": -122.232471,
     "LastDate": "2017-04-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -1022,7 +1049,7 @@ locationIndexCallback([
     "Lat": 37.48404,
     "Long": -122.232233,
     "LastDate": "2017-09-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -1031,7 +1058,7 @@ locationIndexCallback([
     "Lat": 37.484039,
     "Long": -122.232233,
     "LastDate": "2017-01-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1049,7 +1076,7 @@ locationIndexCallback([
     "Lat": 37.48394724600007,
     "Long": -122.21564677999999,
     "LastDate": "2017-09-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -1058,7 +1085,7 @@ locationIndexCallback([
     "Lat": 37.48394724600007,
     "Long": -122.21564677999999,
     "LastDate": "2017-09-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -1067,7 +1094,7 @@ locationIndexCallback([
     "Lat": 37.48394724600007,
     "Long": -122.21564677999999,
     "LastDate": "2015-06-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1076,7 +1103,7 @@ locationIndexCallback([
     "Lat": 37.48394724600007,
     "Long": -122.21564677999999,
     "LastDate": "2017-06-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1089,21 +1116,21 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0073887",
+    "Id": "PR0080343",
     "Name": "HUNGARIAN HERITAGE FOUNDATION",
     "Lat": 37.48394724600007,
     "Long": -122.21564677999999,
     "LastDate": "2015-05-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
-    "Id": "PR0072773",
+    "Id": "PR0000669",
     "Name": "TACOS EL GRULLENSE #1",
     "Lat": 37.483747,
     "Long": -122.225142,
     "LastDate": "2017-03-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -1112,7 +1139,7 @@ locationIndexCallback([
     "Lat": 37.483735,
     "Long": -122.231815,
     "LastDate": "2017-04-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -1121,7 +1148,7 @@ locationIndexCallback([
     "Lat": 37.48367109000003,
     "Long": -122.23168529399999,
     "LastDate": "2013-12-10",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1130,16 +1157,16 @@ locationIndexCallback([
     "Lat": 37.483593,
     "Long": -122.22612,
     "LastDate": "2017-09-19",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 12
   },
   {
-    "Id": "PR0002981",
+    "Id": "PR0046758",
     "Name": "Safeway 0305",
     "Lat": 37.483549,
     "Long": -122.231555,
     "LastDate": "2017-11-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 10
   },
   {
@@ -1148,7 +1175,7 @@ locationIndexCallback([
     "Lat": 37.483549,
     "Long": -122.231555,
     "LastDate": "2017-11-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -1157,7 +1184,7 @@ locationIndexCallback([
     "Lat": 37.483549,
     "Long": -122.231555,
     "LastDate": "2017-05-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1166,7 +1193,7 @@ locationIndexCallback([
     "Lat": 37.483497,
     "Long": -122.204622,
     "LastDate": "2017-12-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -1215,15 +1242,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0069972",
-    "Name": "GOLDEN ICE CREAM",
-    "Lat": 37.483465024000054,
-    "Long": -122.21341561699995,
-    "LastDate": "2015-03-26",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0023963",
     "Name": "Fresh Choice",
     "Lat": 37.483460888000025,
@@ -1233,12 +1251,21 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
+    "Id": "PR0003003",
+    "Name": "AMERICAS ICE CREAM",
+    "Lat": 37.483425,
+    "Long": -122.213415,
+    "LastDate": "2017-06-28",
+    "LastResult": 1,
+    "LastViolations": 0
+  },
+  {
     "Id": "PR0032198",
     "Name": "A A ICE CREAM",
     "Lat": 37.483425,
     "Long": -122.213415,
     "LastDate": "2017-05-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -1247,7 +1274,7 @@ locationIndexCallback([
     "Lat": 37.483425,
     "Long": -122.213415,
     "LastDate": "2017-06-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1256,16 +1283,7 @@ locationIndexCallback([
     "Lat": 37.483425,
     "Long": -122.213415,
     "LastDate": "2017-02-10",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0048493",
-    "Name": "ORTEZ ICE CREAM",
-    "Lat": 37.483425,
-    "Long": -122.213415,
-    "LastDate": "2017-04-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1274,7 +1292,7 @@ locationIndexCallback([
     "Lat": 37.483425,
     "Long": -122.213415,
     "LastDate": "2017-02-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1287,30 +1305,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0052286",
-    "Name": "AMERICAS ICE CREAM",
-    "Lat": 37.483425,
-    "Long": -122.213415,
-    "LastDate": "2017-06-28",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0056603",
     "Name": "TIMOTEO CHAVEZ ICE CREAM",
     "Lat": 37.483425,
     "Long": -122.213415,
     "LastDate": "2017-02-22",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0061040",
-    "Name": "ARIAS ICE CREAM",
-    "Lat": 37.483425,
-    "Long": -122.213415,
-    "LastDate": "2017-02-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1319,17 +1319,17 @@ locationIndexCallback([
     "Lat": 37.483425,
     "Long": -122.213415,
     "LastDate": "2017-02-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0068013",
-    "Name": "TAYYEM ICE CREAM",
+    "Id": "PR0069972",
+    "Name": "GOLDEN ICE CREAM",
     "Lat": 37.483425,
     "Long": -122.213415,
     "LastDate": "2017-02-16",
-    "LastResult": 49,
-    "LastViolations": 0
+    "LastResult": 1,
+    "LastViolations": 1
   },
   {
     "Id": "PR0070084",
@@ -1346,17 +1346,17 @@ locationIndexCallback([
     "Lat": 37.483425,
     "Long": -122.213415,
     "LastDate": "2017-03-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0073744",
-    "Name": "GOLDEN ICE CREAM",
+    "Id": "PR0073873",
+    "Name": "TAYYEM ICE CREAM",
     "Lat": 37.483425,
     "Long": -122.213415,
     "LastDate": "2017-02-16",
-    "LastResult": 49,
-    "LastViolations": 1
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0076875",
@@ -1364,7 +1364,7 @@ locationIndexCallback([
     "Lat": 37.483425,
     "Long": -122.213415,
     "LastDate": "2017-04-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -1373,8 +1373,17 @@ locationIndexCallback([
     "Lat": 37.483425,
     "Long": -122.213415,
     "LastDate": "2017-05-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
+  },
+  {
+    "Id": "PR0080104",
+    "Name": "ARIAS ICE CREAM",
+    "Lat": 37.483425,
+    "Long": -122.213415,
+    "LastDate": "2017-02-22",
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0080730",
@@ -1382,7 +1391,7 @@ locationIndexCallback([
     "Lat": 37.483425,
     "Long": -122.213415,
     "LastDate": "2017-02-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1391,8 +1400,17 @@ locationIndexCallback([
     "Lat": 37.483425,
     "Long": -122.213415,
     "LastDate": "2017-03-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
+  },
+  {
+    "Id": "PR0084373",
+    "Name": "ORTEZ ICE CREAM",
+    "Lat": 37.483425,
+    "Long": -122.213415,
+    "LastDate": "2017-04-12",
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0078824",
@@ -1400,7 +1418,7 @@ locationIndexCallback([
     "Lat": 37.483349,
     "Long": -122.21305,
     "LastDate": "2017-01-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1409,7 +1427,7 @@ locationIndexCallback([
     "Lat": 37.48329320900007,
     "Long": -122.23116114099997,
     "LastDate": "2014-12-03",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -1418,7 +1436,7 @@ locationIndexCallback([
     "Lat": 37.483182,
     "Long": -122.212225,
     "LastDate": "2017-01-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1427,7 +1445,7 @@ locationIndexCallback([
     "Lat": 37.483175,
     "Long": -122.212191,
     "LastDate": "2017-01-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -1436,7 +1454,7 @@ locationIndexCallback([
     "Lat": 37.483175,
     "Long": -122.212191,
     "LastDate": "2017-03-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -1445,7 +1463,7 @@ locationIndexCallback([
     "Lat": 37.483147,
     "Long": -122.203185,
     "LastDate": "2017-06-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1454,7 +1472,7 @@ locationIndexCallback([
     "Lat": 37.483147,
     "Long": -122.203185,
     "LastDate": "2017-01-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1472,16 +1490,16 @@ locationIndexCallback([
     "Lat": 37.483147,
     "Long": -122.203185,
     "LastDate": "2016-03-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0078840",
+    "Id": "PR0078841",
     "Name": "BLISS POPS",
     "Lat": 37.483147,
     "Long": -122.203185,
     "LastDate": "2017-05-25",
-    "LastResult": 0,
+    "LastResult": 2,
     "LastViolations": 0
   },
   {
@@ -1490,7 +1508,7 @@ locationIndexCallback([
     "Lat": 37.483147,
     "Long": -122.203185,
     "LastDate": "2017-06-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1499,7 +1517,7 @@ locationIndexCallback([
     "Lat": 37.483147,
     "Long": -122.203185,
     "LastDate": "2016-03-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1508,7 +1526,7 @@ locationIndexCallback([
     "Lat": 37.483106,
     "Long": -122.234818,
     "LastDate": "2017-09-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1517,7 +1535,7 @@ locationIndexCallback([
     "Lat": 37.483068,
     "Long": -122.23088,
     "LastDate": "2017-08-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -1535,7 +1553,7 @@ locationIndexCallback([
     "Lat": 37.482839,
     "Long": -122.195718,
     "LastDate": "2016-04-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1553,8 +1571,8 @@ locationIndexCallback([
     "Lat": 37.482815,
     "Long": -122.150085,
     "LastDate": "2017-07-28",
-    "LastResult": 0,
-    "LastViolations": 0
+    "LastResult": 1,
+    "LastViolations": 1
   },
   {
     "Id": "PR0063018",
@@ -1571,7 +1589,7 @@ locationIndexCallback([
     "Lat": 37.482716,
     "Long": -122.149878,
     "LastDate": "2017-05-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -1580,7 +1598,7 @@ locationIndexCallback([
     "Lat": 37.48262319600008,
     "Long": -122.230526484,
     "LastDate": "2014-12-09",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1589,8 +1607,8 @@ locationIndexCallback([
     "Lat": 37.482576,
     "Long": -122.230198,
     "LastDate": "2017-06-06",
-    "LastResult": 49,
-    "LastViolations": 2
+    "LastResult": 3,
+    "LastViolations": 1
   },
   {
     "Id": "PR0085115",
@@ -1598,7 +1616,7 @@ locationIndexCallback([
     "Lat": 37.482553,
     "Long": -122.217273,
     "LastDate": "2017-09-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -1607,11 +1625,11 @@ locationIndexCallback([
     "Lat": 37.482522,
     "Long": -122.230338,
     "LastDate": "2017-06-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0044370",
+    "Id": "PR0044371",
     "Name": "Delicias Fruit Bar",
     "Lat": 37.482458260000044,
     "Long": -122.20561566699996,
@@ -1620,12 +1638,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0074003",
+    "Id": "PR0081295",
     "Name": "TORRES ICE CREAM",
     "Lat": 37.482429,
     "Long": -122.205608,
     "LastDate": "2016-02-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1634,7 +1652,7 @@ locationIndexCallback([
     "Lat": 37.48241793100004,
     "Long": -122.20161724899998,
     "LastDate": "2015-06-29",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -1643,7 +1661,7 @@ locationIndexCallback([
     "Lat": 37.48241793100004,
     "Long": -122.20161724899998,
     "LastDate": "2015-03-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -1652,7 +1670,7 @@ locationIndexCallback([
     "Lat": 37.48224207800007,
     "Long": -122.15032812499999,
     "LastDate": "2014-11-24",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1661,8 +1679,8 @@ locationIndexCallback([
     "Lat": 37.48223,
     "Long": -122.229922,
     "LastDate": "2017-03-29",
-    "LastResult": 49,
-    "LastViolations": 7
+    "LastResult": 1,
+    "LastViolations": 4
   },
   {
     "Id": "PR0050081",
@@ -1670,17 +1688,8 @@ locationIndexCallback([
     "Lat": 37.482223195000074,
     "Long": -122.17990595499998,
     "LastDate": "2014-06-23",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
-  },
-  {
-    "Id": "PR0066805",
-    "Name": "FACEBOOK",
-    "Lat": 37.482152,
-    "Long": -122.150223,
-    "LastDate": "2016-12-09",
-    "LastResult": 49,
-    "LastViolations": 4
   },
   {
     "Id": "PR0068360",
@@ -1688,7 +1697,7 @@ locationIndexCallback([
     "Lat": 37.482152,
     "Long": -122.150223,
     "LastDate": "2016-12-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -1697,70 +1706,61 @@ locationIndexCallback([
     "Lat": 37.482152,
     "Long": -122.150223,
     "LastDate": "2016-12-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0069196",
-    "Name": "FACEBOOK",
-    "Lat": 37.482152,
-    "Long": -122.150223,
-    "LastDate": "2016-12-09",
-    "LastResult": 49,
-    "LastViolations": 5
-  },
-  {
-    "Id": "PR0069872",
-    "Name": "FACEBOOK",
-    "Lat": 37.482152,
-    "Long": -122.150223,
-    "LastDate": "2016-12-08",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0075838",
+    "Id": "PR0075840",
     "Name": "FACEBOOK",
     "Lat": 37.482152,
     "Long": -122.150223,
     "LastDate": "2016-12-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
-    "Id": "PR0075844",
+    "Id": "PR0075842",
     "Name": "FACEBOOK",
     "Lat": 37.482152,
     "Long": -122.150223,
     "LastDate": "2017-04-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0075854",
+    "Id": "PR0075852",
     "Name": "FACEBOOK",
     "Lat": 37.482152,
     "Long": -122.150223,
     "LastDate": "2016-12-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0075857",
+    "Id": "PR0075859",
     "Name": "FACEBOOK",
     "Lat": 37.482152,
     "Long": -122.150223,
     "LastDate": "2016-12-07",
-    "LastResult": 49,
-    "LastViolations": 0
+    "LastResult": 1,
+    "LastViolations": 1
   },
   {
-    "Id": "PR0075868",
+    "Id": "PR0075861",
     "Name": "FACEBOOK",
     "Lat": 37.482152,
     "Long": -122.150223,
     "LastDate": "2016-12-08",
-    "LastResult": 49,
+    "LastResult": 1,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0075866",
+    "Name": "FACEBOOK",
+    "Lat": 37.482152,
+    "Long": -122.150223,
+    "LastDate": "2016-12-08",
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -1769,8 +1769,26 @@ locationIndexCallback([
     "Lat": 37.482152,
     "Long": -122.150223,
     "LastDate": "2017-05-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
+  },
+  {
+    "Id": "PR0079480",
+    "Name": "FACEBOOK",
+    "Lat": 37.482152,
+    "Long": -122.150223,
+    "LastDate": "2016-12-09",
+    "LastResult": 1,
+    "LastViolations": 4
+  },
+  {
+    "Id": "PR0081013",
+    "Name": "FACEBOOK",
+    "Lat": 37.482152,
+    "Long": -122.150223,
+    "LastDate": "2016-12-09",
+    "LastResult": 1,
+    "LastViolations": 5
   },
   {
     "Id": "PR0066046",
@@ -1778,16 +1796,16 @@ locationIndexCallback([
     "Lat": 37.482141,
     "Long": -122.20002,
     "LastDate": "2017-11-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0085905",
+    "Id": "PR0085907",
     "Name": "FACEBOOK MPK28 - MICROKITCHENS",
     "Lat": 37.482125,
     "Long": -122.172274,
     "LastDate": "2017-11-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1796,16 +1814,16 @@ locationIndexCallback([
     "Lat": 37.482098,
     "Long": -122.221384,
     "LastDate": "2017-12-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0063616",
+    "Id": "PR0054921",
     "Name": "Optimist Club Of Redwood City",
     "Lat": 37.482097886000076,
     "Long": -122.246553603,
     "LastDate": "2014-06-14",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1814,7 +1832,7 @@ locationIndexCallback([
     "Lat": 37.482091,
     "Long": -122.229531,
     "LastDate": "2017-03-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1823,16 +1841,16 @@ locationIndexCallback([
     "Lat": 37.482075,
     "Long": -122.231333,
     "LastDate": "2017-01-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0064609",
+    "Id": "PR0081485",
     "Name": "WHOLE FOODS MARKET",
     "Lat": 37.482075,
     "Long": -122.231333,
     "LastDate": "2017-06-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -1841,7 +1859,7 @@ locationIndexCallback([
     "Lat": 37.48205,
     "Long": -122.235895,
     "LastDate": "2017-09-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -1868,7 +1886,7 @@ locationIndexCallback([
     "Lat": 37.481965,
     "Long": -122.171813,
     "LastDate": "2017-11-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -1877,17 +1895,8 @@ locationIndexCallback([
     "Lat": 37.481959,
     "Long": -122.206292,
     "LastDate": "2016-11-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
-  },
-  {
-    "Id": "PR0075565",
-    "Name": "GRULLO TACO",
-    "Lat": 37.481959,
-    "Long": -122.206293,
-    "LastDate": "2017-02-23",
-    "LastResult": 49,
-    "LastViolations": 0
   },
   {
     "Id": "PR0080062",
@@ -1895,16 +1904,25 @@ locationIndexCallback([
     "Lat": 37.481959,
     "Long": -122.206293,
     "LastDate": "2017-05-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0083443",
+    "Id": "PR0080082",
+    "Name": "GRULLO TACO",
+    "Lat": 37.481959,
+    "Long": -122.206293,
+    "LastDate": "2017-02-23",
+    "LastResult": 1,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0083444",
     "Name": "FACEBOOK CAFE 300",
     "Lat": 37.481954,
     "Long": -122.167254,
     "LastDate": "2017-12-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -1940,7 +1958,7 @@ locationIndexCallback([
     "Lat": 37.481893,
     "Long": -122.167106,
     "LastDate": "2017-03-28",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -1949,7 +1967,7 @@ locationIndexCallback([
     "Lat": 37.48179,
     "Long": -122.214413,
     "LastDate": "2017-09-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 8
   },
   {
@@ -1958,7 +1976,7 @@ locationIndexCallback([
     "Lat": 37.48161154700006,
     "Long": -122.22907806299997,
     "LastDate": "2015-01-06",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -1967,7 +1985,7 @@ locationIndexCallback([
     "Lat": 37.48157446000005,
     "Long": -122.17079831999996,
     "LastDate": "2015-07-24",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -1976,7 +1994,7 @@ locationIndexCallback([
     "Lat": 37.481565,
     "Long": -122.228992,
     "LastDate": "2016-10-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -1994,7 +2012,7 @@ locationIndexCallback([
     "Lat": 37.481548,
     "Long": -122.198662,
     "LastDate": "2017-07-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -2003,7 +2021,7 @@ locationIndexCallback([
     "Lat": 37.481546,
     "Long": -122.262986,
     "LastDate": "2017-10-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2012,7 +2030,7 @@ locationIndexCallback([
     "Lat": 37.481499,
     "Long": -122.236829,
     "LastDate": "2017-09-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2021,7 +2039,7 @@ locationIndexCallback([
     "Lat": 37.481457,
     "Long": -122.225581,
     "LastDate": "2015-11-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2030,7 +2048,7 @@ locationIndexCallback([
     "Lat": 37.48145462300005,
     "Long": -122.22547870099999,
     "LastDate": "2015-05-06",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -2039,7 +2057,7 @@ locationIndexCallback([
     "Lat": 37.481453,
     "Long": -122.170306,
     "LastDate": "2017-11-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -2048,16 +2066,16 @@ locationIndexCallback([
     "Lat": 37.48142,
     "Long": -122.203687,
     "LastDate": "2017-05-18",
-    "LastResult": 0,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0083599",
+    "Id": "PR0083609",
     "Name": "FACEBOOK CAFE 24 / KITCHEN COMPLEX",
     "Lat": 37.481411,
     "Long": -122.169946,
     "LastDate": "2017-11-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -2066,7 +2084,7 @@ locationIndexCallback([
     "Lat": 37.481411,
     "Long": -122.169946,
     "LastDate": "2017-11-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -2075,7 +2093,7 @@ locationIndexCallback([
     "Lat": 37.481409,
     "Long": -122.170154,
     "LastDate": "2017-11-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -2084,7 +2102,7 @@ locationIndexCallback([
     "Lat": 37.481403,
     "Long": -122.198754,
     "LastDate": "2017-08-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2093,7 +2111,7 @@ locationIndexCallback([
     "Lat": 37.48140099600005,
     "Long": -122.16984294499997,
     "LastDate": "2015-07-24",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2102,7 +2120,7 @@ locationIndexCallback([
     "Lat": 37.481239,
     "Long": -122.202915,
     "LastDate": "2017-02-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2111,7 +2129,7 @@ locationIndexCallback([
     "Lat": 37.481239,
     "Long": -122.202915,
     "LastDate": "2017-08-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -2120,7 +2138,7 @@ locationIndexCallback([
     "Lat": 37.481239,
     "Long": -122.202915,
     "LastDate": "2017-02-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2147,11 +2165,11 @@ locationIndexCallback([
     "Lat": 37.481237,
     "Long": -122.20291,
     "LastDate": "2016-03-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0061958",
+    "Id": "PR0061953",
     "Name": "OUR LADY OF MOUNT CARMEL",
     "Lat": 37.48122783800005,
     "Long": -122.23946188899998,
@@ -2178,12 +2196,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0076746",
+    "Id": "PR0076747",
     "Name": "Pets In Need",
     "Lat": 37.48101790800007,
     "Long": -122.19900617899998,
     "LastDate": "2014-06-21",
-    "LastResult": 0,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2192,16 +2210,16 @@ locationIndexCallback([
     "Lat": 37.481008,
     "Long": -122.183899,
     "LastDate": "2017-09-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0003121",
+    "Id": "PR0049103",
     "Name": "SEQUOIA HEALTH SERVICES",
     "Lat": 37.480987,
     "Long": -122.253223,
     "LastDate": "2017-04-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2210,7 +2228,7 @@ locationIndexCallback([
     "Lat": 37.480987,
     "Long": -122.253223,
     "LastDate": "2016-03-07",
-    "LastResult": 0,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2219,7 +2237,7 @@ locationIndexCallback([
     "Lat": 37.480919,
     "Long": -122.178069,
     "LastDate": "2017-02-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -2228,7 +2246,7 @@ locationIndexCallback([
     "Lat": 37.480823,
     "Long": -122.227773,
     "LastDate": "2017-07-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -2237,7 +2255,7 @@ locationIndexCallback([
     "Lat": 37.48081625900005,
     "Long": -122.17808995899998,
     "LastDate": "2013-10-02",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -2246,7 +2264,7 @@ locationIndexCallback([
     "Lat": 37.480652,
     "Long": -122.224467,
     "LastDate": "2017-06-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -2255,7 +2273,7 @@ locationIndexCallback([
     "Lat": 37.480647,
     "Long": -122.21826,
     "LastDate": "2017-03-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -2264,7 +2282,7 @@ locationIndexCallback([
     "Lat": 37.48055212200006,
     "Long": -122.22735074199994,
     "LastDate": "2013-01-03",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -2273,16 +2291,16 @@ locationIndexCallback([
     "Lat": 37.480549,
     "Long": -122.199285,
     "LastDate": "2017-11-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0002496",
+    "Id": "PR0081923",
     "Name": "ORCHARD SUPPLY HARDWARE",
     "Lat": 37.480515,
     "Long": -122.217971,
     "LastDate": "2017-03-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2291,7 +2309,7 @@ locationIndexCallback([
     "Lat": 37.480505,
     "Long": -122.174178,
     "LastDate": "2016-09-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2300,7 +2318,7 @@ locationIndexCallback([
     "Lat": 37.48045566900004,
     "Long": -122.19929012999995,
     "LastDate": "2013-03-20",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -2318,7 +2336,7 @@ locationIndexCallback([
     "Lat": 37.480433,
     "Long": -122.217513,
     "LastDate": "2017-10-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -2327,7 +2345,7 @@ locationIndexCallback([
     "Lat": 37.480411,
     "Long": -122.19937,
     "LastDate": "2017-02-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2336,25 +2354,25 @@ locationIndexCallback([
     "Lat": 37.480346,
     "Long": -122.405705,
     "LastDate": "2017-03-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0051815",
+    "Id": "PR0075934",
     "Name": "ORRICK",
     "Lat": 37.48032077800008,
     "Long": -122.18452545299999,
     "LastDate": "2017-10-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0025232",
+    "Id": "PR0071042",
     "Name": "ARTEAGAS STARLITE SUPERMARKET",
     "Lat": 37.480169,
     "Long": -122.19952,
     "LastDate": "2017-02-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -2363,7 +2381,7 @@ locationIndexCallback([
     "Lat": 37.480114462000074,
     "Long": -122.21707301199996,
     "LastDate": "2016-11-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -2372,7 +2390,7 @@ locationIndexCallback([
     "Lat": 37.480091,
     "Long": -122.407397,
     "LastDate": "2017-10-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -2381,7 +2399,7 @@ locationIndexCallback([
     "Lat": 37.48007,
     "Long": -122.224132,
     "LastDate": "2017-04-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2390,7 +2408,7 @@ locationIndexCallback([
     "Lat": 37.48007,
     "Long": -122.224132,
     "LastDate": "2017-04-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2399,7 +2417,7 @@ locationIndexCallback([
     "Lat": 37.480018,
     "Long": -122.15088,
     "LastDate": "2016-09-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -2408,7 +2426,7 @@ locationIndexCallback([
     "Lat": 37.480016,
     "Long": -122.150881,
     "LastDate": "2017-11-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -2417,7 +2435,7 @@ locationIndexCallback([
     "Lat": 37.479994,
     "Long": -122.283634,
     "LastDate": "2016-05-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2426,7 +2444,7 @@ locationIndexCallback([
     "Lat": 37.47998431100007,
     "Long": -122.216860785,
     "LastDate": "2013-05-03",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -2435,7 +2453,7 @@ locationIndexCallback([
     "Lat": 37.479915,
     "Long": -122.193963,
     "LastDate": "2017-09-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -2453,7 +2471,7 @@ locationIndexCallback([
     "Lat": 37.479837,
     "Long": -122.216182,
     "LastDate": "2016-10-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2462,7 +2480,7 @@ locationIndexCallback([
     "Lat": 37.47974694100003,
     "Long": -122.19980701499998,
     "LastDate": "2013-05-13",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2471,7 +2489,7 @@ locationIndexCallback([
     "Lat": 37.479733,
     "Long": -122.199789,
     "LastDate": "2015-10-15",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -2480,7 +2498,7 @@ locationIndexCallback([
     "Lat": 37.479733,
     "Long": -122.199789,
     "LastDate": "2016-02-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -2489,7 +2507,7 @@ locationIndexCallback([
     "Lat": 37.479733,
     "Long": -122.199789,
     "LastDate": "2016-02-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2498,11 +2516,11 @@ locationIndexCallback([
     "Lat": 37.479715,
     "Long": -122.232331,
     "LastDate": "2017-09-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0050466",
+    "Id": "PR0070088",
     "Name": "ANABELITA FOOD",
     "Lat": 37.479685,
     "Long": -122.199819,
@@ -2516,7 +2534,7 @@ locationIndexCallback([
     "Lat": 37.479677,
     "Long": -122.150781,
     "LastDate": "2017-06-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2525,7 +2543,7 @@ locationIndexCallback([
     "Lat": 37.479677,
     "Long": -122.150835,
     "LastDate": "2017-07-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -2534,16 +2552,16 @@ locationIndexCallback([
     "Lat": 37.479651,
     "Long": -122.151063,
     "LastDate": "2017-07-06",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 4
   },
   {
-    "Id": "PR0076386",
+    "Id": "PR0075457",
     "Name": "SAJJ",
     "Lat": 37.479651,
     "Long": -122.151063,
     "LastDate": "2017-07-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -2552,7 +2570,7 @@ locationIndexCallback([
     "Lat": 37.479595,
     "Long": -122.151868,
     "LastDate": "2017-11-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -2561,7 +2579,7 @@ locationIndexCallback([
     "Lat": 37.479588,
     "Long": -122.151965,
     "LastDate": "2017-11-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -2570,7 +2588,7 @@ locationIndexCallback([
     "Lat": 37.479587,
     "Long": -122.151994,
     "LastDate": "2017-06-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -2579,7 +2597,7 @@ locationIndexCallback([
     "Lat": 37.479551,
     "Long": -122.215614,
     "LastDate": "2017-08-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -2588,7 +2606,7 @@ locationIndexCallback([
     "Lat": 37.47953787800003,
     "Long": -122.22622597099996,
     "LastDate": "2017-06-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -2597,7 +2615,7 @@ locationIndexCallback([
     "Lat": 37.479532,
     "Long": -122.408881,
     "LastDate": "2016-10-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2606,11 +2624,11 @@ locationIndexCallback([
     "Lat": 37.47949,
     "Long": -122.153649,
     "LastDate": "2017-05-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
-    "Id": "PR0077251",
+    "Id": "PR0077261",
     "Name": "ARCHANGEL MICHAEL \u0026 SAINT MARCURIOUS COPTIC CHURCH",
     "Lat": 37.47938,
     "Long": -122.238768,
@@ -2624,7 +2642,7 @@ locationIndexCallback([
     "Lat": 37.479371,
     "Long": -122.409312,
     "LastDate": "2017-10-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -2633,7 +2651,7 @@ locationIndexCallback([
     "Lat": 37.479368,
     "Long": -122.225953,
     "LastDate": "2017-11-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2642,7 +2660,7 @@ locationIndexCallback([
     "Lat": 37.479283689000056,
     "Long": -122.15175574899996,
     "LastDate": "2015-07-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2651,16 +2669,16 @@ locationIndexCallback([
     "Lat": 37.47925837400004,
     "Long": -122.15761045499994,
     "LastDate": "2013-06-19",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0070550",
+    "Id": "PR0046486",
     "Name": "COSTCO WHOLESALE",
     "Lat": 37.479258,
     "Long": -122.215383,
     "LastDate": "2017-08-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2669,7 +2687,7 @@ locationIndexCallback([
     "Lat": 37.479258,
     "Long": -122.215383,
     "LastDate": "2017-03-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2678,7 +2696,7 @@ locationIndexCallback([
     "Lat": 37.479232,
     "Long": -122.240105,
     "LastDate": "2017-07-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2696,7 +2714,7 @@ locationIndexCallback([
     "Lat": 37.479125,
     "Long": -122.223552,
     "LastDate": "2017-07-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -2714,7 +2732,7 @@ locationIndexCallback([
     "Lat": 37.47908,
     "Long": -122.224169,
     "LastDate": "2017-06-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -2723,7 +2741,7 @@ locationIndexCallback([
     "Lat": 37.479067,
     "Long": -122.22534,
     "LastDate": "2017-01-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -2732,7 +2750,7 @@ locationIndexCallback([
     "Lat": 37.479051,
     "Long": -122.225517,
     "LastDate": "2017-01-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -2741,7 +2759,7 @@ locationIndexCallback([
     "Lat": 37.47905,
     "Long": -122.215062,
     "LastDate": "2017-06-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -2750,7 +2768,7 @@ locationIndexCallback([
     "Lat": 37.47886775000006,
     "Long": -122.22336195899999,
     "LastDate": "2014-05-05",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -2759,7 +2777,7 @@ locationIndexCallback([
     "Lat": 37.478866,
     "Long": -122.223397,
     "LastDate": "2017-06-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -2768,16 +2786,16 @@ locationIndexCallback([
     "Lat": 37.478856,
     "Long": -122.225246,
     "LastDate": "2016-11-30",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 7
   },
   {
-    "Id": "PR0084849",
+    "Id": "PR0084850",
     "Name": "PENINSULA (FACEBOOK,INC) MPK52",
     "Lat": 37.478851,
     "Long": -122.151316,
     "LastDate": "2017-12-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2786,7 +2804,7 @@ locationIndexCallback([
     "Lat": 37.47881572700004,
     "Long": -122.22449447399998,
     "LastDate": "2015-04-29",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2795,7 +2813,7 @@ locationIndexCallback([
     "Lat": 37.478796309000074,
     "Long": -122.22519639199999,
     "LastDate": "2014-03-28",
-    "LastResult": 55,
+    "LastResult": 3,
     "LastViolations": 2
   },
   {
@@ -2822,16 +2840,16 @@ locationIndexCallback([
     "Lat": 37.478796309000074,
     "Long": -122.22519639199999,
     "LastDate": "2015-03-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0070816",
+    "Id": "PR0069004",
     "Name": "EL MERCADITO LATINO",
     "Lat": 37.478788,
     "Long": -122.225151,
     "LastDate": "2016-06-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -2840,16 +2858,16 @@ locationIndexCallback([
     "Lat": 37.478788,
     "Long": -122.225151,
     "LastDate": "2016-12-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
-    "Id": "PR0040041",
+    "Id": "PR0052845",
     "Name": "MI RANCHO SUPERMARKET",
     "Lat": 37.478769,
     "Long": -122.225986,
     "LastDate": "2017-11-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -2858,7 +2876,7 @@ locationIndexCallback([
     "Lat": 37.478763,
     "Long": -122.214522,
     "LastDate": "2016-01-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -2867,7 +2885,7 @@ locationIndexCallback([
     "Lat": 37.478754827000046,
     "Long": -122.21445366899997,
     "LastDate": "2014-03-05",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -2876,7 +2894,7 @@ locationIndexCallback([
     "Lat": 37.478753,
     "Long": -122.186579,
     "LastDate": "2017-06-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2885,7 +2903,7 @@ locationIndexCallback([
     "Lat": 37.478752,
     "Long": -122.186584,
     "LastDate": "2017-09-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2894,7 +2912,7 @@ locationIndexCallback([
     "Lat": 37.478742,
     "Long": -122.186713,
     "LastDate": "2017-12-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2903,7 +2921,7 @@ locationIndexCallback([
     "Lat": 37.478709,
     "Long": -122.187136,
     "LastDate": "2017-05-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2912,7 +2930,7 @@ locationIndexCallback([
     "Lat": 37.478709,
     "Long": -122.187136,
     "LastDate": "2017-05-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2921,7 +2939,7 @@ locationIndexCallback([
     "Lat": 37.478709,
     "Long": -122.187136,
     "LastDate": "2017-05-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2930,7 +2948,7 @@ locationIndexCallback([
     "Lat": 37.478709,
     "Long": -122.187136,
     "LastDate": "2017-05-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2939,7 +2957,7 @@ locationIndexCallback([
     "Lat": 37.478709,
     "Long": -122.187136,
     "LastDate": "2017-05-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2948,7 +2966,7 @@ locationIndexCallback([
     "Lat": 37.478697,
     "Long": -122.187357,
     "LastDate": "2017-09-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2961,12 +2979,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0075146",
+    "Id": "PR0065160",
     "Name": "ANGEL HEART CAKES",
     "Lat": 37.47865701300003,
     "Long": -122.18732116399997,
     "LastDate": "2015-03-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2975,7 +2993,7 @@ locationIndexCallback([
     "Lat": 37.47863,
     "Long": -122.188314,
     "LastDate": "2017-09-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -2984,7 +3002,7 @@ locationIndexCallback([
     "Lat": 37.478601,
     "Long": -122.22489,
     "LastDate": "2017-11-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -2993,7 +3011,7 @@ locationIndexCallback([
     "Lat": 37.478574,
     "Long": -122.185802,
     "LastDate": "2017-10-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -3002,7 +3020,7 @@ locationIndexCallback([
     "Lat": 37.47857233000008,
     "Long": -122.18867453999997,
     "LastDate": "2014-09-30",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -3011,7 +3029,7 @@ locationIndexCallback([
     "Lat": 37.47856815700004,
     "Long": -122.18183141799994,
     "LastDate": "2014-06-20",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -3020,7 +3038,7 @@ locationIndexCallback([
     "Lat": 37.478524,
     "Long": -122.230087,
     "LastDate": "2017-05-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -3029,7 +3047,7 @@ locationIndexCallback([
     "Lat": 37.478475,
     "Long": -122.167554,
     "LastDate": "2016-10-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3038,7 +3056,7 @@ locationIndexCallback([
     "Lat": 37.478466,
     "Long": -122.214082,
     "LastDate": "2016-01-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -3047,7 +3065,7 @@ locationIndexCallback([
     "Lat": 37.47839140900004,
     "Long": -122.22463416099998,
     "LastDate": "2013-08-28",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3056,7 +3074,7 @@ locationIndexCallback([
     "Lat": 37.478279,
     "Long": -122.224441,
     "LastDate": "2017-01-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3065,7 +3083,7 @@ locationIndexCallback([
     "Lat": 37.478203,
     "Long": -122.224334,
     "LastDate": "2017-02-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3074,7 +3092,7 @@ locationIndexCallback([
     "Lat": 37.478024,
     "Long": -122.224086,
     "LastDate": "2017-01-20",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3083,7 +3101,7 @@ locationIndexCallback([
     "Lat": 37.477892,
     "Long": -122.21324,
     "LastDate": "2017-03-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3092,7 +3110,7 @@ locationIndexCallback([
     "Lat": 37.477856,
     "Long": -122.223859,
     "LastDate": "2017-03-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -3101,7 +3119,7 @@ locationIndexCallback([
     "Lat": 37.477847,
     "Long": -122.223652,
     "LastDate": "2017-05-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -3110,7 +3128,7 @@ locationIndexCallback([
     "Lat": 37.477847,
     "Long": -122.223652,
     "LastDate": "2016-07-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3119,7 +3137,7 @@ locationIndexCallback([
     "Lat": 37.477777,
     "Long": -122.213067,
     "LastDate": "2017-03-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -3128,7 +3146,7 @@ locationIndexCallback([
     "Lat": 37.477736,
     "Long": -122.223692,
     "LastDate": "2017-05-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -3137,7 +3155,7 @@ locationIndexCallback([
     "Lat": 37.477693,
     "Long": -122.212938,
     "LastDate": "2017-03-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3146,7 +3164,7 @@ locationIndexCallback([
     "Lat": 37.477688,
     "Long": -122.223626,
     "LastDate": "2017-05-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -3155,7 +3173,7 @@ locationIndexCallback([
     "Lat": 37.477667,
     "Long": -122.223596,
     "LastDate": "2017-02-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -3164,7 +3182,7 @@ locationIndexCallback([
     "Lat": 37.47766,
     "Long": -122.212887,
     "LastDate": "2016-03-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -3173,7 +3191,7 @@ locationIndexCallback([
     "Lat": 37.47761717000003,
     "Long": -122.21274965299995,
     "LastDate": "2014-04-22",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -3182,7 +3200,7 @@ locationIndexCallback([
     "Lat": 37.477615,
     "Long": -122.137166,
     "LastDate": "2017-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3191,7 +3209,7 @@ locationIndexCallback([
     "Lat": 37.477615,
     "Long": -122.137166,
     "LastDate": "2017-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3200,7 +3218,7 @@ locationIndexCallback([
     "Lat": 37.477597,
     "Long": -122.21279,
     "LastDate": "2017-06-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3209,16 +3227,16 @@ locationIndexCallback([
     "Lat": 37.477597,
     "Long": -122.21279,
     "LastDate": "2017-11-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0084554",
+    "Id": "PR0084555",
     "Name": "FACEBOOK MPK58 MICRO-KITCHENS",
     "Lat": 37.477587,
     "Long": -122.151951,
     "LastDate": "2017-12-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3227,7 +3245,7 @@ locationIndexCallback([
     "Lat": 37.477412181000034,
     "Long": -122.22330691299999,
     "LastDate": "2014-05-29",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3236,7 +3254,7 @@ locationIndexCallback([
     "Lat": 37.477381,
     "Long": -122.209468,
     "LastDate": "2017-02-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -3245,7 +3263,7 @@ locationIndexCallback([
     "Lat": 37.477252,
     "Long": -122.223016,
     "LastDate": "2017-02-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3258,12 +3276,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0073906",
+    "Id": "PR0073905",
     "Name": "FREE MAGYAR REFORMED CHURCH OF SF \u0026 VICINITY",
     "Lat": 37.47717274400003,
     "Long": -122.22006297699994,
     "LastDate": "2015-05-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3281,17 +3299,8 @@ locationIndexCallback([
     "Lat": 37.477105911000024,
     "Long": -122.154858806,
     "LastDate": "2015-06-05",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 9
-  },
-  {
-    "Id": "PR0071821",
-    "Name": "CAPELOS BBQ",
-    "Lat": 37.476878,
-    "Long": -122.211692,
-    "LastDate": "2017-05-17",
-    "LastResult": 49,
-    "LastViolations": 0
   },
   {
     "Id": "PR0073592",
@@ -3299,8 +3308,17 @@ locationIndexCallback([
     "Lat": 37.476878,
     "Long": -122.211693,
     "LastDate": "2016-06-08",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
+  },
+  {
+    "Id": "PR0081249",
+    "Name": "CAPELOS BBQ",
+    "Lat": 37.476878,
+    "Long": -122.211692,
+    "LastDate": "2017-05-17",
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0065732",
@@ -3308,7 +3326,7 @@ locationIndexCallback([
     "Lat": 37.476742,
     "Long": -122.217981,
     "LastDate": "2016-03-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -3317,7 +3335,7 @@ locationIndexCallback([
     "Lat": 37.476679567000076,
     "Long": -122.13725424399996,
     "LastDate": "2015-05-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3326,7 +3344,7 @@ locationIndexCallback([
     "Lat": 37.476668,
     "Long": -122.201706,
     "LastDate": "2017-04-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -3339,12 +3357,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0073745",
+    "Id": "PR0075052",
     "Name": "OCHOAS FRESH FRUITS",
     "Lat": 37.476668,
     "Long": -122.201706,
     "LastDate": "2017-02-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3353,7 +3371,7 @@ locationIndexCallback([
     "Lat": 37.476608,
     "Long": -122.140835,
     "LastDate": "2016-03-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -3362,7 +3380,7 @@ locationIndexCallback([
     "Lat": 37.476477,
     "Long": -122.153424,
     "LastDate": "2017-09-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -3371,7 +3389,7 @@ locationIndexCallback([
     "Lat": 37.476347,
     "Long": -122.199968,
     "LastDate": "2017-11-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3380,7 +3398,7 @@ locationIndexCallback([
     "Lat": 37.476315,
     "Long": -122.200337,
     "LastDate": "2016-04-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3389,7 +3407,7 @@ locationIndexCallback([
     "Lat": 37.476195,
     "Long": -122.146667,
     "LastDate": "2017-12-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -3398,7 +3416,7 @@ locationIndexCallback([
     "Lat": 37.476138,
     "Long": -122.219819,
     "LastDate": "2016-04-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -3407,7 +3425,7 @@ locationIndexCallback([
     "Lat": 37.476119,
     "Long": -122.134229,
     "LastDate": "2017-11-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -3416,7 +3434,7 @@ locationIndexCallback([
     "Lat": 37.476098,
     "Long": -122.250071,
     "LastDate": "2015-12-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3425,7 +3443,7 @@ locationIndexCallback([
     "Lat": 37.476093,
     "Long": -122.210514,
     "LastDate": "2017-03-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3443,7 +3461,7 @@ locationIndexCallback([
     "Lat": 37.475982,
     "Long": -122.417853,
     "LastDate": "2017-03-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3452,7 +3470,7 @@ locationIndexCallback([
     "Lat": 37.475976,
     "Long": -122.20819,
     "LastDate": "2017-02-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3461,7 +3479,7 @@ locationIndexCallback([
     "Lat": 37.475976,
     "Long": -122.20819,
     "LastDate": "2016-03-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3497,7 +3515,7 @@ locationIndexCallback([
     "Lat": 37.475976,
     "Long": -122.20819,
     "LastDate": "2017-10-28",
-    "LastResult": 0,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3524,7 +3542,7 @@ locationIndexCallback([
     "Lat": 37.475957,
     "Long": -122.210308,
     "LastDate": "2017-06-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3533,7 +3551,7 @@ locationIndexCallback([
     "Lat": 37.475957,
     "Long": -122.210308,
     "LastDate": "2017-10-06",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 0
   },
   {
@@ -3542,7 +3560,7 @@ locationIndexCallback([
     "Lat": 37.475947,
     "Long": -122.161764,
     "LastDate": "2017-09-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -3551,7 +3569,7 @@ locationIndexCallback([
     "Lat": 37.475937,
     "Long": -122.210278,
     "LastDate": "2017-03-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -3582,15 +3600,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0063989",
-    "Name": "Tour De Peninsula Ralston Bike Trail Rest Stop",
-    "Lat": 37.475687453000035,
-    "Long": -122.17519081799998,
-    "LastDate": "2014-08-03",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0063990",
     "Name": "Tour De Peninsula North Sawyer Camp Trail Rest Stop",
     "Lat": 37.475687453000035,
@@ -3609,12 +3618,21 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
+    "Id": "PR0072043",
+    "Name": "Tour De Peninsula Ralston Bike Trail Rest Stop",
+    "Lat": 37.475687453000035,
+    "Long": -122.17519081799998,
+    "LastDate": "2014-08-03",
+    "LastResult": 0,
+    "LastViolations": 0
+  },
+  {
     "Id": "PR0048543",
     "Name": "JOSHUA CHARLES CATERING",
     "Lat": 37.475681,
     "Long": -122.209893,
     "LastDate": "2017-05-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3632,16 +3650,16 @@ locationIndexCallback([
     "Lat": 37.475658,
     "Long": -122.220621,
     "LastDate": "2016-04-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0002721",
+    "Id": "PR0070551",
     "Name": "EL PAISANO CARNICERIA Y MERCAD",
     "Lat": 37.475473,
     "Long": -122.20958,
     "LastDate": "2017-05-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -3650,7 +3668,7 @@ locationIndexCallback([
     "Lat": 37.47539,
     "Long": -122.209455,
     "LastDate": "2017-05-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3668,7 +3686,7 @@ locationIndexCallback([
     "Lat": 37.475355,
     "Long": -122.226323,
     "LastDate": "2016-06-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3677,7 +3695,7 @@ locationIndexCallback([
     "Lat": 37.475347,
     "Long": -122.209389,
     "LastDate": "2017-05-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -3686,7 +3704,7 @@ locationIndexCallback([
     "Lat": 37.47534522500007,
     "Long": -122.20933292799998,
     "LastDate": "2013-01-28",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -3695,7 +3713,7 @@ locationIndexCallback([
     "Lat": 37.47533715900005,
     "Long": -122.19403869199999,
     "LastDate": "2014-02-10",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3704,7 +3722,7 @@ locationIndexCallback([
     "Lat": 37.47533,
     "Long": -122.131901,
     "LastDate": "2017-10-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -3735,21 +3753,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0029050",
-    "Name": "PALETERIA GUADALUPANA",
-    "Lat": 37.47487,
-    "Long": -122.151057,
-    "LastDate": "2017-02-16",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0048996",
+    "Id": "PR0039741",
     "Name": "MINI MAX FRUIT BARS",
     "Lat": 37.47487,
     "Long": -122.151057,
     "LastDate": "2017-05-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3758,7 +3767,7 @@ locationIndexCallback([
     "Lat": 37.47487,
     "Long": -122.151057,
     "LastDate": "2016-03-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3767,7 +3776,7 @@ locationIndexCallback([
     "Lat": 37.47487,
     "Long": -122.151057,
     "LastDate": "2017-05-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3776,16 +3785,25 @@ locationIndexCallback([
     "Lat": 37.47487,
     "Long": -122.151057,
     "LastDate": "2017-02-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0080659",
+    "Id": "PR0080075",
+    "Name": "PALETERIA GUADALUPANA",
+    "Lat": 37.47487,
+    "Long": -122.151057,
+    "LastDate": "2017-02-16",
+    "LastResult": 1,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0080663",
     "Name": "PALETERIA WENDY",
     "Lat": 37.47487,
     "Long": -122.151057,
     "LastDate": "2017-05-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3794,7 +3812,7 @@ locationIndexCallback([
     "Lat": 37.47481056600003,
     "Long": -122.30768248599998,
     "LastDate": "2015-01-22",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3812,7 +3830,7 @@ locationIndexCallback([
     "Lat": 37.474686,
     "Long": -122.208395,
     "LastDate": "2017-05-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3821,7 +3839,7 @@ locationIndexCallback([
     "Lat": 37.474686,
     "Long": -122.208395,
     "LastDate": "2017-02-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3839,7 +3857,7 @@ locationIndexCallback([
     "Lat": 37.474623,
     "Long": -122.2083,
     "LastDate": "2017-12-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -3848,7 +3866,7 @@ locationIndexCallback([
     "Lat": 37.474623,
     "Long": -122.2083,
     "LastDate": "2017-05-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3857,7 +3875,7 @@ locationIndexCallback([
     "Lat": 37.47439,
     "Long": -122.207947,
     "LastDate": "2017-04-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3893,7 +3911,7 @@ locationIndexCallback([
     "Lat": 37.474007,
     "Long": -122.218284,
     "LastDate": "2017-02-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3902,7 +3920,7 @@ locationIndexCallback([
     "Lat": 37.474001,
     "Long": -122.188359,
     "LastDate": "2016-03-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -3911,7 +3929,7 @@ locationIndexCallback([
     "Lat": 37.474001,
     "Long": -122.188359,
     "LastDate": "2017-09-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3920,7 +3938,7 @@ locationIndexCallback([
     "Lat": 37.473985,
     "Long": -122.206841,
     "LastDate": "2017-03-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3929,7 +3947,7 @@ locationIndexCallback([
     "Lat": 37.473906,
     "Long": -122.207216,
     "LastDate": "2017-09-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -3938,7 +3956,7 @@ locationIndexCallback([
     "Lat": 37.473899,
     "Long": -122.146547,
     "LastDate": "2017-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -3947,7 +3965,7 @@ locationIndexCallback([
     "Lat": 37.47388614700003,
     "Long": -122.21842527299998,
     "LastDate": "2017-07-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -3965,7 +3983,7 @@ locationIndexCallback([
     "Lat": 37.473624,
     "Long": -122.240935,
     "LastDate": "2017-09-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -3974,7 +3992,7 @@ locationIndexCallback([
     "Lat": 37.47361747600007,
     "Long": -122.21804937699994,
     "LastDate": "2013-06-07",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -3992,7 +4010,7 @@ locationIndexCallback([
     "Lat": 37.473581,
     "Long": -122.20361,
     "LastDate": "2017-09-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4001,7 +4019,7 @@ locationIndexCallback([
     "Lat": 37.47355,
     "Long": -122.306579,
     "LastDate": "2017-05-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -4010,7 +4028,7 @@ locationIndexCallback([
     "Lat": 37.47340839000003,
     "Long": -122.21739717899999,
     "LastDate": "2014-11-26",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4019,8 +4037,8 @@ locationIndexCallback([
     "Lat": 37.473401,
     "Long": -122.217451,
     "LastDate": "2017-09-13",
-    "LastResult": 49,
-    "LastViolations": 2
+    "LastResult": 1,
+    "LastViolations": 3
   },
   {
     "Id": "PR0002337",
@@ -4028,7 +4046,7 @@ locationIndexCallback([
     "Lat": 37.473370689000035,
     "Long": -122.21734446099998,
     "LastDate": "2015-06-17",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4037,7 +4055,7 @@ locationIndexCallback([
     "Lat": 37.473351,
     "Long": -122.217383,
     "LastDate": "2017-07-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -4055,7 +4073,7 @@ locationIndexCallback([
     "Lat": 37.473311,
     "Long": -122.232872,
     "LastDate": "2017-09-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4100,7 +4118,7 @@ locationIndexCallback([
     "Lat": 37.473270152000055,
     "Long": -122.21720387899995,
     "LastDate": "2016-07-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -4109,16 +4127,16 @@ locationIndexCallback([
     "Lat": 37.47323,
     "Long": -122.154336,
     "LastDate": "2017-10-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
-    "Id": "PR0070432",
+    "Id": "PR0075496",
     "Name": "LINDO MICHOACAN",
     "Lat": 37.473185,
     "Long": -122.206136,
     "LastDate": "2016-04-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -4127,7 +4145,7 @@ locationIndexCallback([
     "Lat": 37.473185,
     "Long": -122.206136,
     "LastDate": "2016-05-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -4136,7 +4154,7 @@ locationIndexCallback([
     "Lat": 37.473185,
     "Long": -122.206136,
     "LastDate": "2017-12-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4145,7 +4163,7 @@ locationIndexCallback([
     "Lat": 37.473071,
     "Long": -122.217006,
     "LastDate": "2017-05-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -4154,7 +4172,7 @@ locationIndexCallback([
     "Lat": 37.47305909800008,
     "Long": -122.13418456499994,
     "LastDate": "2015-05-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4163,7 +4181,7 @@ locationIndexCallback([
     "Lat": 37.472953,
     "Long": -122.154659,
     "LastDate": "2017-10-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4199,7 +4217,7 @@ locationIndexCallback([
     "Lat": 37.472727,
     "Long": -122.132496,
     "LastDate": "2017-03-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4217,7 +4235,7 @@ locationIndexCallback([
     "Lat": 37.472645,
     "Long": -122.15482,
     "LastDate": "2017-10-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -4226,7 +4244,7 @@ locationIndexCallback([
     "Lat": 37.47258294900007,
     "Long": -122.19788449499998,
     "LastDate": "2017-11-09",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 6
   },
   {
@@ -4235,7 +4253,7 @@ locationIndexCallback([
     "Lat": 37.472576,
     "Long": -122.205219,
     "LastDate": "2017-09-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -4262,7 +4280,7 @@ locationIndexCallback([
     "Lat": 37.47254686200006,
     "Long": -122.20511418199999,
     "LastDate": "2014-01-10",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -4271,7 +4289,7 @@ locationIndexCallback([
     "Lat": 37.472537,
     "Long": -122.216289,
     "LastDate": "2017-10-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -4280,8 +4298,8 @@ locationIndexCallback([
     "Lat": 37.472533,
     "Long": -122.205153,
     "LastDate": "2016-12-09",
-    "LastResult": 49,
-    "LastViolations": 4
+    "LastResult": 1,
+    "LastViolations": 1
   },
   {
     "Id": "PR0003118",
@@ -4289,7 +4307,7 @@ locationIndexCallback([
     "Lat": 37.472454,
     "Long": -122.239954,
     "LastDate": "2016-11-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -4298,7 +4316,7 @@ locationIndexCallback([
     "Lat": 37.472452,
     "Long": -122.260111,
     "LastDate": "2017-03-23",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -4307,7 +4325,7 @@ locationIndexCallback([
     "Lat": 37.472417,
     "Long": -122.205508,
     "LastDate": "2016-11-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4316,7 +4334,7 @@ locationIndexCallback([
     "Lat": 37.47241382000004,
     "Long": -122.14735629899997,
     "LastDate": "2015-05-03",
-    "LastResult": 0,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -4325,7 +4343,7 @@ locationIndexCallback([
     "Lat": 37.472407,
     "Long": -122.216301,
     "LastDate": "2017-04-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4334,7 +4352,7 @@ locationIndexCallback([
     "Lat": 37.472387,
     "Long": -122.260007,
     "LastDate": "2017-03-23",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -4343,7 +4361,7 @@ locationIndexCallback([
     "Lat": 37.472373,
     "Long": -122.204908,
     "LastDate": "2017-11-08",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 13
   },
   {
@@ -4352,7 +4370,7 @@ locationIndexCallback([
     "Lat": 37.47231587600004,
     "Long": -122.20488627299994,
     "LastDate": "2014-01-22",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -4361,7 +4379,7 @@ locationIndexCallback([
     "Lat": 37.472297,
     "Long": -122.215964,
     "LastDate": "2016-04-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -4370,11 +4388,11 @@ locationIndexCallback([
     "Lat": 37.472292,
     "Long": -122.147436,
     "LastDate": "2017-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0074501",
+    "Id": "PR0074500",
     "Name": "Patrick Brock And Company",
     "Lat": 37.47228476400005,
     "Long": -122.13321895299998,
@@ -4388,7 +4406,7 @@ locationIndexCallback([
     "Lat": 37.472257,
     "Long": -122.20473,
     "LastDate": "2017-06-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -4401,12 +4419,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0074932",
+    "Id": "PR0083921",
     "Name": "TAQUERIA GONZALEZ",
     "Lat": 37.472236,
     "Long": -122.204698,
     "LastDate": "2017-12-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -4415,7 +4433,7 @@ locationIndexCallback([
     "Lat": 37.47223,
     "Long": -122.259485,
     "LastDate": "2017-05-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4433,7 +4451,7 @@ locationIndexCallback([
     "Lat": 37.472206,
     "Long": -122.259546,
     "LastDate": "2016-02-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -4442,7 +4460,7 @@ locationIndexCallback([
     "Lat": 37.47215719700006,
     "Long": -122.20464224899996,
     "LastDate": "2014-01-14",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -4451,7 +4469,7 @@ locationIndexCallback([
     "Lat": 37.472139,
     "Long": -122.204549,
     "LastDate": "2017-06-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -4460,7 +4478,7 @@ locationIndexCallback([
     "Lat": 37.4721,
     "Long": -122.259679,
     "LastDate": "2017-05-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -4469,7 +4487,7 @@ locationIndexCallback([
     "Lat": 37.472094638000044,
     "Long": -122.21557138199995,
     "LastDate": "2013-04-02",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4478,7 +4496,7 @@ locationIndexCallback([
     "Lat": 37.472094638000044,
     "Long": -122.21557138199995,
     "LastDate": "2014-08-26",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -4487,7 +4505,7 @@ locationIndexCallback([
     "Lat": 37.47204591900004,
     "Long": -122.25966315599999,
     "LastDate": "2015-05-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -4505,7 +4523,7 @@ locationIndexCallback([
     "Lat": 37.472036,
     "Long": -122.215602,
     "LastDate": "2017-11-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4514,7 +4532,7 @@ locationIndexCallback([
     "Lat": 37.472022,
     "Long": -122.204372,
     "LastDate": "2017-12-13",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 16
   },
   {
@@ -4532,7 +4550,7 @@ locationIndexCallback([
     "Lat": 37.471898,
     "Long": -122.139552,
     "LastDate": "2017-10-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -4541,7 +4559,7 @@ locationIndexCallback([
     "Lat": 37.471887,
     "Long": -122.259737,
     "LastDate": "2016-10-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -4550,7 +4568,7 @@ locationIndexCallback([
     "Lat": 37.47184459300007,
     "Long": -122.21523261099998,
     "LastDate": "2014-01-08",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -4559,7 +4577,7 @@ locationIndexCallback([
     "Lat": 37.471841,
     "Long": -122.204101,
     "LastDate": "2017-06-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4568,7 +4586,7 @@ locationIndexCallback([
     "Lat": 37.471793,
     "Long": -122.215263,
     "LastDate": "2017-10-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4595,7 +4613,7 @@ locationIndexCallback([
     "Lat": 37.47163603000007,
     "Long": -122.20385498099995,
     "LastDate": "2014-03-31",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -4613,7 +4631,7 @@ locationIndexCallback([
     "Lat": 37.471612984000046,
     "Long": -122.13835928199995,
     "LastDate": "2015-05-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -4622,7 +4640,7 @@ locationIndexCallback([
     "Lat": 37.47155,
     "Long": -122.140732,
     "LastDate": "2017-11-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -4640,7 +4658,7 @@ locationIndexCallback([
     "Lat": 37.471521,
     "Long": -122.214888,
     "LastDate": "2017-04-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -4649,7 +4667,7 @@ locationIndexCallback([
     "Lat": 37.47142631400004,
     "Long": -122.20353464599998,
     "LastDate": "2013-03-22",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4658,7 +4676,7 @@ locationIndexCallback([
     "Lat": 37.47142631400004,
     "Long": -122.20353464599998,
     "LastDate": "2013-11-21",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -4667,7 +4685,7 @@ locationIndexCallback([
     "Lat": 37.471347,
     "Long": -122.134949,
     "LastDate": "2017-10-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -4676,7 +4694,7 @@ locationIndexCallback([
     "Lat": 37.471341,
     "Long": -122.203346,
     "LastDate": "2016-11-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -4685,7 +4703,7 @@ locationIndexCallback([
     "Lat": 37.471335,
     "Long": -122.139647,
     "LastDate": "2017-11-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4694,7 +4712,7 @@ locationIndexCallback([
     "Lat": 37.471292,
     "Long": -122.434563,
     "LastDate": "2017-12-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -4712,7 +4730,7 @@ locationIndexCallback([
     "Lat": 37.471206,
     "Long": -122.223187,
     "LastDate": "2017-02-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -4721,7 +4739,7 @@ locationIndexCallback([
     "Lat": 37.471195,
     "Long": -122.259755,
     "LastDate": "2017-06-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4730,7 +4748,7 @@ locationIndexCallback([
     "Lat": 37.471195,
     "Long": -122.259755,
     "LastDate": "2016-07-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -4739,7 +4757,7 @@ locationIndexCallback([
     "Lat": 37.471195,
     "Long": -122.259755,
     "LastDate": "2017-12-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -4748,7 +4766,7 @@ locationIndexCallback([
     "Lat": 37.471176,
     "Long": -122.203096,
     "LastDate": "2017-09-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -4757,7 +4775,7 @@ locationIndexCallback([
     "Lat": 37.471176,
     "Long": -122.203096,
     "LastDate": "2017-06-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -4766,7 +4784,7 @@ locationIndexCallback([
     "Lat": 37.471176,
     "Long": -122.203096,
     "LastDate": "2017-06-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -4775,7 +4793,7 @@ locationIndexCallback([
     "Lat": 37.471176,
     "Long": -122.203096,
     "LastDate": "2017-02-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4784,7 +4802,7 @@ locationIndexCallback([
     "Lat": 37.47115,
     "Long": -122.143996,
     "LastDate": "2017-10-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -4793,7 +4811,7 @@ locationIndexCallback([
     "Lat": 37.47114082400003,
     "Long": -122.21464497599999,
     "LastDate": "2015-06-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4802,7 +4820,7 @@ locationIndexCallback([
     "Lat": 37.471102,
     "Long": -122.214296,
     "LastDate": "2017-04-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -4811,7 +4829,7 @@ locationIndexCallback([
     "Lat": 37.471062,
     "Long": -122.139804,
     "LastDate": "2017-09-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -4820,7 +4838,7 @@ locationIndexCallback([
     "Lat": 37.471049,
     "Long": -122.134928,
     "LastDate": "2017-10-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -4829,7 +4847,7 @@ locationIndexCallback([
     "Lat": 37.471015,
     "Long": -122.202853,
     "LastDate": "2015-10-15",
-    "LastResult": 0,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4838,7 +4856,7 @@ locationIndexCallback([
     "Lat": 37.47097430800005,
     "Long": -122.20273971499995,
     "LastDate": "2013-12-02",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -4847,7 +4865,7 @@ locationIndexCallback([
     "Lat": 37.470929,
     "Long": -122.214057,
     "LastDate": "2017-03-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4865,8 +4883,8 @@ locationIndexCallback([
     "Lat": 37.470887,
     "Long": -122.202663,
     "LastDate": "2017-11-09",
-    "LastResult": 49,
-    "LastViolations": 3
+    "LastResult": 1,
+    "LastViolations": 5
   },
   {
     "Id": "PR0038428",
@@ -4874,7 +4892,7 @@ locationIndexCallback([
     "Lat": 37.470835,
     "Long": -122.202586,
     "LastDate": "2016-08-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -4883,8 +4901,8 @@ locationIndexCallback([
     "Lat": 37.470835,
     "Long": -122.202586,
     "LastDate": "2017-10-19",
-    "LastResult": 0,
-    "LastViolations": 0
+    "LastResult": 1,
+    "LastViolations": 3
   },
   {
     "Id": "PR0083865",
@@ -4892,7 +4910,7 @@ locationIndexCallback([
     "Lat": 37.470835,
     "Long": -122.202586,
     "LastDate": "2017-05-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -4901,7 +4919,7 @@ locationIndexCallback([
     "Lat": 37.47078449300005,
     "Long": -122.21378188799997,
     "LastDate": "2015-04-09",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -4910,7 +4928,7 @@ locationIndexCallback([
     "Lat": 37.470733,
     "Long": -122.140041,
     "LastDate": "2016-10-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4919,7 +4937,7 @@ locationIndexCallback([
     "Lat": 37.470691,
     "Long": -122.202371,
     "LastDate": "2017-11-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -4928,7 +4946,7 @@ locationIndexCallback([
     "Lat": 37.470597,
     "Long": -122.202229,
     "LastDate": "2017-06-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -4937,7 +4955,7 @@ locationIndexCallback([
     "Lat": 37.470565,
     "Long": -122.202179,
     "LastDate": "2015-10-15",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -4946,7 +4964,7 @@ locationIndexCallback([
     "Lat": 37.470565,
     "Long": -122.202179,
     "LastDate": "2017-05-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -4955,16 +4973,16 @@ locationIndexCallback([
     "Lat": 37.470565,
     "Long": -122.202179,
     "LastDate": "2017-11-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0000439",
+    "Id": "PR0085809",
     "Name": "ATHERTON CLUB SAN LUIS",
     "Lat": 37.470544,
     "Long": -122.202146,
     "LastDate": "2017-11-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -4973,7 +4991,7 @@ locationIndexCallback([
     "Lat": 37.470542,
     "Long": -122.223344,
     "LastDate": "2017-03-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -4982,7 +5000,7 @@ locationIndexCallback([
     "Lat": 37.47053214400006,
     "Long": -122.13943436099999,
     "LastDate": "2015-05-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -4991,7 +5009,7 @@ locationIndexCallback([
     "Lat": 37.470502,
     "Long": -122.202079,
     "LastDate": "2017-09-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -5000,7 +5018,7 @@ locationIndexCallback([
     "Lat": 37.470487,
     "Long": -122.14009,
     "LastDate": "2017-10-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5009,7 +5027,7 @@ locationIndexCallback([
     "Lat": 37.470487,
     "Long": -122.14009,
     "LastDate": "2017-10-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -5018,7 +5036,7 @@ locationIndexCallback([
     "Lat": 37.470487,
     "Long": -122.14009,
     "LastDate": "2017-09-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -5027,7 +5045,7 @@ locationIndexCallback([
     "Lat": 37.470487,
     "Long": -122.14009,
     "LastDate": "2017-01-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -5036,7 +5054,7 @@ locationIndexCallback([
     "Lat": 37.470487,
     "Long": -122.14009,
     "LastDate": "2017-02-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5045,7 +5063,7 @@ locationIndexCallback([
     "Lat": 37.470487,
     "Long": -122.14009,
     "LastDate": "2017-09-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -5054,7 +5072,7 @@ locationIndexCallback([
     "Lat": 37.470481806000066,
     "Long": -122.201979086,
     "LastDate": "2013-03-22",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -5072,7 +5090,7 @@ locationIndexCallback([
     "Lat": 37.470363,
     "Long": -122.201513,
     "LastDate": "2017-05-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5081,7 +5099,7 @@ locationIndexCallback([
     "Lat": 37.470345,
     "Long": -122.201377,
     "LastDate": "2017-10-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5090,7 +5108,7 @@ locationIndexCallback([
     "Lat": 37.470261,
     "Long": -122.245895,
     "LastDate": "2017-12-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -5099,11 +5117,11 @@ locationIndexCallback([
     "Lat": 37.470253,
     "Long": -122.236722,
     "LastDate": "2017-06-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
-    "Id": "PR0074809",
+    "Id": "PR0074801",
     "Name": "REDWOOD CITY PARKS AND ARTS FOUNDATION",
     "Lat": 37.470253,
     "Long": -122.236722,
@@ -5117,7 +5135,7 @@ locationIndexCallback([
     "Lat": 37.470251,
     "Long": -122.223412,
     "LastDate": "2017-02-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5126,7 +5144,7 @@ locationIndexCallback([
     "Lat": 37.470131,
     "Long": -122.199482,
     "LastDate": "2017-09-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -5171,7 +5189,7 @@ locationIndexCallback([
     "Lat": 37.47008667800003,
     "Long": -122.44360749399999,
     "LastDate": "2014-08-16",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5193,15 +5211,6 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0064577",
-    "Name": "Half Moon Bay High School Cougar Boosters",
-    "Lat": 37.47008667800003,
-    "Long": -122.44360749399999,
-    "LastDate": "2014-10-18",
-    "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
     "Id": "PR0064585",
     "Name": "Odd Fellows-Rebekah Lodge",
     "Lat": 37.47008667800003,
@@ -5216,7 +5225,7 @@ locationIndexCallback([
     "Lat": 37.47008667800003,
     "Long": -122.44360749399999,
     "LastDate": "2017-10-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 8
   },
   {
@@ -5225,7 +5234,7 @@ locationIndexCallback([
     "Lat": 37.47008667800003,
     "Long": -122.44360749399999,
     "LastDate": "2014-11-25",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -5234,8 +5243,17 @@ locationIndexCallback([
     "Lat": 37.47008667800003,
     "Long": -122.44360749399999,
     "LastDate": "2014-05-09",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
+  },
+  {
+    "Id": "PR0072384",
+    "Name": "Half Moon Bay High School Cougar Boosters",
+    "Lat": 37.47008667800003,
+    "Long": -122.44360749399999,
+    "LastDate": "2014-10-18",
+    "LastResult": 0,
+    "LastViolations": 0
   },
   {
     "Id": "PR0072840",
@@ -5261,7 +5279,7 @@ locationIndexCallback([
     "Lat": 37.47007699200003,
     "Long": -122.21316656999994,
     "LastDate": "2015-06-30",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -5270,7 +5288,7 @@ locationIndexCallback([
     "Lat": 37.470065,
     "Long": -122.433877,
     "LastDate": "2017-11-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5288,7 +5306,7 @@ locationIndexCallback([
     "Lat": 37.470064,
     "Long": -122.433876,
     "LastDate": "2017-11-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5297,17 +5315,8 @@ locationIndexCallback([
     "Lat": 37.470048,
     "Long": -122.43387,
     "LastDate": "2017-08-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
-  },
-  {
-    "Id": "PR0071489",
-    "Name": "SUBWAY",
-    "Lat": 37.470048,
-    "Long": -122.43387,
-    "LastDate": "2017-09-08",
-    "LastResult": 49,
-    "LastViolations": 0
   },
   {
     "Id": "PR0075816",
@@ -5315,7 +5324,7 @@ locationIndexCallback([
     "Lat": 37.470048,
     "Long": -122.43387,
     "LastDate": "2017-08-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -5324,8 +5333,17 @@ locationIndexCallback([
     "Lat": 37.470048,
     "Long": -122.43387,
     "LastDate": "2017-12-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
+  },
+  {
+    "Id": "PR0083252",
+    "Name": "SUBWAY",
+    "Lat": 37.470048,
+    "Long": -122.43387,
+    "LastDate": "2017-09-08",
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0083254",
@@ -5333,7 +5351,7 @@ locationIndexCallback([
     "Lat": 37.470048,
     "Long": -122.43387,
     "LastDate": "2017-09-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5342,7 +5360,7 @@ locationIndexCallback([
     "Lat": 37.470048,
     "Long": -122.43387,
     "LastDate": "2017-12-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 10
   },
   {
@@ -5360,16 +5378,16 @@ locationIndexCallback([
     "Lat": 37.470047,
     "Long": -122.43387,
     "LastDate": "2016-12-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0072358",
+    "Id": "PR0070434",
     "Name": "A B \u0026 W MARKET",
     "Lat": 37.470038,
     "Long": -122.2465,
     "LastDate": "2017-12-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5378,7 +5396,7 @@ locationIndexCallback([
     "Lat": 37.470024,
     "Long": -122.246538,
     "LastDate": "2016-06-06",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5387,7 +5405,7 @@ locationIndexCallback([
     "Lat": 37.470002,
     "Long": -122.212788,
     "LastDate": "2015-12-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5396,8 +5414,8 @@ locationIndexCallback([
     "Lat": 37.469969,
     "Long": -122.246687,
     "LastDate": "2017-10-11",
-    "LastResult": 49,
-    "LastViolations": 4
+    "LastResult": 1,
+    "LastViolations": 9
   },
   {
     "Id": "PR0002043",
@@ -5405,7 +5423,7 @@ locationIndexCallback([
     "Lat": 37.469951,
     "Long": -122.433832,
     "LastDate": "2017-10-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5414,7 +5432,7 @@ locationIndexCallback([
     "Lat": 37.469911,
     "Long": -122.229074,
     "LastDate": "2016-03-23",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5423,7 +5441,7 @@ locationIndexCallback([
     "Lat": 37.469879,
     "Long": -122.246931,
     "LastDate": "2017-02-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -5432,7 +5450,7 @@ locationIndexCallback([
     "Lat": 37.469854602000055,
     "Long": -122.24688924999998,
     "LastDate": "2013-04-15",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5441,7 +5459,7 @@ locationIndexCallback([
     "Lat": 37.469756002000054,
     "Long": -122.43583870499998,
     "LastDate": "2013-12-02",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -5450,7 +5468,7 @@ locationIndexCallback([
     "Lat": 37.469741,
     "Long": -122.431833,
     "LastDate": "2017-09-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5459,7 +5477,7 @@ locationIndexCallback([
     "Lat": 37.469693,
     "Long": -122.22354,
     "LastDate": "2017-02-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5477,7 +5495,7 @@ locationIndexCallback([
     "Lat": 37.46948,
     "Long": -122.206897,
     "LastDate": "2016-02-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -5495,7 +5513,7 @@ locationIndexCallback([
     "Lat": 37.469404,
     "Long": -122.433469,
     "LastDate": "2017-07-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -5504,7 +5522,7 @@ locationIndexCallback([
     "Lat": 37.469315,
     "Long": -122.433661,
     "LastDate": "2016-03-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -5513,7 +5531,7 @@ locationIndexCallback([
     "Lat": 37.469308,
     "Long": -122.431468,
     "LastDate": "2017-01-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -5522,7 +5540,7 @@ locationIndexCallback([
     "Lat": 37.469294,
     "Long": -122.22349,
     "LastDate": "2015-10-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -5531,7 +5549,7 @@ locationIndexCallback([
     "Lat": 37.469293,
     "Long": -122.22349,
     "LastDate": "2017-07-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5540,7 +5558,7 @@ locationIndexCallback([
     "Lat": 37.469293,
     "Long": -122.22349,
     "LastDate": "2017-07-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5553,12 +5571,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0001239",
+    "Id": "PR0076184",
     "Name": "ARCO AM/PM MINI MART",
     "Lat": 37.469139,
     "Long": -122.223669,
     "LastDate": "2017-03-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -5576,7 +5594,7 @@ locationIndexCallback([
     "Lat": 37.469125,
     "Long": -122.425925,
     "LastDate": "2016-10-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -5589,21 +5607,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0002048",
-    "Name": "Safeway 0308",
-    "Lat": 37.46897889000007,
-    "Long": -122.435364145,
-    "LastDate": "2015-01-13",
-    "LastResult": 52,
-    "LastViolations": 2
-  },
-  {
     "Id": "PR0049987",
     "Name": "GOLD STAR",
     "Lat": 37.468907,
     "Long": -122.223576,
     "LastDate": "2017-02-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -5612,7 +5621,7 @@ locationIndexCallback([
     "Lat": 37.46889359900007,
     "Long": -122.21122151799995,
     "LastDate": "2015-06-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -5621,7 +5630,7 @@ locationIndexCallback([
     "Lat": 37.468843,
     "Long": -122.218196,
     "LastDate": "2016-05-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5630,7 +5639,7 @@ locationIndexCallback([
     "Lat": 37.468843,
     "Long": -122.218196,
     "LastDate": "2016-06-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -5639,7 +5648,7 @@ locationIndexCallback([
     "Lat": 37.468836,
     "Long": -122.430755,
     "LastDate": "2017-04-28",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -5648,7 +5657,7 @@ locationIndexCallback([
     "Lat": 37.468781,
     "Long": -122.207388,
     "LastDate": "2017-06-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -5666,7 +5675,7 @@ locationIndexCallback([
     "Lat": 37.468709,
     "Long": -122.12776,
     "LastDate": "2017-10-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5675,7 +5684,7 @@ locationIndexCallback([
     "Lat": 37.468686,
     "Long": -122.207573,
     "LastDate": "2016-01-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -5684,7 +5693,7 @@ locationIndexCallback([
     "Lat": 37.468617,
     "Long": -122.223788,
     "LastDate": "2017-03-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -5693,7 +5702,7 @@ locationIndexCallback([
     "Lat": 37.468617,
     "Long": -122.223788,
     "LastDate": "2017-04-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -5702,7 +5711,7 @@ locationIndexCallback([
     "Lat": 37.468550847000074,
     "Long": -122.43360035999996,
     "LastDate": "2017-08-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -5711,7 +5720,7 @@ locationIndexCallback([
     "Lat": 37.468542,
     "Long": -122.223657,
     "LastDate": "2017-09-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5729,7 +5738,7 @@ locationIndexCallback([
     "Lat": 37.468400442000075,
     "Long": -122.21056651499998,
     "LastDate": "2017-10-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5738,7 +5747,7 @@ locationIndexCallback([
     "Lat": 37.468386,
     "Long": -122.223692,
     "LastDate": "2017-07-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -5747,7 +5756,7 @@ locationIndexCallback([
     "Lat": 37.468386,
     "Long": -122.210559,
     "LastDate": "2016-07-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -5756,7 +5765,7 @@ locationIndexCallback([
     "Lat": 37.468228,
     "Long": -122.433597,
     "LastDate": "2017-08-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -5765,7 +5774,7 @@ locationIndexCallback([
     "Lat": 37.46820684000005,
     "Long": -122.43334722999998,
     "LastDate": "2016-03-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -5774,7 +5783,7 @@ locationIndexCallback([
     "Lat": 37.46814115900003,
     "Long": -122.20812187999996,
     "LastDate": "2014-06-30",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -5783,7 +5792,7 @@ locationIndexCallback([
     "Lat": 37.46811,
     "Long": -122.429196,
     "LastDate": "2017-12-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -5792,17 +5801,8 @@ locationIndexCallback([
     "Lat": 37.468085,
     "Long": -122.208154,
     "LastDate": "2017-12-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 10
-  },
-  {
-    "Id": "PR0046768",
-    "Name": "PALETERIA Y FRUTERIA EL ROJO",
-    "Lat": 37.468085,
-    "Long": -122.208154,
-    "LastDate": "2017-02-14",
-    "LastResult": 49,
-    "LastViolations": 0
   },
   {
     "Id": "PR0070246",
@@ -5810,8 +5810,17 @@ locationIndexCallback([
     "Lat": 37.468085,
     "Long": -122.208154,
     "LastDate": "2017-05-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
+  },
+  {
+    "Id": "PR0080071",
+    "Name": "PALETERIA Y FRUTERIA EL ROJO",
+    "Lat": 37.468085,
+    "Long": -122.208154,
+    "LastDate": "2017-02-14",
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0079471",
@@ -5828,7 +5837,7 @@ locationIndexCallback([
     "Lat": 37.468006,
     "Long": -122.432963,
     "LastDate": "2016-02-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5846,7 +5855,7 @@ locationIndexCallback([
     "Lat": 37.467989,
     "Long": -122.429792,
     "LastDate": "2017-10-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -5855,7 +5864,7 @@ locationIndexCallback([
     "Lat": 37.467989,
     "Long": -122.429792,
     "LastDate": "2017-10-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5864,7 +5873,7 @@ locationIndexCallback([
     "Lat": 37.467989,
     "Long": -122.429792,
     "LastDate": "2017-10-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5873,7 +5882,7 @@ locationIndexCallback([
     "Lat": 37.467962,
     "Long": -122.432432,
     "LastDate": "2017-02-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -5891,7 +5900,7 @@ locationIndexCallback([
     "Lat": 37.467931,
     "Long": -122.429704,
     "LastDate": "2016-03-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -5900,7 +5909,7 @@ locationIndexCallback([
     "Lat": 37.467925,
     "Long": -122.431965,
     "LastDate": "2017-01-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5909,7 +5918,7 @@ locationIndexCallback([
     "Lat": 37.467879,
     "Long": -122.431369,
     "LastDate": "2017-10-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 9
   },
   {
@@ -5918,7 +5927,7 @@ locationIndexCallback([
     "Lat": 37.467879,
     "Long": -122.431374,
     "LastDate": "2017-06-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 9
   },
   {
@@ -5927,7 +5936,7 @@ locationIndexCallback([
     "Lat": 37.46787874100005,
     "Long": -122.43145077399998,
     "LastDate": "2014-04-30",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5936,7 +5945,7 @@ locationIndexCallback([
     "Lat": 37.467871,
     "Long": -122.431207,
     "LastDate": "2016-03-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -5945,7 +5954,7 @@ locationIndexCallback([
     "Lat": 37.467861,
     "Long": -122.430946,
     "LastDate": "2016-08-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -5954,7 +5963,7 @@ locationIndexCallback([
     "Lat": 37.46786,
     "Long": -122.430607,
     "LastDate": "2016-03-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -5963,7 +5972,7 @@ locationIndexCallback([
     "Lat": 37.46786,
     "Long": -122.430553,
     "LastDate": "2016-09-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -5972,7 +5981,7 @@ locationIndexCallback([
     "Lat": 37.467859,
     "Long": -122.430668,
     "LastDate": "2017-07-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -5981,7 +5990,7 @@ locationIndexCallback([
     "Lat": 37.467837,
     "Long": -122.223955,
     "LastDate": "2016-11-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -5990,7 +5999,7 @@ locationIndexCallback([
     "Lat": 37.467831,
     "Long": -122.208395,
     "LastDate": "2017-04-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -5999,7 +6008,7 @@ locationIndexCallback([
     "Lat": 37.467774,
     "Long": -122.430369,
     "LastDate": "2017-03-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -6008,7 +6017,7 @@ locationIndexCallback([
     "Lat": 37.467767,
     "Long": -122.430467,
     "LastDate": "2017-01-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 8
   },
   {
@@ -6017,7 +6026,7 @@ locationIndexCallback([
     "Lat": 37.467748,
     "Long": -122.208473,
     "LastDate": "2017-06-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6026,7 +6035,7 @@ locationIndexCallback([
     "Lat": 37.46772568100005,
     "Long": -122.20960419599999,
     "LastDate": "2014-05-16",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6035,7 +6044,7 @@ locationIndexCallback([
     "Lat": 37.467577,
     "Long": -122.223868,
     "LastDate": "2017-05-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6044,7 +6053,7 @@ locationIndexCallback([
     "Lat": 37.46752,
     "Long": -122.209358,
     "LastDate": "2017-10-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6053,7 +6062,7 @@ locationIndexCallback([
     "Lat": 37.467514,
     "Long": -122.224021,
     "LastDate": "2015-09-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -6062,7 +6071,7 @@ locationIndexCallback([
     "Lat": 37.467384,
     "Long": -122.209167,
     "LastDate": "2017-11-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -6071,7 +6080,7 @@ locationIndexCallback([
     "Lat": 37.467327,
     "Long": -122.224066,
     "LastDate": "2017-09-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6080,7 +6089,7 @@ locationIndexCallback([
     "Lat": 37.46726,
     "Long": -122.224081,
     "LastDate": "2016-11-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6089,7 +6098,7 @@ locationIndexCallback([
     "Lat": 37.467222,
     "Long": -122.22409,
     "LastDate": "2017-09-29",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 11
   },
   {
@@ -6098,7 +6107,7 @@ locationIndexCallback([
     "Lat": 37.467208963000076,
     "Long": -122.13484366999995,
     "LastDate": "2013-05-10",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6116,7 +6125,7 @@ locationIndexCallback([
     "Lat": 37.46716,
     "Long": -122.224105,
     "LastDate": "2017-09-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -6125,7 +6134,7 @@ locationIndexCallback([
     "Lat": 37.467104,
     "Long": -122.224118,
     "LastDate": "2017-04-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -6134,7 +6143,7 @@ locationIndexCallback([
     "Lat": 37.467033816000026,
     "Long": -122.20863234099994,
     "LastDate": "2014-05-21",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -6143,7 +6152,7 @@ locationIndexCallback([
     "Lat": 37.46701422700005,
     "Long": -122.24222135599996,
     "LastDate": "2014-04-23",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6152,8 +6161,8 @@ locationIndexCallback([
     "Lat": 37.46699,
     "Long": -122.244657,
     "LastDate": "2017-09-07",
-    "LastResult": 49,
-    "LastViolations": 0
+    "LastResult": 1,
+    "LastViolations": 1
   },
   {
     "Id": "PR0067695",
@@ -6161,7 +6170,7 @@ locationIndexCallback([
     "Lat": 37.466928,
     "Long": -122.131415,
     "LastDate": "2017-10-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6170,7 +6179,7 @@ locationIndexCallback([
     "Lat": 37.46691167400007,
     "Long": -122.42941414599994,
     "LastDate": "2015-04-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6188,7 +6197,7 @@ locationIndexCallback([
     "Lat": 37.466851,
     "Long": -122.225474,
     "LastDate": "2017-03-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6197,7 +6206,7 @@ locationIndexCallback([
     "Lat": 37.466814,
     "Long": -122.427708,
     "LastDate": "2017-11-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6206,7 +6215,7 @@ locationIndexCallback([
     "Lat": 37.46681373000007,
     "Long": -122.42823651399999,
     "LastDate": "2013-06-26",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -6215,7 +6224,7 @@ locationIndexCallback([
     "Lat": 37.46681373000007,
     "Long": -122.42823651399999,
     "LastDate": "2015-04-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6224,7 +6233,7 @@ locationIndexCallback([
     "Lat": 37.466809,
     "Long": -122.428559,
     "LastDate": "2016-03-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 8
   },
   {
@@ -6233,7 +6242,7 @@ locationIndexCallback([
     "Lat": 37.466809,
     "Long": -122.428559,
     "LastDate": "2016-10-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -6242,7 +6251,7 @@ locationIndexCallback([
     "Lat": 37.466806,
     "Long": -122.428567,
     "LastDate": "2017-11-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6251,8 +6260,8 @@ locationIndexCallback([
     "Lat": 37.466806,
     "Long": -122.428567,
     "LastDate": "2017-05-18",
-    "LastResult": 0,
-    "LastViolations": 0
+    "LastResult": 1,
+    "LastViolations": 6
   },
   {
     "Id": "PR0082607",
@@ -6260,7 +6269,7 @@ locationIndexCallback([
     "Lat": 37.466806,
     "Long": -122.428567,
     "LastDate": "2017-04-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -6269,7 +6278,7 @@ locationIndexCallback([
     "Lat": 37.466806,
     "Long": -122.428567,
     "LastDate": "2017-12-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 11
   },
   {
@@ -6287,7 +6296,7 @@ locationIndexCallback([
     "Lat": 37.466685,
     "Long": -122.241844,
     "LastDate": "2017-12-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -6296,7 +6305,7 @@ locationIndexCallback([
     "Lat": 37.466639,
     "Long": -122.224071,
     "LastDate": "2017-04-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -6305,7 +6314,7 @@ locationIndexCallback([
     "Lat": 37.466547553000055,
     "Long": -122.24133064199998,
     "LastDate": "2013-12-19",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6314,7 +6323,7 @@ locationIndexCallback([
     "Lat": 37.466522,
     "Long": -122.139354,
     "LastDate": "2017-04-11",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6323,7 +6332,7 @@ locationIndexCallback([
     "Lat": 37.466438,
     "Long": -122.224279,
     "LastDate": "2016-02-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6336,12 +6345,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0038401",
+    "Id": "PR0039536",
     "Name": "THREE BROTHERS TACOS",
     "Lat": 37.466402,
     "Long": -122.14149,
     "LastDate": "2017-09-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -6350,7 +6359,7 @@ locationIndexCallback([
     "Lat": 37.466402,
     "Long": -122.14149,
     "LastDate": "2017-09-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6368,7 +6377,7 @@ locationIndexCallback([
     "Lat": 37.466366,
     "Long": -122.171895,
     "LastDate": "2017-09-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -6377,7 +6386,7 @@ locationIndexCallback([
     "Lat": 37.466324,
     "Long": -122.241538,
     "LastDate": "2017-01-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -6386,7 +6395,7 @@ locationIndexCallback([
     "Lat": 37.46631511500004,
     "Long": -122.24157223199995,
     "LastDate": "2014-03-18",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -6413,7 +6422,7 @@ locationIndexCallback([
     "Lat": 37.46626,
     "Long": -122.241751,
     "LastDate": "2017-01-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6431,25 +6440,25 @@ locationIndexCallback([
     "Lat": 37.46617,
     "Long": -122.241646,
     "LastDate": "2017-04-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0067486",
+    "Id": "PR0063574",
     "Name": "TOM DELVECCHIO/MAIN STAR PRODUCTIONS",
     "Lat": 37.466137,
     "Long": -122.23257,
     "LastDate": "2015-12-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0029536",
+    "Id": "PR0080306",
     "Name": "RITE AID #5893",
     "Lat": 37.46609,
     "Long": -122.241831,
     "LastDate": "2017-04-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6458,7 +6467,7 @@ locationIndexCallback([
     "Lat": 37.46598984900004,
     "Long": -122.24173739799994,
     "LastDate": "2013-12-23",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -6467,7 +6476,7 @@ locationIndexCallback([
     "Lat": 37.465951,
     "Long": -122.241726,
     "LastDate": "2016-02-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6476,7 +6485,7 @@ locationIndexCallback([
     "Lat": 37.46595,
     "Long": -122.428884,
     "LastDate": "2017-04-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6485,7 +6494,7 @@ locationIndexCallback([
     "Lat": 37.465931,
     "Long": -122.241732,
     "LastDate": "2017-02-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 8
   },
   {
@@ -6494,7 +6503,7 @@ locationIndexCallback([
     "Lat": 37.465879,
     "Long": -122.14152,
     "LastDate": "2017-01-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6503,16 +6512,16 @@ locationIndexCallback([
     "Lat": 37.46586,
     "Long": -122.156964,
     "LastDate": "2016-12-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0084817",
+    "Id": "PR0084818",
     "Name": "TRUE FRUITS LLC",
     "Lat": 37.46586,
     "Long": -122.156964,
     "LastDate": "2017-05-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -6521,7 +6530,7 @@ locationIndexCallback([
     "Lat": 37.465859,
     "Long": -122.197564,
     "LastDate": "2017-05-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6530,7 +6539,7 @@ locationIndexCallback([
     "Lat": 37.46579815800004,
     "Long": -122.23106720499999,
     "LastDate": "2013-07-27",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6539,8 +6548,8 @@ locationIndexCallback([
     "Lat": 37.465771,
     "Long": -122.157042,
     "LastDate": "2016-12-28",
-    "LastResult": 50,
-    "LastViolations": 6
+    "LastResult": 1,
+    "LastViolations": 1
   },
   {
     "Id": "PR0002193",
@@ -6548,7 +6557,7 @@ locationIndexCallback([
     "Lat": 37.465756,
     "Long": -122.157055,
     "LastDate": "2016-09-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6557,7 +6566,7 @@ locationIndexCallback([
     "Lat": 37.465628,
     "Long": -122.142293,
     "LastDate": "2017-09-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -6566,7 +6575,7 @@ locationIndexCallback([
     "Lat": 37.46558309300008,
     "Long": -122.14243029399995,
     "LastDate": "2013-04-12",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6584,7 +6593,7 @@ locationIndexCallback([
     "Lat": 37.465578,
     "Long": -122.42894,
     "LastDate": "2017-10-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -6593,16 +6602,7 @@ locationIndexCallback([
     "Lat": 37.465578,
     "Long": -122.42894,
     "LastDate": "2017-11-01",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0071358",
-    "Name": "SUBWAY",
-    "Lat": 37.465559,
-    "Long": -122.157186,
-    "LastDate": "2017-05-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6611,7 +6611,16 @@ locationIndexCallback([
     "Lat": 37.465559,
     "Long": -122.157186,
     "LastDate": "2017-11-02",
-    "LastResult": 49,
+    "LastResult": 1,
+    "LastViolations": 1
+  },
+  {
+    "Id": "PR0084815",
+    "Name": "SUBWAY",
+    "Lat": 37.465559,
+    "Long": -122.157186,
+    "LastDate": "2017-05-18",
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6620,7 +6629,7 @@ locationIndexCallback([
     "Lat": 37.465545,
     "Long": -122.428945,
     "LastDate": "2017-11-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -6629,7 +6638,7 @@ locationIndexCallback([
     "Lat": 37.465536,
     "Long": -122.206601,
     "LastDate": "2017-01-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -6638,16 +6647,16 @@ locationIndexCallback([
     "Lat": 37.465499,
     "Long": -122.241792,
     "LastDate": "2016-11-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
-    "Id": "PR0000716",
+    "Id": "PR0046466",
     "Name": "Safeway 0747",
     "Lat": 37.465434,
     "Long": -122.224517,
     "LastDate": "2016-10-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6665,7 +6674,7 @@ locationIndexCallback([
     "Lat": 37.465409,
     "Long": -122.224354,
     "LastDate": "2017-06-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6674,7 +6683,7 @@ locationIndexCallback([
     "Lat": 37.46538,
     "Long": -122.157269,
     "LastDate": "2017-08-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -6683,7 +6692,7 @@ locationIndexCallback([
     "Lat": 37.465361,
     "Long": -122.434029,
     "LastDate": "2017-10-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -6692,7 +6701,7 @@ locationIndexCallback([
     "Lat": 37.46520514500003,
     "Long": -122.42902352199997,
     "LastDate": "2013-02-07",
-    "LastResult": 54,
+    "LastResult": 1,
     "LastViolations": 8
   },
   {
@@ -6701,7 +6710,7 @@ locationIndexCallback([
     "Lat": 37.465108,
     "Long": -122.132444,
     "LastDate": "2017-09-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6710,7 +6719,7 @@ locationIndexCallback([
     "Lat": 37.465102,
     "Long": -122.434068,
     "LastDate": "2017-05-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -6719,7 +6728,7 @@ locationIndexCallback([
     "Lat": 37.4651,
     "Long": -122.132978,
     "LastDate": "2017-09-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6728,16 +6737,16 @@ locationIndexCallback([
     "Lat": 37.46506571900005,
     "Long": -122.42904311099994,
     "LastDate": "2013-08-30",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0000361",
+    "Id": "PR0047365",
     "Name": "OAKWOOD MARKET INC",
     "Lat": 37.464935,
     "Long": -122.147767,
     "LastDate": "2017-02-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6746,7 +6755,7 @@ locationIndexCallback([
     "Lat": 37.46488643400005,
     "Long": -122.22465073699999,
     "LastDate": "2014-03-31",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 10
   },
   {
@@ -6755,16 +6764,16 @@ locationIndexCallback([
     "Lat": 37.46486637400005,
     "Long": -122.42907306999996,
     "LastDate": "2015-04-02",
-    "LastResult": 52,
-    "LastViolations": 3
+    "LastResult": 1,
+    "LastViolations": 9
   },
   {
-    "Id": "PR0080133",
+    "Id": "PR0080134",
     "Name": "SAN BENITO HOUSE INC",
     "Lat": 37.464844,
     "Long": -122.429054,
     "LastDate": "2016-12-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -6773,7 +6782,7 @@ locationIndexCallback([
     "Lat": 37.464825,
     "Long": -122.157409,
     "LastDate": "2017-08-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -6800,7 +6809,7 @@ locationIndexCallback([
     "Lat": 37.464768,
     "Long": -122.433903,
     "LastDate": "2017-03-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -6809,7 +6818,7 @@ locationIndexCallback([
     "Lat": 37.464768,
     "Long": -122.433903,
     "LastDate": "2017-03-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -6818,7 +6827,7 @@ locationIndexCallback([
     "Lat": 37.464753,
     "Long": -122.441245,
     "LastDate": "2017-07-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6827,7 +6836,7 @@ locationIndexCallback([
     "Lat": 37.464738,
     "Long": -122.224673,
     "LastDate": "2017-04-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6836,7 +6845,7 @@ locationIndexCallback([
     "Lat": 37.464684,
     "Long": -122.429484,
     "LastDate": "2017-06-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6845,7 +6854,7 @@ locationIndexCallback([
     "Lat": 37.464664,
     "Long": -122.252622,
     "LastDate": "2016-06-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6854,7 +6863,7 @@ locationIndexCallback([
     "Lat": 37.464653,
     "Long": -122.439952,
     "LastDate": "2017-06-23",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6863,7 +6872,7 @@ locationIndexCallback([
     "Lat": 37.464646,
     "Long": -122.429084,
     "LastDate": "2017-06-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6881,7 +6890,7 @@ locationIndexCallback([
     "Lat": 37.464564,
     "Long": -122.224552,
     "LastDate": "2017-06-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6890,7 +6899,7 @@ locationIndexCallback([
     "Lat": 37.46451,
     "Long": -122.430983,
     "LastDate": "2017-02-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6899,7 +6908,7 @@ locationIndexCallback([
     "Lat": 37.464442,
     "Long": -122.429117,
     "LastDate": "2017-06-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -6908,7 +6917,7 @@ locationIndexCallback([
     "Lat": 37.464441,
     "Long": -122.429117,
     "LastDate": "2017-06-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -6917,7 +6926,7 @@ locationIndexCallback([
     "Lat": 37.464404,
     "Long": -122.434169,
     "LastDate": "2017-05-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -6926,7 +6935,7 @@ locationIndexCallback([
     "Lat": 37.46437459400005,
     "Long": -122.43395901699995,
     "LastDate": "2017-12-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -6935,7 +6944,7 @@ locationIndexCallback([
     "Lat": 37.46437459400005,
     "Long": -122.43395901699995,
     "LastDate": "2014-12-17",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -6944,7 +6953,7 @@ locationIndexCallback([
     "Lat": 37.46437459400005,
     "Long": -122.43395901699995,
     "LastDate": "2017-12-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -6953,7 +6962,7 @@ locationIndexCallback([
     "Lat": 37.46437459400005,
     "Long": -122.43395901699995,
     "LastDate": "2016-03-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 12
   },
   {
@@ -6962,7 +6971,7 @@ locationIndexCallback([
     "Lat": 37.464337,
     "Long": -122.141616,
     "LastDate": "2017-11-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -6971,7 +6980,7 @@ locationIndexCallback([
     "Lat": 37.464293,
     "Long": -122.429141,
     "LastDate": "2017-06-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -6980,7 +6989,7 @@ locationIndexCallback([
     "Lat": 37.464175,
     "Long": -122.141629,
     "LastDate": "2017-03-16",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -6989,7 +6998,7 @@ locationIndexCallback([
     "Lat": 37.464175,
     "Long": -122.141629,
     "LastDate": "2017-05-23",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7016,7 +7025,7 @@ locationIndexCallback([
     "Lat": 37.464138,
     "Long": -122.15764,
     "LastDate": "2016-12-08",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 3
   },
   {
@@ -7034,7 +7043,7 @@ locationIndexCallback([
     "Lat": 37.46404825400003,
     "Long": -122.43350705099999,
     "LastDate": "2016-11-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -7043,7 +7052,7 @@ locationIndexCallback([
     "Lat": 37.463965,
     "Long": -122.224694,
     "LastDate": "2017-04-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7052,7 +7061,7 @@ locationIndexCallback([
     "Lat": 37.46394800500008,
     "Long": -122.43239625099994,
     "LastDate": "2014-10-17",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -7061,7 +7070,7 @@ locationIndexCallback([
     "Lat": 37.463855823000074,
     "Long": -122.42922401899995,
     "LastDate": "2014-01-17",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 8
   },
   {
@@ -7070,7 +7079,7 @@ locationIndexCallback([
     "Lat": 37.46383,
     "Long": -122.429215,
     "LastDate": "2017-11-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -7079,7 +7088,7 @@ locationIndexCallback([
     "Lat": 37.46376,
     "Long": -122.185826,
     "LastDate": "2017-09-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -7088,7 +7097,7 @@ locationIndexCallback([
     "Lat": 37.463528,
     "Long": -122.145513,
     "LastDate": "2017-07-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -7106,11 +7115,11 @@ locationIndexCallback([
     "Lat": 37.463476,
     "Long": -122.224967,
     "LastDate": "2017-06-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0059667",
+    "Id": "PR0069982",
     "Name": "Boys \u0026 Girls Club Of Coastside",
     "Lat": 37.46347557000007,
     "Long": -122.42921595299998,
@@ -7124,7 +7133,7 @@ locationIndexCallback([
     "Lat": 37.463454,
     "Long": -122.430181,
     "LastDate": "2017-10-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -7133,7 +7142,7 @@ locationIndexCallback([
     "Lat": 37.463454,
     "Long": -122.430181,
     "LastDate": "2016-09-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -7142,7 +7151,7 @@ locationIndexCallback([
     "Lat": 37.463411,
     "Long": -122.429278,
     "LastDate": "2017-10-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7151,7 +7160,7 @@ locationIndexCallback([
     "Lat": 37.463411,
     "Long": -122.429278,
     "LastDate": "2017-10-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -7160,7 +7169,7 @@ locationIndexCallback([
     "Lat": 37.463312,
     "Long": -122.131754,
     "LastDate": "2017-10-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7169,16 +7178,16 @@ locationIndexCallback([
     "Lat": 37.463308,
     "Long": -122.131857,
     "LastDate": "2017-10-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0001536",
+    "Id": "PR0083257",
     "Name": "HALF MOON BAY BAKERY",
     "Lat": 37.463307,
     "Long": -122.429294,
     "LastDate": "2017-06-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -7187,7 +7196,7 @@ locationIndexCallback([
     "Lat": 37.463268,
     "Long": -122.225015,
     "LastDate": "2017-02-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -7196,7 +7205,7 @@ locationIndexCallback([
     "Lat": 37.46325565600006,
     "Long": -122.43621828599998,
     "LastDate": "2017-09-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7214,7 +7223,7 @@ locationIndexCallback([
     "Lat": 37.463224,
     "Long": -122.43117,
     "LastDate": "2017-11-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 8
   },
   {
@@ -7223,7 +7232,7 @@ locationIndexCallback([
     "Lat": 37.46318519500005,
     "Long": -122.42932311599998,
     "LastDate": "2014-01-08",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -7232,7 +7241,7 @@ locationIndexCallback([
     "Lat": 37.463178,
     "Long": -122.144874,
     "LastDate": "2017-04-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -7250,16 +7259,16 @@ locationIndexCallback([
     "Lat": 37.46309,
     "Long": -122.158562,
     "LastDate": "2017-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0085946",
+    "Id": "PR0085953",
     "Name": "AMAZON",
     "Lat": 37.463008,
     "Long": -122.141701,
     "LastDate": "2017-12-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -7268,7 +7277,7 @@ locationIndexCallback([
     "Lat": 37.463004,
     "Long": -122.225076,
     "LastDate": "2017-07-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -7277,7 +7286,7 @@ locationIndexCallback([
     "Lat": 37.462968,
     "Long": -122.22493,
     "LastDate": "2017-06-27",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7286,7 +7295,7 @@ locationIndexCallback([
     "Lat": 37.462948,
     "Long": -122.431209,
     "LastDate": "2017-11-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 10
   },
   {
@@ -7295,7 +7304,7 @@ locationIndexCallback([
     "Lat": 37.462943,
     "Long": -122.144445,
     "LastDate": "2016-08-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7304,7 +7313,7 @@ locationIndexCallback([
     "Lat": 37.462923,
     "Long": -122.141848,
     "LastDate": "2017-04-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7313,7 +7322,7 @@ locationIndexCallback([
     "Lat": 37.462872,
     "Long": -122.144292,
     "LastDate": "2017-07-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -7322,7 +7331,7 @@ locationIndexCallback([
     "Lat": 37.462856,
     "Long": -122.144245,
     "LastDate": "2017-07-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7340,7 +7349,7 @@ locationIndexCallback([
     "Lat": 37.462829,
     "Long": -122.431226,
     "LastDate": "2017-09-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7358,7 +7367,7 @@ locationIndexCallback([
     "Lat": 37.462754,
     "Long": -122.429374,
     "LastDate": "2017-03-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -7376,7 +7385,7 @@ locationIndexCallback([
     "Lat": 37.462361,
     "Long": -122.130111,
     "LastDate": "2017-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -7385,7 +7394,7 @@ locationIndexCallback([
     "Lat": 37.462361,
     "Long": -122.130111,
     "LastDate": "2017-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7394,7 +7403,7 @@ locationIndexCallback([
     "Lat": 37.462348,
     "Long": -122.429434,
     "LastDate": "2017-11-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7403,7 +7412,7 @@ locationIndexCallback([
     "Lat": 37.462348,
     "Long": -122.429434,
     "LastDate": "2017-10-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7412,7 +7421,7 @@ locationIndexCallback([
     "Lat": 37.462309461000075,
     "Long": -122.20630473199998,
     "LastDate": "2013-08-24",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7430,16 +7439,16 @@ locationIndexCallback([
     "Lat": 37.462043,
     "Long": -122.159517,
     "LastDate": "2017-08-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0044284",
+    "Id": "PR0045973",
     "Name": "IKEA EAST PALO ALTO",
     "Lat": 37.461957,
     "Long": -122.138441,
     "LastDate": "2017-11-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -7448,7 +7457,7 @@ locationIndexCallback([
     "Lat": 37.461823,
     "Long": -122.159657,
     "LastDate": "2017-05-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -7457,7 +7466,7 @@ locationIndexCallback([
     "Lat": 37.461773,
     "Long": -122.429517,
     "LastDate": "2017-05-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -7466,17 +7475,17 @@ locationIndexCallback([
     "Lat": 37.461684,
     "Long": -122.134639,
     "LastDate": "2017-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
-    "Id": "PR0066942",
+    "Id": "PR0061900",
     "Name": "Coastside Adult Day Health Ctr",
     "Lat": 37.46167801000007,
     "Long": -122.43015851999996,
     "LastDate": "2014-10-18",
     "LastResult": 0,
-    "LastViolations": 3
+    "LastViolations": 0
   },
   {
     "Id": "PR0040028",
@@ -7484,7 +7493,7 @@ locationIndexCallback([
     "Lat": 37.461647,
     "Long": -122.138077,
     "LastDate": "2017-10-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -7493,7 +7502,7 @@ locationIndexCallback([
     "Lat": 37.461591,
     "Long": -122.159807,
     "LastDate": "2017-09-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -7502,7 +7511,7 @@ locationIndexCallback([
     "Lat": 37.461559,
     "Long": -122.138059,
     "LastDate": "2017-11-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7511,7 +7520,7 @@ locationIndexCallback([
     "Lat": 37.46143,
     "Long": -122.138043,
     "LastDate": "2017-10-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -7520,7 +7529,7 @@ locationIndexCallback([
     "Lat": 37.461268,
     "Long": -122.27261,
     "LastDate": "2016-03-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7529,17 +7538,8 @@ locationIndexCallback([
     "Lat": 37.461253,
     "Long": -122.177267,
     "LastDate": "2017-09-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
-  },
-  {
-    "Id": "PR0066918",
-    "Name": "JAMBA JUICE #1131",
-    "Lat": 37.461094,
-    "Long": -122.13803,
-    "LastDate": "2017-11-29",
-    "LastResult": 49,
-    "LastViolations": 0
   },
   {
     "Id": "PR0081203",
@@ -7547,8 +7547,17 @@ locationIndexCallback([
     "Lat": 37.461094,
     "Long": -122.13803,
     "LastDate": "2017-11-29",
-    "LastResult": 50,
-    "LastViolations": 3
+    "LastResult": 1,
+    "LastViolations": 0
+  },
+  {
+    "Id": "PR0081353",
+    "Name": "JAMBA JUICE #1131",
+    "Lat": 37.461094,
+    "Long": -122.13803,
+    "LastDate": "2017-11-29",
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0063233",
@@ -7560,13 +7569,13 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0070467",
+    "Id": "PR0078844",
     "Name": "ARK GRILL",
     "Lat": 37.461014,
     "Long": -122.429636,
     "LastDate": "2017-02-27",
-    "LastResult": 49,
-    "LastViolations": 2
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0046019",
@@ -7583,7 +7592,7 @@ locationIndexCallback([
     "Lat": 37.46088639300007,
     "Long": -122.42967340899997,
     "LastDate": "2013-04-27",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7592,7 +7601,7 @@ locationIndexCallback([
     "Lat": 37.460878,
     "Long": -122.429658,
     "LastDate": "2017-03-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -7610,7 +7619,7 @@ locationIndexCallback([
     "Lat": 37.460776,
     "Long": -122.13224,
     "LastDate": "2017-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -7628,17 +7637,17 @@ locationIndexCallback([
     "Lat": 37.46061791100004,
     "Long": -122.154742425,
     "LastDate": "2017-11-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0071642",
+    "Id": "PR0080479",
     "Name": "NATIVITY CHURCH \u0026 SCHOOL",
     "Lat": 37.46051996700004,
     "Long": -122.17960290499997,
     "LastDate": "2015-06-05",
-    "LastResult": 50,
-    "LastViolations": 12
+    "LastResult": 1,
+    "LastViolations": 2
   },
   {
     "Id": "PR0057562",
@@ -7664,7 +7673,7 @@ locationIndexCallback([
     "Lat": 37.46045159200003,
     "Long": -122.15632876599994,
     "LastDate": "2014-12-05",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -7673,7 +7682,7 @@ locationIndexCallback([
     "Lat": 37.460434,
     "Long": -122.144385,
     "LastDate": "2017-11-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -7682,7 +7691,7 @@ locationIndexCallback([
     "Lat": 37.460371,
     "Long": -122.238996,
     "LastDate": "2017-08-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -7691,7 +7700,7 @@ locationIndexCallback([
     "Lat": 37.460371,
     "Long": -122.238996,
     "LastDate": "2017-08-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7700,7 +7709,7 @@ locationIndexCallback([
     "Lat": 37.46032,
     "Long": -122.160848,
     "LastDate": "2017-08-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -7718,7 +7727,7 @@ locationIndexCallback([
     "Lat": 37.460194,
     "Long": -122.138005,
     "LastDate": "2017-10-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -7727,7 +7736,7 @@ locationIndexCallback([
     "Lat": 37.46016276000006,
     "Long": -122.24168900199999,
     "LastDate": "2013-06-08",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7736,7 +7745,7 @@ locationIndexCallback([
     "Lat": 37.459895430000074,
     "Long": -122.12524861999998,
     "LastDate": "2015-05-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -7745,7 +7754,7 @@ locationIndexCallback([
     "Lat": 37.459799,
     "Long": -122.149371,
     "LastDate": "2017-11-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -7758,12 +7767,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0043758",
+    "Id": "PR0084678",
     "Name": "FOUR SEASONS HOTEL",
     "Lat": 37.459643,
     "Long": -122.142324,
     "LastDate": "2017-09-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -7772,7 +7781,7 @@ locationIndexCallback([
     "Lat": 37.459397,
     "Long": -122.152513,
     "LastDate": "2017-09-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 8
   },
   {
@@ -7781,7 +7790,7 @@ locationIndexCallback([
     "Lat": 37.459337,
     "Long": -122.152527,
     "LastDate": "2017-09-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7799,7 +7808,7 @@ locationIndexCallback([
     "Lat": 37.459177,
     "Long": -122.194151,
     "LastDate": "2016-09-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -7808,7 +7817,7 @@ locationIndexCallback([
     "Lat": 37.459175,
     "Long": -122.142581,
     "LastDate": "2017-06-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -7817,7 +7826,7 @@ locationIndexCallback([
     "Lat": 37.459143,
     "Long": -122.194339,
     "LastDate": "2017-10-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -7826,7 +7835,7 @@ locationIndexCallback([
     "Lat": 37.459143,
     "Long": -122.194339,
     "LastDate": "2017-10-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -7835,7 +7844,7 @@ locationIndexCallback([
     "Lat": 37.459104,
     "Long": -122.194004,
     "LastDate": "2016-09-28",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 3
   },
   {
@@ -7844,7 +7853,7 @@ locationIndexCallback([
     "Lat": 37.459063,
     "Long": -122.180684,
     "LastDate": "2017-09-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7853,7 +7862,7 @@ locationIndexCallback([
     "Lat": 37.45906157700006,
     "Long": -122.13758586699998,
     "LastDate": "2015-04-28",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -7862,7 +7871,7 @@ locationIndexCallback([
     "Lat": 37.458984,
     "Long": -122.137559,
     "LastDate": "2017-10-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -7871,7 +7880,7 @@ locationIndexCallback([
     "Lat": 37.45889224000007,
     "Long": -122.15276452299997,
     "LastDate": "2013-03-12",
-    "LastResult": 0,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7880,7 +7889,7 @@ locationIndexCallback([
     "Lat": 37.458892,
     "Long": -122.152949,
     "LastDate": "2017-12-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7898,7 +7907,7 @@ locationIndexCallback([
     "Lat": 37.458892,
     "Long": -122.152949,
     "LastDate": "2017-12-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7907,7 +7916,7 @@ locationIndexCallback([
     "Lat": 37.458836,
     "Long": -122.172645,
     "LastDate": "2017-05-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -7916,7 +7925,7 @@ locationIndexCallback([
     "Lat": 37.45881,
     "Long": -122.137269,
     "LastDate": "2017-12-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 9
   },
   {
@@ -7925,7 +7934,7 @@ locationIndexCallback([
     "Lat": 37.458754671000065,
     "Long": -122.14036770899997,
     "LastDate": "2013-03-11",
-    "LastResult": 55,
+    "LastResult": 3,
     "LastViolations": 2
   },
   {
@@ -7934,7 +7943,7 @@ locationIndexCallback([
     "Lat": 37.458627,
     "Long": -121.92058,
     "LastDate": "2017-11-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -7943,7 +7952,7 @@ locationIndexCallback([
     "Lat": 37.458627,
     "Long": -121.92058,
     "LastDate": "2017-02-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7952,7 +7961,7 @@ locationIndexCallback([
     "Lat": 37.458627,
     "Long": -121.92058,
     "LastDate": "2017-02-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7979,7 +7988,7 @@ locationIndexCallback([
     "Lat": 37.458514,
     "Long": -122.256252,
     "LastDate": "2017-09-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -7988,7 +7997,7 @@ locationIndexCallback([
     "Lat": 37.458482,
     "Long": -122.176843,
     "LastDate": "2017-01-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -7997,7 +8006,7 @@ locationIndexCallback([
     "Lat": 37.458452,
     "Long": -122.433354,
     "LastDate": "2016-03-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8006,7 +8015,7 @@ locationIndexCallback([
     "Lat": 37.45838018000006,
     "Long": -122.14150385899995,
     "LastDate": "2015-04-14",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8015,7 +8024,7 @@ locationIndexCallback([
     "Lat": 37.458138,
     "Long": -122.136131,
     "LastDate": "2017-04-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -8024,7 +8033,7 @@ locationIndexCallback([
     "Lat": 37.458138,
     "Long": -122.136131,
     "LastDate": "2017-03-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8033,7 +8042,7 @@ locationIndexCallback([
     "Lat": 37.457904,
     "Long": -122.430716,
     "LastDate": "2016-11-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8042,7 +8051,7 @@ locationIndexCallback([
     "Lat": 37.457612760000075,
     "Long": -122.43010551499998,
     "LastDate": "2017-11-01",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -8051,7 +8060,7 @@ locationIndexCallback([
     "Lat": 37.457491,
     "Long": -122.219488,
     "LastDate": "2017-09-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8060,8 +8069,8 @@ locationIndexCallback([
     "Lat": 37.457435,
     "Long": -122.136301,
     "LastDate": "2017-12-14",
-    "LastResult": 50,
-    "LastViolations": 3
+    "LastResult": 1,
+    "LastViolations": 1
   },
   {
     "Id": "PR0000360",
@@ -8069,7 +8078,7 @@ locationIndexCallback([
     "Lat": 37.457256,
     "Long": -122.136743,
     "LastDate": "2017-12-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -8078,7 +8087,7 @@ locationIndexCallback([
     "Lat": 37.45722,
     "Long": -122.182261,
     "LastDate": "2017-10-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8087,7 +8096,7 @@ locationIndexCallback([
     "Lat": 37.45717489300006,
     "Long": -122.22899316099995,
     "LastDate": "2014-01-17",
-    "LastResult": 0,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8096,7 +8105,7 @@ locationIndexCallback([
     "Lat": 37.457122,
     "Long": -122.229579,
     "LastDate": "2017-10-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -8105,16 +8114,16 @@ locationIndexCallback([
     "Lat": 37.457122,
     "Long": -122.229579,
     "LastDate": "2017-12-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
-    "Id": "PR0071438",
+    "Id": "PR0082536",
     "Name": "SUSHI PLUS",
     "Lat": 37.457122,
     "Long": -122.229579,
     "LastDate": "2017-12-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 10
   },
   {
@@ -8123,7 +8132,7 @@ locationIndexCallback([
     "Lat": 37.457031,
     "Long": -122.168919,
     "LastDate": "2017-10-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -8132,7 +8141,7 @@ locationIndexCallback([
     "Lat": 37.45699919400005,
     "Long": -122.18970131199995,
     "LastDate": "2014-06-02",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8141,7 +8150,7 @@ locationIndexCallback([
     "Lat": 37.456966,
     "Long": -122.229565,
     "LastDate": "2017-12-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -8150,7 +8159,7 @@ locationIndexCallback([
     "Lat": 37.456918,
     "Long": -122.227571,
     "LastDate": "2017-03-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -8168,7 +8177,7 @@ locationIndexCallback([
     "Lat": 37.45670245700006,
     "Long": -122.18676318399997,
     "LastDate": "2013-10-17",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -8177,7 +8186,7 @@ locationIndexCallback([
     "Lat": 37.45658,
     "Long": -122.430049,
     "LastDate": "2017-01-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -8186,16 +8195,16 @@ locationIndexCallback([
     "Lat": 37.45658,
     "Long": -122.430049,
     "LastDate": "2017-01-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
-    "Id": "PR0046320",
+    "Id": "PR0002144",
     "Name": "Lucky #745",
     "Lat": 37.456573,
     "Long": -122.229513,
     "LastDate": "2017-09-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -8213,7 +8222,7 @@ locationIndexCallback([
     "Lat": 37.456473,
     "Long": -122.227796,
     "LastDate": "2016-02-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8222,7 +8231,7 @@ locationIndexCallback([
     "Lat": 37.456391,
     "Long": -122.188497,
     "LastDate": "2017-08-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -8240,7 +8249,7 @@ locationIndexCallback([
     "Lat": 37.45633,
     "Long": -122.227865,
     "LastDate": "2017-03-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -8258,7 +8267,7 @@ locationIndexCallback([
     "Lat": 37.45629,
     "Long": -122.233116,
     "LastDate": "2017-09-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -8267,7 +8276,7 @@ locationIndexCallback([
     "Lat": 37.45621539100006,
     "Long": -122.18811957699995,
     "LastDate": "2014-06-02",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -8280,7 +8289,7 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0074921",
+    "Id": "PR0074920",
     "Name": "Peninsula Youth Sailing Foundation",
     "Lat": 37.45621029000006,
     "Long": -122.22884054299999,
@@ -8298,12 +8307,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0075667",
+    "Id": "PR0085186",
     "Name": "OLD PORT LOBSTER SHACK",
     "Lat": 37.456115,
     "Long": -122.229385,
     "LastDate": "2017-08-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -8312,7 +8321,7 @@ locationIndexCallback([
     "Lat": 37.456093,
     "Long": -122.229314,
     "LastDate": "2017-10-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -8321,16 +8330,16 @@ locationIndexCallback([
     "Lat": 37.456049,
     "Long": -122.229175,
     "LastDate": "2017-02-23",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0000364",
+    "Id": "PR0082866",
     "Name": "GARDEN SUPERMARKET",
     "Lat": 37.456011,
     "Long": -122.129936,
     "LastDate": "2017-07-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8339,7 +8348,7 @@ locationIndexCallback([
     "Lat": 37.455985,
     "Long": -122.228969,
     "LastDate": "2017-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -8357,7 +8366,7 @@ locationIndexCallback([
     "Lat": 37.455928,
     "Long": -122.22806,
     "LastDate": "2016-03-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -8384,7 +8393,7 @@ locationIndexCallback([
     "Lat": 37.455644663000044,
     "Long": -122.16625256799995,
     "LastDate": "2015-03-18",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 8
   },
   {
@@ -8393,7 +8402,7 @@ locationIndexCallback([
     "Lat": 37.45562,
     "Long": -122.265038,
     "LastDate": "2017-04-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -8402,7 +8411,7 @@ locationIndexCallback([
     "Lat": 37.455606,
     "Long": -122.18694,
     "LastDate": "2017-09-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -8411,7 +8420,7 @@ locationIndexCallback([
     "Lat": 37.45555862500004,
     "Long": -122.22821273799997,
     "LastDate": "2015-01-21",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -8429,7 +8438,7 @@ locationIndexCallback([
     "Lat": 37.455489,
     "Long": -122.182994,
     "LastDate": "2017-11-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8438,7 +8447,7 @@ locationIndexCallback([
     "Lat": 37.455489,
     "Long": -122.182994,
     "LastDate": "2016-12-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8447,7 +8456,7 @@ locationIndexCallback([
     "Lat": 37.455458,
     "Long": -122.186893,
     "LastDate": "2017-09-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8456,7 +8465,7 @@ locationIndexCallback([
     "Lat": 37.455397,
     "Long": -122.186522,
     "LastDate": "2017-11-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -8465,7 +8474,7 @@ locationIndexCallback([
     "Lat": 37.45526586500006,
     "Long": -122.26155610799998,
     "LastDate": "2013-04-26",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -8474,7 +8483,7 @@ locationIndexCallback([
     "Lat": 37.455263,
     "Long": -121.916649,
     "LastDate": "2017-04-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8483,16 +8492,16 @@ locationIndexCallback([
     "Lat": 37.455247,
     "Long": -122.183559,
     "LastDate": "2016-01-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0051709",
+    "Id": "PR0062526",
     "Name": "CITY OF MENLO PARK/TEMP EVENTS",
     "Lat": 37.45515004600003,
     "Long": -122.17844453999999,
     "LastDate": "2015-07-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8505,12 +8514,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0078092",
+    "Id": "PR0081566",
     "Name": "BFD - BRADLEYS FINE DINER",
     "Lat": 37.455024,
     "Long": -122.183198,
     "LastDate": "2017-05-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8519,7 +8528,7 @@ locationIndexCallback([
     "Lat": 37.45501745900003,
     "Long": -122.18323026999997,
     "LastDate": "2014-03-06",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -8546,7 +8555,7 @@ locationIndexCallback([
     "Lat": 37.454676,
     "Long": -122.18409,
     "LastDate": "2016-03-01",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -8555,7 +8564,7 @@ locationIndexCallback([
     "Lat": 37.454652,
     "Long": -122.18502,
     "LastDate": "2017-06-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -8564,7 +8573,7 @@ locationIndexCallback([
     "Lat": 37.454651,
     "Long": -122.228655,
     "LastDate": "2017-10-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8573,7 +8582,7 @@ locationIndexCallback([
     "Lat": 37.454651,
     "Long": -122.228655,
     "LastDate": "2017-04-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -8582,16 +8591,16 @@ locationIndexCallback([
     "Lat": 37.454585,
     "Long": -122.130329,
     "LastDate": "2017-03-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0063727",
+    "Id": "PR0063729",
     "Name": "MENLO PARK CHAMBER OF COMMERCE",
     "Lat": 37.45455575600005,
     "Long": -122.18238451399998,
     "LastDate": "2015-07-24",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8600,7 +8609,7 @@ locationIndexCallback([
     "Lat": 37.454553,
     "Long": -122.185075,
     "LastDate": "2017-11-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -8609,7 +8618,7 @@ locationIndexCallback([
     "Lat": 37.454483,
     "Long": -122.184679,
     "LastDate": "2017-11-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8618,7 +8627,7 @@ locationIndexCallback([
     "Lat": 37.454479,
     "Long": -122.181433,
     "LastDate": "2016-08-02",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -8627,7 +8636,7 @@ locationIndexCallback([
     "Lat": 37.454471,
     "Long": -122.18142,
     "LastDate": "2016-03-01",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -8636,7 +8645,7 @@ locationIndexCallback([
     "Lat": 37.454363,
     "Long": -122.181262,
     "LastDate": "2016-08-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 20
   },
   {
@@ -8645,7 +8654,7 @@ locationIndexCallback([
     "Lat": 37.454345,
     "Long": -122.163523,
     "LastDate": "2017-03-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8654,8 +8663,8 @@ locationIndexCallback([
     "Lat": 37.45428612200004,
     "Long": -122.16345713199996,
     "LastDate": "2015-03-31",
-    "LastResult": 52,
-    "LastViolations": 4
+    "LastResult": 1,
+    "LastViolations": 3
   },
   {
     "Id": "PR0034260",
@@ -8663,7 +8672,7 @@ locationIndexCallback([
     "Lat": 37.45421,
     "Long": -122.243323,
     "LastDate": "2017-09-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8672,7 +8681,7 @@ locationIndexCallback([
     "Lat": 37.454161,
     "Long": -122.163246,
     "LastDate": "2016-08-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -8699,7 +8708,7 @@ locationIndexCallback([
     "Lat": 37.453881,
     "Long": -122.18473,
     "LastDate": "2017-11-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -8708,7 +8717,7 @@ locationIndexCallback([
     "Lat": 37.453871,
     "Long": -122.183447,
     "LastDate": "2017-06-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -8717,16 +8726,16 @@ locationIndexCallback([
     "Lat": 37.453823,
     "Long": -122.183601,
     "LastDate": "2017-11-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
-    "Id": "PR0063427",
+    "Id": "PR0063376",
     "Name": "SUNSET PUBLISHING CORP",
     "Lat": 37.453767596000034,
     "Long": -122.16494933699994,
     "LastDate": "2015-06-24",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8744,7 +8753,7 @@ locationIndexCallback([
     "Lat": 37.45343536100006,
     "Long": -122.18311235499999,
     "LastDate": "2013-01-15",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8753,7 +8762,7 @@ locationIndexCallback([
     "Lat": 37.45341,
     "Long": -122.182765,
     "LastDate": "2017-05-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -8766,12 +8775,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0074363",
+    "Id": "PR0074409",
     "Name": "The Office Of Les Koonce",
     "Lat": 37.45338619000006,
     "Long": -122.18238681799994,
     "LastDate": "2013-08-14",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -8780,7 +8789,7 @@ locationIndexCallback([
     "Lat": 37.453352,
     "Long": -122.182647,
     "LastDate": "2017-11-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -8789,7 +8798,7 @@ locationIndexCallback([
     "Lat": 37.453351,
     "Long": -122.183116,
     "LastDate": "2017-10-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -8798,7 +8807,7 @@ locationIndexCallback([
     "Lat": 37.45334470800003,
     "Long": -122.18267258399999,
     "LastDate": "2014-06-19",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -8807,7 +8816,7 @@ locationIndexCallback([
     "Lat": 37.453330881000056,
     "Long": -122.18309431899996,
     "LastDate": "2015-02-11",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -8816,7 +8825,7 @@ locationIndexCallback([
     "Lat": 37.453298,
     "Long": -122.183159,
     "LastDate": "2017-04-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -8825,7 +8834,7 @@ locationIndexCallback([
     "Lat": 37.453269,
     "Long": -122.182228,
     "LastDate": "2017-11-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -8834,7 +8843,7 @@ locationIndexCallback([
     "Lat": 37.453269,
     "Long": -122.182228,
     "LastDate": "2017-11-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -8843,7 +8852,7 @@ locationIndexCallback([
     "Lat": 37.453197,
     "Long": -122.182331,
     "LastDate": "2017-11-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -8852,7 +8861,7 @@ locationIndexCallback([
     "Lat": 37.453187,
     "Long": -122.18231,
     "LastDate": "2016-08-04",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8861,7 +8870,7 @@ locationIndexCallback([
     "Lat": 37.453179,
     "Long": -122.183259,
     "LastDate": "2016-07-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8870,7 +8879,7 @@ locationIndexCallback([
     "Lat": 37.453179,
     "Long": -122.183259,
     "LastDate": "2017-11-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -8879,7 +8888,7 @@ locationIndexCallback([
     "Lat": 37.453112,
     "Long": -122.182159,
     "LastDate": "2017-05-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8888,7 +8897,7 @@ locationIndexCallback([
     "Lat": 37.45308083600003,
     "Long": -122.18329596799998,
     "LastDate": "2015-04-23",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8906,7 +8915,7 @@ locationIndexCallback([
     "Lat": 37.453028,
     "Long": -122.181987,
     "LastDate": "2017-11-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -8915,7 +8924,7 @@ locationIndexCallback([
     "Lat": 37.452986348000024,
     "Long": -122.22938032699994,
     "LastDate": "2014-05-22",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8924,7 +8933,7 @@ locationIndexCallback([
     "Lat": 37.452938,
     "Long": -122.183459,
     "LastDate": "2015-11-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8933,7 +8942,7 @@ locationIndexCallback([
     "Lat": 37.452887,
     "Long": -122.190092,
     "LastDate": "2017-10-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -8942,7 +8951,7 @@ locationIndexCallback([
     "Lat": 37.452829,
     "Long": -122.181596,
     "LastDate": "2016-11-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8951,7 +8960,7 @@ locationIndexCallback([
     "Lat": 37.452817,
     "Long": -122.183604,
     "LastDate": "2017-04-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8960,7 +8969,7 @@ locationIndexCallback([
     "Lat": 37.452772,
     "Long": -122.183544,
     "LastDate": "2016-10-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -8969,7 +8978,7 @@ locationIndexCallback([
     "Lat": 37.45270058300008,
     "Long": -122.18566505999996,
     "LastDate": "2014-06-23",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -8978,8 +8987,8 @@ locationIndexCallback([
     "Lat": 37.452658,
     "Long": -122.183637,
     "LastDate": "2017-04-25",
-    "LastResult": 50,
-    "LastViolations": 5
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0052343",
@@ -8987,7 +8996,7 @@ locationIndexCallback([
     "Lat": 37.45264527300003,
     "Long": -122.18130252099996,
     "LastDate": "2015-03-31",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -8996,7 +9005,7 @@ locationIndexCallback([
     "Lat": 37.45257498400008,
     "Long": -122.16669734899995,
     "LastDate": "2013-10-21",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9005,16 +9014,16 @@ locationIndexCallback([
     "Lat": 37.45256000400008,
     "Long": -122.19043320199995,
     "LastDate": "2015-03-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0071902",
+    "Id": "PR0071901",
     "Name": "Music @ Menlo Chamber Music Festival \u0026 Institute",
     "Lat": 37.45256000400008,
     "Long": -122.19043320199995,
     "LastDate": "2014-11-13",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9023,7 +9032,7 @@ locationIndexCallback([
     "Lat": 37.45255,
     "Long": -122.187781,
     "LastDate": "2017-11-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -9032,7 +9041,7 @@ locationIndexCallback([
     "Lat": 37.452509,
     "Long": -122.183872,
     "LastDate": "2017-11-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9041,7 +9050,7 @@ locationIndexCallback([
     "Lat": 37.452504,
     "Long": -122.18096,
     "LastDate": "2017-06-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -9050,7 +9059,7 @@ locationIndexCallback([
     "Lat": 37.452504,
     "Long": -122.18096,
     "LastDate": "2017-11-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 8
   },
   {
@@ -9068,7 +9077,7 @@ locationIndexCallback([
     "Lat": 37.45243,
     "Long": -122.183824,
     "LastDate": "2016-12-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9095,7 +9104,7 @@ locationIndexCallback([
     "Lat": 37.452339,
     "Long": -122.182439,
     "LastDate": "2017-07-13",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 6
   },
   {
@@ -9104,7 +9113,7 @@ locationIndexCallback([
     "Lat": 37.452331,
     "Long": -122.180317,
     "LastDate": "2017-11-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -9113,7 +9122,7 @@ locationIndexCallback([
     "Lat": 37.452305,
     "Long": -122.183927,
     "LastDate": "2017-04-25",
-    "LastResult": 50,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9122,7 +9131,7 @@ locationIndexCallback([
     "Lat": 37.45225910200003,
     "Long": -122.18561233199995,
     "LastDate": "2014-06-02",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9131,7 +9140,7 @@ locationIndexCallback([
     "Lat": 37.452252,
     "Long": -122.183971,
     "LastDate": "2016-09-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9140,7 +9149,7 @@ locationIndexCallback([
     "Lat": 37.452207,
     "Long": -122.180388,
     "LastDate": "2017-11-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -9149,7 +9158,7 @@ locationIndexCallback([
     "Lat": 37.45215094400004,
     "Long": -122.18243290899994,
     "LastDate": "2014-03-03",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9158,7 +9167,7 @@ locationIndexCallback([
     "Lat": 37.452135,
     "Long": -122.185233,
     "LastDate": "2017-06-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -9167,7 +9176,7 @@ locationIndexCallback([
     "Lat": 37.4521,
     "Long": -122.18246,
     "LastDate": "2017-07-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -9176,7 +9185,7 @@ locationIndexCallback([
     "Lat": 37.45208526400006,
     "Long": -122.18528250199995,
     "LastDate": "2014-05-21",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -9185,7 +9194,7 @@ locationIndexCallback([
     "Lat": 37.452045,
     "Long": -122.180083,
     "LastDate": "2017-11-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9194,7 +9203,7 @@ locationIndexCallback([
     "Lat": 37.451984,
     "Long": -122.184311,
     "LastDate": "2017-07-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -9207,13 +9216,13 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0000408",
+    "Id": "PR0045971",
     "Name": "COOKS SEAFOOD INC",
     "Lat": 37.451746,
     "Long": -122.179526,
     "LastDate": "2017-11-07",
-    "LastResult": 50,
-    "LastViolations": 4
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0046419",
@@ -9221,7 +9230,7 @@ locationIndexCallback([
     "Lat": 37.451715,
     "Long": -122.179177,
     "LastDate": "2016-02-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9230,7 +9239,7 @@ locationIndexCallback([
     "Lat": 37.451715,
     "Long": -122.179177,
     "LastDate": "2016-02-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9239,7 +9248,7 @@ locationIndexCallback([
     "Lat": 37.451638,
     "Long": -122.179037,
     "LastDate": "2015-11-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9248,7 +9257,7 @@ locationIndexCallback([
     "Lat": 37.451564,
     "Long": -122.179191,
     "LastDate": "2017-10-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -9257,7 +9266,7 @@ locationIndexCallback([
     "Lat": 37.451558,
     "Long": -122.178894,
     "LastDate": "2016-12-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -9266,7 +9275,7 @@ locationIndexCallback([
     "Lat": 37.451558,
     "Long": -122.178894,
     "LastDate": "2017-06-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -9275,7 +9284,7 @@ locationIndexCallback([
     "Lat": 37.451525,
     "Long": -122.185858,
     "LastDate": "2017-08-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -9284,7 +9293,7 @@ locationIndexCallback([
     "Lat": 37.451517,
     "Long": -122.184693,
     "LastDate": "2017-04-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -9293,7 +9302,7 @@ locationIndexCallback([
     "Lat": 37.451405,
     "Long": -122.180194,
     "LastDate": "2017-12-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -9302,7 +9311,7 @@ locationIndexCallback([
     "Lat": 37.451339,
     "Long": -122.185507,
     "LastDate": "2017-08-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -9311,7 +9320,7 @@ locationIndexCallback([
     "Lat": 37.451249,
     "Long": -122.18491,
     "LastDate": "2017-11-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -9320,7 +9329,7 @@ locationIndexCallback([
     "Lat": 37.451206,
     "Long": -122.184041,
     "LastDate": "2017-11-29",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9333,12 +9342,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0064219",
+    "Id": "PR0064220",
     "Name": "Safeway 2719",
     "Lat": 37.45118,
     "Long": -122.178513,
     "LastDate": "2017-06-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
   },
   {
@@ -9347,7 +9356,7 @@ locationIndexCallback([
     "Lat": 37.45118,
     "Long": -122.178513,
     "LastDate": "2017-07-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -9356,7 +9365,7 @@ locationIndexCallback([
     "Lat": 37.45118,
     "Long": -122.178513,
     "LastDate": "2017-04-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9365,7 +9374,7 @@ locationIndexCallback([
     "Lat": 37.45117,
     "Long": -122.183243,
     "LastDate": "2017-10-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -9374,7 +9383,7 @@ locationIndexCallback([
     "Lat": 37.451168,
     "Long": -122.184975,
     "LastDate": "2017-11-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -9383,7 +9392,7 @@ locationIndexCallback([
     "Lat": 37.451143,
     "Long": -122.178448,
     "LastDate": "2017-06-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -9392,7 +9401,7 @@ locationIndexCallback([
     "Lat": 37.451143,
     "Long": -122.178448,
     "LastDate": "2017-09-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -9401,7 +9410,7 @@ locationIndexCallback([
     "Lat": 37.451083,
     "Long": -122.184979,
     "LastDate": "2017-09-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9410,7 +9419,7 @@ locationIndexCallback([
     "Lat": 37.45085568400003,
     "Long": -122.18339814999996,
     "LastDate": "2013-08-06",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9419,7 +9428,7 @@ locationIndexCallback([
     "Lat": 37.45085001800004,
     "Long": -122.18525369499997,
     "LastDate": "2015-03-31",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -9428,7 +9437,7 @@ locationIndexCallback([
     "Lat": 37.450803,
     "Long": -122.185198,
     "LastDate": "2017-05-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -9437,7 +9446,7 @@ locationIndexCallback([
     "Lat": 37.450742,
     "Long": -122.185324,
     "LastDate": "2017-09-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -9446,7 +9455,7 @@ locationIndexCallback([
     "Lat": 37.45066,
     "Long": -122.185392,
     "LastDate": "2017-07-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -9482,7 +9491,7 @@ locationIndexCallback([
     "Lat": 37.450599,
     "Long": -122.185363,
     "LastDate": "2017-05-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -9491,7 +9500,7 @@ locationIndexCallback([
     "Lat": 37.450533,
     "Long": -122.185499,
     "LastDate": "2017-08-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -9500,7 +9509,7 @@ locationIndexCallback([
     "Lat": 37.450328,
     "Long": -122.185568,
     "LastDate": "2017-07-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -9509,7 +9518,7 @@ locationIndexCallback([
     "Lat": 37.450261,
     "Long": -122.185624,
     "LastDate": "2017-06-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -9518,7 +9527,7 @@ locationIndexCallback([
     "Lat": 37.450188,
     "Long": -122.176885,
     "LastDate": "2017-08-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9527,7 +9536,7 @@ locationIndexCallback([
     "Lat": 37.450048,
     "Long": -122.185863,
     "LastDate": "2017-09-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -9536,25 +9545,25 @@ locationIndexCallback([
     "Lat": 37.450028,
     "Long": -122.185882,
     "LastDate": "2017-09-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0076582",
+    "Id": "PR0070501",
     "Name": "NAMESAKE AND MORE",
     "Lat": 37.449985,
     "Long": -122.176578,
     "LastDate": "2017-08-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
-    "Id": "PR0074156",
+    "Id": "PR0069001",
     "Name": "LB STEAK",
     "Lat": 37.449856,
     "Long": -122.186035,
     "LastDate": "2017-06-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -9581,7 +9590,7 @@ locationIndexCallback([
     "Lat": 37.449738,
     "Long": -122.176203,
     "LastDate": "2017-08-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -9590,7 +9599,7 @@ locationIndexCallback([
     "Lat": 37.449610163000045,
     "Long": -122.19877341799997,
     "LastDate": "2014-08-09",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9608,7 +9617,7 @@ locationIndexCallback([
     "Lat": 37.44959524600006,
     "Long": -122.17602524699998,
     "LastDate": "2014-06-27",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9617,7 +9626,7 @@ locationIndexCallback([
     "Lat": 37.44959524600006,
     "Long": -122.17602524699998,
     "LastDate": "2014-07-03",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -9626,17 +9635,17 @@ locationIndexCallback([
     "Lat": 37.44959524600006,
     "Long": -122.17602524699998,
     "LastDate": "2013-11-26",
-    "LastResult": 0,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0072645",
+    "Id": "PR0074939",
     "Name": "Kuchenkultur",
     "Lat": 37.44959524600006,
     "Long": -122.17602524699998,
     "LastDate": "2014-10-04",
-    "LastResult": 0,
-    "LastViolations": 0
+    "LastResult": 1,
+    "LastViolations": 1
   },
   {
     "Id": "PR0001308",
@@ -9644,7 +9653,7 @@ locationIndexCallback([
     "Lat": 37.449485,
     "Long": -122.186336,
     "LastDate": "2016-12-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -9653,7 +9662,7 @@ locationIndexCallback([
     "Lat": 37.44946958400004,
     "Long": -122.18637371299997,
     "LastDate": "2015-06-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9662,17 +9671,8 @@ locationIndexCallback([
     "Lat": 37.449011,
     "Long": -122.199222,
     "LastDate": "2017-11-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 10
-  },
-  {
-    "Id": "PR0002559",
-    "Name": "DRAEGERS MARKET",
-    "Lat": 37.448959,
-    "Long": -122.185534,
-    "LastDate": "2016-01-06",
-    "LastResult": 49,
-    "LastViolations": 0
   },
   {
     "Id": "PR0002639",
@@ -9680,7 +9680,7 @@ locationIndexCallback([
     "Lat": 37.448953,
     "Long": -122.174998,
     "LastDate": "2016-10-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9689,16 +9689,16 @@ locationIndexCallback([
     "Lat": 37.448929,
     "Long": -122.185475,
     "LastDate": "2016-11-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0081015",
+    "Id": "PR0046545",
     "Name": "Draeger's Market (Menlo Park, CA)",
     "Lat": 37.448929,
     "Long": -122.185475,
     "LastDate": "2017-02-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -9707,7 +9707,7 @@ locationIndexCallback([
     "Lat": 37.448671,
     "Long": -122.174583,
     "LastDate": "2017-08-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -9716,8 +9716,17 @@ locationIndexCallback([
     "Lat": 37.44849,
     "Long": -122.174317,
     "LastDate": "2016-10-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
+  },
+  {
+    "Id": "PR0002744",
+    "Name": "PACIFIC DINING-CANADA",
+    "Lat": 37.448034,
+    "Long": -122.260382,
+    "LastDate": "2016-03-08",
+    "LastResult": 1,
+    "LastViolations": 1
   },
   {
     "Id": "PR0027504",
@@ -9725,16 +9734,7 @@ locationIndexCallback([
     "Lat": 37.448034,
     "Long": -122.260382,
     "LastDate": "2017-06-12",
-    "LastResult": 49,
-    "LastViolations": 1
-  },
-  {
-    "Id": "PR0074972",
-    "Name": "PACIFIC DINING-CANADA",
-    "Lat": 37.448034,
-    "Long": -122.260382,
-    "LastDate": "2016-03-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -9743,7 +9743,7 @@ locationIndexCallback([
     "Lat": 37.447955,
     "Long": -122.194226,
     "LastDate": "2017-05-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -9752,8 +9752,8 @@ locationIndexCallback([
     "Lat": 37.447955,
     "Long": -122.194226,
     "LastDate": "2017-09-25",
-    "LastResult": 49,
-    "LastViolations": 5
+    "LastResult": 1,
+    "LastViolations": 4
   },
   {
     "Id": "PR0074060",
@@ -9761,7 +9761,7 @@ locationIndexCallback([
     "Lat": 37.44779879400005,
     "Long": -122.17294889399994,
     "LastDate": "2013-06-01",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9770,7 +9770,7 @@ locationIndexCallback([
     "Lat": 37.447497,
     "Long": -122.179656,
     "LastDate": "2017-11-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -9779,7 +9779,7 @@ locationIndexCallback([
     "Lat": 37.447462,
     "Long": -122.428735,
     "LastDate": "2017-12-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -9801,12 +9801,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0003037",
+    "Id": "PR0066357",
     "Name": "STANFORD PARK HOTEL",
     "Lat": 37.447409,
     "Long": -122.172363,
     "LastDate": "2017-08-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -9815,7 +9815,7 @@ locationIndexCallback([
     "Lat": 37.447252,
     "Long": -122.22334,
     "LastDate": "2017-04-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9824,16 +9824,16 @@ locationIndexCallback([
     "Lat": 37.447159,
     "Long": -122.172286,
     "LastDate": "2017-10-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
-    "Id": "PR0001138",
+    "Id": "PR0081320",
     "Name": "MENLO COUNTRY CLUB",
     "Lat": 37.445099,
     "Long": -122.234101,
     "LastDate": "2016-10-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -9842,7 +9842,7 @@ locationIndexCallback([
     "Lat": 37.444964162000076,
     "Long": -122.32895245599997,
     "LastDate": "2014-09-19",
-    "LastResult": 53,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -9869,7 +9869,7 @@ locationIndexCallback([
     "Lat": 37.443915,
     "Long": -122.233263,
     "LastDate": "2017-09-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9887,7 +9887,7 @@ locationIndexCallback([
     "Lat": 37.442159,
     "Long": -122.325312,
     "LastDate": "2017-03-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9896,7 +9896,7 @@ locationIndexCallback([
     "Lat": 37.441901,
     "Long": -122.176701,
     "LastDate": "2015-10-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9905,7 +9905,7 @@ locationIndexCallback([
     "Lat": 37.441801,
     "Long": -122.1786,
     "LastDate": "2016-07-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -9914,7 +9914,7 @@ locationIndexCallback([
     "Lat": 37.44167555000007,
     "Long": -122.17850247599995,
     "LastDate": "2013-05-22",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -9950,7 +9950,7 @@ locationIndexCallback([
     "Lat": 37.439857,
     "Long": -122.16285,
     "LastDate": "2017-08-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9959,7 +9959,7 @@ locationIndexCallback([
     "Lat": 37.438808,
     "Long": -122.196062,
     "LastDate": "2017-11-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -9968,7 +9968,7 @@ locationIndexCallback([
     "Lat": 37.438213,
     "Long": -122.322382,
     "LastDate": "2015-10-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -9977,7 +9977,7 @@ locationIndexCallback([
     "Lat": 37.437011,
     "Long": -122.212386,
     "LastDate": "2017-09-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -9986,7 +9986,7 @@ locationIndexCallback([
     "Lat": 37.436904,
     "Long": -122.203449,
     "LastDate": "2016-09-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10022,11 +10022,11 @@ locationIndexCallback([
     "Lat": 37.43585,
     "Long": -122.428405,
     "LastDate": "2016-10-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0064421",
+    "Id": "PR0064420",
     "Name": "KINGS MOUNTAIN ART FAIR",
     "Lat": 37.435614,
     "Long": -122.32086,
@@ -10040,7 +10040,7 @@ locationIndexCallback([
     "Lat": 37.435177,
     "Long": -122.208309,
     "LastDate": "2017-05-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -10049,16 +10049,16 @@ locationIndexCallback([
     "Lat": 37.434763,
     "Long": -122.440751,
     "LastDate": "2017-11-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 10
   },
   {
-    "Id": "PR0001414",
+    "Id": "PR0037616",
     "Name": "MULLINS BAR \u0026 GRILL",
     "Lat": 37.434557,
     "Long": -122.440295,
     "LastDate": "2017-11-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -10076,7 +10076,7 @@ locationIndexCallback([
     "Lat": 37.433378,
     "Long": -122.42685,
     "LastDate": "2017-09-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -10085,16 +10085,16 @@ locationIndexCallback([
     "Lat": 37.432294,
     "Long": -122.202522,
     "LastDate": "2016-11-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0064427",
+    "Id": "PR0081008",
     "Name": "LUTTICKEN",
     "Lat": 37.432215,
     "Long": -122.202376,
     "LastDate": "2015-08-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10103,8 +10103,8 @@ locationIndexCallback([
     "Lat": 37.43218,
     "Long": -122.20231,
     "LastDate": "2016-02-29",
-    "LastResult": 55,
-    "LastViolations": 9
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0059449",
@@ -10121,8 +10121,8 @@ locationIndexCallback([
     "Lat": 37.432092,
     "Long": -122.202143,
     "LastDate": "2016-03-01",
-    "LastResult": 52,
-    "LastViolations": 1
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0023274",
@@ -10130,7 +10130,7 @@ locationIndexCallback([
     "Lat": 37.432092,
     "Long": -122.202143,
     "LastDate": "2016-02-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -10139,7 +10139,7 @@ locationIndexCallback([
     "Lat": 37.431938,
     "Long": -122.201852,
     "LastDate": "2017-10-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -10148,7 +10148,7 @@ locationIndexCallback([
     "Lat": 37.431864,
     "Long": -122.201711,
     "LastDate": "2017-10-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -10166,7 +10166,7 @@ locationIndexCallback([
     "Lat": 37.43168,
     "Long": -122.201361,
     "LastDate": "2016-11-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -10175,7 +10175,7 @@ locationIndexCallback([
     "Lat": 37.431655,
     "Long": -122.201314,
     "LastDate": "2017-10-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -10184,7 +10184,7 @@ locationIndexCallback([
     "Lat": 37.431407439000054,
     "Long": -122.20183835299997,
     "LastDate": "2015-06-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10193,7 +10193,7 @@ locationIndexCallback([
     "Lat": 37.430919,
     "Long": -122.192518,
     "LastDate": "2017-09-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10220,7 +10220,7 @@ locationIndexCallback([
     "Lat": 37.430108,
     "Long": -122.436039,
     "LastDate": "2017-02-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10229,7 +10229,7 @@ locationIndexCallback([
     "Lat": 37.429735,
     "Long": -122.2039,
     "LastDate": "2017-09-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -10238,7 +10238,7 @@ locationIndexCallback([
     "Lat": 37.42960878500003,
     "Long": -122.24911626699998,
     "LastDate": "2016-04-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -10247,16 +10247,16 @@ locationIndexCallback([
     "Lat": 37.429466,
     "Long": -122.254841,
     "LastDate": "2016-01-29",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0001139",
+    "Id": "PR0065029",
     "Name": "ROBERTS OF WOODSIDE",
     "Lat": 37.429456,
     "Long": -122.254872,
     "LastDate": "2017-02-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -10265,7 +10265,7 @@ locationIndexCallback([
     "Lat": 37.429418,
     "Long": -122.254995,
     "LastDate": "2017-11-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -10274,7 +10274,7 @@ locationIndexCallback([
     "Lat": 37.429408,
     "Long": -122.255028,
     "LastDate": "2016-05-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10283,16 +10283,16 @@ locationIndexCallback([
     "Lat": 37.429408,
     "Long": -122.255028,
     "LastDate": "2017-11-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
-    "Id": "PR0074309",
+    "Id": "PR0080621",
     "Name": "HIGH NOTE COFFEE",
     "Lat": 37.429295341000056,
     "Long": -122.25311781399995,
     "LastDate": "2015-06-06",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10301,7 +10301,7 @@ locationIndexCallback([
     "Lat": 37.429268,
     "Long": -122.25294,
     "LastDate": "2017-10-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -10310,7 +10310,7 @@ locationIndexCallback([
     "Lat": 37.42926432300004,
     "Long": -122.25303782499998,
     "LastDate": "2014-03-25",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -10319,7 +10319,7 @@ locationIndexCallback([
     "Lat": 37.429219,
     "Long": -122.250539,
     "LastDate": "2016-08-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -10328,7 +10328,7 @@ locationIndexCallback([
     "Lat": 37.429178,
     "Long": -122.251523,
     "LastDate": "2017-11-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -10337,7 +10337,7 @@ locationIndexCallback([
     "Lat": 37.428786,
     "Long": -122.200425,
     "LastDate": "2017-09-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10346,7 +10346,7 @@ locationIndexCallback([
     "Lat": 37.42877493300006,
     "Long": -122.25712295999995,
     "LastDate": "2014-08-23",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10355,7 +10355,7 @@ locationIndexCallback([
     "Lat": 37.428202,
     "Long": -122.259031,
     "LastDate": "2017-08-31",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10364,7 +10364,7 @@ locationIndexCallback([
     "Lat": 37.42815352300005,
     "Long": -122.25912072099999,
     "LastDate": "2014-06-29",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10373,7 +10373,7 @@ locationIndexCallback([
     "Lat": 37.42782426000008,
     "Long": -122.20071945099994,
     "LastDate": "2017-06-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -10382,7 +10382,7 @@ locationIndexCallback([
     "Lat": 37.426764,
     "Long": -122.263791,
     "LastDate": "2016-07-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -10400,7 +10400,7 @@ locationIndexCallback([
     "Lat": 37.42439932100007,
     "Long": -122.19719875099997,
     "LastDate": "2015-12-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10409,7 +10409,7 @@ locationIndexCallback([
     "Lat": 37.424231,
     "Long": -122.198055,
     "LastDate": "2017-06-23",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10418,7 +10418,7 @@ locationIndexCallback([
     "Lat": 37.424231,
     "Long": -122.198055,
     "LastDate": "2017-10-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -10427,7 +10427,7 @@ locationIndexCallback([
     "Lat": 37.424231,
     "Long": -122.198055,
     "LastDate": "2017-10-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -10436,7 +10436,7 @@ locationIndexCallback([
     "Lat": 37.424231,
     "Long": -122.198055,
     "LastDate": "2017-09-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -10445,7 +10445,7 @@ locationIndexCallback([
     "Lat": 37.424231,
     "Long": -122.198055,
     "LastDate": "2017-10-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -10454,7 +10454,7 @@ locationIndexCallback([
     "Lat": 37.424231,
     "Long": -122.198055,
     "LastDate": "2017-12-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -10463,7 +10463,7 @@ locationIndexCallback([
     "Lat": 37.424231,
     "Long": -122.198055,
     "LastDate": "2017-10-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10472,7 +10472,7 @@ locationIndexCallback([
     "Lat": 37.424229,
     "Long": -122.198063,
     "LastDate": "2016-08-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 20
   },
   {
@@ -10481,16 +10481,16 @@ locationIndexCallback([
     "Lat": 37.424229,
     "Long": -122.198063,
     "LastDate": "2016-06-21",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 5
   },
   {
-    "Id": "PR0000464",
+    "Id": "PR0080293",
     "Name": "SAFEWAY STORE #1709",
     "Lat": 37.424229,
     "Long": -122.198063,
     "LastDate": "2015-12-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10508,7 +10508,7 @@ locationIndexCallback([
     "Lat": 37.424086,
     "Long": -122.195836,
     "LastDate": "2017-09-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10517,16 +10517,16 @@ locationIndexCallback([
     "Lat": 37.423243,
     "Long": -122.220669,
     "LastDate": "2017-12-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
-    "Id": "PR0025623",
+    "Id": "PR0083465",
     "Name": "SHARON HEIGHTS GOLF \u0026 COUNTRY",
     "Lat": 37.423191,
     "Long": -122.221332,
     "LastDate": "2017-10-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 12
   },
   {
@@ -10535,7 +10535,7 @@ locationIndexCallback([
     "Lat": 37.42153630800004,
     "Long": -122.20275724999999,
     "LastDate": "2014-07-14",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -10544,7 +10544,7 @@ locationIndexCallback([
     "Lat": 37.421444938000036,
     "Long": -122.214332679,
     "LastDate": "2014-06-30",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -10553,7 +10553,7 @@ locationIndexCallback([
     "Lat": 37.421215405000055,
     "Long": -122.20432648099995,
     "LastDate": "2014-06-24",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -10562,7 +10562,7 @@ locationIndexCallback([
     "Lat": 37.421215405000055,
     "Long": -122.20432648099995,
     "LastDate": "2014-06-24",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10571,7 +10571,7 @@ locationIndexCallback([
     "Lat": 37.421069,
     "Long": -122.20587,
     "LastDate": "2017-10-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -10580,7 +10580,7 @@ locationIndexCallback([
     "Lat": 37.42098,
     "Long": -122.207195,
     "LastDate": "2017-09-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -10589,7 +10589,7 @@ locationIndexCallback([
     "Lat": 37.420704,
     "Long": -122.323957,
     "LastDate": "2017-08-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10598,7 +10598,7 @@ locationIndexCallback([
     "Lat": 37.420482,
     "Long": -122.2109,
     "LastDate": "2017-12-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -10607,7 +10607,7 @@ locationIndexCallback([
     "Lat": 37.420434,
     "Long": -122.209616,
     "LastDate": "2016-04-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10616,16 +10616,16 @@ locationIndexCallback([
     "Lat": 37.420343357000036,
     "Long": -122.21249018099996,
     "LastDate": "2015-03-31",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
-    "Id": "PR0052068",
+    "Id": "PR0075735",
     "Name": "ROSEWOOD SAND HILL HOTEL \u0026 SPA",
     "Lat": 37.420342,
     "Long": -122.21205,
     "LastDate": "2017-12-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 9
   },
   {
@@ -10634,7 +10634,7 @@ locationIndexCallback([
     "Lat": 37.415488,
     "Long": -122.076438,
     "LastDate": "2017-02-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10652,7 +10652,7 @@ locationIndexCallback([
     "Lat": 37.41439,
     "Long": -122.401281,
     "LastDate": "2017-09-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -10697,7 +10697,7 @@ locationIndexCallback([
     "Lat": 37.40769263100003,
     "Long": -122.24542973299998,
     "LastDate": "2015-06-06",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10706,7 +10706,7 @@ locationIndexCallback([
     "Lat": 37.40437273100008,
     "Long": -122.08916030599994,
     "LastDate": "2015-05-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10724,7 +10724,7 @@ locationIndexCallback([
     "Lat": 37.403124,
     "Long": -122.193081,
     "LastDate": "2016-12-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10733,7 +10733,7 @@ locationIndexCallback([
     "Lat": 37.402779,
     "Long": -122.286323,
     "LastDate": "2017-09-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10742,7 +10742,7 @@ locationIndexCallback([
     "Lat": 37.40139869200004,
     "Long": -122.19266402,
     "LastDate": "2013-12-17",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -10760,7 +10760,7 @@ locationIndexCallback([
     "Lat": 37.401205,
     "Long": -122.192613,
     "LastDate": "2016-02-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10769,7 +10769,7 @@ locationIndexCallback([
     "Lat": 37.401179,
     "Long": -122.192612,
     "LastDate": "2017-10-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -10778,7 +10778,7 @@ locationIndexCallback([
     "Lat": 37.401179,
     "Long": -122.192612,
     "LastDate": "2017-11-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 8
   },
   {
@@ -10787,7 +10787,7 @@ locationIndexCallback([
     "Lat": 37.401179,
     "Long": -122.192612,
     "LastDate": "2017-11-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -10796,7 +10796,7 @@ locationIndexCallback([
     "Lat": 37.401179,
     "Long": -122.192612,
     "LastDate": "2017-05-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -10805,7 +10805,7 @@ locationIndexCallback([
     "Lat": 37.401179,
     "Long": -122.192612,
     "LastDate": "2017-11-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 9
   },
   {
@@ -10814,7 +10814,7 @@ locationIndexCallback([
     "Lat": 37.401178,
     "Long": -122.192612,
     "LastDate": "2017-01-10",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10823,7 +10823,7 @@ locationIndexCallback([
     "Lat": 37.400176,
     "Long": -122.192572,
     "LastDate": "2016-01-26",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -10832,7 +10832,7 @@ locationIndexCallback([
     "Lat": 37.400176,
     "Long": -122.192572,
     "LastDate": "2017-11-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -10850,7 +10850,7 @@ locationIndexCallback([
     "Lat": 37.397938,
     "Long": -122.192468,
     "LastDate": "2016-08-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10859,7 +10859,7 @@ locationIndexCallback([
     "Lat": 37.395598,
     "Long": -122.080661,
     "LastDate": "2017-06-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10868,7 +10868,7 @@ locationIndexCallback([
     "Lat": 37.39529735900004,
     "Long": -122.20583920999997,
     "LastDate": "2013-06-08",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10877,7 +10877,7 @@ locationIndexCallback([
     "Lat": 37.39381961400005,
     "Long": -122.28804190799997,
     "LastDate": "2014-01-07",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -10886,7 +10886,7 @@ locationIndexCallback([
     "Lat": 37.393359,
     "Long": -122.083423,
     "LastDate": "2017-03-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -10895,7 +10895,7 @@ locationIndexCallback([
     "Lat": 37.392284,
     "Long": -122.285623,
     "LastDate": "2016-09-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -10904,7 +10904,7 @@ locationIndexCallback([
     "Lat": 37.388134,
     "Long": -122.245041,
     "LastDate": "2016-04-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10931,8 +10931,8 @@ locationIndexCallback([
     "Lat": 37.38702,
     "Long": -122.265271,
     "LastDate": "2017-09-07",
-    "LastResult": 49,
-    "LastViolations": 3
+    "LastResult": 2,
+    "LastViolations": 8
   },
   {
     "Id": "PR0001145",
@@ -10940,7 +10940,7 @@ locationIndexCallback([
     "Lat": 37.386995,
     "Long": -122.265231,
     "LastDate": "2017-04-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -10949,7 +10949,7 @@ locationIndexCallback([
     "Lat": 37.386994,
     "Long": -122.265229,
     "LastDate": "2017-04-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -10958,7 +10958,7 @@ locationIndexCallback([
     "Lat": 37.38690589300006,
     "Long": -122.08993708099996,
     "LastDate": "2013-01-02",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10967,7 +10967,7 @@ locationIndexCallback([
     "Lat": 37.385645,
     "Long": -121.905802,
     "LastDate": "2017-02-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10976,7 +10976,7 @@ locationIndexCallback([
     "Lat": 37.383983,
     "Long": -121.948356,
     "LastDate": "2016-02-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -10994,7 +10994,7 @@ locationIndexCallback([
     "Lat": 37.383006,
     "Long": -122.232053,
     "LastDate": "2016-12-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -11003,7 +11003,7 @@ locationIndexCallback([
     "Lat": 37.38256,
     "Long": -122.193963,
     "LastDate": "2016-12-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -11012,7 +11012,7 @@ locationIndexCallback([
     "Lat": 37.382451,
     "Long": -121.944391,
     "LastDate": "2016-02-02",
-    "LastResult": 55,
+    "LastResult": 3,
     "LastViolations": 1
   },
   {
@@ -11021,7 +11021,7 @@ locationIndexCallback([
     "Lat": 37.382451,
     "Long": -121.944391,
     "LastDate": "2016-03-07",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11039,7 +11039,7 @@ locationIndexCallback([
     "Lat": 37.382451,
     "Long": -121.944391,
     "LastDate": "2015-09-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -11048,7 +11048,7 @@ locationIndexCallback([
     "Lat": 37.382451,
     "Long": -121.944391,
     "LastDate": "2016-02-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11057,7 +11057,7 @@ locationIndexCallback([
     "Lat": 37.382393,
     "Long": -121.944355,
     "LastDate": "2017-08-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11079,12 +11079,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0080040",
+    "Id": "PR0077465",
     "Name": "HULA TRUCK",
     "Lat": 37.382393,
     "Long": -121.944355,
     "LastDate": "2017-10-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11093,7 +11093,7 @@ locationIndexCallback([
     "Lat": 37.382393,
     "Long": -121.944355,
     "LastDate": "2017-09-13",
-    "LastResult": 55,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -11102,7 +11102,7 @@ locationIndexCallback([
     "Lat": 37.382393,
     "Long": -121.944355,
     "LastDate": "2017-10-28",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 3
   },
   {
@@ -11111,7 +11111,7 @@ locationIndexCallback([
     "Lat": 37.382393,
     "Long": -121.944355,
     "LastDate": "2017-09-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -11120,8 +11120,8 @@ locationIndexCallback([
     "Lat": 37.382393,
     "Long": -121.944355,
     "LastDate": "2017-03-06",
-    "LastResult": 0,
-    "LastViolations": 0
+    "LastResult": 1,
+    "LastViolations": 1
   },
   {
     "Id": "PR0081452",
@@ -11129,7 +11129,7 @@ locationIndexCallback([
     "Lat": 37.382393,
     "Long": -121.944355,
     "LastDate": "2017-11-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11174,7 +11174,7 @@ locationIndexCallback([
     "Lat": 37.382393,
     "Long": -121.944355,
     "LastDate": "2017-05-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11192,7 +11192,7 @@ locationIndexCallback([
     "Lat": 37.38238,
     "Long": -122.40186,
     "LastDate": "2017-10-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -11201,16 +11201,7 @@ locationIndexCallback([
     "Lat": 37.381517,
     "Long": -122.218557,
     "LastDate": "2017-09-05",
-    "LastResult": 49,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0063327",
-    "Name": "TOWN OF PORTOLA VALLEY",
-    "Lat": 37.381084,
-    "Long": -122.226718,
-    "LastDate": "2015-12-17",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11219,8 +11210,17 @@ locationIndexCallback([
     "Lat": 37.381084,
     "Long": -122.226718,
     "LastDate": "2017-11-30",
-    "LastResult": 49,
-    "LastViolations": 1
+    "LastResult": 1,
+    "LastViolations": 3
+  },
+  {
+    "Id": "PR0081947",
+    "Name": "TOWN OF PORTOLA VALLEY",
+    "Lat": 37.381084,
+    "Long": -122.226718,
+    "LastDate": "2015-12-17",
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0085167",
@@ -11228,7 +11228,7 @@ locationIndexCallback([
     "Lat": 37.381084,
     "Long": -122.226718,
     "LastDate": "2017-10-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11237,16 +11237,16 @@ locationIndexCallback([
     "Lat": 37.380586,
     "Long": -122.115639,
     "LastDate": "2017-09-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
-    "Id": "PR0071591",
+    "Id": "PR0076664",
     "Name": "Girl Scout Troop 61712 \u0026 32859",
     "Lat": 37.378457913000034,
     "Long": -122.196738488,
     "LastDate": "2014-06-07",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11255,7 +11255,7 @@ locationIndexCallback([
     "Lat": 37.377326,
     "Long": -121.823234,
     "LastDate": "2016-06-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -11264,7 +11264,7 @@ locationIndexCallback([
     "Lat": 37.377325,
     "Long": -122.198861,
     "LastDate": "2017-10-25",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 8
   },
   {
@@ -11291,7 +11291,7 @@ locationIndexCallback([
     "Lat": 37.37525341700007,
     "Long": -122.22148258799996,
     "LastDate": "2015-06-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -11300,7 +11300,7 @@ locationIndexCallback([
     "Lat": 37.374741,
     "Long": -122.089878,
     "LastDate": "2015-12-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11318,7 +11318,7 @@ locationIndexCallback([
     "Lat": 37.37466460100006,
     "Long": -122.21520380399994,
     "LastDate": "2013-06-08",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11336,7 +11336,7 @@ locationIndexCallback([
     "Lat": 37.373904,
     "Long": -122.213423,
     "LastDate": "2017-09-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -11345,7 +11345,7 @@ locationIndexCallback([
     "Lat": 37.372546,
     "Long": -122.206951,
     "LastDate": "2015-09-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11354,7 +11354,7 @@ locationIndexCallback([
     "Lat": 37.372243,
     "Long": -122.208865,
     "LastDate": "2016-12-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11363,7 +11363,7 @@ locationIndexCallback([
     "Lat": 37.371997,
     "Long": -122.208526,
     "LastDate": "2016-12-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -11373,15 +11373,6 @@ locationIndexCallback([
     "Long": -122.21016602799995,
     "LastDate": "2015-03-19",
     "LastResult": 0,
-    "LastViolations": 0
-  },
-  {
-    "Id": "PR0066947",
-    "Name": "TACOS Y HAMBURQUESAS",
-    "Lat": 37.371059,
-    "Long": -121.905338,
-    "LastDate": "2016-02-29",
-    "LastResult": 49,
     "LastViolations": 0
   },
   {
@@ -11399,7 +11390,7 @@ locationIndexCallback([
     "Lat": 37.370968,
     "Long": -121.905238,
     "LastDate": "2017-04-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11408,7 +11399,7 @@ locationIndexCallback([
     "Lat": 37.370968,
     "Long": -121.905238,
     "LastDate": "2017-02-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11417,7 +11408,7 @@ locationIndexCallback([
     "Lat": 37.370968,
     "Long": -121.905238,
     "LastDate": "2017-03-22",
-    "LastResult": 0,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11426,7 +11417,7 @@ locationIndexCallback([
     "Lat": 37.37012461100005,
     "Long": -122.21090924999999,
     "LastDate": "2013-06-08",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11435,7 +11426,7 @@ locationIndexCallback([
     "Lat": 37.36967637300006,
     "Long": -121.89701270399996,
     "LastDate": "2015-04-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -11444,7 +11435,7 @@ locationIndexCallback([
     "Lat": 37.369539,
     "Long": -121.897302,
     "LastDate": "2017-03-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -11453,17 +11444,17 @@ locationIndexCallback([
     "Lat": 37.369539,
     "Long": -121.897302,
     "LastDate": "2017-11-21",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 3
   },
   {
-    "Id": "PR0001912",
+    "Id": "PR0027503",
     "Name": "LEE CATERING",
     "Lat": 37.369539,
     "Long": -121.897302,
     "LastDate": "2017-06-07",
-    "LastResult": 0,
-    "LastViolations": 0
+    "LastResult": 1,
+    "LastViolations": 1
   },
   {
     "Id": "PR0060683",
@@ -11471,17 +11462,8 @@ locationIndexCallback([
     "Lat": 37.369539,
     "Long": -121.897302,
     "LastDate": "2017-02-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
-  },
-  {
-    "Id": "PR0074011",
-    "Name": "BETOS TACOS",
-    "Lat": 37.369539,
-    "Long": -121.897302,
-    "LastDate": "2017-07-27",
-    "LastResult": 49,
-    "LastViolations": 0
   },
   {
     "Id": "PR0074016",
@@ -11489,7 +11471,7 @@ locationIndexCallback([
     "Lat": 37.369539,
     "Long": -121.897302,
     "LastDate": "2017-07-11",
-    "LastResult": 55,
+    "LastResult": 3,
     "LastViolations": 2
   },
   {
@@ -11511,12 +11493,21 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
+    "Id": "PR0082461",
+    "Name": "BETOS TACOS",
+    "Lat": 37.369539,
+    "Long": -121.897302,
+    "LastDate": "2017-07-27",
+    "LastResult": 1,
+    "LastViolations": 0
+  },
+  {
     "Id": "PR0082518",
     "Name": "THE BABA KABOB TRUCK",
     "Lat": 37.369539,
     "Long": -121.897302,
     "LastDate": "2017-03-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -11525,7 +11516,7 @@ locationIndexCallback([
     "Lat": 37.369539,
     "Long": -121.897302,
     "LastDate": "2016-09-07",
-    "LastResult": 55,
+    "LastResult": 3,
     "LastViolations": 3
   },
   {
@@ -11534,7 +11525,7 @@ locationIndexCallback([
     "Lat": 37.369539,
     "Long": -121.897302,
     "LastDate": "2017-10-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -11552,7 +11543,7 @@ locationIndexCallback([
     "Lat": 37.36938,
     "Long": -121.897536,
     "LastDate": "2016-02-19",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -11579,7 +11570,7 @@ locationIndexCallback([
     "Lat": 37.36938,
     "Long": -121.897536,
     "LastDate": "2016-02-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -11588,7 +11579,7 @@ locationIndexCallback([
     "Lat": 37.368863,
     "Long": -121.898299,
     "LastDate": "2017-01-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11597,7 +11588,7 @@ locationIndexCallback([
     "Lat": 37.368674,
     "Long": -122.212707,
     "LastDate": "2017-09-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -11615,7 +11606,7 @@ locationIndexCallback([
     "Lat": 37.366875,
     "Long": -122.386546,
     "LastDate": "2016-05-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11642,7 +11633,7 @@ locationIndexCallback([
     "Lat": 37.361074,
     "Long": -121.899385,
     "LastDate": "2016-06-12",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11651,7 +11642,7 @@ locationIndexCallback([
     "Lat": 37.361074,
     "Long": -121.899385,
     "LastDate": "2017-02-08",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -11660,7 +11651,7 @@ locationIndexCallback([
     "Lat": 37.361074,
     "Long": -121.899385,
     "LastDate": "2017-03-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -11669,7 +11660,7 @@ locationIndexCallback([
     "Lat": 37.361074,
     "Long": -121.899385,
     "LastDate": "2016-05-24",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -11678,7 +11669,7 @@ locationIndexCallback([
     "Lat": 37.361074,
     "Long": -121.899385,
     "LastDate": "2017-03-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11696,7 +11687,7 @@ locationIndexCallback([
     "Lat": 37.361023,
     "Long": -121.899493,
     "LastDate": "2016-02-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11705,7 +11696,7 @@ locationIndexCallback([
     "Lat": 37.352432,
     "Long": -121.965303,
     "LastDate": "2017-05-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11714,7 +11705,7 @@ locationIndexCallback([
     "Lat": 37.35219,
     "Long": -122.000339,
     "LastDate": "2017-09-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -11727,12 +11718,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0028634",
+    "Id": "PR0028633",
     "Name": "NICE ICE CREAM",
     "Lat": 37.343221,
     "Long": -121.864053,
     "LastDate": "2017-07-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11741,7 +11732,7 @@ locationIndexCallback([
     "Lat": 37.340726,
     "Long": -122.29023,
     "LastDate": "2017-09-21",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -11759,7 +11750,7 @@ locationIndexCallback([
     "Lat": 37.336746,
     "Long": -121.976191,
     "LastDate": "2015-12-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11777,7 +11768,7 @@ locationIndexCallback([
     "Lat": 37.336242,
     "Long": -121.904307,
     "LastDate": "2017-03-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11786,7 +11777,7 @@ locationIndexCallback([
     "Lat": 37.335489,
     "Long": -121.903365,
     "LastDate": "2016-02-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -11795,7 +11786,7 @@ locationIndexCallback([
     "Lat": 37.334724,
     "Long": -121.992789,
     "LastDate": "2015-08-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11822,7 +11813,7 @@ locationIndexCallback([
     "Lat": 37.330377,
     "Long": -121.801308,
     "LastDate": "2015-12-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11831,8 +11822,8 @@ locationIndexCallback([
     "Lat": 37.328142,
     "Long": -122.386755,
     "LastDate": "2017-11-02",
-    "LastResult": 49,
-    "LastViolations": 1
+    "LastResult": 1,
+    "LastViolations": 5
   },
   {
     "Id": "PR0075680",
@@ -11858,7 +11849,7 @@ locationIndexCallback([
     "Lat": 37.322288,
     "Long": -121.911308,
     "LastDate": "2017-01-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11885,7 +11876,7 @@ locationIndexCallback([
     "Lat": 37.318701,
     "Long": -122.274317,
     "LastDate": "2016-09-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -11894,7 +11885,7 @@ locationIndexCallback([
     "Lat": 37.317993,
     "Long": -121.92488,
     "LastDate": "2015-08-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -11903,7 +11894,7 @@ locationIndexCallback([
     "Lat": 37.314989,
     "Long": -122.26213,
     "LastDate": "2017-11-06",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11912,7 +11903,7 @@ locationIndexCallback([
     "Lat": 37.314251617000025,
     "Long": -121.90542132099995,
     "LastDate": "2015-06-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11921,7 +11912,7 @@ locationIndexCallback([
     "Lat": 37.313487,
     "Long": -121.814916,
     "LastDate": "2017-05-10",
-    "LastResult": 0,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11930,8 +11921,8 @@ locationIndexCallback([
     "Lat": 37.31237149000003,
     "Long": -122.28896231099998,
     "LastDate": "2017-11-02",
-    "LastResult": 49,
-    "LastViolations": 0
+    "LastResult": 1,
+    "LastViolations": 5
   },
   {
     "Id": "PR0067243",
@@ -11948,7 +11939,7 @@ locationIndexCallback([
     "Lat": 37.306597,
     "Long": -122.269396,
     "LastDate": "2017-12-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -11957,7 +11948,7 @@ locationIndexCallback([
     "Lat": 37.30386,
     "Long": -121.853709,
     "LastDate": "2017-03-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11966,7 +11957,7 @@ locationIndexCallback([
     "Lat": 37.30349621900007,
     "Long": -121.85409251099998,
     "LastDate": "2015-05-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -11984,8 +11975,8 @@ locationIndexCallback([
     "Lat": 37.299653,
     "Long": -122.276389,
     "LastDate": "2017-07-20",
-    "LastResult": 49,
-    "LastViolations": 1
+    "LastResult": 1,
+    "LastViolations": 6
   },
   {
     "Id": "PR0085145",
@@ -12002,7 +11993,7 @@ locationIndexCallback([
     "Lat": 37.29393343300006,
     "Long": -121.81320955199999,
     "LastDate": "2015-05-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12020,7 +12011,7 @@ locationIndexCallback([
     "Lat": 37.293259,
     "Long": -121.84406,
     "LastDate": "2015-08-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12029,7 +12020,7 @@ locationIndexCallback([
     "Lat": 37.292249,
     "Long": -121.921252,
     "LastDate": "2015-08-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12038,7 +12029,7 @@ locationIndexCallback([
     "Lat": 37.29181784300005,
     "Long": -121.82629255999996,
     "LastDate": "2015-06-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12047,16 +12038,16 @@ locationIndexCallback([
     "Lat": 37.29172854800004,
     "Long": -122.23411739899996,
     "LastDate": "2014-05-17",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0062604",
+    "Id": "PR0062605",
     "Name": "LA HONDA FIRE BRIGADE",
     "Lat": 37.29172854800004,
     "Long": -122.23411739899996,
     "LastDate": "2015-04-11",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12065,7 +12056,7 @@ locationIndexCallback([
     "Lat": 37.29172854800004,
     "Long": -122.23411739899996,
     "LastDate": "2015-09-12",
-    "LastResult": 0,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12074,7 +12065,7 @@ locationIndexCallback([
     "Lat": 37.29104638200005,
     "Long": -121.91347771799997,
     "LastDate": "2017-06-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12087,7 +12078,7 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0059019",
+    "Id": "PR0074149",
     "Name": "BUTLER AMUSEMENTS",
     "Lat": 37.28946834100003,
     "Long": -121.92005949199995,
@@ -12110,7 +12101,7 @@ locationIndexCallback([
     "Lat": 37.27796673100005,
     "Long": -122.28627207999995,
     "LastDate": "2017-06-26",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12119,7 +12110,7 @@ locationIndexCallback([
     "Lat": 37.27772340200005,
     "Long": -122.29299710099997,
     "LastDate": "2015-04-30",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -12128,7 +12119,7 @@ locationIndexCallback([
     "Lat": 37.276815,
     "Long": -122.287276,
     "LastDate": "2016-08-09",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -12150,7 +12141,7 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0080835",
+    "Id": "PR0080833",
     "Name": "LAY M LOW AKA RETRAINING THE VILLAGE",
     "Lat": 37.271223,
     "Long": -121.939572,
@@ -12164,8 +12155,8 @@ locationIndexCallback([
     "Lat": 37.270998,
     "Long": -122.282391,
     "LastDate": "2017-06-29",
-    "LastResult": 49,
-    "LastViolations": 5
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0077279",
@@ -12177,12 +12168,12 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0068399",
+    "Id": "PR0077143",
     "Name": "KIDDING AROUND WITH CHOCOLATE",
     "Lat": 37.267308,
     "Long": -122.210342,
     "LastDate": "2015-08-24",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12191,7 +12182,7 @@ locationIndexCallback([
     "Lat": 37.256666,
     "Long": -122.370748,
     "LastDate": "2016-03-11",
-    "LastResult": 50,
+    "LastResult": 2,
     "LastViolations": 3
   },
   {
@@ -12200,7 +12191,7 @@ locationIndexCallback([
     "Lat": 37.256071,
     "Long": -122.378004,
     "LastDate": "2017-08-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -12218,7 +12209,7 @@ locationIndexCallback([
     "Lat": 37.254589,
     "Long": -122.383203,
     "LastDate": "2017-04-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -12227,7 +12218,7 @@ locationIndexCallback([
     "Lat": 37.253376,
     "Long": -122.383165,
     "LastDate": "2017-10-23",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -12236,8 +12227,8 @@ locationIndexCallback([
     "Lat": 37.252887,
     "Long": -122.383118,
     "LastDate": "2016-06-08",
-    "LastResult": 52,
-    "LastViolations": 6
+    "LastResult": 1,
+    "LastViolations": 7
   },
   {
     "Id": "PR0085456",
@@ -12245,7 +12236,7 @@ locationIndexCallback([
     "Lat": 37.252811,
     "Long": -122.377363,
     "LastDate": "2017-10-23",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12263,7 +12254,7 @@ locationIndexCallback([
     "Lat": 37.252288,
     "Long": -122.383033,
     "LastDate": "2016-09-27",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12272,7 +12263,7 @@ locationIndexCallback([
     "Lat": 37.251942,
     "Long": -122.38298,
     "LastDate": "2017-10-23",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 9
   },
   {
@@ -12281,7 +12272,7 @@ locationIndexCallback([
     "Lat": 37.251595,
     "Long": -122.383327,
     "LastDate": "2017-01-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -12290,7 +12281,7 @@ locationIndexCallback([
     "Lat": 37.247209,
     "Long": -122.362891,
     "LastDate": "2017-08-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -12299,7 +12290,7 @@ locationIndexCallback([
     "Lat": 37.246882,
     "Long": -122.365594,
     "LastDate": "2017-09-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12317,8 +12308,8 @@ locationIndexCallback([
     "Lat": 37.226586,
     "Long": -122.329847,
     "LastDate": "2017-06-07",
-    "LastResult": 49,
-    "LastViolations": 1
+    "LastResult": 1,
+    "LastViolations": 2
   },
   {
     "Id": "PR0065245",
@@ -12344,7 +12335,7 @@ locationIndexCallback([
     "Lat": 37.21891929000003,
     "Long": -122.35220595799996,
     "LastDate": "2015-03-27",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12353,7 +12344,7 @@ locationIndexCallback([
     "Lat": 37.21891929000003,
     "Long": -122.35220595799996,
     "LastDate": "2015-08-15",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12362,7 +12353,7 @@ locationIndexCallback([
     "Lat": 37.21891929000003,
     "Long": -122.35220595799996,
     "LastDate": "2014-08-16",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12371,7 +12362,7 @@ locationIndexCallback([
     "Lat": 37.21891929000003,
     "Long": -122.35220595799996,
     "LastDate": "2014-08-16",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12380,7 +12371,7 @@ locationIndexCallback([
     "Lat": 37.21891929000003,
     "Long": -122.35220595799996,
     "LastDate": "2014-08-16",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12398,7 +12389,7 @@ locationIndexCallback([
     "Lat": 37.21891929000003,
     "Long": -122.35220595799996,
     "LastDate": "2013-08-17",
-    "LastResult": 51,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12416,7 +12407,7 @@ locationIndexCallback([
     "Lat": 37.214899,
     "Long": -122.222187,
     "LastDate": "2017-06-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -12434,7 +12425,7 @@ locationIndexCallback([
     "Lat": 37.18378842300007,
     "Long": -122.38450319599997,
     "LastDate": "2014-12-04",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -12443,7 +12434,7 @@ locationIndexCallback([
     "Lat": 37.16537335100003,
     "Long": -122.36055839399995,
     "LastDate": "2015-03-26",
-    "LastResult": 52,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -12452,7 +12443,7 @@ locationIndexCallback([
     "Lat": 37.165049,
     "Long": -122.360474,
     "LastDate": "2017-04-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -12461,7 +12452,7 @@ locationIndexCallback([
     "Lat": 37.151857,
     "Long": -122.346646,
     "LastDate": "2017-10-17",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12470,8 +12461,8 @@ locationIndexCallback([
     "Lat": 37.120784,
     "Long": -122.305772,
     "LastDate": "2017-06-06",
-    "LastResult": 49,
-    "LastViolations": 1
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0001339",
@@ -12479,7 +12470,7 @@ locationIndexCallback([
     "Lat": 37.120725,
     "Long": -122.305742,
     "LastDate": "2017-05-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 4
   },
   {
@@ -12488,7 +12479,7 @@ locationIndexCallback([
     "Lat": 37.120698,
     "Long": -122.305728,
     "LastDate": "2017-05-22",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12497,7 +12488,7 @@ locationIndexCallback([
     "Lat": 37.12029,
     "Long": -122.305523,
     "LastDate": "2017-06-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -12506,7 +12497,7 @@ locationIndexCallback([
     "Lat": 37.117374,
     "Long": -122.304036,
     "LastDate": "2017-05-11",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -12515,7 +12506,7 @@ locationIndexCallback([
     "Lat": 37.113517,
     "Long": -122.300093,
     "LastDate": "2017-08-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 7
   },
   {
@@ -12524,7 +12515,7 @@ locationIndexCallback([
     "Lat": 37.113261,
     "Long": -122.299642,
     "LastDate": "2017-10-18",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -12533,7 +12524,7 @@ locationIndexCallback([
     "Lat": 37.10357417200004,
     "Long": -121.65100168899994,
     "LastDate": "2015-05-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12542,7 +12533,7 @@ locationIndexCallback([
     "Lat": 37.097668,
     "Long": -121.64742,
     "LastDate": "2015-12-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12587,11 +12578,11 @@ locationIndexCallback([
     "Lat": 36.970906,
     "Long": -122.017402,
     "LastDate": "2017-02-28",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0061056",
+    "Id": "PR0080761",
     "Name": "BECKMANNS OLD WORLD BAKERY",
     "Lat": 36.968324,
     "Long": -122.006736,
@@ -12605,7 +12596,7 @@ locationIndexCallback([
     "Lat": 36.967730517000064,
     "Long": -121.76504417199999,
     "LastDate": "2015-05-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12614,7 +12605,7 @@ locationIndexCallback([
     "Lat": 36.9515,
     "Long": -76.3294,
     "LastDate": "2015-10-20",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12632,7 +12623,7 @@ locationIndexCallback([
     "Lat": 36.884604,
     "Long": -121.392413,
     "LastDate": "2016-06-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 3
   },
   {
@@ -12650,7 +12641,7 @@ locationIndexCallback([
     "Lat": 36.850124,
     "Long": -119.805839,
     "LastDate": "2015-08-15",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12677,7 +12668,7 @@ locationIndexCallback([
     "Lat": 36.69217900900003,
     "Long": -121.59923570399997,
     "LastDate": "2015-05-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12686,7 +12677,7 @@ locationIndexCallback([
     "Lat": 36.674802,
     "Long": -121.794297,
     "LastDate": "2015-08-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12695,7 +12686,7 @@ locationIndexCallback([
     "Lat": 36.651769,
     "Long": -119.521181,
     "LastDate": "2015-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12704,7 +12695,7 @@ locationIndexCallback([
     "Lat": 36.456491963000076,
     "Long": -103.82868620399995,
     "LastDate": "2016-07-27",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 9
   },
   {
@@ -12713,8 +12704,17 @@ locationIndexCallback([
     "Lat": 36.384529,
     "Long": -83.013297,
     "LastDate": "2016-12-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 6
+  },
+  {
+    "Id": "PR0065001",
+    "Name": "WOLD AMUSEMENT",
+    "Lat": 36.33025704000005,
+    "Long": -119.64765728499998,
+    "LastDate": "2015-10-10",
+    "LastResult": 1,
+    "LastViolations": 0
   },
   {
     "Id": "PR0065244",
@@ -12726,7 +12726,7 @@ locationIndexCallback([
     "LastViolations": 0
   },
   {
-    "Id": "PR0077988",
+    "Id": "PR0077989",
     "Name": "CABALLERA PRODUCTIONS INC",
     "Lat": 36.047551,
     "Long": -115.161115,
@@ -12740,7 +12740,7 @@ locationIndexCallback([
     "Lat": 35.855441,
     "Long": -83.569372,
     "LastDate": "2017-05-04",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12749,11 +12749,11 @@ locationIndexCallback([
     "Lat": 35.638866,
     "Long": -120.66469,
     "LastDate": "2015-11-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
-    "Id": "PR0063058",
+    "Id": "PR0063059",
     "Name": "BIG BUBBAS BAD BBQ/CHURROS",
     "Lat": 35.620496047000074,
     "Long": -120.68959829399995,
@@ -12785,7 +12785,7 @@ locationIndexCallback([
     "Lat": 35.576751,
     "Long": -82.568149,
     "LastDate": "2015-11-14",
-    "LastResult": 0,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12803,7 +12803,7 @@ locationIndexCallback([
     "Lat": 35.415761,
     "Long": -119.108282,
     "LastDate": "2015-11-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12839,7 +12839,7 @@ locationIndexCallback([
     "Lat": 35.329598,
     "Long": -106.530092,
     "LastDate": "2016-12-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12848,7 +12848,7 @@ locationIndexCallback([
     "Lat": 35.287821,
     "Long": -106.596274,
     "LastDate": "2015-11-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12866,7 +12866,7 @@ locationIndexCallback([
     "Lat": 35.187048,
     "Long": -118.836496,
     "LastDate": "2016-11-30",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -12893,7 +12893,7 @@ locationIndexCallback([
     "Lat": 34.471861,
     "Long": -117.351581,
     "LastDate": "2015-10-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12902,7 +12902,7 @@ locationIndexCallback([
     "Lat": 34.376913,
     "Long": -118.534265,
     "LastDate": "2015-11-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12920,7 +12920,7 @@ locationIndexCallback([
     "Lat": 34.238592,
     "Long": -118.442654,
     "LastDate": "2015-08-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12938,7 +12938,7 @@ locationIndexCallback([
     "Lat": 34.143323,
     "Long": -117.873021,
     "LastDate": "2015-10-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12947,7 +12947,7 @@ locationIndexCallback([
     "Lat": 34.087745,
     "Long": -118.379641,
     "LastDate": "2015-11-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -12974,7 +12974,7 @@ locationIndexCallback([
     "Lat": 34.040798,
     "Long": -117.177857,
     "LastDate": "2015-11-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -12983,7 +12983,7 @@ locationIndexCallback([
     "Lat": 34.02843,
     "Long": -118.410087,
     "LastDate": "2015-11-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -13001,7 +13001,7 @@ locationIndexCallback([
     "Lat": 33.996344,
     "Long": -118.22242,
     "LastDate": "2015-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -13019,7 +13019,7 @@ locationIndexCallback([
     "Lat": 33.949358,
     "Long": -117.011182,
     "LastDate": "2015-11-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -13037,7 +13037,7 @@ locationIndexCallback([
     "Lat": 33.830733,
     "Long": -84.513495,
     "LastDate": "2015-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -13046,7 +13046,7 @@ locationIndexCallback([
     "Lat": 33.830702,
     "Long": -118.313079,
     "LastDate": "2015-11-14",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -13055,7 +13055,7 @@ locationIndexCallback([
     "Lat": 33.802938,
     "Long": -118.008274,
     "LastDate": "2015-08-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -13109,7 +13109,7 @@ locationIndexCallback([
     "Lat": 33.558512,
     "Long": -95.169429,
     "LastDate": "2015-08-01",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -13118,7 +13118,7 @@ locationIndexCallback([
     "Lat": 33.493697,
     "Long": -84.274422,
     "LastDate": "2017-03-16",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -13136,7 +13136,7 @@ locationIndexCallback([
     "Lat": 33.407274,
     "Long": -111.651887,
     "LastDate": "2015-11-13",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   },
   {
@@ -13145,7 +13145,7 @@ locationIndexCallback([
     "Lat": 33.27659,
     "Long": -93.224632,
     "LastDate": "2017-11-02",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 5
   },
   {
@@ -13181,7 +13181,7 @@ locationIndexCallback([
     "Lat": 32.662708,
     "Long": -114.454226,
     "LastDate": "2015-10-03",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 1
   },
   {
@@ -13190,7 +13190,7 @@ locationIndexCallback([
     "Lat": 30.287663,
     "Long": -81.417565,
     "LastDate": "2016-11-29",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 2
   },
   {
@@ -13208,7 +13208,7 @@ locationIndexCallback([
     "Lat": 25.859336,
     "Long": -80.266718,
     "LastDate": "2015-12-05",
-    "LastResult": 49,
+    "LastResult": 1,
     "LastViolations": 0
   }
 ]
