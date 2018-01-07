@@ -18,7 +18,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -31,7 +31,7 @@ locationCallback({
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 2
           }
         ]
       },
@@ -44,7 +44,7 @@ locationCallback({
           {
             "Description": "Food in good condition, safe and unadulterated",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -92,27 +92,27 @@ locationCallback({
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Floors, walls and ceilings: built, maintained, and",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Nonfood-contact surfaces clean",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper hot and cold holding temperatures",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -142,7 +142,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "C7 Polystyrene",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -153,7 +153,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "30. Food storage; food storage containers identified",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -177,17 +177,17 @@ locationCallback({
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper hot and cold holding temperatures",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -223,7 +223,7 @@ locationCallback({
           {
             "Description": "Food storage; food storage containers identified",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -275,30 +275,30 @@ locationCallback({
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food separated and protected",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Hands clean and properly washed; gloves used prope",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper hot and cold holding temperatures",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Warewashing facilities: installed, maintained, use",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -330,12 +330,12 @@ locationCallback({
           {
             "Description": "Floors, walls and ceilings: built, maintained, and",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food separated and protected",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -348,7 +348,7 @@ locationCallback({
           {
             "Description": "No rodents, insects, birds, or animals",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -373,11 +373,11 @@ locationCallback({
         "Violations": [
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Identification of owner",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -414,15 +414,15 @@ locationCallback({
           {
             "Description": "23. No insects, rodents, birds or animals present",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "33. Nonfood contact surfaces clean",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -433,11 +433,11 @@ locationCallback({
         "Violations": [
           {
             "Description": "33. Nonfood contact surfaces clean",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "38. Adequate ventilation and lighting; designated areas, use",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -450,17 +450,17 @@ locationCallback({
           {
             "Description": "Adequate ventilation and lighting; designated area",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Nonfood-contact surfaces clean",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -482,62 +482,62 @@ locationCallback({
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Adequate ventilation and lighting; designated area",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Floors, walls and ceilings: built, maintained, and",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food storage; food storage containers identified",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Garbage and refuse properly disposed; facilities m",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Hands clean and properly washed; gloves used prope",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Hot and cold water available",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Nonfood-contact surfaces clean",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "TRANS FAT INGREDIENTS",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -568,11 +568,11 @@ locationCallback({
         "Violations": [
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -583,15 +583,15 @@ locationCallback({
         "Violations": [
           {
             "Description": "07. Proper hot and cold holding temperatures",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -608,17 +608,17 @@ locationCallback({
           {
             "Description": "07. Proper hot and cold holding temperatures",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "23. No insects, rodents, birds or animals present",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "30. Food storage; food storage containers identified",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -631,17 +631,17 @@ locationCallback({
           {
             "Description": "Floors, walls and ceilings: built, maintained, and",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper hot and cold holding temperatures",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Wiping cloths: properly used and stored",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -654,12 +654,12 @@ locationCallback({
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -685,11 +685,11 @@ locationCallback({
           {
             "Description": "23. No insects, rodents, birds or animals present",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -701,11 +701,11 @@ locationCallback({
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -717,11 +717,11 @@ locationCallback({
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -739,12 +739,12 @@ locationCallback({
           {
             "Description": "23. No insects, rodents, birds or animals present",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -763,12 +763,12 @@ locationCallback({
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Nonfood-contact surfaces clean",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -793,7 +793,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -804,7 +804,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -822,11 +822,11 @@ locationCallback({
           {
             "Description": "23. No insects, rodents, birds or animals present",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -927,11 +927,11 @@ locationCallback({
         "Violations": [
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "No rodents, insects, birds, or animals",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -968,7 +968,7 @@ locationCallback({
           {
             "Description": "No rodents, insects, birds, or animals",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -986,27 +986,27 @@ locationCallback({
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Floors, walls and ceilings: built, maintained, and",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Hot and cold water available",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Sewage and wastewater properly disposed",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1024,38 +1024,38 @@ locationCallback({
         "Violations": [
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
-            "Degree": 1,
-            "Status": "OU"
+            "Degree": 2,
+            "Status": 3
           },
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Floors, walls and ceilings: built, maintained, and",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food separated and protected",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Sewage and wastewater properly disposed",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Warewashing facilities: installed, maintained, use",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -1100,11 +1100,11 @@ locationCallback({
         "Violations": [
           {
             "Description": "33. Nonfood contact surfaces clean",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1116,7 +1116,7 @@ locationCallback({
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1129,7 +1129,7 @@ locationCallback({
           {
             "Description": "Floors, walls and ceilings: built, maintained, and",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1146,23 +1146,23 @@ locationCallback({
         "Violations": [
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Premises; personal/cleaning items; vermin-proofing",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper hot and cold holding temperatures",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Signs posted; last inspection report available",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Time as a public health control; procedures \u0026 reco",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -1195,12 +1195,12 @@ locationCallback({
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Warewashing facilities: installed, maintained, use",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -1261,19 +1261,19 @@ locationCallback({
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "30. Food storage; food storage containers identified",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "38. Adequate ventilation and lighting; designated areas, use",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1286,17 +1286,17 @@ locationCallback({
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Adequate ventilation and lighting; designated area",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Premises; personal/cleaning items; vermin-proofing",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1315,17 +1315,17 @@ locationCallback({
           {
             "Description": "Adequate ventilation and lighting; designated area",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Plumbing; proper backflow devices",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1337,37 +1337,37 @@ locationCallback({
           {
             "Description": "Adequate ventilation and lighting; designated area",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Floors, walls and ceilings: built, maintained, and",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food separated and protected",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Plumbing; proper backflow devices",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Wiping cloths: properly used and stored",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1391,20 +1391,20 @@ locationCallback({
           {
             "Description": "Adequate ventilation and lighting; designated area",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "No unapproved private homes / living or sleeping q",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -1441,7 +1441,7 @@ locationCallback({
           {
             "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1473,41 +1473,41 @@ locationCallback({
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "16. Compliance with shell stock tags, condition, display",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "19. Consumer advisory provided",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "29. Toxic substances properly identified, stored and used",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "30. Food storage; food storage containers identified",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "38. Adequate ventilation and lighting; designated areas, use",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "39. Thermometers provided and accurate",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1519,7 +1519,7 @@ locationCallback({
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1531,32 +1531,32 @@ locationCallback({
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "23. No insects, rodents, birds or animals present",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "24. Person in charge present and performs duties",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "27. Food separated and protected",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "40. Wiping cloths; properly used and stored",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1574,33 +1574,33 @@ locationCallback({
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "08. Time as a public health control; procedures \u0026 records",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "30. Food storage; food storage containers identified",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "33. Nonfood contact surfaces clean",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1612,17 +1612,17 @@ locationCallback({
           {
             "Description": "07. Proper hot and cold holding temperatures",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "16. Compliance with shell stock tags, condition, display",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "21. Hot and cold water available",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1657,19 +1657,19 @@ locationCallback({
         "Violations": [
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
-            "Status": "CV"
+            "Status": 2
           },
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Hot and cold water available",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -1695,7 +1695,7 @@ locationCallback({
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1764,16 +1764,16 @@ locationCallback({
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Hot and cold water available",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Toilet facilities: properly constructed, supplied,",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -1810,7 +1810,7 @@ locationCallback({
           {
             "Description": "Sewage and wastewater properly disposed",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1859,19 +1859,19 @@ locationCallback({
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "30. Food storage; food storage containers identified",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -1930,27 +1930,27 @@ locationCallback({
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 1,
-            "Status": "CO"
+            "Status": 2
           },
           {
             "Description": "09. Proper cooling methods",
             "Degree": 1,
-            "Status": "CO"
+            "Status": 2
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
             "Degree": 2,
-            "Status": "V"
+            "Status": 3
           },
           {
             "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
             "Degree": 2,
-            "Status": "V"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
             "Degree": 2,
-            "Status": "V"
+            "Status": 3
           }
         ]
       },
@@ -1974,34 +1974,34 @@ locationCallback({
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "04. Proper eating, tasting, drinking or tobacco use",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "07. Proper hot and cold holding temperatures",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "30. Food storage; food storage containers identified",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2036,7 +2036,7 @@ locationCallback({
           {
             "Description": "47. Signs posted; last inspection report available",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2059,69 +2059,69 @@ locationCallback({
           {
             "Description": "01a. Demonstration of knowledge",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "05. Hands clean and properly washed; proper glove use",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "13. Food in good condition, safe and unadulterated",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "22. Sewage and wastewater properly disposed",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "24. Person in charge present and performs duties",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "27. Food separated and protected",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "30. Food storage; food storage containers identified",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "33. Nonfood contact surfaces clean",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "41. Plumbing; fixtures, back flow devices, drainage",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "42. Garbage/refuse properly disposed; facilities maintained",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2144,36 +2144,37 @@ locationCallback({
           {
             "Description": "01a. Demonstration of knowledge",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "05. Hands clean and properly washed; proper glove use",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 3,
-            "Status": "OU"
+            "Status": 2
           },
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
-            "Status": "CO"
+            "Degree": 3,
+            "Status": 2
           },
           {
             "Description": "15. Food obtained  from approved source",
             "Degree": 3,
-            "Status": "OU"
+            "Status": 2
           },
           {
             "Description": "24. Person in charge present and performs duties",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2196,12 +2197,12 @@ locationCallback({
           {
             "Description": "21. Hot and cold water available",
             "Degree": 3,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "38. Adequate ventilation and lighting; designated areas, use",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2212,22 +2213,23 @@ locationCallback({
         "Violations": [
           {
             "Description": "08. Time as a public health control; procedures \u0026 records",
-            "Status": "CO"
+            "Degree": 2,
+            "Status": 2
           },
           {
             "Description": "22. Sewage and wastewater properly disposed",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "27. Food separated and protected",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2240,42 +2242,42 @@ locationCallback({
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
             "Degree": 3,
-            "Status": "OU"
+            "Status": 2
           },
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 2
           },
           {
             "Description": "Food storage; food storage containers identified",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Sewage and wastewater properly disposed",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Signs posted; last inspection report available",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Wiping cloths: properly used and stored",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2294,37 +2296,37 @@ locationCallback({
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food storage; food storage containers identified",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Garbage and refuse properly disposed; facilities m",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "No rodents, insects, birds, or animals",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Premises; personal/cleaning items; vermin-proofing",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Time as a public health control; procedures \u0026 reco",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Wiping cloths: properly used and stored",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2337,42 +2339,42 @@ locationCallback({
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Equipment, utensils and linens: storage and use",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food storage; food storage containers identified",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Garbage and refuse properly disposed; facilities m",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper hot and cold holding temperatures",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Signs posted; last inspection report available",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Wiping cloths: properly used and stored",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2384,7 +2386,7 @@ locationCallback({
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2403,37 +2405,37 @@ locationCallback({
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
             "Degree": 3,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
-            "Degree": 2,
-            "Status": "OU"
+            "Degree": 3,
+            "Status": 3
           },
           {
             "Description": "Equipment, utensils and linens: storage and use",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 3,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food storage; food storage containers identified",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Time as a public health control; procedures \u0026 reco",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2500,16 +2502,16 @@ locationCallback({
           {
             "Description": "07. Proper hot and cold holding temperatures",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "21. Hot and cold water available",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2521,7 +2523,7 @@ locationCallback({
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2533,12 +2535,12 @@ locationCallback({
           {
             "Description": "21. Hot and cold water available",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2550,7 +2552,7 @@ locationCallback({
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2562,22 +2564,22 @@ locationCallback({
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "07. Proper hot and cold holding temperatures",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2595,12 +2597,12 @@ locationCallback({
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Floors, walls and ceilings: built, maintained, and",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2613,7 +2615,7 @@ locationCallback({
           {
             "Description": "Proper hot and cold holding temperatures",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2660,7 +2662,7 @@ locationCallback({
           {
             "Description": "Hot and cold water available",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2697,46 +2699,46 @@ locationCallback({
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "13. Food in good condition, safe and unadulterated",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "23. No insects, rodents, birds or animals present",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "27. Food separated and protected",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "28. Washing fruits and vegetables",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "29. Toxic substances properly identified, stored and used",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "41. Plumbing; fixtures, back flow devices, drainage",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2747,24 +2749,24 @@ locationCallback({
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "26. Approved thawing methods in use",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "33. Nonfood contact surfaces clean",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2776,15 +2778,15 @@ locationCallback({
         "Violations": [
           {
             "Description": "Approved thawing methods used, frozen food",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Wiping cloths: properly used and stored",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2809,7 +2811,7 @@ locationCallback({
           {
             "Description": "Hands clean and properly washed; gloves used prope",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -2867,23 +2869,23 @@ locationCallback({
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "41. Plumbing; fixtures, back flow devices, drainage",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2901,19 +2903,19 @@ locationCallback({
           {
             "Description": "23. No insects, rodents, birds or animals present",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "27. Food separated and protected",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2925,42 +2927,42 @@ locationCallback({
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "23. No insects, rodents, birds or animals present",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "29. Toxic substances properly identified, stored and used",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "33. Nonfood contact surfaces clean",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2972,7 +2974,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -2985,12 +2987,12 @@ locationCallback({
           {
             "Description": "Floors, walls and ceilings: built, maintained, and",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "No rodents, insects, birds, or animals",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3030,22 +3032,22 @@ locationCallback({
           {
             "Description": "Floors, walls and ceilings: built, maintained, and",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "No rodents, insects, birds, or animals",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Premises; personal/cleaning items; vermin-proofing",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Signs posted; last inspection report available",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3069,32 +3071,32 @@ locationCallback({
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Floors, walls and ceilings: built, maintained, and",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food separated and protected",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Sewage and wastewater properly disposed",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3165,12 +3167,12 @@ locationCallback({
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Toilet facilities: properly constructed, supplied,",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3188,12 +3190,12 @@ locationCallback({
           {
             "Description": "No rodents, insects, birds, or animals",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper hot and cold holding temperatures",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3246,7 +3248,7 @@ locationCallback({
           {
             "Description": "Hot and cold water available",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3298,16 +3300,16 @@ locationCallback({
         "Violations": [
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper hot and cold holding temperatures",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3318,7 +3320,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "Proper eating, tasting, drinking or tobacco use",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3392,25 +3394,25 @@ locationCallback({
           {
             "Description": "07. Proper hot and cold holding temperatures",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "15. Food obtained  from approved source",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "21. Hot and cold water available",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "38. Adequate ventilation and lighting; designated areas, use",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3422,28 +3424,28 @@ locationCallback({
           {
             "Description": "07. Proper hot and cold holding temperatures",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "26. Approved thawing methods in use",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "38. Adequate ventilation and lighting; designated areas, use",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3465,28 +3467,28 @@ locationCallback({
         "Violations": [
           {
             "Description": "07. Proper hot and cold holding temperatures",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "23. No insects, rodents, birds or animals present",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "27. Food separated and protected",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "42. Garbage/refuse properly disposed; facilities maintained",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3498,32 +3500,32 @@ locationCallback({
           {
             "Description": "05. Hands clean and properly washed; proper glove use",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "23. No insects, rodents, birds or animals present",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "27. Food separated and protected",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "41. Plumbing; fixtures, back flow devices, drainage",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3559,12 +3561,12 @@ locationCallback({
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Floors, walls and ceilings: built, maintained, and",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3577,22 +3579,22 @@ locationCallback({
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food separated and protected",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Premises; personal/cleaning items; vermin-proofing",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper hot and cold holding temperatures",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -3629,52 +3631,52 @@ locationCallback({
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Compliance with shell stock tags, condition, displ",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
-            "Degree": 1,
-            "Status": "OU"
+            "Degree": 2,
+            "Status": 3
           },
           {
             "Description": "Hands clean and properly washed; gloves used prope",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Plumbing; proper backflow devices",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper eating, tasting, drinking or tobacco use",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Signs posted; last inspection report available",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Warewashing facilities: installed, maintained, use",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3723,12 +3725,12 @@ locationCallback({
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper hot and cold holding temperatures",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3801,22 +3803,22 @@ locationCallback({
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper hot and cold holding temperatures",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Toilet facilities: properly constructed, supplied,",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Wiping cloths: properly used and stored",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3847,33 +3849,33 @@ locationCallback({
           {
             "Description": "09. Proper cooling methods",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "23. No insects, rodents, birds or animals present",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "33. Nonfood contact surfaces clean",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "40. Wiping cloths; properly used and stored",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3885,27 +3887,27 @@ locationCallback({
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "26. Approved thawing methods in use",
             "Degree": 2,
-            "Status": "CO"
+            "Status": 2
           },
           {
             "Description": "33. Nonfood contact surfaces clean",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "39. Thermometers provided and accurate",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3929,21 +3931,21 @@ locationCallback({
         "Violations": [
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper cooling methods",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -3960,22 +3962,22 @@ locationCallback({
         "Violations": [
           {
             "Description": "Demonstration of knowledge; food mgr certificate",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Hot and cold water available",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper hot and cold holding temperatures",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper reheating procedures for hot holding",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -4000,11 +4002,11 @@ locationCallback({
         "Violations": [
           {
             "Description": "Equipment/Utensils - approved; installed; clean; g",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Warewashing facilities: installed, maintained, use",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -4030,22 +4032,22 @@ locationCallback({
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "26. Approved thawing methods in use",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4063,22 +4065,22 @@ locationCallback({
           {
             "Description": "Adequate handwashing facilities supplied \u0026 accessi",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food separated and protected",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Toilet facilities: properly constructed, supplied,",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -4129,22 +4131,22 @@ locationCallback({
           {
             "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "41. Plumbing; fixtures, back flow devices, drainage",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "64. Proper identification on both sides of MFF",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4161,7 +4163,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4172,7 +4174,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "34. Ware wash facilities: installed, maintained, used; test strips",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4183,7 +4185,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4254,7 +4256,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "64. Proper identification on both sides of MFF",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -4279,7 +4281,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4291,20 +4293,20 @@ locationCallback({
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "22. Sewage and wastewater properly disposed",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "27. Food separated and protected",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "30. Food storage; food storage containers identified",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4376,25 +4378,25 @@ locationCallback({
           {
             "Description": "05. Hands clean and properly washed; proper glove use",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "13. Food in good condition, safe and unadulterated",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "33. Nonfood contact surfaces clean",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "40. Wiping cloths; properly used and stored",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4405,7 +4407,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "38. Adequate ventilation and lighting; designated areas, use",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -4430,7 +4432,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "43. Toilet facilities: properly constructed, supplied, cleaned",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4465,7 +4467,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4476,15 +4478,15 @@ locationCallback({
         "Violations": [
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "23. No insects, rodents, birds or animals present",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4502,66 +4504,66 @@ locationCallback({
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "07. Proper hot and cold holding temperatures",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "21. Hot and cold water available",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "27. Food separated and protected",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "30. Food storage; food storage containers identified",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "33. Nonfood contact surfaces clean",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "38. Adequate ventilation and lighting; designated areas, use",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "39. Thermometers provided and accurate",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "40. Wiping cloths; properly used and stored",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "43. Toilet facilities: properly constructed, supplied, cleaned",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "48. Permit available",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4578,19 +4580,19 @@ locationCallback({
         "Violations": [
           {
             "Description": "33. Nonfood contact surfaces clean",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "38. Adequate ventilation and lighting; designated areas, use",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4607,32 +4609,32 @@ locationCallback({
           {
             "Description": "07. Proper hot and cold holding temperatures",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "09. Proper cooling methods",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "26. Approved thawing methods in use",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "33. Nonfood contact surfaces clean",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4663,37 +4665,37 @@ locationCallback({
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "05. Hands clean and properly washed; proper glove use",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "30. Food storage; food storage containers identified",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "33. Nonfood contact surfaces clean",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "36. Equipment, utensils and linens: storage and use (CO2 tanks)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "39. Thermometers provided and accurate",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -4755,7 +4757,7 @@ locationCallback({
         "Violations": [
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -4781,23 +4783,23 @@ locationCallback({
           {
             "Description": "07. Proper hot and cold holding temperatures",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "27. Food separated and protected",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "39. Thermometers provided and accurate",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "44. Premises; personal/cleaning items; vermin proofing",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "C7 Polystyrene",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -4823,16 +4825,16 @@ locationCallback({
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       }
@@ -4858,44 +4860,44 @@ locationCallback({
           {
             "Description": "01b. Food safety certification and food handler cards: valid, available for review",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "06. Adequate hand washing facilities:  supplied and accessible",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "13. Food in good condition, safe and unadulterated",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "14. Food contact surfaces: clean and sanitized",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "21. Hot and cold water available",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "23. No insects, rodents, birds or animals present",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "33. Nonfood contact surfaces clean",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4924,12 +4926,12 @@ locationCallback({
           {
             "Description": "21. Hot and cold water available",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "22. Sewage and wastewater properly disposed",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4941,22 +4943,22 @@ locationCallback({
           {
             "Description": "17. Compliance with Gulf Oyster Regulations",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "27. Food separated and protected",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "35. Equipment/utensils-approved; installed; clean; good repair; capacity (prep sinks, refrigerators)",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "45. Floors, walls and ceiling: built, maintained and clean",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
@@ -4969,27 +4971,27 @@ locationCallback({
           {
             "Description": "Floors, walls and ceilings: built, maintained, and",
             "Degree": 2,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Food contact surfaces: clean and sanitized",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Proper hot and cold holding temperatures",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Warewashing facilities: installed, maintained, use",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           },
           {
             "Description": "Wiping cloths: properly used and stored",
             "Degree": 1,
-            "Status": "OU"
+            "Status": 3
           }
         ]
       },
