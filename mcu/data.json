@@ -1,0 +1,728 @@
+{
+	"characters": [
+		{
+			"name": "Iron Man",
+			"films": 8,
+			"series": 4,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Pepper Potts",
+			"films": 6,
+			"series": 3,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Happy Hogan",
+			"films": 5,
+			"series": 3,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "J.A.R.V.I.S.",
+			"films": 4,
+			"series": 2,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Phil Coulson",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Nick Fury",
+			"films": 7,
+			"series": 4,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Howard Stark",
+			"films": 5,
+			"series": 3,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Stan Lee",
+			"films": 19,
+			"series": 10,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Hulk",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Hulk"
+		},
+		{
+			"name": "War Machine",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Black Widow",
+			"films": 6,
+			"series": 3,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Senator Stern",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Thor",
+			"films": 7,
+			"series": 3,
+			"mainseries": "Thor"
+		},
+		{
+			"name": "Loki",
+			"films": 5,
+			"series": 2,
+			"mainseries": "Thor"
+		},
+		{
+			"name": "Heimdall",
+			"films": 5,
+			"series": 2,
+			"mainseries": "Thor"
+		},
+		{
+			"name": "Jasper Sitwell",
+			"films": 3,
+			"series": 3,
+			"mainseries": "Thor"
+		},
+		{
+			"name": "Captain America",
+			"films": 9,
+			"series": 5,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Peggy Carter",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Hawkeye",
+			"films": 4,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Maria Hill",
+			"films": 4,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Erik Selvig",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "The Other",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Hawley",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Pat Kiernan",
+			"films": 3,
+			"series": 3,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Thomas Roberts",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Thanos",
+			"films": 4,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "The Collector",
+			"films": 3,
+			"series": 3,
+			"mainseries": "Thor"
+		},
+		{
+			"name": "Carina",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Thor"
+		},
+		{
+			"name": "Falcon",
+			"films": 5,
+			"series": 3,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Winter Soldier",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Cameron Klein",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Baron Wolfgang von Strucker",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Dr. List",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Star-Lord",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Groot",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Rocket",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Gamora",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Nebula",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Scarlet Witch",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Vision",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Ulysses Klaue",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "F.R.I.D.A.Y.",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Ant-Man",
+			"films": 3,
+			"series": 3,
+			"mainseries": "Ant-Man"
+		},
+		{
+			"name": "Black Panther",
+			"films": 3,
+			"series": 3,
+			"mainseries": "Black Panther"
+		},
+		{
+			"name": "Spider-Man",
+			"films": 3,
+			"series": 3,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Everett Ross",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "May Parker",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "T'Chaka",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Ayo",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Wong",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Doctor Strange"
+		},
+		{
+			"name": "Drax",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Mantis",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Grandmaster",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Doctor Strange",
+			"films": 3,
+			"series": 3,
+			"mainseries": "Doctor Strange"
+		},
+		{
+			"name": "Okoye",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Black Panther"
+		},
+		{
+			"name": "Shuri",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Black Panther"
+		},
+		{
+			"name": "Ramonda",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Black Panther"
+		}
+	],
+	"films": [
+		{
+			"name": "Iron Man (film)",
+			"characters": [
+				"Iron Man",
+				"Pepper Potts",
+				"Happy Hogan",
+				"J.A.R.V.I.S.",
+				"Phil Coulson",
+				"Nick Fury",
+				"Howard Stark",
+				"Stan Lee"
+			],
+			"order": 0,
+			"phase": 1,
+			"year": 2008,
+			"series": "Iron Man"
+		},
+		{
+			"name": "The Incredible Hulk (film)",
+			"characters": [
+				"Stan Lee",
+				"Hulk"
+			],
+			"order": 1,
+			"phase": 1,
+			"year": 2008,
+			"series": "Hulk"
+		},
+		{
+			"name": "Iron Man 2",
+			"characters": [
+				"Iron Man",
+				"Pepper Potts",
+				"Happy Hogan",
+				"J.A.R.V.I.S.",
+				"Phil Coulson",
+				"Nick Fury",
+				"Howard Stark",
+				"Stan Lee",
+				"War Machine",
+				"Black Widow",
+				"Senator Stern"
+			],
+			"order": 2,
+			"phase": 1,
+			"year": 2010,
+			"series": "Iron Man"
+		},
+		{
+			"name": "Thor (film)",
+			"characters": [
+				"Phil Coulson",
+				"Nick Fury",
+				"Stan Lee",
+				"Thor",
+				"Loki",
+				"Heimdall",
+				"Jasper Sitwell"
+			],
+			"order": 3,
+			"phase": 1,
+			"year": 2011,
+			"series": "Thor"
+		},
+		{
+			"name": "Captain America: The First Avenger",
+			"characters": [
+				"Nick Fury",
+				"Howard Stark",
+				"Stan Lee",
+				"Captain America",
+				"Peggy Carter"
+			],
+			"order": 4,
+			"phase": 1,
+			"year": 2011,
+			"series": "Captain America"
+		},
+		{
+			"name": "The Avengers (film)",
+			"characters": [
+				"Iron Man",
+				"Pepper Potts",
+				"J.A.R.V.I.S.",
+				"Phil Coulson",
+				"Nick Fury",
+				"Stan Lee",
+				"Black Widow",
+				"Thor",
+				"Loki",
+				"Jasper Sitwell",
+				"Captain America",
+				"Hawkeye",
+				"Maria Hill",
+				"Erik Selvig",
+				"The Other",
+				"Hawley",
+				"Pat Kiernan",
+				"Thomas Roberts",
+				"Thanos"
+			],
+			"order": 5,
+			"phase": 1,
+			"year": 2012,
+			"series": "Avengers"
+		},
+		{
+			"name": "Iron Man 3",
+			"characters": [
+				"Iron Man",
+				"Pepper Potts",
+				"Happy Hogan",
+				"J.A.R.V.I.S.",
+				"Stan Lee",
+				"Pat Kiernan",
+				"Thomas Roberts"
+			],
+			"order": 6,
+			"phase": 2,
+			"year": 2013,
+			"series": "Iron Man"
+		},
+		{
+			"name": "Thor: The Dark World",
+			"characters": [
+				"Stan Lee",
+				"Thor",
+				"Loki",
+				"Heimdall",
+				"Captain America",
+				"Erik Selvig",
+				"The Collector",
+				"Carina"
+			],
+			"order": 7,
+			"phase": 2,
+			"year": 2013,
+			"series": "Thor"
+		},
+		{
+			"name": "Captain America: The Winter Soldier",
+			"characters": [
+				"Nick Fury",
+				"Stan Lee",
+				"Black Widow",
+				"Senator Stern",
+				"Jasper Sitwell",
+				"Captain America",
+				"Peggy Carter",
+				"Maria Hill",
+				"Hawley",
+				"Falcon",
+				"Winter Soldier",
+				"Cameron Klein",
+				"Baron Wolfgang von Strucker",
+				"Dr. List"
+			],
+			"order": 8,
+			"phase": 2,
+			"year": 2014,
+			"series": "Captain America"
+		},
+		{
+			"name": "Guardians of the Galaxy (film)",
+			"characters": [
+				"Stan Lee",
+				"The Other",
+				"Thanos",
+				"The Collector",
+				"Carina",
+				"Star-Lord",
+				"Groot",
+				"Rocket",
+				"Gamora",
+				"Nebula"
+			],
+			"order": 9,
+			"phase": 2,
+			"year": 2014,
+			"series": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Avengers: Age of Ultron",
+			"characters": [
+				"Iron Man",
+				"Nick Fury",
+				"Stan Lee",
+				"Hulk",
+				"War Machine",
+				"Black Widow",
+				"Thor",
+				"Heimdall",
+				"Captain America",
+				"Peggy Carter",
+				"Hawkeye",
+				"Maria Hill",
+				"Erik Selvig",
+				"Thanos",
+				"Falcon",
+				"Cameron Klein",
+				"Baron Wolfgang von Strucker",
+				"Dr. List",
+				"Scarlet Witch",
+				"Vision",
+				"Ulysses Klaue",
+				"F.R.I.D.A.Y."
+			],
+			"order": 10,
+			"phase": 2,
+			"year": 2015,
+			"series": "Avengers"
+		},
+		{
+			"name": "Ant-Man (film)",
+			"characters": [
+				"Howard Stark",
+				"Stan Lee",
+				"Captain America",
+				"Peggy Carter",
+				"Falcon",
+				"Winter Soldier",
+				"Ant-Man"
+			],
+			"order": 11,
+			"phase": 2,
+			"year": 2015,
+			"series": "Ant-Man"
+		},
+		{
+			"name": "Captain America: Civil War",
+			"characters": [
+				"Iron Man",
+				"Howard Stark",
+				"Stan Lee",
+				"War Machine",
+				"Black Widow",
+				"Captain America",
+				"Hawkeye",
+				"Falcon",
+				"Winter Soldier",
+				"Scarlet Witch",
+				"Vision",
+				"F.R.I.D.A.Y.",
+				"Ant-Man",
+				"Black Panther",
+				"Spider-Man",
+				"Everett Ross",
+				"May Parker",
+				"T'Chaka",
+				"Ayo"
+			],
+			"order": 12,
+			"phase": 3,
+			"year": 2016,
+			"series": "Captain America"
+		},
+		{
+			"name": "Doctor Strange (film)",
+			"characters": [
+				"Stan Lee",
+				"Thor",
+				"Pat Kiernan",
+				"Wong",
+				"Doctor Strange"
+			],
+			"order": 13,
+			"phase": 3,
+			"year": 2016,
+			"series": "Doctor Strange"
+		},
+		{
+			"name": "Guardians of the Galaxy Vol. 2",
+			"characters": [
+				"Stan Lee",
+				"Star-Lord",
+				"Groot",
+				"Rocket",
+				"Gamora",
+				"Nebula",
+				"Drax",
+				"Mantis",
+				"Grandmaster"
+			],
+			"order": 14,
+			"phase": 3,
+			"year": 2017,
+			"series": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Spider-Man: Homecoming",
+			"characters": [
+				"Iron Man",
+				"Pepper Potts",
+				"Happy Hogan",
+				"Stan Lee",
+				"Captain America",
+				"Spider-Man",
+				"May Parker"
+			],
+			"order": 15,
+			"phase": 3,
+			"year": 2017,
+			"series": "Spider-Man"
+		},
+		{
+			"name": "Thor: Ragnarok",
+			"characters": [
+				"Stan Lee",
+				"Hulk",
+				"Thor",
+				"Loki",
+				"Heimdall",
+				"Grandmaster",
+				"Doctor Strange"
+			],
+			"order": 16,
+			"phase": 3,
+			"year": 2017,
+			"series": "Thor"
+		},
+		{
+			"name": "Black Panther (film)",
+			"characters": [
+				"Stan Lee",
+				"Winter Soldier",
+				"Ulysses Klaue",
+				"Black Panther",
+				"Everett Ross",
+				"T'Chaka",
+				"Ayo",
+				"Okoye",
+				"Shuri",
+				"Ramonda"
+			],
+			"order": 17,
+			"phase": 3,
+			"year": 2018,
+			"series": "Black Panther"
+		},
+		{
+			"name": "Avengers: Infinity War",
+			"characters": [
+				"Iron Man",
+				"Pepper Potts",
+				"Happy Hogan",
+				"Stan Lee",
+				"Hulk",
+				"War Machine",
+				"Black Widow",
+				"Thor",
+				"Loki",
+				"Heimdall",
+				"Captain America",
+				"Hawkeye",
+				"Maria Hill",
+				"Thanos",
+				"The Collector",
+				"Falcon",
+				"Star-Lord",
+				"Groot",
+				"Rocket",
+				"Gamora",
+				"Nebula",
+				"Scarlet Witch",
+				"Ant-Man",
+				"Black Panther",
+				"Spider-Man",
+				"Wong",
+				"Drax",
+				"Mantis",
+				"Doctor Strange",
+				"Okoye",
+				"Shuri",
+				"Ramonda"
+			],
+			"order": 18,
+			"phase": 3,
+			"year": 2018,
+			"series": "Avengers"
+		}
+	]
+}
