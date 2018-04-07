@@ -7,6 +7,12 @@
 			"mainseries": "Iron Man"
 		},
 		{
+			"name": "War Machine",
+			"films": 5,
+			"series": 3,
+			"mainseries": "Iron Man"
+		},
+		{
 			"name": "Pepper Potts",
 			"films": 6,
 			"series": 3,
@@ -50,12 +56,6 @@
 		},
 		{
 			"name": "Hulk",
-			"films": 4,
-			"series": 3,
-			"mainseries": "Hulk"
-		},
-		{
-			"name": "War Machine",
 			"films": 4,
 			"series": 3,
 			"mainseries": "Avengers"
@@ -130,25 +130,25 @@
 			"name": "The Other",
 			"films": 2,
 			"series": 2,
-			"mainseries": "Avengers"
+			"mainseries": "Guardians of the Galaxy"
 		},
 		{
 			"name": "Hawley",
 			"films": 2,
 			"series": 2,
-			"mainseries": "Avengers"
+			"mainseries": "Captain America"
 		},
 		{
 			"name": "Pat Kiernan",
 			"films": 3,
 			"series": 3,
-			"mainseries": "Avengers"
+			"mainseries": "Iron Man"
 		},
 		{
 			"name": "Thomas Roberts",
 			"films": 2,
 			"series": 2,
-			"mainseries": "Avengers"
+			"mainseries": "Iron Man"
 		},
 		{
 			"name": "Thanos",
@@ -244,13 +244,13 @@
 			"name": "Ulysses Klaue",
 			"films": 2,
 			"series": 2,
-			"mainseries": "Avengers"
+			"mainseries": "Black Panther"
 		},
 		{
 			"name": "F.R.I.D.A.Y.",
 			"films": 2,
 			"series": 2,
-			"mainseries": "Avengers"
+			"mainseries": "Iron Man"
 		},
 		{
 			"name": "Ant-Man",
@@ -268,7 +268,7 @@
 			"name": "Spider-Man",
 			"films": 3,
 			"series": 3,
-			"mainseries": "Captain America"
+			"mainseries": "Spider-Man"
 		},
 		{
 			"name": "Everett Ross",
@@ -280,19 +280,19 @@
 			"name": "May Parker",
 			"films": 2,
 			"series": 2,
-			"mainseries": "Captain America"
+			"mainseries": "Spider-Man"
 		},
 		{
 			"name": "T'Chaka",
 			"films": 2,
 			"series": 2,
-			"mainseries": "Captain America"
+			"mainseries": "Black Panther"
 		},
 		{
 			"name": "Ayo",
 			"films": 2,
 			"series": 2,
-			"mainseries": "Captain America"
+			"mainseries": "Black Panther"
 		},
 		{
 			"name": "Wong",
@@ -316,7 +316,7 @@
 			"name": "Grandmaster",
 			"films": 2,
 			"series": 2,
-			"mainseries": "Guardians of the Galaxy"
+			"mainseries": "Thor"
 		},
 		{
 			"name": "Doctor Strange",
@@ -348,6 +348,7 @@
 			"name": "Iron Man (film)",
 			"characters": [
 				"Iron Man",
+				"War Machine",
 				"Pepper Potts",
 				"Happy Hogan",
 				"J.A.R.V.I.S.",
@@ -356,10 +357,10 @@
 				"Howard Stark",
 				"Stan Lee"
 			],
-			"order": 0,
+			"order": 1,
+			"series": "Iron Man",
 			"phase": 1,
-			"year": 2008,
-			"series": "Iron Man"
+			"year": 2008
 		},
 		{
 			"name": "The Incredible Hulk (film)",
@@ -367,15 +368,16 @@
 				"Stan Lee",
 				"Hulk"
 			],
-			"order": 1,
+			"order": 2,
+			"series": "Hulk",
 			"phase": 1,
-			"year": 2008,
-			"series": "Hulk"
+			"year": 2008
 		},
 		{
 			"name": "Iron Man 2",
 			"characters": [
 				"Iron Man",
+				"War Machine",
 				"Pepper Potts",
 				"Happy Hogan",
 				"J.A.R.V.I.S.",
@@ -383,14 +385,13 @@
 				"Nick Fury",
 				"Howard Stark",
 				"Stan Lee",
-				"War Machine",
 				"Black Widow",
 				"Senator Stern"
 			],
-			"order": 2,
+			"order": 3,
+			"series": "Iron Man",
 			"phase": 1,
-			"year": 2010,
-			"series": "Iron Man"
+			"year": 2010
 		},
 		{
 			"name": "Thor (film)",
@@ -403,10 +404,10 @@
 				"Heimdall",
 				"Jasper Sitwell"
 			],
-			"order": 3,
+			"order": 4,
+			"series": "Thor",
 			"phase": 1,
-			"year": 2011,
-			"series": "Thor"
+			"year": 2011
 		},
 		{
 			"name": "Captain America: The First Avenger",
@@ -417,10 +418,10 @@
 				"Captain America",
 				"Peggy Carter"
 			],
-			"order": 4,
+			"order": 5,
+			"series": "Captain America",
 			"phase": 1,
-			"year": 2011,
-			"series": "Captain America"
+			"year": 2011
 		},
 		{
 			"name": "The Avengers (film)",
@@ -445,10 +446,10 @@
 				"Thomas Roberts",
 				"Thanos"
 			],
-			"order": 5,
+			"order": 6,
+			"series": "Avengers",
 			"phase": 1,
-			"year": 2012,
-			"series": "Avengers"
+			"year": 2012
 		},
 		{
 			"name": "Iron Man 3",
@@ -461,10 +462,10 @@
 				"Pat Kiernan",
 				"Thomas Roberts"
 			],
-			"order": 6,
+			"order": 7,
+			"series": "Iron Man",
 			"phase": 2,
-			"year": 2013,
-			"series": "Iron Man"
+			"year": 2013
 		},
 		{
 			"name": "Thor: The Dark World",
@@ -478,10 +479,10 @@
 				"The Collector",
 				"Carina"
 			],
-			"order": 7,
+			"order": 8,
+			"series": "Thor",
 			"phase": 2,
-			"year": 2013,
-			"series": "Thor"
+			"year": 2013
 		},
 		{
 			"name": "Captain America: The Winter Soldier",
@@ -501,10 +502,10 @@
 				"Baron Wolfgang von Strucker",
 				"Dr. List"
 			],
-			"order": 8,
+			"order": 9,
+			"series": "Captain America",
 			"phase": 2,
-			"year": 2014,
-			"series": "Captain America"
+			"year": 2014
 		},
 		{
 			"name": "Guardians of the Galaxy (film)",
@@ -520,19 +521,19 @@
 				"Gamora",
 				"Nebula"
 			],
-			"order": 9,
+			"order": 10,
+			"series": "Guardians of the Galaxy",
 			"phase": 2,
-			"year": 2014,
-			"series": "Guardians of the Galaxy"
+			"year": 2014
 		},
 		{
 			"name": "Avengers: Age of Ultron",
 			"characters": [
 				"Iron Man",
+				"War Machine",
 				"Nick Fury",
 				"Stan Lee",
 				"Hulk",
-				"War Machine",
 				"Black Widow",
 				"Thor",
 				"Heimdall",
@@ -551,10 +552,10 @@
 				"Ulysses Klaue",
 				"F.R.I.D.A.Y."
 			],
-			"order": 10,
+			"order": 11,
+			"series": "Avengers",
 			"phase": 2,
-			"year": 2015,
-			"series": "Avengers"
+			"year": 2015
 		},
 		{
 			"name": "Ant-Man (film)",
@@ -567,18 +568,18 @@
 				"Winter Soldier",
 				"Ant-Man"
 			],
-			"order": 11,
+			"order": 12,
+			"series": "Ant-Man",
 			"phase": 2,
-			"year": 2015,
-			"series": "Ant-Man"
+			"year": 2015
 		},
 		{
 			"name": "Captain America: Civil War",
 			"characters": [
 				"Iron Man",
+				"War Machine",
 				"Howard Stark",
 				"Stan Lee",
-				"War Machine",
 				"Black Widow",
 				"Captain America",
 				"Hawkeye",
@@ -595,10 +596,10 @@
 				"T'Chaka",
 				"Ayo"
 			],
-			"order": 12,
+			"order": 13,
+			"series": "Captain America",
 			"phase": 3,
-			"year": 2016,
-			"series": "Captain America"
+			"year": 2016
 		},
 		{
 			"name": "Doctor Strange (film)",
@@ -609,10 +610,10 @@
 				"Wong",
 				"Doctor Strange"
 			],
-			"order": 13,
+			"order": 14,
+			"series": "Doctor Strange",
 			"phase": 3,
-			"year": 2016,
-			"series": "Doctor Strange"
+			"year": 2016
 		},
 		{
 			"name": "Guardians of the Galaxy Vol. 2",
@@ -627,10 +628,10 @@
 				"Mantis",
 				"Grandmaster"
 			],
-			"order": 14,
+			"order": 15,
+			"series": "Guardians of the Galaxy",
 			"phase": 3,
-			"year": 2017,
-			"series": "Guardians of the Galaxy"
+			"year": 2017
 		},
 		{
 			"name": "Spider-Man: Homecoming",
@@ -643,10 +644,10 @@
 				"Spider-Man",
 				"May Parker"
 			],
-			"order": 15,
+			"order": 16,
+			"series": "Spider-Man",
 			"phase": 3,
-			"year": 2017,
-			"series": "Spider-Man"
+			"year": 2017
 		},
 		{
 			"name": "Thor: Ragnarok",
@@ -659,10 +660,10 @@
 				"Grandmaster",
 				"Doctor Strange"
 			],
-			"order": 16,
+			"order": 17,
+			"series": "Thor",
 			"phase": 3,
-			"year": 2017,
-			"series": "Thor"
+			"year": 2017
 		},
 		{
 			"name": "Black Panther (film)",
@@ -678,20 +679,20 @@
 				"Shuri",
 				"Ramonda"
 			],
-			"order": 17,
+			"order": 18,
+			"series": "Black Panther",
 			"phase": 3,
-			"year": 2018,
-			"series": "Black Panther"
+			"year": 2018
 		},
 		{
 			"name": "Avengers: Infinity War",
 			"characters": [
 				"Iron Man",
+				"War Machine",
 				"Pepper Potts",
 				"Happy Hogan",
 				"Stan Lee",
 				"Hulk",
-				"War Machine",
 				"Black Widow",
 				"Thor",
 				"Loki",
@@ -719,10 +720,10 @@
 				"Shuri",
 				"Ramonda"
 			],
-			"order": 18,
+			"order": 19,
+			"series": "Avengers",
 			"phase": 3,
-			"year": 2018,
-			"series": "Avengers"
+			"year": 2018
 		}
 	]
 }

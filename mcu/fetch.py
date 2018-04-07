@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
-
+#
+# TODO
+# * Fix the parsing of characters with multiple names. War Machine doesn't appear in Iron Man 1 for this reason.
+# 
 import urllib.parse
 import urllib.request, json 
 import csv
+import sys
 import time
 import re
+import os
 from collections import defaultdict
 from sortedcontainers import SortedSet
 import operator
@@ -26,20 +31,24 @@ def fetch(name, url):
 			time.sleep(1)
 	return open(filename, 'r')
 
-def fetch_films(films):
-	for film in films:
-		request = {
-			'action': 'query',
-			'prop': 'revisions', 
-			'rvprop': 'content',
-			'format': 'json',
-			'formatversion': '2',
-			'titles': film[NAME_FIELD],
-		}
-		params = urllib.parse.urlencode(request)
+def fetch_wiki_json(title):
+	request = {
+		'action': 'query',
+		'prop': 'revisions', 
+		'rvprop': 'content',
+		'format': 'json',
+		'formatversion': '2',
+		'titles': title,
+	}
+	params = urllib.parse.urlencode(request)
 
-		r = fetch(film[NAME_FIELD], 'http://marvel-movies.wikia.com/api.php?' + params)
-		parse_film_json(r)
+	return fetch(title, 'http://marvel-movies.wikia.com/api.php?' + params)
+
+def parse_wiki_json(r, parser):
+	data = json.loads(r.read())
+	pages = data['query']['pages']
+	for id, page in pages.items():
+		parser(page)
 
 def between(content, start, end):
 	start = re.compile(start)
@@ -74,13 +83,11 @@ def parse_wiki_link(s):
 	except ValueError:
 		return s
 
-def parse_film(page):
-	title = page['title']
-	content = page['revisions'][0]['*']
-	cast = between(content, r'==\s*Cast\s*==\n', r'==')
-	if cast is None:
-		raise Exception('failed to find cast in ' + title)
+def isTBA(character):
+	return character in('TBA', 'a to-be-confirmed character', 'To-be-confirmed character', 'a to-be-revealed character')
 
+def parse_cast(cast):
+	actors = []
 	for line in cast.splitlines():
 		line = line.lstrip('*')
 		if line == '':
@@ -97,9 +104,54 @@ def parse_film(page):
 		character = parse_wiki_link(character)
 
 		# Filter out matches we don't want
-		if character in('a to-be-confirmed character', 'To-be-confirmed character', 'a to-be-revealed character'):
+		if isTBA(character):
 			continue
 
+		if character.lower().startswith(('himself', 'herself', 'Himself', 'Herself')):
+			character = actor
+
+		actors.append((character, actor))
+	return actors
+
+def parse_tv(page):
+	title = page['title']
+	content = page['revisions'][0]['*']
+
+	# Find the cast section ==Cast==
+	cast = between(content, r'==\s*Cast\s*==\n', r'\n==[^=]')
+	if cast is None:
+		raise Exception('failed to find cast in ' + title)
+
+	season = 1
+	while True:
+		seasonCast = between(cast, (r'===\s*Season %d\s*===\n' % season), r'\n===[^=]')
+		if seasonCast is None:
+			if season == 1: # The very first season isn't found, so assume a single season TV show
+				for character, actor in parse_cast(cast):
+					characters[character].add((title, season))
+			break
+		for character, actor in parse_cast(seasonCast):
+			characters[character].add((title, season))
+		season += 1
+
+	return
+
+	# Repeat this a few times, for different seasons
+
+	cast = between(content, r'=+\s*Main(?: Cast)?\s*=+\n', r'==')
+	if cast is None:
+		raise Exception('failed to find cast in ' + title)
+
+
+
+def parse_film(page):
+	title = page['title']
+	content = page['revisions'][0]['*']
+	cast = between(content, r'==\s*Cast\s*==\n', r'==')
+	if cast is None:
+		raise Exception('failed to find cast in ' + title)
+
+	for character, actor in parse_cast(cast):
 		if actor == 'Stan Lee':
 			character = 'Stan Lee'
 
@@ -109,98 +161,158 @@ def parse_film(page):
 		elif character == 'Loki Laufeyson':
 			character = 'Loki'
 
-		elif character in ('himself', 'herself', 'Himself', 'Herself'):
-			character = actor
+		elif character == 'James Rhodes':
+			character = 'War Machine'
 
-		characters[character].add(title)
+		characters[character].add((title, None))
 
-def parse_film_json(r):
-	data = json.loads(r.read())
-	pages = data['query']['pages']
-	for id, page in pages.items():
-		parse_film(page)
 
 def set_default(obj):
     if isinstance(obj, SortedSet):
         return list(obj)
     raise TypeError
 
-def output_json(films_index, characters):
-	data_films = dict()
-	for i, film in enumerate(films_index):
-		name = film[NAME_FIELD]
-		data_films[name] = {
-			'name': name,
-			'characters': [],
-			'order': i,
-			'phase': int(film[PHASE_FIELD]),
-			'year': int(film[YEAR_FIELD]),
-			'series': film[SERIES_FIELD],
-		}
+def filmSeasonTitle(film, season):
+	if season:
+		return film + (" (season %d)" % season)
+	return film
 
-	data_characters = []
+def tryInt(s):
+	try:
+		int(s)
+		return True
+	except:
+		return False
+
+def output_json(corpus, films_index, characters):
+	json_films = dict()
+
 	for character, films in characters.items():
-		# Skip characters who weren't in many films
-		if len(films) <= 1:
-			continue
+		for film, season in films:
+			title = filmSeasonTitle(film, season)
+			if title in json_films:
+				continue
 
-		# Which series is this character in
+			json_film = {
+		 		'name': title,
+		 		'characters': [],
+		 	}
+
+			if season:
+				json_film['season'] = season
+
+			# Find the movie in the film_index
+			f = next(f for f in films_index if f[NAME_FIELD] == film)
+			if not f:
+				raise Exception('failed to find film ' + title)
+
+			# Adds additional information, such as order, series, etc
+			for key, value in f.items():
+				if key not in json_film:
+					if tryInt(value):
+						json_film[key.lower()] = int(value)
+					else:
+						json_film[key.lower()] = value
+
+			json_films[title] = json_film
+
+
+	json_characters = []
+	for character, films in characters.items():
 		series = defaultdict(int)
-		for film in films_index:
-			if film[NAME_FIELD] in films:
-				series[film[SERIES_FIELD]] += 1
+		if corpus == "film": # TODO Change to "if has series"
+			# Which series is this character in
+			for name, season in films:
+				title = filmSeasonTitle(name, season)
+				series[json_films[title]['series']] += 1
 
-		main = max(series.items(), key=operator.itemgetter(1))[0]
+			series = sorted(series.items(), key=lambda x: (x[1], x[0]), reverse=True)
+			main = series[0][0]
 
-		# HACK There are characters who appeared in more other films, than their own!
-		if character == 'Hulk':
-			main = 'Hulk'
-		elif character == 'Black Panther':
-			main = 'Black Panther'
-		elif character == 'Stan Lee':
-			main = 'Avengers'
+			# If Avengers is #1 make sure there isn't a more specific movie with a equal score
+			if main == 'Avengers' and len(series) > 1:
+				if series[0][1] == series[1][1]:
+					main = series[1][0]
 
-		# Skip characters who don't cross series
-		# TODO Filter this cient side
-		if len(series) <= 1:
-			continue
+			# HACK There are characters who appeared in more other films, than their own!
+			#if character == 'Hulk':
+			#	main = 'Hulk'
+			if character == 'Stan Lee':
+				main = 'Avengers'
+			elif character == 'F.R.I.D.A.Y.':
+				main = 'Iron Man'
+			elif character == 'Doctor Strange':
+				main = 'Doctor Strange'
+			elif character in ('Black Panther', 'Ayo', 'T\'Chaka'):
+				main = 'Black Panther'
+			elif character == 'Vision':
+				main = 'Avengers'
+			elif character == 'Ant-Man':
+				main = 'Ant-Man'
 
-		data_characters.append({
+			# Skip characters who don't cross series
+			# TODO Filter this cient side
+			if len(series) <= 1:
+				continue
+		else:
+			main = 'TV'
+
+		json_characters.append({
 			'name': character,
 			'films': len(films),
 			'series': len(series),
 			'mainseries': main,
 		})
-		for film in films:
-			data_films[film]['characters'].append(character)
+		for (film, season) in films:
+			title = filmSeasonTitle(film, season)
+			json_films[title]['characters'].append(character)
 
-	#title = title.replace(' (film)', '')
+	#json_characters = sorted(json_characters, key=lambda character: character['name'])
+	#json_films = sorted(json_films.values(), key=lambda film: film['name'])
+	json_films = sorted(json_films.values(), key=lambda film: film['order'])
 
 	data = {
-		# TODO Change the data format to not need ID
-		'characters': data_characters,
-		'films': [data_films[film[NAME_FIELD]] for film in films_index], # Ensure the films are in order
+		'characters': json_characters,
+		#'films': [json_films[film[NAME_FIELD]] for film in films_index], # Ensure the films are in order
+		'films': json_films,
 	}
 
 	print(json.dumps(data, default=set_default, indent='\t'))
 
 characters = defaultdict(SortedSet) # Global var
 
-if __name__ == '__main__':
+def main():
+	if len(sys.argv) < 2:
+		print('{0} <csv file>'.format(sys.argv[0]))
+		sys.exit(0)
+
+	filename = sys.argv[1]
 	films = []
-	with open('films.csv', 'r') as f:
+	with open(filename, 'r') as f:
 		for row in csv.DictReader(f):
 			films.append( row )
 
-	fetch_films(films)
+	corpus = os.path.splitext(filename)[0]
+	if corpus == "film":
+		parser = parse_film
+	elif corpus == "tv":
+		parser = parse_tv
+	else:
+		raise Exception('Invalid corpus %s' % corpus)
 
-	# Ensure Stan Lee is in all the movies
 	for film in films:
-		characters['Stan Lee'].add(film['Name'])
+		with fetch_wiki_json(film[NAME_FIELD]) as page:
+			parse_wiki_json(page, parser)
 
-	# BUG Ensure Doctor Strange is in his own movie
-	characters['Doctor Strange'].add("Doctor Strange (film)")
+	if corpus == "film":
+		characters['Doctor Strange'].add(("Doctor Strange (film)", None)) # TODO Fix this
+
+		# Ensure Stan Lee is in all the movies
+		for film in films:
+			characters['Stan Lee'].add((film['Name'], None))
 
 	#print(json.dumps(characters, default=set_default, indent='\t'))
-	output_json(films, characters)
+	output_json(corpus, films, characters)
 
+if __name__ == '__main__':
+	main()
