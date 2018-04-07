@@ -16,9 +16,6 @@ import operator
 
 # Fields in the CSV
 NAME_FIELD = "Name"
-SERIES_FIELD = "Series"
-PHASE_FIELD = "Phase"
-YEAR_FIELD = "Year"
 
 def fetch(name, url):
 	filename = 'cache/' + name
@@ -51,6 +48,7 @@ def parse_wiki_json(r, parser):
 		parser(page)
 
 def between(content, start, end):
+	"""Return the content between two regex matches"""
 	start = re.compile(start)
 	s = start.search(content)
 	if s is None:
@@ -103,7 +101,7 @@ def parse_cast(cast):
 		actor = parse_wiki_link(actor)
 		character = parse_wiki_link(character)
 
-		# Filter out matches we don't want
+		# Filter out matches we don't know
 		if isTBA(character):
 			continue
 
@@ -142,7 +140,20 @@ def parse_tv(page):
 	if cast is None:
 		raise Exception('failed to find cast in ' + title)
 
+def fix_film_character(character, actor):
+	if actor == 'Stan Lee':
+		character = 'Stan Lee'
 
+	elif character == 'Thor Odinson':
+		character = 'Thor'
+
+	elif character == 'Loki Laufeyson':
+		character = 'Loki'
+
+	elif character == 'James Rhodes':
+		character = 'War Machine'
+
+	return character, actor
 
 def parse_film(page):
 	title = page['title']
@@ -152,30 +163,8 @@ def parse_film(page):
 		raise Exception('failed to find cast in ' + title)
 
 	for character, actor in parse_cast(cast):
-		if actor == 'Stan Lee':
-			character = 'Stan Lee'
-
-		elif character == 'Thor Odinson':
-			character = 'Thor'
-
-		elif character == 'Loki Laufeyson':
-			character = 'Loki'
-
-		elif character == 'James Rhodes':
-			character = 'War Machine'
-
+		character, actor = fix_film_character(character, actor)
 		characters[character].add((title, None))
-
-
-def set_default(obj):
-    if isinstance(obj, SortedSet):
-        return list(obj)
-    raise TypeError
-
-def filmSeasonTitle(film, season):
-	if season:
-		return film + (" (season %d)" % season)
-	return film
 
 def tryInt(s):
 	try:
@@ -184,38 +173,64 @@ def tryInt(s):
 	except:
 		return False
 
+def get(d, keys):
+	for k in keys:
+		if k in d:
+			return d[k]
+	return None
+
+def set_default(obj):
+    if isinstance(obj, SortedSet):
+        return list(obj)
+    raise TypeError
+
+def filmTitle(film):
+	film = film.replace(' (film)', '')
+	film = film.replace(' (Netflix series)', '')
+	film = film.replace(' (TV series)', '')
+	return film
+
+def filmSeasonTitle(film, season):
+	film = filmTitle(film)
+	if season:
+		return film + (" (Season %d)" % season)
+	return film
+
 def output_json(corpus, films_index, characters):
 	json_films = dict()
 
 	for character, films in characters.items():
-		for film, season in films:
-			title = filmSeasonTitle(film, season)
-			if title in json_films:
+		for wiki_title, season in films:
+			title = filmTitle(wiki_title)
+			long_title = filmSeasonTitle(wiki_title, season)
+			if long_title in json_films:
 				continue
 
 			json_film = {
-		 		'name': title,
+		 		'name': long_title,
+		 		'wiki': wiki_title,
 		 		'characters': [],
 		 	}
 
 			if season:
+				json_film['series'] = title
 				json_film['season'] = season
 
 			# Find the movie in the film_index
-			f = next(f for f in films_index if f[NAME_FIELD] == film)
+			f = next(f for f in films_index if f[NAME_FIELD] == wiki_title)
 			if not f:
-				raise Exception('failed to find film ' + title)
+				raise Exception('failed to find film ' + wiki_title)
 
 			# Adds additional information, such as order, series, etc
 			for key, value in f.items():
+				key = key.lower()
 				if key not in json_film:
 					if tryInt(value):
-						json_film[key.lower()] = int(value)
+						json_film[key] = int(value)
 					else:
-						json_film[key.lower()] = value
+						json_film[key] = value
 
-			json_films[title] = json_film
-
+			json_films[long_title] = json_film
 
 	json_characters = []
 	for character, films in characters.items():
@@ -234,9 +249,7 @@ def output_json(corpus, films_index, characters):
 				if series[0][1] == series[1][1]:
 					main = series[1][0]
 
-			# HACK There are characters who appeared in more other films, than their own!
-			#if character == 'Hulk':
-			#	main = 'Hulk'
+			# There are characters who appeared in more other films, than their own!
 			if character == 'Stan Lee':
 				main = 'Avengers'
 			elif character == 'F.R.I.D.A.Y.':
@@ -267,13 +280,14 @@ def output_json(corpus, films_index, characters):
 			title = filmSeasonTitle(film, season)
 			json_films[title]['characters'].append(character)
 
+
+	# TODO Sort this data, so its easier to diff changes in the output.
 	#json_characters = sorted(json_characters, key=lambda character: character['name'])
 	#json_films = sorted(json_films.values(), key=lambda film: film['name'])
-	json_films = sorted(json_films.values(), key=lambda film: film['order'])
+	json_films = sorted(json_films.values(), key=lambda film: get(film, ['order', 'name']))
 
 	data = {
 		'characters': json_characters,
-		#'films': [json_films[film[NAME_FIELD]] for film in films_index], # Ensure the films are in order
 		'films': json_films,
 	}
 

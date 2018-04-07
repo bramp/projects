@@ -345,7 +345,8 @@
 	],
 	"films": [
 		{
-			"name": "Iron Man (film)",
+			"name": "Iron Man",
+			"wiki": "Iron Man (film)",
 			"characters": [
 				"Iron Man",
 				"War Machine",
@@ -363,7 +364,8 @@
 			"year": 2008
 		},
 		{
-			"name": "The Incredible Hulk (film)",
+			"name": "The Incredible Hulk",
+			"wiki": "The Incredible Hulk (film)",
 			"characters": [
 				"Stan Lee",
 				"Hulk"
@@ -375,6 +377,7 @@
 		},
 		{
 			"name": "Iron Man 2",
+			"wiki": "Iron Man 2",
 			"characters": [
 				"Iron Man",
 				"War Machine",
@@ -394,7 +397,8 @@
 			"year": 2010
 		},
 		{
-			"name": "Thor (film)",
+			"name": "Thor",
+			"wiki": "Thor (film)",
 			"characters": [
 				"Phil Coulson",
 				"Nick Fury",
@@ -411,6 +415,7 @@
 		},
 		{
 			"name": "Captain America: The First Avenger",
+			"wiki": "Captain America: The First Avenger",
 			"characters": [
 				"Nick Fury",
 				"Howard Stark",
@@ -424,7 +429,8 @@
 			"year": 2011
 		},
 		{
-			"name": "The Avengers (film)",
+			"name": "The Avengers",
+			"wiki": "The Avengers (film)",
 			"characters": [
 				"Iron Man",
 				"Pepper Potts",
@@ -453,6 +459,7 @@
 		},
 		{
 			"name": "Iron Man 3",
+			"wiki": "Iron Man 3",
 			"characters": [
 				"Iron Man",
 				"Pepper Potts",
@@ -469,6 +476,7 @@
 		},
 		{
 			"name": "Thor: The Dark World",
+			"wiki": "Thor: The Dark World",
 			"characters": [
 				"Stan Lee",
 				"Thor",
@@ -486,6 +494,7 @@
 		},
 		{
 			"name": "Captain America: The Winter Soldier",
+			"wiki": "Captain America: The Winter Soldier",
 			"characters": [
 				"Nick Fury",
 				"Stan Lee",
@@ -508,7 +517,8 @@
 			"year": 2014
 		},
 		{
-			"name": "Guardians of the Galaxy (film)",
+			"name": "Guardians of the Galaxy",
+			"wiki": "Guardians of the Galaxy (film)",
 			"characters": [
 				"Stan Lee",
 				"The Other",
@@ -528,6 +538,7 @@
 		},
 		{
 			"name": "Avengers: Age of Ultron",
+			"wiki": "Avengers: Age of Ultron",
 			"characters": [
 				"Iron Man",
 				"War Machine",
@@ -558,7 +569,8 @@
 			"year": 2015
 		},
 		{
-			"name": "Ant-Man (film)",
+			"name": "Ant-Man",
+			"wiki": "Ant-Man (film)",
 			"characters": [
 				"Howard Stark",
 				"Stan Lee",
@@ -575,6 +587,7 @@
 		},
 		{
 			"name": "Captain America: Civil War",
+			"wiki": "Captain America: Civil War",
 			"characters": [
 				"Iron Man",
 				"War Machine",
@@ -602,7 +615,8 @@
 			"year": 2016
 		},
 		{
-			"name": "Doctor Strange (film)",
+			"name": "Doctor Strange",
+			"wiki": "Doctor Strange (film)",
 			"characters": [
 				"Stan Lee",
 				"Thor",
@@ -617,6 +631,7 @@
 		},
 		{
 			"name": "Guardians of the Galaxy Vol. 2",
+			"wiki": "Guardians of the Galaxy Vol. 2",
 			"characters": [
 				"Stan Lee",
 				"Star-Lord",
@@ -635,6 +650,7 @@
 		},
 		{
 			"name": "Spider-Man: Homecoming",
+			"wiki": "Spider-Man: Homecoming",
 			"characters": [
 				"Iron Man",
 				"Pepper Potts",
@@ -651,6 +667,7 @@
 		},
 		{
 			"name": "Thor: Ragnarok",
+			"wiki": "Thor: Ragnarok",
 			"characters": [
 				"Stan Lee",
 				"Hulk",
@@ -666,7 +683,8 @@
 			"year": 2017
 		},
 		{
-			"name": "Black Panther (film)",
+			"name": "Black Panther",
+			"wiki": "Black Panther (film)",
 			"characters": [
 				"Stan Lee",
 				"Winter Soldier",
@@ -686,6 +704,7 @@
 		},
 		{
 			"name": "Avengers: Infinity War",
+			"wiki": "Avengers: Infinity War",
 			"characters": [
 				"Iron Man",
 				"War Machine",

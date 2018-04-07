@@ -31,7 +31,7 @@ function wrangle(data) {
 	let charactersCache = {};
 
 	return data.films.map(function(film){
-		film.title = film.name.replace(/\s+\(film\)/g, '').split(': ', 2);
+		film.title = film.name.split(': ', 2);
 		film.characters = film['characters'].map(function(name){
 			return findCharacterByName(name);
 		});
