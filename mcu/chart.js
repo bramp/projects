@@ -19,9 +19,6 @@ function dim_all(value) {
 		film._dim = value;
 		film.characters.forEach(function(character) {
 			character._dim = value;
-			character.appearances.forEach(function(appearance) {
-				appearance._dim = value;
-			});
 		});
 	});
 }
@@ -34,7 +31,7 @@ function wrangle(data) {
 	let charactersCache = {};
 
 	return data.films.map(function(film){
-		film.title = film.name.replace(/\s+\(film\)/g, '');
+		film.title = film.name.replace(/\s+\(film\)/g, '').split(': ', 2);
 		film.characters = film['characters'].map(function(name){
 			return findCharacterByName(name);
 		});
@@ -51,9 +48,6 @@ function wrangle(data) {
 	}
 }
 
-/**
- * Draw
- */
 function transition(selection) {
   return selection.transition().duration(1000);
 }
@@ -66,6 +60,13 @@ function fadeout(selection) {
   return selection.transition().duration(1000);//.style("opacity", 0);
 }
 
+/**
+ * Appends two overlapping text elements to the object. This allows
+ * the back text to add a white highlight around the front black text.
+ *
+ * @param      {<type>}  svg     The svg
+ * @return     {<type>}  A new group element containing the text.
+ */
 function outlineText(svg) {
 	let g = svg.append('g');
 
@@ -177,9 +178,9 @@ function drawMovies(svg, narrative) {
 
 	let g = movies.enter().append('g')
 		.attr('class', 'movie')
-		.attr('transform', function(scene){
-			const x = Math.round(scene.x)+0.5;
-			const y = Math.round(scene.y)+0.5 + textHeight;
+		.attr('transform', function(film){
+			const x = Math.round(film.x)+0.5;
+			const y = Math.round(film.y)+0.5 + textHeight;
 			return 'translate('+[x, y]+')';
 		})
 		.on("click", function(film) {
@@ -189,9 +190,6 @@ function drawMovies(svg, narrative) {
 			film._dim = false;
 			film.characters.forEach(function(character){
 				character._dim = false;
-				character.appearances.forEach(function(appearance){
-					appearance._dim = false;
-				});
 			});
 
 			draw();
@@ -221,7 +219,7 @@ function drawMovies(svg, narrative) {
 	// Update
 	movies = transition(movies)
 		.attr('class', function(scene) {
-			return 'movie p' + scene.phase + ' s-' + cssName(scene.series) + (scene._dim ? ' dim' : '');
+			return 'movie p' + scene.phase + ' s-' + cssName(scene.series);
 		})
 		.attr('transform', function(scene){
 			const x = Math.round(scene.x)+0.5;
@@ -231,36 +229,32 @@ function drawMovies(svg, narrative) {
 
 	movies.selectAll('rect')
 		.attr('width', movieWidth)
-		.attr('height', function(scene){
+		.attr('height', function(scene) {
 			return scene.height - 2 * textHeight;
+		})
+		.attr('class', function(scene) {
+			return scene._dim ? 'dim' : '';
 		});
 
-	movies.selectAll('title').text(function(scene) {
-		return scene.title;
+	text = movies.selectAll('text').attr('class', function(scene) {
+		if (d3.select(this).classed('outline')) {
+			return 'outline' + (scene._dim ? ' dim' : '');
+		}
+		return scene._dim ? 'dim' : '';
 	});
 
-	text = movies.selectAll('text');
 	text.select('tspan:nth-child(1)').text(function(scene){
-		var title = scene.title.split(': ', 2);
-		if (title.length > 1) {
-			return title[0];
+		if (scene.title.length > 1) {
+			return scene.title[0];
 		}
 		return '';
 	});
 	text.select('tspan:nth-child(2)').text(function(scene){
-		var title = scene.title.split(': ', 2);
-		if (title.length > 1) {
-			return title[1];
+		if (scene.title.length > 1) {
+			return scene.title[1];
 		}
-		return title[0];
+		return scene.title[0];
 	});
-
-/*
-	movies.selectAll('text').text(function(scene){
-		var title = scene.title.split(': ', 1);
-		return title[0];
-	});
-*/
 }
 
 // Draw appearances (dots on the movies)
@@ -273,7 +267,7 @@ function drawAppearances(svg) {
 
 	svg.selectAll('.movie').selectAll('circle')
 		.attr('class', function(appearance) {
-			return appearance._dim ? 'dim' : '';
+			return appearance.character._dim ? 'dim' : '';
 		})
 		.attr('cx', function(appearance){
 			return appearance.x;
@@ -359,7 +353,7 @@ function draw() {
 	// Get the extent so we can re-size the SVG appropriately.
 	transition(svg.data([narrative]))
 		.attr('width', function(n) {
-			return narrative.extent()[0] + 80; // 80px pad to fit the long "Avergers" title, which is last.
+			return narrative.extent()[0] + 40; // 40px pad to fit the long "Avergers" title, which is last.
 		})
 		.attr('height', function(n) {
 			return narrative.extent()[1];
@@ -385,7 +379,7 @@ svg.on("click", function() {
 });
 
 // Request the data
-d3.json('data.json', function(err, response){
+d3.json('film.json', function(err, response){
 	// Get the data in the format we need to feed to d3.layout.narrative().scenes
 	films = wrangle(response);
 	draw();
