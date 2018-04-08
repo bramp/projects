@@ -1,0 +1,346 @@
+{
+	"characters": [
+		{
+			"name": "Phil Coulson",
+			"films": 5,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Grant Ward",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Melinda May",
+			"films": 5,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Leo Fitz",
+			"films": 5,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Jemma Simmons",
+			"films": 5,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Raina",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Antoine Triplett",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Anne Weaver",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Billy Koenig",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Glenn Talbot",
+			"films": 4,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Maria Hill",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Donnie Gill",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Stan Lee",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Sif",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Daisy Johnson",
+			"films": 4,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Lance Hunter",
+			"films": 3,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Mockingbird",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Alphonso \"Mack\" Mackenzie",
+			"films": 4,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Absorbing Man",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Peggy Carter",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Timothy \"Dum Dum\" Dugan",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Yo-Yo",
+			"films": 3,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "AIDA",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Edwin Jarvis",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Daniel Sousa",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Jack Thompson",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Angie Martinelli",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Howard Stark",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Dottie Underwood",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Rose Roberts",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Hugh Jones",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		}
+	],
+	"films": [
+		{
+			"name": "Agents of S.H.I.E.L.D. (Season 1)",
+			"wiki": "Agents of S.H.I.E.L.D.",
+			"characters": [
+				"Phil Coulson",
+				"Grant Ward",
+				"Melinda May",
+				"Leo Fitz",
+				"Jemma Simmons",
+				"Raina",
+				"Antoine Triplett",
+				"Anne Weaver",
+				"Billy Koenig",
+				"Glenn Talbot",
+				"Maria Hill",
+				"Donnie Gill",
+				"Stan Lee",
+				"Sif"
+			],
+			"series": "Agents of S.H.I.E.L.D.",
+			"season": 1,
+			"released": "2013-09-24"
+		},
+		{
+			"name": "Agents of S.H.I.E.L.D. (Season 2)",
+			"wiki": "Agents of S.H.I.E.L.D.",
+			"characters": [
+				"Phil Coulson",
+				"Grant Ward",
+				"Melinda May",
+				"Leo Fitz",
+				"Jemma Simmons",
+				"Raina",
+				"Antoine Triplett",
+				"Anne Weaver",
+				"Billy Koenig",
+				"Glenn Talbot",
+				"Maria Hill",
+				"Donnie Gill",
+				"Sif",
+				"Daisy Johnson",
+				"Lance Hunter",
+				"Mockingbird",
+				"Alphonso \"Mack\" Mackenzie",
+				"Absorbing Man",
+				"Peggy Carter",
+				"Timothy \"Dum Dum\" Dugan"
+			],
+			"series": "Agents of S.H.I.E.L.D.",
+			"season": 2,
+			"released": "2014-09-23"
+		},
+		{
+			"name": "Agent Carter (Season 1)",
+			"wiki": "Agent Carter",
+			"characters": [
+				"Stan Lee",
+				"Peggy Carter",
+				"Timothy \"Dum Dum\" Dugan",
+				"Edwin Jarvis",
+				"Daniel Sousa",
+				"Jack Thompson",
+				"Angie Martinelli",
+				"Howard Stark",
+				"Dottie Underwood",
+				"Rose Roberts",
+				"Hugh Jones"
+			],
+			"series": "Agent Carter",
+			"season": 1,
+			"released": "2015-01-06"
+		},
+		{
+			"name": "Agents of S.H.I.E.L.D. (Season 3)",
+			"wiki": "Agents of S.H.I.E.L.D.",
+			"characters": [
+				"Phil Coulson",
+				"Melinda May",
+				"Leo Fitz",
+				"Jemma Simmons",
+				"Glenn Talbot",
+				"Daisy Johnson",
+				"Lance Hunter",
+				"Mockingbird",
+				"Alphonso \"Mack\" Mackenzie",
+				"Absorbing Man",
+				"Yo-Yo",
+				"AIDA"
+			],
+			"series": "Agents of S.H.I.E.L.D.",
+			"season": 3,
+			"released": "2015-09-29"
+		},
+		{
+			"name": "Agent Carter (Season 2)",
+			"wiki": "Agent Carter",
+			"characters": [
+				"Peggy Carter",
+				"Edwin Jarvis",
+				"Daniel Sousa",
+				"Jack Thompson",
+				"Angie Martinelli",
+				"Howard Stark",
+				"Dottie Underwood",
+				"Rose Roberts",
+				"Hugh Jones"
+			],
+			"series": "Agent Carter",
+			"season": 2,
+			"released": "2016-01-19"
+		},
+		{
+			"name": "Agents of S.H.I.E.L.D. (Season 4)",
+			"wiki": "Agents of S.H.I.E.L.D.",
+			"characters": [
+				"Phil Coulson",
+				"Melinda May",
+				"Leo Fitz",
+				"Jemma Simmons",
+				"Glenn Talbot",
+				"Daisy Johnson",
+				"Alphonso \"Mack\" Mackenzie",
+				"Yo-Yo",
+				"AIDA"
+			],
+			"series": "Agents of S.H.I.E.L.D.",
+			"season": 4,
+			"released": "2016-09-20"
+		},
+		{
+			"name": "Inhumans (Season 1)",
+			"wiki": "Inhumans (TV series)",
+			"characters": [],
+			"series": "Inhumans",
+			"season": 1,
+			"released": "2017-09-29"
+		},
+		{
+			"name": "Agents of S.H.I.E.L.D. (Season 5)",
+			"wiki": "Agents of S.H.I.E.L.D.",
+			"characters": [
+				"Phil Coulson",
+				"Melinda May",
+				"Leo Fitz",
+				"Jemma Simmons",
+				"Daisy Johnson",
+				"Lance Hunter",
+				"Alphonso \"Mack\" Mackenzie",
+				"Yo-Yo"
+			],
+			"series": "Agents of S.H.I.E.L.D.",
+			"season": 5,
+			"released": "2017-12-01"
+		}
+	]
+}

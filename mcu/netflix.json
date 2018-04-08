@@ -1,0 +1,427 @@
+{
+	"characters": [
+		{
+			"name": "Daredevil",
+			"films": 4,
+			"series": 2,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "The Kingpin",
+			"films": 3,
+			"series": 1,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Karen Page",
+			"films": 5,
+			"series": 3,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Foggy Nelson",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Claire Temple",
+			"films": 8,
+			"series": 5,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Nobu Yoshioka",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Madame Gao",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Iron Fist"
+		},
+		{
+			"name": "Melvin Potter",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Turk Barrett",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Brett Mahoney",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Father Lantom",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Marci Stahl",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Stick",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "The Punisher",
+			"films": 3,
+			"series": 2,
+			"mainseries": "The Punisher"
+		},
+		{
+			"name": "Elektra Natchios",
+			"films": 2,
+			"series": 2,
+			"mainseries": "The Defenders"
+		},
+		{
+			"name": "Jeryn Hogarth",
+			"films": 5,
+			"series": 4,
+			"mainseries": "Jessica Jones"
+		},
+		{
+			"name": "Jessica Jones",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Jessica Jones"
+		},
+		{
+			"name": "Luke Cage",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Luke Cage"
+		},
+		{
+			"name": "Kilgrave",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Jessica Jones"
+		},
+		{
+			"name": "Trish Walker",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Jessica Jones"
+		},
+		{
+			"name": "Malcolm Ducasse",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Jessica Jones"
+		},
+		{
+			"name": "Will Simpson",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Jessica Jones"
+		},
+		{
+			"name": "Dorothy Walker",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Jessica Jones"
+		},
+		{
+			"name": "Reva Connors",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Luke Cage"
+		},
+		{
+			"name": "Misty Knight",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Luke Cage"
+		},
+		{
+			"name": "Hernan \"Shades\" Alvarez",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Luke Cage"
+		},
+		{
+			"name": "Mariah Dillard",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Luke Cage"
+		},
+		{
+			"name": "Iron Fist",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Iron Fist"
+		},
+		{
+			"name": "Colleen Wing",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Iron Fist"
+		},
+		{
+			"name": "Ward Meachum",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Iron Fist"
+		},
+		{
+			"name": "Joy Meachum",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Iron Fist"
+		},
+		{
+			"name": "Steel Serpent",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Iron Fist"
+		},
+		{
+			"name": "Micro",
+			"films": 2,
+			"series": 1,
+			"mainseries": "The Punisher"
+		},
+		{
+			"name": "Billy Russo",
+			"films": 2,
+			"series": 1,
+			"mainseries": "The Punisher"
+		},
+		{
+			"name": "Dinah Madani",
+			"films": 2,
+			"series": 1,
+			"mainseries": "The Punisher"
+		}
+	],
+	"films": [
+		{
+			"name": "Daredevil (Season 1)",
+			"wiki": "Daredevil (Netflix series)",
+			"characters": [
+				"Daredevil",
+				"The Kingpin",
+				"Karen Page",
+				"Foggy Nelson",
+				"Claire Temple",
+				"Nobu Yoshioka",
+				"Madame Gao",
+				"Melvin Potter",
+				"Turk Barrett",
+				"Brett Mahoney",
+				"Father Lantom",
+				"Marci Stahl",
+				"Stick"
+			],
+			"series": "Daredevil",
+			"season": 1,
+			"released": "2015-04-10"
+		},
+		{
+			"name": "Jessica Jones (Season 1)",
+			"wiki": "Jessica Jones (Netflix series)",
+			"characters": [
+				"Claire Temple",
+				"Brett Mahoney",
+				"Jeryn Hogarth",
+				"Jessica Jones",
+				"Luke Cage",
+				"Kilgrave",
+				"Trish Walker",
+				"Malcolm Ducasse",
+				"Will Simpson",
+				"Dorothy Walker",
+				"Reva Connors"
+			],
+			"series": "Jessica Jones",
+			"season": 1,
+			"released": "2015-11-20"
+		},
+		{
+			"name": "Daredevil (Season 2)",
+			"wiki": "Daredevil (Netflix series)",
+			"characters": [
+				"Daredevil",
+				"The Kingpin",
+				"Karen Page",
+				"Foggy Nelson",
+				"Claire Temple",
+				"Nobu Yoshioka",
+				"Melvin Potter",
+				"Turk Barrett",
+				"Brett Mahoney",
+				"Father Lantom",
+				"Marci Stahl",
+				"Stick",
+				"The Punisher",
+				"Elektra Natchios",
+				"Jeryn Hogarth"
+			],
+			"series": "Daredevil",
+			"season": 2,
+			"released": "2016-03-18"
+		},
+		{
+			"name": "Luke Cage (Season 1)",
+			"wiki": "Luke Cage (Netflix series)",
+			"characters": [
+				"Claire Temple",
+				"Turk Barrett",
+				"Luke Cage",
+				"Trish Walker",
+				"Reva Connors",
+				"Misty Knight",
+				"Hernan \"Shades\" Alvarez",
+				"Mariah Dillard"
+			],
+			"series": "Luke Cage",
+			"season": 1,
+			"released": "2016-09-30"
+		},
+		{
+			"name": "Iron Fist (Season 1)",
+			"wiki": "Iron Fist (Netflix series)",
+			"characters": [
+				"Claire Temple",
+				"Madame Gao",
+				"Jeryn Hogarth",
+				"Iron Fist",
+				"Colleen Wing",
+				"Ward Meachum",
+				"Joy Meachum",
+				"Steel Serpent"
+			],
+			"series": "Iron Fist",
+			"season": 1,
+			"released": "2017-03-17"
+		},
+		{
+			"name": "The Defenders (Season 1)",
+			"wiki": "The Defenders (Netflix series)",
+			"characters": [
+				"Daredevil",
+				"Karen Page",
+				"Foggy Nelson",
+				"Claire Temple",
+				"Stick",
+				"Elektra Natchios",
+				"Jeryn Hogarth",
+				"Jessica Jones",
+				"Luke Cage",
+				"Trish Walker",
+				"Malcolm Ducasse",
+				"Misty Knight",
+				"Iron Fist",
+				"Colleen Wing"
+			],
+			"series": "The Defenders",
+			"season": 1,
+			"released": "2017-08-18"
+		},
+		{
+			"name": "The Punisher (Season 1)",
+			"wiki": "The Punisher (Netflix series)",
+			"characters": [
+				"Karen Page",
+				"The Punisher",
+				"Micro",
+				"Billy Russo",
+				"Dinah Madani"
+			],
+			"series": "The Punisher",
+			"season": 1,
+			"released": "2017-11-17"
+		},
+		{
+			"name": "Jessica Jones (Season 2)",
+			"wiki": "Jessica Jones (Netflix series)",
+			"characters": [
+				"Foggy Nelson",
+				"Turk Barrett",
+				"Jeryn Hogarth",
+				"Jessica Jones",
+				"Kilgrave",
+				"Trish Walker",
+				"Malcolm Ducasse",
+				"Will Simpson",
+				"Dorothy Walker"
+			],
+			"series": "Jessica Jones",
+			"season": 2,
+			"released": "2018-03-08"
+		},
+		{
+			"name": "Luke Cage (Season 2)",
+			"wiki": "Luke Cage (Netflix series)",
+			"characters": [
+				"Claire Temple",
+				"Luke Cage",
+				"Misty Knight",
+				"Hernan \"Shades\" Alvarez",
+				"Mariah Dillard",
+				"Iron Fist"
+			],
+			"series": "Luke Cage",
+			"season": 2,
+			"released": "2018-06-22"
+		},
+		{
+			"name": "Daredevil (Season 3)",
+			"wiki": "Daredevil (Netflix series)",
+			"characters": [
+				"Daredevil",
+				"The Kingpin",
+				"Karen Page",
+				"Claire Temple"
+			],
+			"series": "Daredevil",
+			"season": 3,
+			"released": "2018-99-01"
+		},
+		{
+			"name": "Iron Fist (Season 2)",
+			"wiki": "Iron Fist (Netflix series)",
+			"characters": [
+				"Misty Knight",
+				"Iron Fist",
+				"Colleen Wing",
+				"Ward Meachum",
+				"Joy Meachum",
+				"Steel Serpent"
+			],
+			"series": "Iron Fist",
+			"season": 2,
+			"released": "2018-99-02"
+		},
+		{
+			"name": "The Punisher (Season 2)",
+			"wiki": "The Punisher (Netflix series)",
+			"characters": [
+				"The Punisher",
+				"Micro",
+				"Billy Russo",
+				"Dinah Madani"
+			],
+			"series": "The Punisher",
+			"season": 2,
+			"released": "2018-99-03"
+		}
+	]
+}

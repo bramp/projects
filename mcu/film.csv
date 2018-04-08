@@ -1,20 +1,20 @@
-Order,Name,Series,Phase,Year
-1,Iron Man (film),Iron Man,1,2008
-2,The Incredible Hulk (film),Hulk,1,2008
-3,Iron Man 2,Iron Man,1,2010
-4,Thor (film),Thor,1,2011
-5,Captain America: The First Avenger,Captain America,1,2011
-6,The Avengers (film),Avengers,1,2012
-7,Iron Man 3,Iron Man,2,2013
-8,Thor: The Dark World,Thor,2,2013
-9,Captain America: The Winter Soldier,Captain America,2,2014
-10,Guardians of the Galaxy (film),Guardians of the Galaxy,2,2014
-11,Avengers: Age of Ultron,Avengers,2,2015
-12,Ant-Man (film),Ant-Man,2,2015
-13,Captain America: Civil War,Captain America,3,2016
-14,Doctor Strange (film),Doctor Strange,3,2016
-15,Guardians of the Galaxy Vol. 2,Guardians of the Galaxy,3,2017
-16,Spider-Man: Homecoming,Spider-Man,3,2017
-17,Thor: Ragnarok,Thor,3,2017
-18,Black Panther (film),Black Panther,3,2018
-19,Avengers: Infinity War,Avengers,3,2018
+Name,Series,Phase,Released
+Iron Man (film),Iron Man,1,2008-05-02
+The Incredible Hulk (film),Hulk,1,2008-06-13
+Iron Man 2,Iron Man,1,2010-05-07
+Thor (film),Thor,1,2011-05-06
+Captain America: The First Avenger,Captain America,1,2011-07-22
+The Avengers (film),Avengers,1,2012-05-04
+Iron Man 3,Iron Man,2,2013-05-03
+Thor: The Dark World,Thor,2,2013-11-08
+Captain America: The Winter Soldier,Captain America,2,2014-04-04
+Guardians of the Galaxy (film),Guardians of the Galaxy,2,2014-08-01
+Avengers: Age of Ultron,Avengers,2,2015-05-01
+Ant-Man (film),Ant-Man,2,2015-07-17
+Captain America: Civil War,Captain America,3,2016-05-06
+Doctor Strange (film),Doctor Strange,3,2016-11-04
+Guardians of the Galaxy Vol. 2,Guardians of the Galaxy,3,2017-05-05
+Spider-Man: Homecoming,Spider-Man,3,2017-07-07
+Thor: Ragnarok,Thor,3,2017-11-03
+Black Panther (film),Black Panther,3,2018-02-16
+Avengers: Infinity War,Avengers,3,2018-04-27
