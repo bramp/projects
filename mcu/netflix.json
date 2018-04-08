@@ -91,6 +91,12 @@
 			"mainseries": "The Defenders"
 		},
 		{
+			"name": "Blake Tower",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Luke Cage"
+		},
+		{
 			"name": "Jeryn Hogarth",
 			"films": 5,
 			"series": 4,
@@ -187,6 +193,12 @@
 			"mainseries": "Iron Fist"
 		},
 		{
+			"name": "Bakuto",
+			"films": 2,
+			"series": 2,
+			"mainseries": "The Defenders"
+		},
+		{
 			"name": "Steel Serpent",
 			"films": 2,
 			"series": 1,
@@ -272,6 +284,7 @@
 				"Stick",
 				"The Punisher",
 				"Elektra Natchios",
+				"Blake Tower",
 				"Jeryn Hogarth"
 			],
 			"series": "Daredevil",
@@ -284,6 +297,7 @@
 			"characters": [
 				"Claire Temple",
 				"Turk Barrett",
+				"Blake Tower",
 				"Luke Cage",
 				"Trish Walker",
 				"Reva Connors",
@@ -306,6 +320,7 @@
 				"Colleen Wing",
 				"Ward Meachum",
 				"Joy Meachum",
+				"Bakuto",
 				"Steel Serpent"
 			],
 			"series": "Iron Fist",
@@ -329,7 +344,8 @@
 				"Malcolm Ducasse",
 				"Misty Knight",
 				"Iron Fist",
-				"Colleen Wing"
+				"Colleen Wing",
+				"Bakuto"
 			],
 			"series": "The Defenders",
 			"season": 1,

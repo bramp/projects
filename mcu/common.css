@@ -1,0 +1,51 @@
+	text {
+		font-family: Helvetica,Arial,sans-serif;
+		font-size: 12px;
+	}
+
+	.dim {
+		opacity: 0.15;
+	}
+
+	svg {
+		background-color: #EFF2F7;
+	}
+
+	rect {
+		fill: orange;
+		stroke: #000;
+
+		cursor: pointer;
+	}
+	path {
+		fill: none;
+		stroke-width: 2;
+		stroke: #333;
+
+		cursor: pointer;
+	}
+	circle, text {
+		cursor: pointer;
+	}
+
+	.copyright text {
+		font-size: 14px;
+	}
+
+	.movie:hover {
+		stroke-width: 2;
+		font-weight: bold;
+		z-index:100;
+	}
+
+	.intro:hover {
+		font-weight: bold;
+	}
+
+	/* White outline around the text */
+	/*.intro text:first-child { */
+	.outline {
+		fill: #fff;
+	    stroke: #f9f9f9;
+	    stroke-width: 3;
+	}

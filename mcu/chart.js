@@ -12,7 +12,35 @@ const movieWidth = 15; // Horiztonal width of movies
 const labelSize = [100, 15];
 const textHeight = 15;
 
+// TODO Refactor this and move the globals elsewhere.
 let films = [];
+
+// The container element (this is the HTML fragment);
+let svg = d3.select('body').append('svg')
+	.attr('xmlns', 'http://www.w3.org/2000/svg')
+	.attr('xmlns:xlink', 'http://www.w3.org/1999/xlink')
+	.attr('id', 'narrative-chart');
+
+svg.on("click", function() {
+	dim_all(false);
+	draw();
+});
+
+// Request the data
+function load_narrative(file) {
+	d3.json(file, function(err, response){
+		// Get the data in the format we need to feed to d3.layout.narrative().scenes
+		films = wrangle(response);
+		draw();
+	/*
+		// Party time (to test moves)
+		d3.interval(function() {
+			films = d3.shuffle(films);
+			draw();
+		}, 1500);
+	*/
+	});
+}
 
 function dim_all(value) {
 	films.forEach(function(film){
@@ -24,14 +52,21 @@ function dim_all(value) {
 }
 
 function cssName(name) {
-	return name.toLowerCase().replace(/\s+/g, '-');
+	return name.toLowerCase().replace(/\s+/g, '-').replace(/\./g, '');
 }
 
 function wrangle(data) {
 	let charactersCache = {};
+	let re = /(.+)\s*(\(.+\))/;
 
 	return data.films.map(function(film){
-		film.title = film.name.split(': ', 2);
+		let matches = film.name.match(re);
+		if (matches) {
+			film.title = [matches[1], matches[2]];
+		} else {
+			film.title = film.name.split(': ', 2);
+		}
+
 		film.characters = film['characters'].map(function(name){
 			return findCharacterByName(name);
 		});
@@ -219,7 +254,9 @@ function drawMovies(svg, narrative) {
 	// Update
 	movies = transition(movies)
 		.attr('class', function(scene) {
-			return 'movie p' + scene.phase + ' s-' + cssName(scene.series);
+			return 'movie' + 
+				' s-' + cssName(scene.series) +
+				(scene.phase  ? ' p' + scene.phase : '');
 		})
 		.attr('transform', function(scene){
 			const x = Math.round(scene.x)+0.5;
@@ -365,29 +402,3 @@ function draw() {
 	drawAppearances(svg);
 	drawCopyright(svg, narrative);
 }
-
-
-// The container element (this is the HTML fragment);
-let svg = d3.select('body').append('svg')
-	.attr('xmlns', 'http://www.w3.org/2000/svg')
-	.attr('xmlns:xlink', 'http://www.w3.org/1999/xlink')
-	.attr('id', 'narrative-chart');
-
-svg.on("click", function() {
-	dim_all(false);
-	draw();
-});
-
-// Request the data
-d3.json('film.json', function(err, response){
-	// Get the data in the format we need to feed to d3.layout.narrative().scenes
-	films = wrangle(response);
-	draw();
-/*
-	// Party time (to test moves)
-	d3.interval(function() {
-		films = d3.shuffle(films);
-		draw();
-	}, 1500);
-*/
-});

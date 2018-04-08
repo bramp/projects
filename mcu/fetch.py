@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
 # TODO
-# * Fix the parsing of characters with multiple names. War Machine doesn't appear in Iron Man 1 for this reason.
+# * Fix the parsing of characters with multiple names. e.g War Machine is listed as "James Rhodes" in Iron Man 1, but "James Rhodes / War Machine" in Iron Man 2
 # 
 import urllib.parse
 import urllib.request, json 
@@ -14,8 +14,42 @@ from collections import defaultdict
 from sortedcontainers import SortedSet
 import operator
 
+WIKI = 'http://marvel-movies.wikia.com/api.php?'
+
 # Fields in the CSV
-NAME_FIELD = "Name"
+NAME_FIELD = 'Name'
+
+# Extra info to add to the films
+extra = {
+	# Netflex
+	'Daredevil (Season 1)' : {'released': '2015-04-10'},
+	'Jessica Jones (Season 1)' : {'released': '2015-11-20'},
+
+	'Daredevil (Season 2)' : {'released': '2016-03-18'},
+	'Luke Cage (Season 1)' : {'released': '2016-09-30'},
+
+	'Iron Fist (Season 1)' : {'released': '2017-03-17'},
+	'The Defenders (Season 1)' : {'released': '2017-08-18'},
+	'The Punisher (Season 1)' : {'released': '2017-11-17'},
+
+	'Jessica Jones (Season 2)' : {'released': '2018-03-08'},
+	'Luke Cage (Season 2)' : {'released': '2018-06-22'},
+
+	'Daredevil (Season 3)' : {'released': '2018-99-01'},    # unknown released date
+	'Iron Fist (Season 2)' : {'released': '2018-99-02'},    # unknown released date
+	'The Punisher (Season 2)' : {'released': '2018-99-03'}, # unknown released date
+
+	# ABC
+	'Agents of S.H.I.E.L.D. (Season 1)' : {'released': '2013-09-24'},
+	'Agents of S.H.I.E.L.D. (Season 2)' : {'released': '2014-09-23'},
+	'Agent Carter (Season 1)' : {'released': '2015-01-06'},
+	'Agents of S.H.I.E.L.D. (Season 3)' : {'released': '2015-09-29'},
+	'Agent Carter (Season 2)' : {'released': '2016-01-19'},
+	'Agents of S.H.I.E.L.D. (Season 4)' : {'released': '2016-09-20'},
+	'Inhumans (Season 1)' : {'released': '2017-09-29'},
+	'Agents of S.H.I.E.L.D. (Season 5)' : {'released': '2017-12-01'},
+}
+
 
 def fetch(name, url):
 	filename = 'cache/' + name
@@ -38,8 +72,7 @@ def fetch_wiki_json(title):
 		'titles': title,
 	}
 	params = urllib.parse.urlencode(request)
-
-	return fetch(title, 'http://marvel-movies.wikia.com/api.php?' + params)
+	return fetch(title, WIKI + params)
 
 def parse_wiki_json(r, parser):
 	data = json.loads(r.read())
@@ -48,7 +81,7 @@ def parse_wiki_json(r, parser):
 		parser(page)
 
 def between(content, start, end):
-	"""Return the content between two regex matches"""
+	'''Return the content between two regex matches'''
 	start = re.compile(start)
 	s = start.search(content)
 	if s is None:
@@ -82,7 +115,10 @@ def parse_wiki_link(s):
 		return s
 
 def isTBA(character):
-	return character in('TBA', 'a to-be-confirmed character', 'To-be-confirmed character', 'a to-be-revealed character')
+	return character in('TBA', 'a to-be-confirmed character', 'To-be-confirmed character', 'a to-be-revealed character', '\'\'To be added\'\'')
+
+def isHeading(character):
+	return character.startswith('=')
 
 def parse_cast(cast):
 	actors = []
@@ -105,6 +141,9 @@ def parse_cast(cast):
 		if isTBA(character):
 			continue
 
+		if isHeading(character):
+			continue
+
 		if character.lower().startswith(('himself', 'herself', 'Himself', 'Herself')):
 			character = actor
 
@@ -122,25 +161,23 @@ def parse_tv(page):
 
 	season = 1
 	while True:
-		seasonCast = between(cast, (r'===\s*Season %d\s*===\n' % season), r'\n===[^=]')
+		seasonCast = between(cast, (r'===\s*Season %d\s*===\n' % season), r'\n(===[^=]|$)')
 		if seasonCast is None:
 			if season == 1: # The very first season isn't found, so assume a single season TV show
 				for character, actor in parse_cast(cast):
+					character, actor = fix_character(character, actor)
 					characters[character].add((title, season))
+
 			break
+
 		for character, actor in parse_cast(seasonCast):
+			character, actor = fix_character(character, actor)
 			characters[character].add((title, season))
+
 		season += 1
 
-	return
 
-	# Repeat this a few times, for different seasons
-
-	cast = between(content, r'=+\s*Main(?: Cast)?\s*=+\n', r'==')
-	if cast is None:
-		raise Exception('failed to find cast in ' + title)
-
-def fix_film_character(character, actor):
+def fix_character(character, actor):
 	if actor == 'Stan Lee':
 		character = 'Stan Lee'
 
@@ -153,7 +190,25 @@ def fix_film_character(character, actor):
 	elif character == 'James Rhodes':
 		character = 'War Machine'
 
+	elif character == 'Dr. Strange':
+		character = 'Doctor Strange'
+
+	# Shield
+	elif character == 'Quake':
+		character = 'Daisy Johnson'
+
+	elif character == 'Alphonso Mackenzie':
+		character = 'Alphonso "Mack" Mackenzie'
+
+	elif character == 'Slingshot':
+		character = 'Yo-Yo' # Elena "Yo-Yo" Rodriguez/Slingshot
+
+	# Netflix
+	elif character == 'Franklin "Foggy" Nelson':
+		character = 'Foggy Nelson'
+
 	return character, actor
+
 
 def parse_film(page):
 	title = page['title']
@@ -163,7 +218,7 @@ def parse_film(page):
 		raise Exception('failed to find cast in ' + title)
 
 	for character, actor in parse_cast(cast):
-		character, actor = fix_film_character(character, actor)
+		character, actor = fix_character(character, actor)
 		characters[character].add((title, None))
 
 def tryInt(s):
@@ -193,7 +248,7 @@ def filmTitle(film):
 def filmSeasonTitle(film, season):
 	film = filmTitle(film)
 	if season:
-		return film + (" (Season %d)" % season)
+		return film + (' (Season %d)' % season)
 	return film
 
 def output_json(corpus, films_index, characters):
@@ -230,20 +285,24 @@ def output_json(corpus, films_index, characters):
 					else:
 						json_film[key] = value
 
+			if long_title in extra:
+				json_film.update(extra[long_title])
+
 			json_films[long_title] = json_film
 
 	json_characters = []
 	for character, films in characters.items():
 		series = defaultdict(int)
-		if corpus == "film": # TODO Change to "if has series"
-			# Which series is this character in
-			for name, season in films:
-				title = filmSeasonTitle(name, season)
-				series[json_films[title]['series']] += 1
 
-			series = sorted(series.items(), key=lambda x: (x[1], x[0]), reverse=True)
-			main = series[0][0]
+		# Which series is this character in
+		for name, season in films:
+			title = filmSeasonTitle(name, season)
+			series[json_films[title]['series']] += 1
 
+		series = sorted(series.items(), key=lambda x: (x[1], x[0]), reverse=True)
+		main = series[0][0]
+
+		if corpus == 'film': # TODO Change to 'if has series'
 			# If Avengers is #1 make sure there isn't a more specific movie with a equal score
 			if main == 'Avengers' and len(series) > 1:
 				if series[0][1] == series[1][1]:
@@ -268,13 +327,15 @@ def output_json(corpus, films_index, characters):
 			if len(series) <= 1:
 				continue
 		else:
-			main = 'TV'
+			# Skip characters who aren't in more than one season
+			if len(films) <= 1:
+				continue
 
 		json_characters.append({
 			'name': character,
-			'films': len(films),
-			'series': len(series),
-			'mainseries': main,
+			'films': len(films),   # Number of films, or number of TV seasons.
+			'series': len(series), # Number of film series or TV series.
+			'mainseries': main,    # The main series they are associated with.
 		})
 		for (film, season) in films:
 			title = filmSeasonTitle(film, season)
@@ -284,7 +345,7 @@ def output_json(corpus, films_index, characters):
 	# TODO Sort this data, so its easier to diff changes in the output.
 	#json_characters = sorted(json_characters, key=lambda character: character['name'])
 	#json_films = sorted(json_films.values(), key=lambda film: film['name'])
-	json_films = sorted(json_films.values(), key=lambda film: get(film, ['order', 'name']))
+	json_films = sorted(json_films.values(), key=lambda film: get(film, ['released', 'name']))
 
 	data = {
 		'characters': json_characters,
@@ -307,9 +368,9 @@ def main():
 			films.append( row )
 
 	corpus = os.path.splitext(filename)[0]
-	if corpus == "film":
+	if corpus == 'film':
 		parser = parse_film
-	elif corpus == "tv":
+	elif corpus in ('abc', 'netflix'):
 		parser = parse_tv
 	else:
 		raise Exception('Invalid corpus %s' % corpus)
@@ -318,8 +379,8 @@ def main():
 		with fetch_wiki_json(film[NAME_FIELD]) as page:
 			parse_wiki_json(page, parser)
 
-	if corpus == "film":
-		characters['Doctor Strange'].add(("Doctor Strange (film)", None)) # TODO Fix this
+	if corpus == 'film':
+		characters['Doctor Strange'].add(('Doctor Strange (film)', None)) # TODO Fix this
 
 		# Ensure Stan Lee is in all the movies
 		for film in films:

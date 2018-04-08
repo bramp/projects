@@ -236,7 +236,7 @@
 		},
 		{
 			"name": "Vision",
-			"films": 2,
+			"films": 3,
 			"series": 2,
 			"mainseries": "Avengers"
 		},
@@ -710,6 +710,7 @@
 				"Gamora",
 				"Nebula",
 				"Scarlet Witch",
+				"Vision",
 				"Ant-Man",
 				"Black Panther",
 				"Spider-Man",
