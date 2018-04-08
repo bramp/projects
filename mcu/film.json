@@ -358,10 +358,9 @@
 				"Howard Stark",
 				"Stan Lee"
 			],
-			"order": 1,
 			"series": "Iron Man",
 			"phase": 1,
-			"year": 2008
+			"released": "2008-05-02"
 		},
 		{
 			"name": "The Incredible Hulk",
@@ -370,10 +369,9 @@
 				"Stan Lee",
 				"Hulk"
 			],
-			"order": 2,
 			"series": "Hulk",
 			"phase": 1,
-			"year": 2008
+			"released": "2008-06-13"
 		},
 		{
 			"name": "Iron Man 2",
@@ -391,10 +389,9 @@
 				"Black Widow",
 				"Senator Stern"
 			],
-			"order": 3,
 			"series": "Iron Man",
 			"phase": 1,
-			"year": 2010
+			"released": "2010-05-07"
 		},
 		{
 			"name": "Thor",
@@ -408,10 +405,9 @@
 				"Heimdall",
 				"Jasper Sitwell"
 			],
-			"order": 4,
 			"series": "Thor",
 			"phase": 1,
-			"year": 2011
+			"released": "2011-05-06"
 		},
 		{
 			"name": "Captain America: The First Avenger",
@@ -423,10 +419,9 @@
 				"Captain America",
 				"Peggy Carter"
 			],
-			"order": 5,
 			"series": "Captain America",
 			"phase": 1,
-			"year": 2011
+			"released": "2011-07-22"
 		},
 		{
 			"name": "The Avengers",
@@ -452,10 +447,9 @@
 				"Thomas Roberts",
 				"Thanos"
 			],
-			"order": 6,
 			"series": "Avengers",
 			"phase": 1,
-			"year": 2012
+			"released": "2012-05-04"
 		},
 		{
 			"name": "Iron Man 3",
@@ -469,10 +463,9 @@
 				"Pat Kiernan",
 				"Thomas Roberts"
 			],
-			"order": 7,
 			"series": "Iron Man",
 			"phase": 2,
-			"year": 2013
+			"released": "2013-05-03"
 		},
 		{
 			"name": "Thor: The Dark World",
@@ -487,10 +480,9 @@
 				"The Collector",
 				"Carina"
 			],
-			"order": 8,
 			"series": "Thor",
 			"phase": 2,
-			"year": 2013
+			"released": "2013-11-08"
 		},
 		{
 			"name": "Captain America: The Winter Soldier",
@@ -511,10 +503,9 @@
 				"Baron Wolfgang von Strucker",
 				"Dr. List"
 			],
-			"order": 9,
 			"series": "Captain America",
 			"phase": 2,
-			"year": 2014
+			"released": "2014-04-04"
 		},
 		{
 			"name": "Guardians of the Galaxy",
@@ -531,10 +522,9 @@
 				"Gamora",
 				"Nebula"
 			],
-			"order": 10,
 			"series": "Guardians of the Galaxy",
 			"phase": 2,
-			"year": 2014
+			"released": "2014-08-01"
 		},
 		{
 			"name": "Avengers: Age of Ultron",
@@ -563,10 +553,9 @@
 				"Ulysses Klaue",
 				"F.R.I.D.A.Y."
 			],
-			"order": 11,
 			"series": "Avengers",
 			"phase": 2,
-			"year": 2015
+			"released": "2015-05-01"
 		},
 		{
 			"name": "Ant-Man",
@@ -580,10 +569,9 @@
 				"Winter Soldier",
 				"Ant-Man"
 			],
-			"order": 12,
 			"series": "Ant-Man",
 			"phase": 2,
-			"year": 2015
+			"released": "2015-07-17"
 		},
 		{
 			"name": "Captain America: Civil War",
@@ -609,10 +597,9 @@
 				"T'Chaka",
 				"Ayo"
 			],
-			"order": 13,
 			"series": "Captain America",
 			"phase": 3,
-			"year": 2016
+			"released": "2016-05-06"
 		},
 		{
 			"name": "Doctor Strange",
@@ -624,10 +611,9 @@
 				"Wong",
 				"Doctor Strange"
 			],
-			"order": 14,
 			"series": "Doctor Strange",
 			"phase": 3,
-			"year": 2016
+			"released": "2016-11-04"
 		},
 		{
 			"name": "Guardians of the Galaxy Vol. 2",
@@ -643,10 +629,9 @@
 				"Mantis",
 				"Grandmaster"
 			],
-			"order": 15,
 			"series": "Guardians of the Galaxy",
 			"phase": 3,
-			"year": 2017
+			"released": "2017-05-05"
 		},
 		{
 			"name": "Spider-Man: Homecoming",
@@ -660,10 +645,9 @@
 				"Spider-Man",
 				"May Parker"
 			],
-			"order": 16,
 			"series": "Spider-Man",
 			"phase": 3,
-			"year": 2017
+			"released": "2017-07-07"
 		},
 		{
 			"name": "Thor: Ragnarok",
@@ -677,10 +661,9 @@
 				"Grandmaster",
 				"Doctor Strange"
 			],
-			"order": 17,
 			"series": "Thor",
 			"phase": 3,
-			"year": 2017
+			"released": "2017-11-03"
 		},
 		{
 			"name": "Black Panther",
@@ -697,10 +680,9 @@
 				"Shuri",
 				"Ramonda"
 			],
-			"order": 18,
 			"series": "Black Panther",
 			"phase": 3,
-			"year": 2018
+			"released": "2018-02-16"
 		},
 		{
 			"name": "Avengers: Infinity War",
@@ -739,10 +721,9 @@
 				"Shuri",
 				"Ramonda"
 			],
-			"order": 19,
 			"series": "Avengers",
 			"phase": 3,
-			"year": 2018
+			"released": "2018-04-27"
 		}
 	]
 }
