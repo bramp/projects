@@ -198,6 +198,15 @@ def fix_character(character, actor):
 	elif character == 'Tony Stark':
 		character = 'Iron Man'
 
+	elif character == 'Clint Barton':
+		character = 'Hawkeye'
+
+	elif character == 'Drax the Destroyer':
+		character = 'Drax'
+
+	elif character == 'The Hulk':
+		character = 'Hulk'
+
 	# Shield
 	elif character == 'Quake':
 		character = 'Daisy Johnson'
