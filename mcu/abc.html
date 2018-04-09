@@ -1,16 +1,27 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<link rel="stylesheet" href="common.css">
-<style>
-	/* The different series */
-	.s-agents-of-shield rect {
-		fill: orange;
-	}
-	.s-agent-carter rect {
-		fill: #1FB6FF;
-	}
-</style>
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136478-8"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
+	  gtag('config', 'UA-136478-8');
+	</script>
+
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="common.css">
+	<style>
+		/* The different series */
+		.s-agents-of-shield rect {
+			fill: orange;
+		}
+		.s-agent-carter rect {
+			fill: #1FB6FF;
+		}
+	</style>
+</head>
 <body>
 	<!-- TODO Do I need these -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.10/es5-shim.js"></script>
@@ -22,7 +33,8 @@
 	<!--script src="https://cdn.rawgit.com/abcnews/d3-layout-narrative/1.0.0/narrative.js"></script-->
 	<script src="chart.js"></script>
 	<script>
-		load_narrative('abc.json')
+		load_narrative('abc.json');
 	</script>
+	<p>Checkout more at <a href="https://blog.bramp.net/post/2018/04/08/the-mcu/">https://blog.bramp.net/post/2018/04/08/the-mcu/</a></p>
 </body>
 </html>

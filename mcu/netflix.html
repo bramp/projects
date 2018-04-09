@@ -1,28 +1,38 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<link rel="stylesheet" href="common.css">
-<style>
-	/* The different series */
-	.s-daredevil rect {
-		fill: #FF4949;
-	}
-	.s-jessica-jones rect {
-		fill: #7E5BEF;
-	}
-	.s-luke-cage rect {
-		fill: #bd7614;
-	}
-	.s-the-punisher rect {
-		fill: #3c6da8;
-	}
-	.s-the-defenders rect {
-		fill: #7a8ca9;
-	}
-	.s-iron-fist rect {
-		fill: orange;
-	}
-</style>
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136478-8"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
+	  gtag('config', 'UA-136478-8');
+	</script>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="common.css">
+	<style>
+		/* The different series */
+		.s-daredevil rect {
+			fill: #FF4949;
+		}
+		.s-jessica-jones rect {
+			fill: #7E5BEF;
+		}
+		.s-luke-cage rect {
+			fill: #bd7614;
+		}
+		.s-the-punisher rect {
+			fill: #3c6da8;
+		}
+		.s-the-defenders rect {
+			fill: #7a8ca9;
+		}
+		.s-iron-fist rect {
+			fill: orange;
+		}
+	</style>
+</head>
 <body>
 	<!-- TODO Do I need these -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.10/es5-shim.js"></script>
@@ -34,7 +44,8 @@
 	<!--script src="https://cdn.rawgit.com/abcnews/d3-layout-narrative/1.0.0/narrative.js"></script-->
 	<script src="chart.js"></script>
 	<script>
-		load_narrative('netflix.json')
+		load_narrative('netflix.json');
 	</script>
+	<p>Checkout more at <a href="https://blog.bramp.net/post/2018/04/08/the-mcu/">https://blog.bramp.net/post/2018/04/08/the-mcu/</a></p>
 </body>
 </html>
