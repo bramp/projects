@@ -122,8 +122,8 @@
 		},
 		{
 			"name": "Madame Gao",
-			"films": 2,
-			"series": 2,
+			"films": 3,
+			"series": 3,
 			"mainseries": "Iron Fist"
 		},
 		{
@@ -335,6 +335,7 @@
 				"Karen Page",
 				"Foggy Nelson",
 				"Claire Temple",
+				"Madame Gao",
 				"Stick",
 				"Elektra Natchios",
 				"Jeryn Hogarth",

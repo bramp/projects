@@ -1070,6 +1070,8 @@ function computeSceneTiming() {
 // 
 function computeAppearancePositions() {
 	scenes.forEach(function(scene){
+		scene._padding = scene.padding || scenePadding;
+
 		scene.appearances.sort(function(a,b){
 			var diff;
 
@@ -1091,16 +1093,12 @@ function computeAppearancePositions() {
 
 		scene.appearances.forEach(function(appearance,i) {
 			if (orientation === 'vertical') {
-				appearance.y = scenePadding[0];
-				appearance.x = characterPosition(i) + scenePadding[3];
+				appearance.y = scene._padding[0];
+				appearance.x = characterPosition(i) + scene._padding[3];
 			} else {
-				appearance.y = characterPosition(i) + scenePadding[0];
-				appearance.x = scenePadding[3];
+				appearance.y = characterPosition(i) + scene._padding[0];
+				appearance.x = scene._padding[3];
 			}
-			//console.log("appr", appearance.scene.name, appearance.character.name, i, appearance.y);
-			// appr Iron Man (film) Stan Lee 7 132.5
-			// appr The Incredible Hulk (film) Stan Lee 0 27.5
-			// appr The Incredible Hulk (film) Hulk 1 42.5
 		});
 
 	});
@@ -1118,8 +1116,8 @@ function computeScenePositions() {
 	var min_y = 0;
 
 	scenes.forEach(function(scene) {
-		scene.height = characterGroupHeight(scene.appearances.length) + scenePadding[0] + scenePadding[2];
-		scene.width = scenePadding[1] + scenePadding[3];
+		scene.height = characterGroupHeight(scene.appearances.length) + scene._padding[0] + scene._padding[2];
+		scene.width = scene._padding[1] + scene._padding[3];
 
 		var appearances = scene.appearances.filter(function(appearance){
 			return appearance.character.group !== scene.group;
@@ -1129,17 +1127,14 @@ function computeScenePositions() {
 			appearances = scene.appearances;
 		}
 
+		// TODO Change this to be average Y position of the previous apperance in its scene. Thus minimising
+		// the verticial increase for each line
 		var sum = appearances.reduce(function(total, appearance){
 			var pos = scene.group.appearances.indexOf(appearance.character);
-			//console.log("sum", scene.name, appearance.character.name, pos, characterPosition(pos));
 			return total + characterPosition(pos) + scene.group.min;
-			//sum Iron Man (film) Stan Lee 7 112.5
-			//sum The Incredible Hulk (film) Stan Lee 7 112.5
-			//sum The Incredible Hulk (film) Hulk 8 127.5
 		}, 0);
 
-		var avg = sum/appearances.length;// + scenePadding[0];
-		//console.log(scene.name, avg, avg - scene.height/2)
+		var avg = sum/appearances.length;// + scene._padding[0];
 
 		if (orientation === 'vertical') {
 			scene.x = scene._x || Math.min(size[0], avg - scene.width/2);
@@ -1147,7 +1142,6 @@ function computeScenePositions() {
 		} else {
 			scene.x = scene._x || Math.min(size[0], scale * scene.start + labelSize[0]);
 			scene.y = scene._y || Math.min(size[1], avg - scene.height/2);
-			//scene.y = scene._y || Math.max(0, Math.min(size[1], min));
 		}
 
 		if (min_y > scene.y) {
@@ -1157,10 +1151,6 @@ function computeScenePositions() {
 		if (min_x > scene.x) {
 			min_x = scene.x;
 		}
-
-		//console.log("scene", scene.name, avg);
-		// scene Iron Man (film) 60             // actually at 75.5
-		// scene The Incredible Hulk (film) 120 // actually at 135.5
 	});
 
 	// Realign all the scenes, if any scene was above or left of the origin
@@ -1221,9 +1211,6 @@ function createIntroductionNodes() {
 			introduction.x = appearance.character._x || Math.max(0, Math.min(size[0]-labelSize[0], x));
 			introduction.y = appearance.character._y || Math.max(0 + labelSize[1]/2, Math.min(size[1]-labelSize[1]/2, y));
 		}
-		//console.log("intro", appearance.scene.name, appearance.character.name, appearance.scene.y, appearance.y, introduction.y);
-		// appearance.scene.y looks ok (60 for Iron Man, 120 for Hulk)
-		// appearance.y 132 for Stan Lee, 42.5 for Hulk.... This looks odd
 
 		introduction.width = appearance.character._width || labelSize[0];
 		introduction.height = appearance.character._height || labelSize[1];

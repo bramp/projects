@@ -3,14 +3,15 @@
 // 
 // TODO:
 //   Change the z-index on hover (like https://stackoverflow.com/a/13794019/88646)
-//   Highlight the apperances when not dim.
 //   Introductions may not have the correct bounding box (text can overlap the small intro box)
+//   The program hangs if the character apperances are in alphabetical order
 //   
 'use strict';
 
 const movieWidth = 15; // Horiztonal width of movies
 const labelSize = [100, 15];
 const textHeight = 15;
+const scenePadding = [5, movieWidth/2, textHeight, movieWidth/2];
 
 // TODO Refactor this and move the globals elsewhere.
 let films = [];
@@ -112,6 +113,67 @@ function outlineText(svg) {
 	return g;
 }
 
+
+function draw() {
+	// Some defaults
+	let suggestedWidth = films.length * movieWidth * 6;
+	let suggestedHeight = 800;
+
+	// Calculate the dimensions of every character label.
+	films.forEach(function(film){
+		// Delete cached values (to ensure narrative recalculates them)
+		delete film.x;
+		delete film.y;
+		delete film.start;
+		delete film.duration;
+
+		film.textHeight = film.title.length * textHeight; // TODO actually calculate this.
+		film.padding = scenePadding.slice(0);
+		film.padding[0] += film.textHeight;
+
+		film.characters.forEach(function(character) {
+			delete character.x;
+			delete character.y;
+
+			// TODO calculate the height
+			character.width = character.width || svg.append('text')
+				.attr('opacity',0)
+				.attr('class', 'temp')
+				.text(character.name)
+					.node().getComputedTextLength()+10;
+		});
+	});
+
+	// Remove all the temporary labels.
+	svg.selectAll('text.temp').remove();
+
+	// Do the layout (https://abcnews.github.io/d3-layout-narrative/)
+	let narrative = d3.layout.narrative()
+		.scenes(films)
+		.size([suggestedWidth, suggestedHeight])
+		.pathSpace(labelSize[1])   // Vertical space available to each character’s path
+		.groupMargin(0)            // Not sure
+		.labelSize(labelSize)      // Intro label (character names) size
+		.scenePadding(scenePadding) // Padding around the scene
+		.labelPosition('left')
+		.layout();
+
+	// Get the extent so we can re-size the SVG appropriately.
+	transition(svg.data([narrative]))
+		.attr('width', function(n) {
+			return narrative.extent()[0] + 40; // 40px pad to fit the long "Avergers" title, which is last.
+		})
+		.attr('height', function(n) {
+			return narrative.extent()[1];
+		});
+
+	drawLinks(svg, narrative);
+	drawIntros(svg, narrative);
+	drawMovies(svg, narrative);
+	drawAppearances(svg);
+	drawCopyright(svg, narrative);
+}
+
 // Draw links between movies
 function drawLinks(svg, narrative) {
 
@@ -211,13 +273,17 @@ function drawMovies(svg, narrative) {
 	});
 	movies.exit().remove();
 
+	const verticalPadding = 5; // Little nudge at each end to make it look nicer.
+
+	let transform = function(film){
+		const x = Math.round(film.x)+0.5;
+		const y = Math.round(film.y)+0.5;
+		return 'translate('+[x, y]+')';
+	}
+
 	let g = movies.enter().append('g')
 		.attr('class', 'movie')
-		.attr('transform', function(film){
-			const x = Math.round(film.x)+0.5;
-			const y = Math.round(film.y)+0.5 + textHeight;
-			return 'translate('+[x, y]+')';
-		})
+		.attr('transform', transform)
 		.on("click", function(film) {
 			dim_all(true);
 
@@ -231,25 +297,22 @@ function drawMovies(svg, narrative) {
 			d3.event.stopPropagation();
 		});
 
+	let text = outlineText(g).selectAll('text')
+		.attr('text-anchor', 'middle');
+
+	let tspan = text.selectAll('tspan').data(function(scene) { return scene.title; });
+
+	tspan.exit().remove();
+	tspan.enter()
+		.append('tspan')
+		.attr('x', (movieWidth / 2) + 'px')
+		.attr('y', function(title, i) {return i * textHeight + 10;});
+
 	g.append('rect')
-		.attr('y', 0)
 		.attr('x', 0)
+		.attr('y', function(scene) {return scene.padding[0] - verticalPadding;})
 		.attr('rx', 3)
 		.attr('ry', 3);
-
-	g.append('title');
-	let text = outlineText(g).selectAll('text')
-		.attr('text-anchor', 'middle')
-		.attr('x', (movieWidth / 2) + 'px')
-		.attr('y', '-1.8em');
-
-	text.append('tspan')
-		.attr('text-anchor', 'middle')
-		.attr('x', (movieWidth / 2) + 'px');
-	text.append('tspan')
-		.attr('text-anchor', 'middle')
-		.attr('x', (movieWidth / 2) + 'px')
-		.attr('dy', '1.4em');
 
 	// Update
 	movies = transition(movies)
@@ -258,40 +321,31 @@ function drawMovies(svg, narrative) {
 				' s-' + cssName(scene.series) +
 				(scene.phase  ? ' p' + scene.phase : '');
 		})
-		.attr('transform', function(scene){
-			const x = Math.round(scene.x)+0.5;
-			const y = Math.round(scene.y)+0.5 + textHeight;
-			return 'translate('+[x, y]+')';
-		});
+		.attr('transform', transform);
 
 	movies.selectAll('rect')
 		.attr('width', movieWidth)
-		.attr('height', function(scene) {
-			return scene.height - 2 * textHeight;
+		.attr('height', function(film) {
+			return film.height - film.padding[0] - film.padding[2] + 2*verticalPadding; // TODO Fix the padding above/below the dots
 		})
-		.attr('class', function(scene) {
-			return scene._dim ? 'dim' : '';
+		.attr('class', function(film) {
+			return film._dim ? 'dim' : '';
 		});
 
-	text = movies.selectAll('text').attr('class', function(scene) {
+	text = movies.selectAll('text').attr('class', function(film) {
 		if (d3.select(this).classed('outline')) {
-			return 'outline' + (scene._dim ? ' dim' : '');
+			return 'outline' + (film._dim ? ' dim' : '');
 		}
-		return scene._dim ? 'dim' : '';
+		return film._dim ? 'dim' : '';
 	});
 
-	text.select('tspan:nth-child(1)').text(function(scene){
-		if (scene.title.length > 1) {
-			return scene.title[0];
-		}
-		return '';
-	});
-	text.select('tspan:nth-child(2)').text(function(scene){
-		if (scene.title.length > 1) {
-			return scene.title[1];
-		}
-		return scene.title[0];
-	});
+	text.selectAll('tspan')
+		.text(function(title){
+			return title;
+		})
+		.attr('x', (movieWidth / 2) + 'px')
+		.attr('y', function(title, i) {return i * textHeight + 10;}); 
+;
 }
 
 // Draw appearances (dots on the movies)
@@ -310,7 +364,7 @@ function drawAppearances(svg) {
 			return appearance.x;
 		})
 		.attr('cy', function(appearance){
-			return appearance.y - textHeight;
+			return appearance.y;
 		})
 }
 
@@ -346,59 +400,4 @@ function drawCopyright(svg, narrative) {
 			const y = (extent[1] - 2 * textHeight - 10);
 			return 'translate('+[x, y]+')';
 		});
-}
-
-function draw() {
-	// Some defaults
-	let suggestedWidth = films.length * movieWidth * 6;
-	let suggestedHeight = 800;
-
-	// Calculate the actual width of every character label.
-	films.forEach(function(film){
-		// Delete cached values (to ensure narrative recalculates them)
-		delete film.x;
-		delete film.y;
-		delete film.start;
-		delete film.duration;
-
-		film.characters.forEach(function(character) {
-			delete character.x;
-			delete character.y;
-
-			character.width = character.width || svg.append('text')
-				.attr('opacity',0)
-				.attr('class', 'temp')
-				.text(character.name)
-					.node().getComputedTextLength()+10;
-		});
-	});
-
-	// Remove all the temporary labels.
-	svg.selectAll('text.temp').remove();
-
-	// Do the layout (https://abcnews.github.io/d3-layout-narrative/)
-	let narrative = d3.layout.narrative()
-		.scenes(films)
-		.size([suggestedWidth, suggestedHeight])
-		.pathSpace(labelSize[1])   // Vertical space available to each character’s path
-		.groupMargin(0)            // Not sure
-		.labelSize(labelSize)      // Intro label (character names) size
-		.scenePadding([5 + textHeight, movieWidth/2, 5 + textHeight, movieWidth/2]) // Padding inside the scene
-		.labelPosition('left')
-		.layout();
-
-	// Get the extent so we can re-size the SVG appropriately.
-	transition(svg.data([narrative]))
-		.attr('width', function(n) {
-			return narrative.extent()[0] + 40; // 40px pad to fit the long "Avergers" title, which is last.
-		})
-		.attr('height', function(n) {
-			return narrative.extent()[1];
-		});
-
-	drawLinks(svg, narrative);
-	drawIntros(svg, narrative);
-	drawMovies(svg, narrative);
-	drawAppearances(svg);
-	drawCopyright(svg, narrative);
 }
