@@ -374,7 +374,7 @@ function drawCopyright(svg, narrative) {
 	copyright.exit().remove();
 
 	let g = copyright.enter()
-		.append('a').attr('xlink:href', 'https://bramp.net/');
+		.append('a').attr('xlink:href', 'https://blog.bramp.net/post/2018/04/08/the-mcu/');
 
 	let text = outlineText(g)
 		.attr('class', 'copyright')
@@ -390,7 +390,7 @@ function drawCopyright(svg, narrative) {
 		.text('Marvel Cinematic Universe - Character Timeline')
 	text.append('tspan')
 		.attr('x', '0').attr('dy', '1.4em')
-		.text('By Andrew Brampton (bramp.net) - March 2018');
+		.text('By Andrew Brampton (bramp.net) - 2018-04-09');
 
 	// Update
 	transition(svg.selectAll('g.copyright'))
