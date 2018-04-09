@@ -50,6 +50,8 @@ extra = {
 	'Agents of S.H.I.E.L.D. (Season 5)' : {'released': '2017-12-01'},
 }
 
+def eprint(*args, **kwargs):
+	print(*args, file=sys.stderr, **kwargs)
 
 def fetch(name, url):
 	filename = 'cache/' + name
@@ -115,7 +117,7 @@ def parse_wiki_link(s):
 		return s
 
 def isTBA(character):
-	return character in('TBA', 'a to-be-confirmed character', 'To-be-confirmed character', 'a to-be-revealed character', '\'\'To be added\'\'')
+	return character.lower() in('tba', 'a to-be-confirmed character', 'to-be-confirmed character', 'a to-be-revealed character', '\'\'to be added\'\'')
 
 def isHeading(character):
 	return character.startswith('=')
@@ -192,6 +194,9 @@ def fix_character(character, actor):
 
 	elif character == 'Dr. Strange':
 		character = 'Doctor Strange'
+
+	elif character == 'Tony Stark':
+		character = 'Iron Man'
 
 	# Shield
 	elif character == 'Quake':
@@ -303,6 +308,12 @@ def output_json(corpus, films_index, characters):
 		main = series[0][0]
 
 		if corpus == 'film': # TODO Change to 'if has series'
+			# Skip characters who don't cross series
+			# TODO Filter this cient side
+			if len(series) <= 1:
+				eprint("discarding %s from %s" % (character, films))
+				continue
+
 			# If Avengers is #1 make sure there isn't a more specific movie with a equal score
 			if main == 'Avengers' and len(series) > 1:
 				if series[0][1] == series[1][1]:
@@ -321,15 +332,19 @@ def output_json(corpus, films_index, characters):
 				main = 'Avengers'
 			elif character == 'Ant-Man':
 				main = 'Ant-Man'
-
-			# Skip characters who don't cross series
-			# TODO Filter this cient side
-			if len(series) <= 1:
-				continue
+			elif character == 'Hulk':
+				main = 'Hulk'
 		else:
 			# Skip characters who aren't in more than one season
 			if len(films) <= 1:
+				eprint("discarding %s from %s" % (character, films))
 				continue
+
+			# If Avengers is #1 make sure there isn't a more specific show with a equal score
+			if main == 'The Defenders' and len(series) > 1:
+				if series[0][1] == series[1][1]:
+					main = series[1][0]
+
 
 		json_characters.append({
 			'name': character,
@@ -343,9 +358,11 @@ def output_json(corpus, films_index, characters):
 
 
 	# TODO Sort this data, so its easier to diff changes in the output.
-	#json_characters = sorted(json_characters, key=lambda character: character['name'])
+	json_characters = sorted(json_characters, key=lambda character: character['name'])
 	#json_films = sorted(json_films.values(), key=lambda film: film['name'])
 	json_films = sorted(json_films.values(), key=lambda film: get(film, ['released', 'name']))
+	#for film in json_films:
+	#	film['characters'] = sorted(film['characters'])
 
 	data = {
 		'characters': json_characters,

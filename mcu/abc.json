@@ -1,103 +1,13 @@
 {
 	"characters": [
 		{
-			"name": "Phil Coulson",
-			"films": 5,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Grant Ward",
+			"name": "AIDA",
 			"films": 2,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
 		{
-			"name": "Melinda May",
-			"films": 5,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Leo Fitz",
-			"films": 5,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Jemma Simmons",
-			"films": 5,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Raina",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Antoine Triplett",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Anne Weaver",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Billy Koenig",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Glenn Talbot",
-			"films": 4,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Maria Hill",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Donnie Gill",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Stan Lee",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Sif",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Daisy Johnson",
-			"films": 4,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Lance Hunter",
-			"films": 3,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Mockingbird",
+			"name": "Absorbing Man",
 			"films": 2,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
@@ -109,7 +19,121 @@
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
 		{
-			"name": "Absorbing Man",
+			"name": "Angie Martinelli",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Anne Weaver",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Antoine Triplett",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Billy Koenig",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Daisy Johnson",
+			"films": 4,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Daniel Sousa",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Donnie Gill",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Dottie Underwood",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Edwin Jarvis",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Glenn Talbot",
+			"films": 4,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Grant Ward",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Howard Stark",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Hugh Jones",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Jack Thompson",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Jemma Simmons",
+			"films": 5,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Lance Hunter",
+			"films": 3,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Leo Fitz",
+			"films": 5,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Maria Hill",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Melinda May",
+			"films": 5,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Mockingbird",
 			"films": 2,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
@@ -119,6 +143,36 @@
 			"films": 3,
 			"series": 2,
 			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Phil Coulson",
+			"films": 5,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Raina",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Rose Roberts",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Sif",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
+			"name": "Stan Lee",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Agents of S.H.I.E.L.D."
 		},
 		{
 			"name": "Timothy \"Dum Dum\" Dugan",
@@ -131,60 +185,6 @@
 			"films": 3,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "AIDA",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agents of S.H.I.E.L.D."
-		},
-		{
-			"name": "Edwin Jarvis",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agent Carter"
-		},
-		{
-			"name": "Daniel Sousa",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agent Carter"
-		},
-		{
-			"name": "Jack Thompson",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agent Carter"
-		},
-		{
-			"name": "Angie Martinelli",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agent Carter"
-		},
-		{
-			"name": "Howard Stark",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agent Carter"
-		},
-		{
-			"name": "Dottie Underwood",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agent Carter"
-		},
-		{
-			"name": "Rose Roberts",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agent Carter"
-		},
-		{
-			"name": "Hugh Jones",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Agent Carter"
 		}
 	],
 	"films": [

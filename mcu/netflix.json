@@ -1,27 +1,27 @@
 {
 	"characters": [
 		{
-			"name": "Daredevil",
-			"films": 4,
+			"name": "Bakuto",
+			"films": 2,
 			"series": 2,
-			"mainseries": "Daredevil"
+			"mainseries": "Iron Fist"
 		},
 		{
-			"name": "The Kingpin",
-			"films": 3,
+			"name": "Billy Russo",
+			"films": 2,
 			"series": 1,
-			"mainseries": "Daredevil"
+			"mainseries": "The Punisher"
 		},
 		{
-			"name": "Karen Page",
-			"films": 5,
-			"series": 3,
-			"mainseries": "Daredevil"
+			"name": "Blake Tower",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Luke Cage"
 		},
 		{
-			"name": "Foggy Nelson",
-			"films": 4,
-			"series": 3,
+			"name": "Brett Mahoney",
+			"films": 3,
+			"series": 2,
 			"mainseries": "Daredevil"
 		},
 		{
@@ -31,32 +31,32 @@
 			"mainseries": "Daredevil"
 		},
 		{
-			"name": "Nobu Yoshioka",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Daredevil"
-		},
-		{
-			"name": "Madame Gao",
-			"films": 2,
+			"name": "Colleen Wing",
+			"films": 3,
 			"series": 2,
 			"mainseries": "Iron Fist"
 		},
 		{
-			"name": "Melvin Potter",
+			"name": "Daredevil",
+			"films": 4,
+			"series": 2,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Dinah Madani",
 			"films": 2,
 			"series": 1,
-			"mainseries": "Daredevil"
+			"mainseries": "The Punisher"
 		},
 		{
-			"name": "Turk Barrett",
-			"films": 4,
-			"series": 3,
-			"mainseries": "Daredevil"
+			"name": "Dorothy Walker",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Jessica Jones"
 		},
 		{
-			"name": "Brett Mahoney",
-			"films": 3,
+			"name": "Elektra Natchios",
+			"films": 2,
 			"series": 2,
 			"mainseries": "Daredevil"
 		},
@@ -67,34 +67,22 @@
 			"mainseries": "Daredevil"
 		},
 		{
-			"name": "Marci Stahl",
+			"name": "Foggy Nelson",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Hernan \"Shades\" Alvarez",
 			"films": 2,
 			"series": 1,
-			"mainseries": "Daredevil"
-		},
-		{
-			"name": "Stick",
-			"films": 3,
-			"series": 2,
-			"mainseries": "Daredevil"
-		},
-		{
-			"name": "The Punisher",
-			"films": 3,
-			"series": 2,
-			"mainseries": "The Punisher"
-		},
-		{
-			"name": "Elektra Natchios",
-			"films": 2,
-			"series": 2,
-			"mainseries": "The Defenders"
-		},
-		{
-			"name": "Blake Tower",
-			"films": 2,
-			"series": 2,
 			"mainseries": "Luke Cage"
+		},
+		{
+			"name": "Iron Fist",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Iron Fist"
 		},
 		{
 			"name": "Jeryn Hogarth",
@@ -109,10 +97,16 @@
 			"mainseries": "Jessica Jones"
 		},
 		{
-			"name": "Luke Cage",
-			"films": 4,
+			"name": "Joy Meachum",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Iron Fist"
+		},
+		{
+			"name": "Karen Page",
+			"films": 5,
 			"series": 3,
-			"mainseries": "Luke Cage"
+			"mainseries": "Daredevil"
 		},
 		{
 			"name": "Kilgrave",
@@ -121,10 +115,16 @@
 			"mainseries": "Jessica Jones"
 		},
 		{
-			"name": "Trish Walker",
+			"name": "Luke Cage",
 			"films": 4,
 			"series": 3,
-			"mainseries": "Jessica Jones"
+			"mainseries": "Luke Cage"
+		},
+		{
+			"name": "Madame Gao",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Iron Fist"
 		},
 		{
 			"name": "Malcolm Ducasse",
@@ -133,34 +133,10 @@
 			"mainseries": "Jessica Jones"
 		},
 		{
-			"name": "Will Simpson",
+			"name": "Marci Stahl",
 			"films": 2,
 			"series": 1,
-			"mainseries": "Jessica Jones"
-		},
-		{
-			"name": "Dorothy Walker",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Jessica Jones"
-		},
-		{
-			"name": "Reva Connors",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Luke Cage"
-		},
-		{
-			"name": "Misty Knight",
-			"films": 4,
-			"series": 3,
-			"mainseries": "Luke Cage"
-		},
-		{
-			"name": "Hernan \"Shades\" Alvarez",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Luke Cage"
+			"mainseries": "Daredevil"
 		},
 		{
 			"name": "Mariah Dillard",
@@ -169,40 +145,10 @@
 			"mainseries": "Luke Cage"
 		},
 		{
-			"name": "Iron Fist",
-			"films": 4,
-			"series": 3,
-			"mainseries": "Iron Fist"
-		},
-		{
-			"name": "Colleen Wing",
-			"films": 3,
-			"series": 2,
-			"mainseries": "Iron Fist"
-		},
-		{
-			"name": "Ward Meachum",
+			"name": "Melvin Potter",
 			"films": 2,
 			"series": 1,
-			"mainseries": "Iron Fist"
-		},
-		{
-			"name": "Joy Meachum",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Iron Fist"
-		},
-		{
-			"name": "Bakuto",
-			"films": 2,
-			"series": 2,
-			"mainseries": "The Defenders"
-		},
-		{
-			"name": "Steel Serpent",
-			"films": 2,
-			"series": 1,
-			"mainseries": "Iron Fist"
+			"mainseries": "Daredevil"
 		},
 		{
 			"name": "Micro",
@@ -211,16 +157,70 @@
 			"mainseries": "The Punisher"
 		},
 		{
-			"name": "Billy Russo",
+			"name": "Misty Knight",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Luke Cage"
+		},
+		{
+			"name": "Nobu Yoshioka",
 			"films": 2,
 			"series": 1,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Reva Connors",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Luke Cage"
+		},
+		{
+			"name": "Steel Serpent",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Iron Fist"
+		},
+		{
+			"name": "Stick",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "The Kingpin",
+			"films": 3,
+			"series": 1,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "The Punisher",
+			"films": 3,
+			"series": 2,
 			"mainseries": "The Punisher"
 		},
 		{
-			"name": "Dinah Madani",
+			"name": "Trish Walker",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Jessica Jones"
+		},
+		{
+			"name": "Turk Barrett",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Ward Meachum",
 			"films": 2,
 			"series": 1,
-			"mainseries": "The Punisher"
+			"mainseries": "Iron Fist"
+		},
+		{
+			"name": "Will Simpson",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Jessica Jones"
 		}
 	],
 	"films": [

@@ -1,27 +1,153 @@
 {
 	"characters": [
 		{
-			"name": "Iron Man",
-			"films": 8,
-			"series": 4,
-			"mainseries": "Iron Man"
-		},
-		{
-			"name": "War Machine",
-			"films": 5,
+			"name": "Ant-Man",
+			"films": 3,
 			"series": 3,
-			"mainseries": "Iron Man"
+			"mainseries": "Ant-Man"
 		},
 		{
-			"name": "Pepper Potts",
+			"name": "Ayo",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Black Panther"
+		},
+		{
+			"name": "Baron Wolfgang von Strucker",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Black Panther",
+			"films": 3,
+			"series": 3,
+			"mainseries": "Black Panther"
+		},
+		{
+			"name": "Black Widow",
 			"films": 6,
 			"series": 3,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Cameron Klein",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Captain America",
+			"films": 9,
+			"series": 5,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Carina",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Thor"
+		},
+		{
+			"name": "Doctor Strange",
+			"films": 3,
+			"series": 3,
+			"mainseries": "Doctor Strange"
+		},
+		{
+			"name": "Dr. List",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Drax",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Erik Selvig",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Everett Ross",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "F.R.I.D.A.Y.",
+			"films": 2,
+			"series": 2,
 			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Falcon",
+			"films": 5,
+			"series": 3,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Gamora",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Grandmaster",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Thor"
+		},
+		{
+			"name": "Groot",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
 		},
 		{
 			"name": "Happy Hogan",
 			"films": 5,
 			"series": 3,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Hawkeye",
+			"films": 4,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Hawley",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Heimdall",
+			"films": 5,
+			"series": 2,
+			"mainseries": "Thor"
+		},
+		{
+			"name": "Howard Stark",
+			"films": 5,
+			"series": 3,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Hulk",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Hulk"
+		},
+		{
+			"name": "Iron Man",
+			"films": 9,
+			"series": 5,
 			"mainseries": "Iron Man"
 		},
 		{
@@ -31,50 +157,8 @@
 			"mainseries": "Iron Man"
 		},
 		{
-			"name": "Phil Coulson",
-			"films": 4,
-			"series": 3,
-			"mainseries": "Iron Man"
-		},
-		{
-			"name": "Nick Fury",
-			"films": 7,
-			"series": 4,
-			"mainseries": "Iron Man"
-		},
-		{
-			"name": "Howard Stark",
-			"films": 5,
-			"series": 3,
-			"mainseries": "Iron Man"
-		},
-		{
-			"name": "Stan Lee",
-			"films": 19,
-			"series": 10,
-			"mainseries": "Avengers"
-		},
-		{
-			"name": "Hulk",
-			"films": 4,
-			"series": 3,
-			"mainseries": "Avengers"
-		},
-		{
-			"name": "Black Widow",
-			"films": 6,
-			"series": 3,
-			"mainseries": "Avengers"
-		},
-		{
-			"name": "Senator Stern",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Iron Man"
-		},
-		{
-			"name": "Thor",
-			"films": 7,
+			"name": "Jasper Sitwell",
+			"films": 3,
 			"series": 3,
 			"mainseries": "Thor"
 		},
@@ -85,34 +169,10 @@
 			"mainseries": "Thor"
 		},
 		{
-			"name": "Heimdall",
-			"films": 5,
+			"name": "Mantis",
+			"films": 2,
 			"series": 2,
-			"mainseries": "Thor"
-		},
-		{
-			"name": "Jasper Sitwell",
-			"films": 3,
-			"series": 3,
-			"mainseries": "Thor"
-		},
-		{
-			"name": "Captain America",
-			"films": 9,
-			"series": 5,
-			"mainseries": "Captain America"
-		},
-		{
-			"name": "Peggy Carter",
-			"films": 4,
-			"series": 3,
-			"mainseries": "Captain America"
-		},
-		{
-			"name": "Hawkeye",
-			"films": 4,
-			"series": 2,
-			"mainseries": "Avengers"
+			"mainseries": "Guardians of the Galaxy"
 		},
 		{
 			"name": "Maria Hill",
@@ -121,22 +181,28 @@
 			"mainseries": "Avengers"
 		},
 		{
-			"name": "Erik Selvig",
-			"films": 3,
+			"name": "May Parker",
+			"films": 2,
 			"series": 2,
-			"mainseries": "Avengers"
+			"mainseries": "Spider-Man"
 		},
 		{
-			"name": "The Other",
-			"films": 2,
+			"name": "Nebula",
+			"films": 3,
 			"series": 2,
 			"mainseries": "Guardians of the Galaxy"
 		},
 		{
-			"name": "Hawley",
+			"name": "Nick Fury",
+			"films": 7,
+			"series": 4,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Okoye",
 			"films": 2,
 			"series": 2,
-			"mainseries": "Captain America"
+			"mainseries": "Black Panther"
 		},
 		{
 			"name": "Pat Kiernan",
@@ -145,10 +211,76 @@
 			"mainseries": "Iron Man"
 		},
 		{
-			"name": "Thomas Roberts",
+			"name": "Peggy Carter",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Captain America"
+		},
+		{
+			"name": "Pepper Potts",
+			"films": 6,
+			"series": 3,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Phil Coulson",
+			"films": 4,
+			"series": 3,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Ramonda",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Black Panther"
+		},
+		{
+			"name": "Rocket",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Scarlet Witch",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Senator Stern",
 			"films": 2,
 			"series": 2,
 			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Shuri",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Black Panther"
+		},
+		{
+			"name": "Spider-Man",
+			"films": 3,
+			"series": 3,
+			"mainseries": "Spider-Man"
+		},
+		{
+			"name": "Stan Lee",
+			"films": 19,
+			"series": 10,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "Star-Lord",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "T'Chaka",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Black Panther"
 		},
 		{
 			"name": "Thanos",
@@ -163,82 +295,22 @@
 			"mainseries": "Thor"
 		},
 		{
-			"name": "Carina",
+			"name": "The Other",
 			"films": 2,
 			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Thomas Roberts",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Thor",
+			"films": 7,
+			"series": 3,
 			"mainseries": "Thor"
-		},
-		{
-			"name": "Falcon",
-			"films": 5,
-			"series": 3,
-			"mainseries": "Captain America"
-		},
-		{
-			"name": "Winter Soldier",
-			"films": 4,
-			"series": 3,
-			"mainseries": "Captain America"
-		},
-		{
-			"name": "Cameron Klein",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Captain America"
-		},
-		{
-			"name": "Baron Wolfgang von Strucker",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Captain America"
-		},
-		{
-			"name": "Dr. List",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Captain America"
-		},
-		{
-			"name": "Star-Lord",
-			"films": 3,
-			"series": 2,
-			"mainseries": "Guardians of the Galaxy"
-		},
-		{
-			"name": "Groot",
-			"films": 3,
-			"series": 2,
-			"mainseries": "Guardians of the Galaxy"
-		},
-		{
-			"name": "Rocket",
-			"films": 3,
-			"series": 2,
-			"mainseries": "Guardians of the Galaxy"
-		},
-		{
-			"name": "Gamora",
-			"films": 3,
-			"series": 2,
-			"mainseries": "Guardians of the Galaxy"
-		},
-		{
-			"name": "Nebula",
-			"films": 3,
-			"series": 2,
-			"mainseries": "Guardians of the Galaxy"
-		},
-		{
-			"name": "Scarlet Witch",
-			"films": 3,
-			"series": 2,
-			"mainseries": "Avengers"
-		},
-		{
-			"name": "Vision",
-			"films": 3,
-			"series": 2,
-			"mainseries": "Avengers"
 		},
 		{
 			"name": "Ulysses Klaue",
@@ -247,100 +319,28 @@
 			"mainseries": "Black Panther"
 		},
 		{
-			"name": "F.R.I.D.A.Y.",
-			"films": 2,
+			"name": "Vision",
+			"films": 3,
 			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
+			"name": "War Machine",
+			"films": 5,
+			"series": 3,
 			"mainseries": "Iron Man"
 		},
 		{
-			"name": "Ant-Man",
-			"films": 3,
+			"name": "Winter Soldier",
+			"films": 4,
 			"series": 3,
-			"mainseries": "Ant-Man"
-		},
-		{
-			"name": "Black Panther",
-			"films": 3,
-			"series": 3,
-			"mainseries": "Black Panther"
-		},
-		{
-			"name": "Spider-Man",
-			"films": 3,
-			"series": 3,
-			"mainseries": "Spider-Man"
-		},
-		{
-			"name": "Everett Ross",
-			"films": 2,
-			"series": 2,
 			"mainseries": "Captain America"
-		},
-		{
-			"name": "May Parker",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Spider-Man"
-		},
-		{
-			"name": "T'Chaka",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Black Panther"
-		},
-		{
-			"name": "Ayo",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Black Panther"
 		},
 		{
 			"name": "Wong",
 			"films": 2,
 			"series": 2,
 			"mainseries": "Doctor Strange"
-		},
-		{
-			"name": "Drax",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Guardians of the Galaxy"
-		},
-		{
-			"name": "Mantis",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Guardians of the Galaxy"
-		},
-		{
-			"name": "Grandmaster",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Thor"
-		},
-		{
-			"name": "Doctor Strange",
-			"films": 3,
-			"series": 3,
-			"mainseries": "Doctor Strange"
-		},
-		{
-			"name": "Okoye",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Black Panther"
-		},
-		{
-			"name": "Shuri",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Black Panther"
-		},
-		{
-			"name": "Ramonda",
-			"films": 2,
-			"series": 2,
-			"mainseries": "Black Panther"
 		}
 	],
 	"films": [
@@ -366,6 +366,7 @@
 			"name": "The Incredible Hulk",
 			"wiki": "The Incredible Hulk (film)",
 			"characters": [
+				"Iron Man",
 				"Stan Lee",
 				"Hulk"
 			],
