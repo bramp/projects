@@ -19,6 +19,42 @@ WIKI = 'http://marvel-movies.wikia.com/api.php?'
 # Fields in the CSV
 NAME_FIELD = 'Name'
 
+# Rename characters (to a cannonical name)
+CHARACTER_RENAMES = {
+    'Thor Odinson': 'Thor',
+    'Loki Laufeyson': 'Loki',
+    'James Rhodes' : 'War Machine',
+    'Iron Patriot' : 'War Machine',
+    'Dr. Strange': 'Doctor Strange',
+    'Tony Stark': 'Iron Man',
+    'Clint Barton':  'Hawkeye',
+    'Drax the Destroyer': 'Drax',
+    'The Hulk': 'Hulk',
+    'Bucky Barnes': 'Winter Soldier',
+
+    # Shield
+    'Quake': 'Daisy Johnson',
+    'Alphonso Mackenzie': 'Alphonso "Mack" Mackenzie',
+    'Slingshot': 'Yo-Yo', # Elena "Yo-Yo" Rodriguez/Slingshot
+
+    # Netflix
+    'Franklin "Foggy" Nelson': 'Foggy Nelson',
+}
+
+MAINSERIES_RENAME = {
+    'Stan Lee': 'Avengers',
+    'F.R.I.D.A.Y.': 'Iron Man',
+    'Doctor Strange': 'Doctor Strange',
+    'Black Panther' : 'Black Panther',
+    'Ayo': 'Black Panther',
+    'T\'Chaka': 'Black Panther',
+    'Vision': 'Avengers',
+    'Ant-Man':  'Ant-Man',
+    'Hulk': 'Hulk',
+    'The Collector': 'Guardians of the Galaxy',
+    'Carina': 'Guardians of the Galaxy',
+}
+
 # Extra info to add to the films
 EXTRA = {
     # Netflex
@@ -68,7 +104,7 @@ def fetch(name, url):
 def fetch_wiki_json(title):
     request = {
         'action': 'query',
-        'prop': 'revisions', 
+        'prop': 'revisions',
         'rvprop': 'content',
         'format': 'json',
         'formatversion': '2',
@@ -120,10 +156,13 @@ def parse_wiki_link(s):
     except ValueError:
         return s
 
-def isTBA(character):
-    return character.lower() in('tba', 'a to-be-confirmed character', 'to-be-confirmed character', 'a to-be-revealed character', '\'\'to be added\'\'')
+def is_tba(character):
+    """Is this not really a character, just a slot for a 'to be announced'"""
+    return character.lower() in('tba', 'a to-be-confirmed character', 'to-be-confirmed character',
+                                'a to-be-revealed character', '\'\'to be added\'\'')
 
-def isHeading(character):
+def is_heading(character):
+    """Is this a heading"""
     return character.startswith('=')
 
 def parse_cast(cast):
@@ -144,10 +183,10 @@ def parse_cast(cast):
         character = parse_wiki_link(character)
 
         # Filter out matches we don't know
-        if isTBA(character):
+        if is_tba(character):
             continue
 
-        if isHeading(character):
+        if is_heading(character):
             continue
 
         if character.lower().startswith(('himself', 'herself', 'Himself', 'Herself')):
@@ -167,8 +206,8 @@ def parse_tv(page):
 
     season = 1
     while True:
-        seasonCast = between(cast, (r'===\s*Season %d\s*===\n' % season), r'\n(===[^=]|$)')
-        if seasonCast is None:
+        season_cast = between(cast, (r'===\s*Season %d\s*===\n' % season), r'\n(===[^=]|$)')
+        if season_cast is None:
             if season == 1: # The very first season isn't found, so assume a single season TV show
                 for character, actor in parse_cast(cast):
                     character, actor = fix_character(character, actor)
@@ -176,7 +215,7 @@ def parse_tv(page):
 
             break
 
-        for character, actor in parse_cast(seasonCast):
+        for character, actor in parse_cast(season_cast):
             character, actor = fix_character(character, actor)
             characters[character].add((title, season))
 
@@ -187,46 +226,8 @@ def fix_character(character, actor):
     if actor == 'Stan Lee':
         character = 'Stan Lee'
 
-    elif character == 'Thor Odinson':
-        character = 'Thor'
-
-    elif character == 'Loki Laufeyson':
-        character = 'Loki'
-
-    elif character == 'James Rhodes' or character == 'Iron Patriot':
-        character = 'War Machine'
-
-    elif character == 'Dr. Strange':
-        character = 'Doctor Strange'
-
-    elif character == 'Tony Stark':
-        character = 'Iron Man'
-
-    elif character == 'Clint Barton':
-        character = 'Hawkeye'
-
-    elif character == 'Drax the Destroyer':
-        character = 'Drax'
-
-    elif character == 'The Hulk':
-        character = 'Hulk'
-
-    elif character == 'Bucky Barnes':
-        character = 'Winter Soldier'
-
-    # Shield
-    elif character == 'Quake':
-        character = 'Daisy Johnson'
-
-    elif character == 'Alphonso Mackenzie':
-        character = 'Alphonso "Mack" Mackenzie'
-
-    elif character == 'Slingshot':
-        character = 'Yo-Yo' # Elena "Yo-Yo" Rodriguez/Slingshot
-
-    # Netflix
-    elif character == 'Franklin "Foggy" Nelson':
-        character = 'Foggy Nelson'
+    if character in CHARACTER_RENAMES:
+        character = CHARACTER_RENAMES[character]
 
     return character, actor
 
@@ -336,24 +337,8 @@ def output_json(corpus, films_index, characters):
                     mainseries = series[1][0]
 
             # There are characters who appeared in more other films, than their own!
-            if character == 'Stan Lee':
-                mainseries = 'Avengers'
-            elif character == 'F.R.I.D.A.Y.':
-                mainseries = 'Iron Man'
-            elif character == 'Doctor Strange':
-                mainseries = 'Doctor Strange'
-            elif character in ('Black Panther', 'Ayo', 'T\'Chaka'):
-                mainseries = 'Black Panther'
-            elif character == 'Vision':
-                mainseries = 'Avengers'
-            elif character == 'Ant-Man':
-                mainseries = 'Ant-Man'
-            elif character == 'Hulk':
-                mainseries = 'Hulk'
-            elif character == 'The Collector':
-                mainseries = 'Guardians of the Galaxy'
-            elif character == 'Carina':
-                mainseries = 'Guardians of the Galaxy'
+            if character in MAINSERIES_RENAME:
+                mainseries = MAINSERIES_RENAME[character]
 
         else:
             # Skip characters who aren't in more than one season
