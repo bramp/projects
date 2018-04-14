@@ -104,12 +104,15 @@ def parse_wiki_link(s):
             return s
 
         if '|' in link:
-            left, right = link.split('|', 1)
-            a = right.rfind('/')
-            if a == -1:
-                return right
+            # It would make more sense to use the cannonical link, however, using the display name
+            # leads to better results. For example, Tony Stalk has 2 links, "Iron Man (Armor)", and
+            # "Anthony Stalk", but in both cases a display name of "Tony Stalk"
+            link, display = link.split('|', 1)
+            i = display.rfind('/')
+            if i == -1:
+                return display
 
-            return right[a + 1:len(right)]
+            return display[i + 1:len(display)]
 
         return link
 
