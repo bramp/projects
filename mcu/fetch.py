@@ -350,6 +350,11 @@ def output_json(corpus, films_index, characters):
                 mainseries = 'Ant-Man'
             elif character == 'Hulk':
                 mainseries = 'Hulk'
+            elif character == 'The Collector':
+                mainseries = 'Guardians of the Galaxy'
+            elif character == 'Carina':
+                mainseries = 'Guardians of the Galaxy'
+
         else:
             # Skip characters who aren't in more than one season
             if len(films) <= 1:
