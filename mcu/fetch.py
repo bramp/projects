@@ -192,7 +192,7 @@ def fix_character(character, actor):
     elif character == 'Loki Laufeyson':
         character = 'Loki'
 
-    elif character == 'James Rhodes':
+    elif character == 'James Rhodes' or character == 'Iron Patriot':
         character = 'War Machine'
 
     elif character == 'Dr. Strange':
@@ -209,6 +209,9 @@ def fix_character(character, actor):
 
     elif character == 'The Hulk':
         character = 'Hulk'
+
+    elif character == 'Bucky Barnes':
+        character = 'Winter Soldier'
 
     # Shield
     elif character == 'Quake':

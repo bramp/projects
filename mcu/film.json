@@ -326,13 +326,13 @@
 		},
 		{
 			"name": "War Machine",
-			"films": 5,
+			"films": 6,
 			"series": 3,
 			"mainseries": "Iron Man"
 		},
 		{
 			"name": "Winter Soldier",
-			"films": 4,
+			"films": 5,
 			"series": 3,
 			"mainseries": "Captain America"
 		},
@@ -419,6 +419,7 @@
 				"Howard Stark",
 				"Stan Lee",
 				"Captain America",
+				"Winter Soldier",
 				"Peggy Carter"
 			],
 			"series": "Captain America",
@@ -459,6 +460,7 @@
 			"wiki": "Iron Man 3",
 			"characters": [
 				"Iron Man",
+				"War Machine",
 				"Pepper Potts",
 				"Happy Hogan",
 				"J.A.R.V.I.S.",
@@ -497,11 +499,11 @@
 				"Senator Stern",
 				"Jasper Sitwell",
 				"Captain America",
+				"Winter Soldier",
 				"Peggy Carter",
 				"Maria Hill",
 				"Hawley",
 				"Falcon",
-				"Winter Soldier",
 				"Cameron Klein",
 				"Baron Wolfgang von Strucker",
 				"Dr. List"
@@ -568,9 +570,9 @@
 				"Howard Stark",
 				"Stan Lee",
 				"Captain America",
+				"Winter Soldier",
 				"Peggy Carter",
 				"Falcon",
-				"Winter Soldier",
 				"Ant-Man"
 			],
 			"series": "Ant-Man",
@@ -588,8 +590,8 @@
 				"Black Widow",
 				"Hawkeye",
 				"Captain America",
-				"Falcon",
 				"Winter Soldier",
+				"Falcon",
 				"Scarlet Witch",
 				"Vision",
 				"F.R.I.D.A.Y.",
