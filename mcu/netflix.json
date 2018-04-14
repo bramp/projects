@@ -92,7 +92,7 @@
 		},
 		{
 			"name": "Jessica Jones",
-			"films": 3,
+			"films": 4,
 			"series": 2,
 			"mainseries": "Jessica Jones"
 		},
@@ -128,7 +128,7 @@
 		},
 		{
 			"name": "Malcolm Ducasse",
-			"films": 3,
+			"films": 4,
 			"series": 2,
 			"mainseries": "Jessica Jones"
 		},
@@ -200,7 +200,7 @@
 		},
 		{
 			"name": "Trish Walker",
-			"films": 4,
+			"films": 5,
 			"series": 3,
 			"mainseries": "Jessica Jones"
 		},
@@ -439,6 +439,18 @@
 			"series": "The Punisher",
 			"season": 2,
 			"released": "2018-99-03"
+		},
+		{
+			"name": "Jessica Jones (Season 3)",
+			"wiki": "Jessica Jones (Netflix series)",
+			"characters": [
+				"Jessica Jones",
+				"Trish Walker",
+				"Malcolm Ducasse"
+			],
+			"series": "Jessica Jones",
+			"season": 3,
+			"released": "2018-99-04"
 		}
 	]
 }

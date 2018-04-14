@@ -8,7 +8,7 @@
 		},
 		{
 			"name": "Absorbing Man",
-			"films": 2,
+			"films": 3,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
@@ -175,6 +175,12 @@
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
 		{
+			"name": "The Superior",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
+		},
+		{
 			"name": "Timothy \"Dum Dum\" Dugan",
 			"films": 2,
 			"series": 2,
@@ -311,7 +317,8 @@
 				"Daisy Johnson",
 				"Alphonso \"Mack\" Mackenzie",
 				"Yo-Yo",
-				"AIDA"
+				"AIDA",
+				"The Superior"
 			],
 			"series": "Agents of S.H.I.E.L.D.",
 			"season": 4,
@@ -336,7 +343,9 @@
 				"Daisy Johnson",
 				"Lance Hunter",
 				"Alphonso \"Mack\" Mackenzie",
-				"Yo-Yo"
+				"Absorbing Man",
+				"Yo-Yo",
+				"The Superior"
 			],
 			"series": "Agents of S.H.I.E.L.D.",
 			"season": 5,

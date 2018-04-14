@@ -38,6 +38,7 @@ EXTRA = {
     'Daredevil (Season 3)' : {'released': '2018-99-01'},    # unknown released date
     'Iron Fist (Season 2)' : {'released': '2018-99-02'},    # unknown released date
     'The Punisher (Season 2)' : {'released': '2018-99-03'}, # unknown released date
+    'Jessica Jones (Season 3)' : {'released': '2018-99-04'}, # unknown released date
 
     # ABC
     'Agents of S.H.I.E.L.D. (Season 1)' : {'released': '2013-09-24'},
