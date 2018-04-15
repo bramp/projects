@@ -68,9 +68,9 @@
 		},
 		{
 			"name": "Erik Selvig",
-			"films": 3,
+			"films": 4,
 			"series": 2,
-			"mainseries": "Avengers"
+			"mainseries": "Thor"
 		},
 		{
 			"name": "Everett Ross",
@@ -229,6 +229,12 @@
 			"mainseries": "Iron Man"
 		},
 		{
+			"name": "Quicksilver",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Avengers"
+		},
+		{
 			"name": "Ramonda",
 			"films": 2,
 			"series": 2,
@@ -242,7 +248,7 @@
 		},
 		{
 			"name": "Scarlet Witch",
-			"films": 3,
+			"films": 4,
 			"series": 2,
 			"mainseries": "Avengers"
 		},
@@ -403,6 +409,7 @@
 				"Stan Lee",
 				"Thor",
 				"Loki",
+				"Erik Selvig",
 				"Heimdall",
 				"Jasper Sitwell",
 				"Hawkeye"
@@ -440,11 +447,11 @@
 				"Black Widow",
 				"Thor",
 				"Loki",
+				"Erik Selvig",
 				"Jasper Sitwell",
 				"Hawkeye",
 				"Captain America",
 				"Maria Hill",
-				"Erik Selvig",
 				"The Other",
 				"Hawley",
 				"Pat Kiernan",
@@ -479,9 +486,9 @@
 				"Stan Lee",
 				"Thor",
 				"Loki",
+				"Erik Selvig",
 				"Heimdall",
 				"Captain America",
-				"Erik Selvig",
 				"The Collector",
 				"Carina"
 			],
@@ -506,6 +513,8 @@
 				"Falcon",
 				"Cameron Klein",
 				"Baron Wolfgang von Strucker",
+				"Scarlet Witch",
+				"Quicksilver",
 				"Dr. List"
 			],
 			"series": "Captain America",
@@ -543,18 +552,19 @@
 				"Hulk",
 				"Black Widow",
 				"Thor",
+				"Erik Selvig",
 				"Heimdall",
 				"Hawkeye",
 				"Captain America",
 				"Peggy Carter",
 				"Maria Hill",
-				"Erik Selvig",
 				"Thanos",
 				"Falcon",
 				"Cameron Klein",
 				"Baron Wolfgang von Strucker",
-				"Dr. List",
 				"Scarlet Witch",
+				"Quicksilver",
+				"Dr. List",
 				"Vision",
 				"Ulysses Klaue",
 				"F.R.I.D.A.Y."
@@ -710,13 +720,13 @@
 				"Thanos",
 				"The Collector",
 				"Falcon",
+				"Scarlet Witch",
 				"Star-Lord",
 				"Drax",
 				"Groot",
 				"Rocket",
 				"Gamora",
 				"Nebula",
-				"Scarlet Witch",
 				"Vision",
 				"Ant-Man",
 				"Black Panther",

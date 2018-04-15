@@ -31,6 +31,9 @@ CHARACTER_RENAMES = {
     'Drax the Destroyer': 'Drax',
     'The Hulk': 'Hulk',
     'Bucky Barnes': 'Winter Soldier',
+    'Professor Erik Selvig': 'Erik Selvig',
+    'Wanda Maximoff': 'Scarlet Witch',
+    'Pietro Maximoff': 'Quicksilver',
 
     # Shield
     'Quake': 'Daisy Johnson',
@@ -49,6 +52,8 @@ MAINSERIES_RENAME = {
     'Ayo': 'Black Panther',
     'T\'Chaka': 'Black Panther',
     'Vision': 'Avengers',
+    'Scarlet Witch': 'Avengers',
+    'Quicksilver': 'Avengers',
     'Ant-Man':  'Ant-Man',
     'Hulk': 'Hulk',
     'The Collector': 'Guardians of the Galaxy',
