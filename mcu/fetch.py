@@ -34,6 +34,7 @@ CHARACTER_RENAMES = {
     'Professor Erik Selvig': 'Erik Selvig',
     'Wanda Maximoff': 'Scarlet Witch',
     'Pietro Maximoff': 'Quicksilver',
+    'Thaddeus "Thunderbolt" Ross': 'Thaddeus Ross',
 
     # Shield
     'Quake': 'Daisy Johnson',
@@ -252,7 +253,7 @@ def tryInt(s):
     try:
         int(s)
         return True
-    except:
+    except ValueError:
         return False
 
 def get(d, keys):
