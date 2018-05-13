@@ -2,14 +2,14 @@
 	"characters": [
 		{
 			"name": "Ant-Man",
-			"films": 3,
-			"series": 3,
+			"films": 2,
+			"series": 2,
 			"mainseries": "Ant-Man"
 		},
 		{
 			"name": "Ayo",
-			"films": 2,
-			"series": 2,
+			"films": 3,
+			"series": 3,
 			"mainseries": "Black Panther"
 		},
 		{
@@ -49,6 +49,12 @@
 			"mainseries": "Guardians of the Galaxy"
 		},
 		{
+			"name": "Cindy Moon",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Spider-Man"
+		},
+		{
 			"name": "Doctor Strange",
 			"films": 3,
 			"series": 3,
@@ -80,7 +86,7 @@
 		},
 		{
 			"name": "F.R.I.D.A.Y.",
-			"films": 2,
+			"films": 3,
 			"series": 2,
 			"mainseries": "Iron Man"
 		},
@@ -110,13 +116,13 @@
 		},
 		{
 			"name": "Happy Hogan",
-			"films": 5,
-			"series": 3,
+			"films": 4,
+			"series": 2,
 			"mainseries": "Iron Man"
 		},
 		{
 			"name": "Hawkeye",
-			"films": 5,
+			"films": 4,
 			"series": 3,
 			"mainseries": "Avengers"
 		},
@@ -169,6 +175,12 @@
 			"mainseries": "Thor"
 		},
 		{
+			"name": "M'Baku",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Black Panther"
+		},
+		{
 			"name": "Mantis",
 			"films": 2,
 			"series": 2,
@@ -193,10 +205,16 @@
 			"mainseries": "Guardians of the Galaxy"
 		},
 		{
+			"name": "Ned Leeds",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Spider-Man"
+		},
+		{
 			"name": "Nick Fury",
-			"films": 7,
+			"films": 8,
 			"series": 4,
-			"mainseries": "Iron Man"
+			"mainseries": "Avengers"
 		},
 		{
 			"name": "Okoye",
@@ -235,16 +253,22 @@
 			"mainseries": "Avengers"
 		},
 		{
-			"name": "Ramonda",
+			"name": "Red Skull",
 			"films": 2,
 			"series": 2,
-			"mainseries": "Black Panther"
+			"mainseries": "Captain America"
 		},
 		{
 			"name": "Rocket",
 			"films": 3,
 			"series": 2,
 			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Sally Avril",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Spider-Man"
 		},
 		{
 			"name": "Scarlet Witch",
@@ -289,6 +313,12 @@
 			"mainseries": "Black Panther"
 		},
 		{
+			"name": "Thaddeus Ross",
+			"films": 3,
+			"series": 3,
+			"mainseries": "Hulk"
+		},
+		{
 			"name": "Thanos",
 			"films": 4,
 			"series": 2,
@@ -317,6 +347,12 @@
 			"films": 7,
 			"series": 3,
 			"mainseries": "Thor"
+		},
+		{
+			"name": "Tiny McKeever",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Spider-Man"
 		},
 		{
 			"name": "Ulysses Klaue",
@@ -374,7 +410,8 @@
 			"characters": [
 				"Iron Man",
 				"Stan Lee",
-				"Hulk"
+				"Hulk",
+				"Thaddeus Ross"
 			],
 			"series": "Hulk",
 			"phase": 1,
@@ -426,6 +463,7 @@
 				"Howard Stark",
 				"Stan Lee",
 				"Captain America",
+				"Red Skull",
 				"Winter Soldier",
 				"Peggy Carter"
 			],
@@ -597,6 +635,7 @@
 				"War Machine",
 				"Howard Stark",
 				"Stan Lee",
+				"Thaddeus Ross",
 				"Black Widow",
 				"Hawkeye",
 				"Captain America",
@@ -659,7 +698,11 @@
 				"Stan Lee",
 				"Captain America",
 				"Spider-Man",
-				"May Parker"
+				"May Parker",
+				"Ned Leeds",
+				"Cindy Moon",
+				"Sally Avril",
+				"Tiny McKeever"
 			],
 			"series": "Spider-Man",
 			"phase": 3,
@@ -694,7 +737,7 @@
 				"Ayo",
 				"Okoye",
 				"Shuri",
-				"Ramonda"
+				"M'Baku"
 			],
 			"series": "Black Panther",
 			"phase": 3,
@@ -707,15 +750,16 @@
 				"Iron Man",
 				"War Machine",
 				"Pepper Potts",
-				"Happy Hogan",
+				"Nick Fury",
 				"Stan Lee",
 				"Hulk",
+				"Thaddeus Ross",
 				"Black Widow",
 				"Thor",
 				"Loki",
 				"Heimdall",
-				"Hawkeye",
 				"Captain America",
+				"Red Skull",
 				"Maria Hill",
 				"Thanos",
 				"The Collector",
@@ -728,15 +772,20 @@
 				"Gamora",
 				"Nebula",
 				"Vision",
-				"Ant-Man",
+				"F.R.I.D.A.Y.",
 				"Black Panther",
 				"Spider-Man",
+				"Ayo",
 				"Wong",
 				"Mantis",
+				"Ned Leeds",
+				"Cindy Moon",
+				"Sally Avril",
+				"Tiny McKeever",
 				"Doctor Strange",
 				"Okoye",
 				"Shuri",
-				"Ramonda"
+				"M'Baku"
 			],
 			"series": "Avengers",
 			"phase": 3,

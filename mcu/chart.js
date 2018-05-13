@@ -390,7 +390,7 @@ function drawCopyright(svg, narrative) {
 		.text('Marvel Cinematic Universe - Character Timeline')
 	text.append('tspan')
 		.attr('x', '0').attr('dy', '1.4em')
-		.text('By Andrew Brampton (bramp.net) - 2018-04-09');
+		.text('By Andrew Brampton (bramp.net) - 2018-05-13');
 
 	// Update
 	transition(svg.selectAll('g.copyright'))
