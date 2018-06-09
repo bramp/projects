@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Alphonso \"Mack\" Mackenzie",
-			"films": 4,
+			"films": 5,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
@@ -44,7 +44,7 @@
 		},
 		{
 			"name": "Daisy Johnson",
-			"films": 4,
+			"films": 5,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
@@ -104,7 +104,7 @@
 		},
 		{
 			"name": "Jemma Simmons",
-			"films": 5,
+			"films": 6,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
@@ -128,7 +128,7 @@
 		},
 		{
 			"name": "Melinda May",
-			"films": 5,
+			"films": 6,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
@@ -146,7 +146,7 @@
 		},
 		{
 			"name": "Phil Coulson",
-			"films": 5,
+			"films": 6,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
@@ -188,7 +188,7 @@
 		},
 		{
 			"name": "Yo-Yo",
-			"films": 3,
+			"films": 4,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		}
@@ -350,6 +350,20 @@
 			"series": "Agents of S.H.I.E.L.D.",
 			"season": 5,
 			"released": "2017-12-01"
+		},
+		{
+			"name": "Agents of S.H.I.E.L.D. (Season 6)",
+			"wiki": "Agents of S.H.I.E.L.D.",
+			"characters": [
+				"Phil Coulson",
+				"Melinda May",
+				"Jemma Simmons",
+				"Daisy Johnson",
+				"Alphonso \"Mack\" Mackenzie",
+				"Yo-Yo"
+			],
+			"series": "Agents of S.H.I.E.L.D.",
+			"season": 6
 		}
 	]
 }
