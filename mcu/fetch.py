@@ -31,6 +31,7 @@ CHARACTER_RENAMES = {
     'Drax the Destroyer': 'Drax',
     'The Hulk': 'Hulk',
     'Bucky Barnes': 'Winter Soldier',
+    'White Wolf': 'Winter Soldier',
     'Professor Erik Selvig': 'Erik Selvig',
     'Wanda Maximoff': 'Scarlet Witch',
     'Pietro Maximoff': 'Quicksilver',

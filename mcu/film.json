@@ -374,8 +374,8 @@
 		},
 		{
 			"name": "Winter Soldier",
-			"films": 5,
-			"series": 3,
+			"films": 6,
+			"series": 4,
 			"mainseries": "Captain America"
 		},
 		{
@@ -760,6 +760,7 @@
 				"Heimdall",
 				"Captain America",
 				"Red Skull",
+				"Winter Soldier",
 				"Maria Hill",
 				"Thanos",
 				"The Collector",
