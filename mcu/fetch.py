@@ -36,6 +36,7 @@ CHARACTER_RENAMES = {
     'Wanda Maximoff': 'Scarlet Witch',
     'Pietro Maximoff': 'Quicksilver',
     'Thaddeus "Thunderbolt" Ross': 'Thaddeus Ross',
+    'Hope van Dyne': 'Wasp',
 
     # Shield
     'Quake': 'Daisy Johnson',
@@ -60,6 +61,12 @@ MAINSERIES_RENAME = {
     'Hulk': 'Hulk',
     'The Collector': 'Guardians of the Galaxy',
     'Carina': 'Guardians of the Galaxy',
+    'Captain America': 'Captain America',
+    'Iron Man': 'Iron Man',
+    'Mantis': 'Guardians of the Galaxy',
+    'Spider-Man': 'Spider-Man',
+    'Shuri': 'Black Panther',
+    'Thor': 'Thor',
 }
 
 # Extra info to add to the films
