@@ -1,4 +1,4 @@
-.PHONY: all clean server
+.PHONY: all clean deps server
 
 all: film.json netflix.json abc.json
 
@@ -7,6 +7,9 @@ clean:
 
 cache:
 	mkdir cache
+
+deps:
+	pip3 install sortedcontainers
 
 server:
 	python -m SimpleHTTPServer 8000
