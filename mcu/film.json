@@ -2,8 +2,8 @@
 	"characters": [
 		{
 			"name": "Ant-Man",
-			"films": 2,
-			"series": 2,
+			"films": 4,
+			"series": 3,
 			"mainseries": "Ant-Man"
 		},
 		{
@@ -20,13 +20,13 @@
 		},
 		{
 			"name": "Black Panther",
-			"films": 3,
+			"films": 4,
 			"series": 3,
 			"mainseries": "Black Panther"
 		},
 		{
 			"name": "Black Widow",
-			"films": 6,
+			"films": 7,
 			"series": 3,
 			"mainseries": "Avengers"
 		},
@@ -38,15 +38,27 @@
 		},
 		{
 			"name": "Captain America",
-			"films": 9,
+			"films": 10,
 			"series": 5,
 			"mainseries": "Captain America"
+		},
+		{
+			"name": "Captain Marvel",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Captain Marvel"
 		},
 		{
 			"name": "Carina",
 			"films": 2,
 			"series": 2,
 			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Cassie Lang",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Ant-Man"
 		},
 		{
 			"name": "Cindy Moon",
@@ -56,7 +68,7 @@
 		},
 		{
 			"name": "Doctor Strange",
-			"films": 3,
+			"films": 4,
 			"series": 3,
 			"mainseries": "Doctor Strange"
 		},
@@ -68,7 +80,7 @@
 		},
 		{
 			"name": "Drax",
-			"films": 3,
+			"films": 4,
 			"series": 2,
 			"mainseries": "Guardians of the Galaxy"
 		},
@@ -92,13 +104,13 @@
 		},
 		{
 			"name": "Falcon",
-			"films": 5,
+			"films": 6,
 			"series": 3,
-			"mainseries": "Captain America"
+			"mainseries": "Avengers"
 		},
 		{
 			"name": "Gamora",
-			"films": 3,
+			"films": 4,
 			"series": 2,
 			"mainseries": "Guardians of the Galaxy"
 		},
@@ -110,19 +122,25 @@
 		},
 		{
 			"name": "Groot",
-			"films": 3,
+			"films": 4,
 			"series": 2,
 			"mainseries": "Guardians of the Galaxy"
 		},
 		{
 			"name": "Happy Hogan",
-			"films": 4,
+			"films": 5,
+			"series": 3,
+			"mainseries": "Iron Man"
+		},
+		{
+			"name": "Harley Keener",
+			"films": 2,
 			"series": 2,
 			"mainseries": "Iron Man"
 		},
 		{
 			"name": "Hawkeye",
-			"films": 4,
+			"films": 5,
 			"series": 3,
 			"mainseries": "Avengers"
 		},
@@ -146,13 +164,13 @@
 		},
 		{
 			"name": "Hulk",
-			"films": 5,
+			"films": 6,
 			"series": 3,
 			"mainseries": "Hulk"
 		},
 		{
 			"name": "Iron Man",
-			"films": 9,
+			"films": 10,
 			"series": 5,
 			"mainseries": "Iron Man"
 		},
@@ -169,8 +187,14 @@
 			"mainseries": "Thor"
 		},
 		{
+			"name": "Korath the Pursuer",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
 			"name": "Loki",
-			"films": 5,
+			"films": 6,
 			"series": 2,
 			"mainseries": "Thor"
 		},
@@ -182,7 +206,7 @@
 		},
 		{
 			"name": "Mantis",
-			"films": 2,
+			"films": 3,
 			"series": 2,
 			"mainseries": "Guardians of the Galaxy"
 		},
@@ -200,7 +224,7 @@
 		},
 		{
 			"name": "Nebula",
-			"films": 3,
+			"films": 4,
 			"series": 2,
 			"mainseries": "Guardians of the Galaxy"
 		},
@@ -212,8 +236,8 @@
 		},
 		{
 			"name": "Nick Fury",
-			"films": 8,
-			"series": 4,
+			"films": 10,
+			"series": 5,
 			"mainseries": "Avengers"
 		},
 		{
@@ -236,14 +260,14 @@
 		},
 		{
 			"name": "Pepper Potts",
-			"films": 6,
+			"films": 7,
 			"series": 3,
 			"mainseries": "Iron Man"
 		},
 		{
 			"name": "Phil Coulson",
-			"films": 4,
-			"series": 3,
+			"films": 5,
+			"series": 4,
 			"mainseries": "Iron Man"
 		},
 		{
@@ -260,7 +284,13 @@
 		},
 		{
 			"name": "Rocket",
-			"films": 3,
+			"films": 4,
+			"series": 2,
+			"mainseries": "Guardians of the Galaxy"
+		},
+		{
+			"name": "Ronan the Accuser",
+			"films": 2,
 			"series": 2,
 			"mainseries": "Guardians of the Galaxy"
 		},
@@ -272,7 +302,7 @@
 		},
 		{
 			"name": "Scarlet Witch",
-			"films": 4,
+			"films": 5,
 			"series": 2,
 			"mainseries": "Avengers"
 		},
@@ -284,25 +314,25 @@
 		},
 		{
 			"name": "Shuri",
-			"films": 2,
+			"films": 3,
 			"series": 2,
 			"mainseries": "Black Panther"
 		},
 		{
 			"name": "Spider-Man",
-			"films": 3,
+			"films": 4,
 			"series": 3,
 			"mainseries": "Spider-Man"
 		},
 		{
 			"name": "Stan Lee",
-			"films": 19,
-			"series": 10,
+			"films": 22,
+			"series": 11,
 			"mainseries": "Avengers"
 		},
 		{
 			"name": "Star-Lord",
-			"films": 3,
+			"films": 4,
 			"series": 2,
 			"mainseries": "Guardians of the Galaxy"
 		},
@@ -320,7 +350,7 @@
 		},
 		{
 			"name": "Thanos",
-			"films": 4,
+			"films": 5,
 			"series": 2,
 			"mainseries": "Avengers"
 		},
@@ -344,7 +374,7 @@
 		},
 		{
 			"name": "Thor",
-			"films": 7,
+			"films": 8,
 			"series": 3,
 			"mainseries": "Thor"
 		},
@@ -362,19 +392,25 @@
 		},
 		{
 			"name": "Vision",
-			"films": 3,
+			"films": 4,
 			"series": 2,
 			"mainseries": "Avengers"
 		},
 		{
 			"name": "War Machine",
-			"films": 6,
+			"films": 7,
 			"series": 3,
 			"mainseries": "Iron Man"
 		},
 		{
+			"name": "Wasp",
+			"films": 3,
+			"series": 2,
+			"mainseries": "Ant-Man"
+		},
+		{
 			"name": "Winter Soldier",
-			"films": 6,
+			"films": 7,
 			"series": 4,
 			"mainseries": "Captain America"
 		},
@@ -511,7 +547,8 @@
 				"J.A.R.V.I.S.",
 				"Stan Lee",
 				"Pat Kiernan",
-				"Thomas Roberts"
+				"Thomas Roberts",
+				"Harley Keener"
 			],
 			"series": "Iron Man",
 			"phase": 2,
@@ -573,6 +610,8 @@
 				"Groot",
 				"Rocket",
 				"Gamora",
+				"Ronan the Accuser",
+				"Korath the Pursuer",
 				"Nebula"
 			],
 			"series": "Guardians of the Galaxy",
@@ -621,7 +660,9 @@
 				"Winter Soldier",
 				"Peggy Carter",
 				"Falcon",
-				"Ant-Man"
+				"Ant-Man",
+				"Wasp",
+				"Cassie Lang"
 			],
 			"series": "Ant-Man",
 			"phase": 2,
@@ -792,6 +833,76 @@
 			"series": "Avengers",
 			"phase": 3,
 			"released": "2018-04-27"
+		},
+		{
+			"name": "Ant-Man and the Wasp",
+			"wiki": "Ant-Man and the Wasp",
+			"characters": [
+				"Stan Lee",
+				"Ant-Man",
+				"Wasp",
+				"Cassie Lang"
+			],
+			"series": "Ant-Man",
+			"phase": 3,
+			"released": "2018-07-06"
+		},
+		{
+			"name": "Captain Marvel",
+			"wiki": "Captain Marvel (film)",
+			"characters": [
+				"Phil Coulson",
+				"Nick Fury",
+				"Stan Lee",
+				"Ronan the Accuser",
+				"Korath the Pursuer",
+				"Captain Marvel"
+			],
+			"series": "Captain Marvel",
+			"phase": 3,
+			"released": "2019-03-08"
+		},
+		{
+			"name": "Avengers 4",
+			"wiki": "Avengers 4",
+			"characters": [
+				"Iron Man",
+				"War Machine",
+				"Pepper Potts",
+				"Happy Hogan",
+				"Nick Fury",
+				"Stan Lee",
+				"Hulk",
+				"Black Widow",
+				"Thor",
+				"Loki",
+				"Hawkeye",
+				"Captain America",
+				"Winter Soldier",
+				"Thanos",
+				"Harley Keener",
+				"Falcon",
+				"Scarlet Witch",
+				"Star-Lord",
+				"Drax",
+				"Groot",
+				"Rocket",
+				"Gamora",
+				"Nebula",
+				"Vision",
+				"Ant-Man",
+				"Wasp",
+				"Cassie Lang",
+				"Black Panther",
+				"Spider-Man",
+				"Mantis",
+				"Doctor Strange",
+				"Shuri",
+				"Captain Marvel"
+			],
+			"series": "Avengers",
+			"phase": 3,
+			"released": "2019-04-27"
 		}
 	]
 }
