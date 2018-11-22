@@ -727,7 +727,6 @@ return narrative;
 // This method also cleanses the data to exclude characters which appear only once
 // and scenes with fewer than two characters.
 function computeSceneCharacters() {
-
 	var appearances, finished;
 
 	// Create a map of scenes to characters (i.e. appearances).
@@ -796,7 +795,6 @@ function computeSceneCharacters() {
 	characters = [];
 	scenes = [];
 	appearances.forEach(function(appearance){
-
 		// Cross reference scenes and characters based on appearances.
 		appearance.scene.appearances.push(appearance);
 		appearance.character.appearances.push(appearance);
@@ -1100,7 +1098,6 @@ function computeAppearancePositions() {
 				appearance.x = scene._padding[3];
 			}
 		});
-
 	});
 }
 
@@ -1180,12 +1177,11 @@ function createIntroductionNodes() {
 		// Create the introduction object.
 		introduction = {
 			character: appearance.character,
-			bounds: getLabelBounds
+			bounds: getLabelBounds,
 		};
 
 		// Set the default position.
 		if (orientation === 'vertical') {
-
 			x = appearance.scene.x + appearance.x;
 			y = appearance.scene.y - 0.5 * scale;
 
@@ -1194,7 +1190,6 @@ function createIntroductionNodes() {
 			// 	x = labelSize[0];
 			// }
 		} else {
-
 			x = appearance.scene.x - 0.5 * scale;
 			y = appearance.scene.y + appearance.y;
 
@@ -1249,20 +1244,20 @@ function computeIntroductionPositions() {
 
 		// Keep moving a single introduction until it no longer collides.
 		while (true) {
-			left = introductions.filter(function(intro) {
+			left = intros.filter(function(intro) {
 				return intro.x < introduction.x;
 			});
 
 			collisions = collidesWith(introduction, left.concat(scenes));
 
 			// No need to continue if there are no collisions.
-			if (!collisions.length){
+			if (collisions.length == 0) {
 				return;
 			}
 
 			// TODO when moving below a scene, it seems to add too much padding.
 			// Select the other introductions attached to this scene, that should also be moved.
-			others = intros.slice(i).filter(function(intro) {
+			others = intros.filter(function(intro) {
 				return intro.character.appearances[0].scene == introduction.character.appearances[0].scene;
 			});
 
@@ -1310,7 +1305,7 @@ function computeIntroductionPositions() {
 				collisions.push(collidables[i]);
 			}
 		}
-		return (collisions.length) ? collisions : false;
+		return collisions;
 	}
 
 	// Check for overlap between two bounding boxes.
@@ -1324,7 +1319,6 @@ function computeIntroductionPositions() {
 			a[1][1] <= b[0][1] ||
 			b[1][1] <= a[0][1]);
 	}
-
 }
 
 // Links
@@ -1393,7 +1387,6 @@ function getLabelBounds(){
 		case('below'):
 			return [[this.x-this.width/2,this.y],[this.x+this.width/2,this.y+this.height]];
 	}
-
 }
 
 };
