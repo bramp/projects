@@ -430,6 +430,21 @@
 			"released": "2018-06-22"
 		},
 		{
+			"name": "Iron Fist (Season 2)",
+			"wiki": "Iron Fist (Netflix series)",
+			"characters": [
+				"Misty Knight",
+				"Iron Fist",
+				"Colleen Wing",
+				"Ward Meachum",
+				"Joy Meachum",
+				"Steel Serpent"
+			],
+			"series": "Iron Fist",
+			"season": 2,
+			"released": "2018-09-07"
+		},
+		{
 			"name": "Daredevil (Season 3)",
 			"wiki": "Daredevil (Netflix series)",
 			"characters": [
@@ -445,35 +460,7 @@
 			],
 			"series": "Daredevil",
 			"season": 3,
-			"released": "2018-99-01"
-		},
-		{
-			"name": "Iron Fist (Season 2)",
-			"wiki": "Iron Fist (Netflix series)",
-			"characters": [
-				"Misty Knight",
-				"Iron Fist",
-				"Colleen Wing",
-				"Ward Meachum",
-				"Joy Meachum",
-				"Steel Serpent"
-			],
-			"series": "Iron Fist",
-			"season": 2,
-			"released": "2018-99-02"
-		},
-		{
-			"name": "The Punisher (Season 2)",
-			"wiki": "The Punisher (Netflix series)",
-			"characters": [
-				"The Punisher",
-				"Micro",
-				"Billy Russo",
-				"Dinah Madani"
-			],
-			"series": "The Punisher",
-			"season": 2,
-			"released": "2018-99-03"
+			"released": "2018-10-19"
 		},
 		{
 			"name": "Jessica Jones (Season 3)",
@@ -486,6 +473,19 @@
 			"series": "Jessica Jones",
 			"season": 3,
 			"released": "2018-99-04"
+		},
+		{
+			"name": "The Punisher (Season 2)",
+			"wiki": "The Punisher (Netflix series)",
+			"characters": [
+				"The Punisher",
+				"Micro",
+				"Billy Russo",
+				"Dinah Madani"
+			],
+			"series": "The Punisher",
+			"season": 2,
+			"released": "2019-99-03"
 		}
 	]
 }
