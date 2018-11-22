@@ -117,7 +117,7 @@ function outlineText(svg) {
 function draw() {
 	// Some defaults
 	let suggestedWidth = films.length * movieWidth * 6;
-	let suggestedHeight = 800;
+	let suggestedHeight = 1600;
 
 	// Calculate the dimensions of every character label.
 	films.forEach(function(film){
