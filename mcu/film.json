@@ -86,8 +86,8 @@
 		},
 		{
 			"name": "F.R.I.D.A.Y.",
-			"films": 3,
-			"series": 2,
+			"films": 4,
+			"series": 3,
 			"mainseries": "Iron Man"
 		},
 		{
@@ -697,6 +697,7 @@
 				"Happy Hogan",
 				"Stan Lee",
 				"Captain America",
+				"F.R.I.D.A.Y.",
 				"Spider-Man",
 				"May Parker",
 				"Ned Leeds",

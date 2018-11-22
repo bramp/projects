@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Alphonso \"Mack\" Mackenzie",
-			"films": 5,
+			"films": 6,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
@@ -44,7 +44,7 @@
 		},
 		{
 			"name": "Daisy Johnson",
-			"films": 5,
+			"films": 6,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
@@ -53,6 +53,12 @@
 			"films": 2,
 			"series": 1,
 			"mainseries": "Agent Carter"
+		},
+		{
+			"name": "Deke Shaw",
+			"films": 3,
+			"series": 1,
+			"mainseries": "Agents of S.H.I.E.L.D."
 		},
 		{
 			"name": "Donnie Gill",
@@ -104,7 +110,7 @@
 		},
 		{
 			"name": "Jemma Simmons",
-			"films": 6,
+			"films": 7,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
@@ -116,7 +122,7 @@
 		},
 		{
 			"name": "Leo Fitz",
-			"films": 5,
+			"films": 7,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
@@ -128,7 +134,7 @@
 		},
 		{
 			"name": "Melinda May",
-			"films": 6,
+			"films": 7,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
@@ -146,7 +152,7 @@
 		},
 		{
 			"name": "Phil Coulson",
-			"films": 6,
+			"films": 5,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		},
@@ -188,7 +194,7 @@
 		},
 		{
 			"name": "Yo-Yo",
-			"films": 4,
+			"films": 5,
 			"series": 1,
 			"mainseries": "Agents of S.H.I.E.L.D."
 		}
@@ -345,7 +351,8 @@
 				"Alphonso \"Mack\" Mackenzie",
 				"Absorbing Man",
 				"Yo-Yo",
-				"The Superior"
+				"The Superior",
+				"Deke Shaw"
 			],
 			"series": "Agents of S.H.I.E.L.D.",
 			"season": 5,
@@ -355,15 +362,31 @@
 			"name": "Agents of S.H.I.E.L.D. (Season 6)",
 			"wiki": "Agents of S.H.I.E.L.D.",
 			"characters": [
-				"Phil Coulson",
 				"Melinda May",
+				"Leo Fitz",
 				"Jemma Simmons",
 				"Daisy Johnson",
 				"Alphonso \"Mack\" Mackenzie",
-				"Yo-Yo"
+				"Yo-Yo",
+				"Deke Shaw"
 			],
 			"series": "Agents of S.H.I.E.L.D.",
 			"season": 6
+		},
+		{
+			"name": "Agents of S.H.I.E.L.D. (Season 7)",
+			"wiki": "Agents of S.H.I.E.L.D.",
+			"characters": [
+				"Melinda May",
+				"Leo Fitz",
+				"Jemma Simmons",
+				"Daisy Johnson",
+				"Alphonso \"Mack\" Mackenzie",
+				"Yo-Yo",
+				"Deke Shaw"
+			],
+			"series": "Agents of S.H.I.E.L.D.",
+			"season": 7
 		}
 	]
 }

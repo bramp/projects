@@ -14,8 +14,14 @@
 		},
 		{
 			"name": "Blake Tower",
-			"films": 2,
+			"films": 3,
 			"series": 2,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Bobby Fish",
+			"films": 2,
+			"series": 1,
 			"mainseries": "Luke Cage"
 		},
 		{
@@ -26,14 +32,14 @@
 		},
 		{
 			"name": "Claire Temple",
-			"films": 8,
+			"films": 7,
 			"series": 5,
-			"mainseries": "Daredevil"
+			"mainseries": "Luke Cage"
 		},
 		{
 			"name": "Colleen Wing",
-			"films": 3,
-			"series": 2,
+			"films": 4,
+			"series": 3,
 			"mainseries": "Iron Fist"
 		},
 		{
@@ -61,14 +67,14 @@
 			"mainseries": "Daredevil"
 		},
 		{
-			"name": "Father Lantom",
-			"films": 2,
+			"name": "Father Paul Lantom",
+			"films": 3,
 			"series": 1,
 			"mainseries": "Daredevil"
 		},
 		{
 			"name": "Foggy Nelson",
-			"films": 4,
+			"films": 5,
 			"series": 3,
 			"mainseries": "Daredevil"
 		},
@@ -134,7 +140,7 @@
 		},
 		{
 			"name": "Marci Stahl",
-			"films": 2,
+			"films": 3,
 			"series": 1,
 			"mainseries": "Daredevil"
 		},
@@ -163,6 +169,12 @@
 			"mainseries": "Luke Cage"
 		},
 		{
+			"name": "Mitchell Ellison",
+			"films": 2,
+			"series": 1,
+			"mainseries": "Daredevil"
+		},
+		{
 			"name": "Nobu Yoshioka",
 			"films": 2,
 			"series": 1,
@@ -170,6 +182,12 @@
 		},
 		{
 			"name": "Reva Connors",
+			"films": 2,
+			"series": 2,
+			"mainseries": "Luke Cage"
+		},
+		{
+			"name": "Rosalie Carbone",
 			"films": 2,
 			"series": 2,
 			"mainseries": "Luke Cage"
@@ -188,7 +206,7 @@
 		},
 		{
 			"name": "The Kingpin",
-			"films": 3,
+			"films": 2,
 			"series": 1,
 			"mainseries": "Daredevil"
 		},
@@ -208,6 +226,12 @@
 			"name": "Turk Barrett",
 			"films": 4,
 			"series": 3,
+			"mainseries": "Daredevil"
+		},
+		{
+			"name": "Vanessa Marianna",
+			"films": 2,
+			"series": 1,
 			"mainseries": "Daredevil"
 		},
 		{
@@ -233,12 +257,13 @@
 				"Karen Page",
 				"Foggy Nelson",
 				"Claire Temple",
+				"Vanessa Marianna",
 				"Nobu Yoshioka",
 				"Madame Gao",
 				"Melvin Potter",
 				"Turk Barrett",
 				"Brett Mahoney",
-				"Father Lantom",
+				"Father Paul Lantom",
 				"Marci Stahl",
 				"Stick"
 			],
@@ -279,12 +304,13 @@
 				"Melvin Potter",
 				"Turk Barrett",
 				"Brett Mahoney",
-				"Father Lantom",
+				"Father Paul Lantom",
 				"Marci Stahl",
 				"Stick",
 				"The Punisher",
 				"Elektra Natchios",
 				"Blake Tower",
+				"Mitchell Ellison",
 				"Jeryn Hogarth"
 			],
 			"series": "Daredevil",
@@ -303,7 +329,8 @@
 				"Reva Connors",
 				"Misty Knight",
 				"Hernan \"Shades\" Alvarez",
-				"Mariah Dillard"
+				"Mariah Dillard",
+				"Bobby Fish"
 			],
 			"series": "Luke Cage",
 			"season": 1,
@@ -389,11 +416,14 @@
 			"wiki": "Luke Cage (Netflix series)",
 			"characters": [
 				"Claire Temple",
+				"Rosalie Carbone",
 				"Luke Cage",
 				"Misty Knight",
 				"Hernan \"Shades\" Alvarez",
 				"Mariah Dillard",
-				"Iron Fist"
+				"Bobby Fish",
+				"Iron Fist",
+				"Colleen Wing"
 			],
 			"series": "Luke Cage",
 			"season": 2,
@@ -404,9 +434,14 @@
 			"wiki": "Daredevil (Netflix series)",
 			"characters": [
 				"Daredevil",
-				"The Kingpin",
 				"Karen Page",
-				"Claire Temple"
+				"Foggy Nelson",
+				"Vanessa Marianna",
+				"Father Paul Lantom",
+				"Marci Stahl",
+				"Blake Tower",
+				"Mitchell Ellison",
+				"Rosalie Carbone"
 			],
 			"series": "Daredevil",
 			"season": 3,
