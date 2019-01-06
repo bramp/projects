@@ -110,7 +110,7 @@
 		},
 		{
 			"name": "Karen Page",
-			"films": 5,
+			"films": 6,
 			"series": 3,
 			"mainseries": "Daredevil"
 		},
@@ -478,6 +478,7 @@
 			"name": "The Punisher (Season 2)",
 			"wiki": "The Punisher (Netflix series)",
 			"characters": [
+				"Karen Page",
 				"The Punisher",
 				"Micro",
 				"Billy Russo",
